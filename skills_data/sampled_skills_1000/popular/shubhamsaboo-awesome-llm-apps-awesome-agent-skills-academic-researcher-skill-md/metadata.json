@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 96,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 96,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-academic-researcher-skill-md",
+    "name": "academic-researcher",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/academic-researcher",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-academic-researcher-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Academic research assistant for literature reviews, paper analysis, and scholarly writing.\nUse when: reviewing academic papers, conducting literature reviews, writing research summaries,\nanalyzing methodologies, formatting citations, or when user mentions academic research, scholarly\nwriting, papers, or scientific literature."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/academic-researcher",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/academic-researcher"
+  }
+}

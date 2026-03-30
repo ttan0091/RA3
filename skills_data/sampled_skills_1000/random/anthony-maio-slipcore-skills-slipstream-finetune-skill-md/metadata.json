@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 709,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 709,
+    "id": "anthony-maio-slipcore-skills-slipstream-finetune-skill-md",
+    "name": "slipstream-finetune",
+    "author": "anthony-maio",
+    "stars": 1,
+    "githubUrl": "https://github.com/anthony-maio/slipcore/tree/master/skills/slipstream-finetune",
+    "skillUrl": "https://skillsmp.com/skills/anthony-maio-slipcore-skills-slipstream-finetune-skill-md",
+    "updatedAt": 1766660342,
+    "description": "Finetune LLMs to speak Slipstream natively - complete guide with GLM-4-9B"
+  },
+  "github": {
+    "owner": "anthony-maio",
+    "repo": "slipcore",
+    "ref": "master",
+    "relativePath": "skills/slipstream-finetune",
+    "sourceUrl": "https://github.com/anthony-maio/slipcore/tree/master/skills/slipstream-finetune"
+  }
+}

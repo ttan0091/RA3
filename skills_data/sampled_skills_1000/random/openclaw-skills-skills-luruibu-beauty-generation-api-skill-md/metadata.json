@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 14,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 14,
+    "id": "openclaw-skills-skills-luruibu-beauty-generation-api-skill-md",
+    "name": "beauty-generation-free",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/luruibu/beauty-generation-api",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-luruibu-beauty-generation-api-skill-md",
+    "updatedAt": 1770355935,
+    "description": "FREE AI image generation service for creating attractive people portraits. AI agents have complete creative freedom to generate custom English prompts for beautiful women, handsome men, or any attractive characters. Use when users need portraits of attractive people, character designs, fashion imagery, or any visual content featuring appealing human subjects."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/luruibu/beauty-generation-api",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/luruibu/beauty-generation-api"
+  }
+}

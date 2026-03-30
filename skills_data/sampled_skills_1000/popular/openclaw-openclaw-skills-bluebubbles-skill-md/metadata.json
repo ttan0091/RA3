@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 19,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 19,
+    "id": "openclaw-openclaw-skills-bluebubbles-skill-md",
+    "name": "bluebubbles",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/bluebubbles",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-bluebubbles-skill-md",
+    "updatedAt": 1770170814,
+    "description": "Use when you need to send or manage iMessages via BlueBubbles (recommended iMessage integration). Calls go through the generic message tool with channel=\"bluebubbles\"."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/bluebubbles",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/bluebubbles"
+  }
+}

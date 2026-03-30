@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 611,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 611,
+    "id": "bitplanet-l1-agent-skills-human-agent-collaboration-skill-md",
+    "name": "human-agent-collaboration",
+    "author": "Bitplanet-L1",
+    "stars": 0,
+    "githubUrl": "https://github.com/Bitplanet-L1/agent-skills/tree/main/human-agent-collaboration",
+    "skillUrl": "https://skillsmp.com/skills/bitplanet-l1-agent-skills-human-agent-collaboration-skill-md",
+    "updatedAt": 1769997252,
+    "description": "Extract insights for HUMANS on how to work effectively with AI agents. Analyzes interaction patterns to produce guides on what works, what doesn't, and how to set agents up for success. Use when asked \"how do I work better with agents\", \"what have we learned about collaboration\", or to produce human-readable documentation about agent interaction patterns."
+  },
+  "github": {
+    "owner": "Bitplanet-L1",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "human-agent-collaboration",
+    "sourceUrl": "https://github.com/Bitplanet-L1/agent-skills/tree/main/human-agent-collaboration"
+  }
+}

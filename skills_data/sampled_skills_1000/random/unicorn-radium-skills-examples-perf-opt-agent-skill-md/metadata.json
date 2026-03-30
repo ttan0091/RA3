@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 953,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 953,
+    "id": "unicorn-radium-skills-examples-perf-opt-agent-skill-md",
+    "name": "perf-opt-agent",
+    "author": "Unicorn",
+    "stars": 0,
+    "githubUrl": "https://github.com/Unicorn/Radium/tree/main/skills/examples/perf-opt-agent",
+    "skillUrl": "https://skillsmp.com/skills/unicorn-radium-skills-examples-perf-opt-agent-skill-md",
+    "updatedAt": 1767115061,
+    "description": "Optimizes code and system performance"
+  },
+  "github": {
+    "owner": "Unicorn",
+    "repo": "Radium",
+    "ref": "main",
+    "relativePath": "skills/examples/perf-opt-agent",
+    "sourceUrl": "https://github.com/Unicorn/Radium/tree/main/skills/examples/perf-opt-agent"
+  }
+}

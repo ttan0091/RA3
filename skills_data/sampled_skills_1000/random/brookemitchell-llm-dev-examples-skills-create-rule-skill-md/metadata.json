@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 528,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 528,
+    "id": "brookemitchell-llm-dev-examples-skills-create-rule-skill-md",
+    "name": "create-rule",
+    "author": "brookemitchell",
+    "stars": 2,
+    "githubUrl": "https://github.com/brookemitchell/llm-dev-examples/tree/main/skills/create-rule",
+    "skillUrl": "https://skillsmp.com/skills/brookemitchell-llm-dev-examples-skills-create-rule-skill-md",
+    "updatedAt": 1769046703,
+    "description": "Create Cursor rules for persistent AI guidance. Use when the user wants to create a rule, add coding standards, set up project conventions, configure file-specific patterns, create RULE.md files, or asks about .cursor/rules/ or AGENTS.md."
+  },
+  "github": {
+    "owner": "brookemitchell",
+    "repo": "llm-dev-examples",
+    "ref": "main",
+    "relativePath": "skills/create-rule",
+    "sourceUrl": "https://github.com/brookemitchell/llm-dev-examples/tree/main/skills/create-rule"
+  }
+}

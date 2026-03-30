@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 73,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 73,
+    "id": "langgenius-dify-agents-skills-frontend-testing-skill-md",
+    "name": "frontend-testing",
+    "author": "langgenius",
+    "stars": 129325,
+    "githubUrl": "https://github.com/langgenius/dify/tree/main/.agents/skills/frontend-testing",
+    "skillUrl": "https://skillsmp.com/skills/langgenius-dify-agents-skills-frontend-testing-skill-md",
+    "updatedAt": 1769680690,
+    "description": "Generate Vitest + React Testing Library tests for Dify frontend components, hooks, and utilities. Triggers on testing, spec files, coverage, Vitest, RTL, unit tests, integration tests, or write/review test requests."
+  },
+  "github": {
+    "owner": "langgenius",
+    "repo": "dify",
+    "ref": "main",
+    "relativePath": ".agents/skills/frontend-testing",
+    "sourceUrl": "https://github.com/langgenius/dify/tree/main/.agents/skills/frontend-testing"
+  }
+}

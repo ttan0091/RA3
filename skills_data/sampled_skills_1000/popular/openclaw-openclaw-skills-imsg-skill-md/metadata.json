@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 32,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 32,
+    "id": "openclaw-openclaw-skills-imsg-skill-md",
+    "name": "imsg",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/imsg",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-imsg-skill-md",
+    "updatedAt": 1770170814,
+    "description": "iMessage/SMS CLI for listing chats, history, watch, and sending."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/imsg",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/imsg"
+  }
+}

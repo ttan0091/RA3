@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 173,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 173,
+    "id": "ekkos-technologies-inc-ekkos-connect-templates-skills-permissions-skill-md",
+    "name": "permissions",
+    "author": "Ekkos-Technologies-Inc",
+    "stars": 2,
+    "githubUrl": "https://github.com/Ekkos-Technologies-Inc/ekkos-connect/tree/main/templates/skills/permissions",
+    "skillUrl": "https://skillsmp.com/skills/ekkos-technologies-inc-ekkos-connect-templates-skills-permissions-skill-md",
+    "updatedAt": 1768730915,
+    "description": "Manage ekkOS tool permissions. View, grant, or revoke permissions for proactive tool execution. Use when user types \"/permissions\" or wants to configure what ekkOS can do automatically."
+  },
+  "github": {
+    "owner": "Ekkos-Technologies-Inc",
+    "repo": "ekkos-connect",
+    "ref": "main",
+    "relativePath": "templates/skills/permissions",
+    "sourceUrl": "https://github.com/Ekkos-Technologies-Inc/ekkos-connect/tree/main/templates/skills/permissions"
+  }
+}

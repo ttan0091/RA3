@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 955,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 955,
+    "id": "duclm1x1-dive-ai-skills-library-clawdbot-tools-migrator-skill-md",
+    "name": "migrator",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/clawdbot_tools/migrator",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-clawdbot-tools-migrator-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Securely migrate OpenClaw Agent (config, memory, skills) to a new machine."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/clawdbot_tools/migrator",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/clawdbot_tools/migrator"
+  }
+}

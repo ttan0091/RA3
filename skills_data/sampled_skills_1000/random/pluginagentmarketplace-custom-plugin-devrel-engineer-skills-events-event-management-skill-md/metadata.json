@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 2,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 2,
+    "id": "pluginagentmarketplace-custom-plugin-devrel-engineer-skills-events-event-management-skill-md",
+    "name": "event-management",
+    "author": "pluginagentmarketplace",
+    "stars": 1,
+    "githubUrl": "https://github.com/pluginagentmarketplace/custom-plugin-devrel-engineer/tree/main/skills/events/event-management",
+    "skillUrl": "https://skillsmp.com/skills/pluginagentmarketplace-custom-plugin-devrel-engineer-skills-events-event-management-skill-md",
+    "updatedAt": 1767614128,
+    "description": "Planning, promoting, and executing developer events from meetups to conferences"
+  },
+  "github": {
+    "owner": "pluginagentmarketplace",
+    "repo": "custom-plugin-devrel-engineer",
+    "ref": "main",
+    "relativePath": "skills/events/event-management",
+    "sourceUrl": "https://github.com/pluginagentmarketplace/custom-plugin-devrel-engineer/tree/main/skills/events/event-management"
+  }
+}

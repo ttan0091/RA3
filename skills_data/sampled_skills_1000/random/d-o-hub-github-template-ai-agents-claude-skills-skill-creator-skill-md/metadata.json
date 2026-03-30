@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 434,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 434,
+    "id": "d-o-hub-github-template-ai-agents-claude-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "d-o-hub",
+    "stars": 1,
+    "githubUrl": "https://github.com/d-o-hub/github-template-ai-agents/tree/main/.claude/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/d-o-hub-github-template-ai-agents-claude-skills-skill-creator-skill-md",
+    "updatedAt": 1766234555,
+    "description": "Create new Claude Code skills with proper directory structure, SKILL.md file, and YAML frontmatter. Use this skill when you need to create a new reusable knowledge module for Claude Code."
+  },
+  "github": {
+    "owner": "d-o-hub",
+    "repo": "github-template-ai-agents",
+    "ref": "main",
+    "relativePath": ".claude/skills/skill-creator",
+    "sourceUrl": "https://github.com/d-o-hub/github-template-ai-agents/tree/main/.claude/skills/skill-creator"
+  }
+}

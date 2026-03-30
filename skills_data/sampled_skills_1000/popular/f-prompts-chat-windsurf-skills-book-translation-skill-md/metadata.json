@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 68,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 68,
+    "id": "f-prompts-chat-windsurf-skills-book-translation-skill-md",
+    "name": "book-translation",
+    "author": "f",
+    "stars": 145000,
+    "githubUrl": "https://github.com/f/prompts.chat/tree/main/.windsurf/skills/book-translation",
+    "skillUrl": "https://skillsmp.com/skills/f-prompts-chat-windsurf-skills-book-translation-skill-md",
+    "updatedAt": 1769806982,
+    "description": "Translate \"The Interactive Book of Prompting\" chapters and UI strings to a new language"
+  },
+  "github": {
+    "owner": "f",
+    "repo": "prompts.chat",
+    "ref": "main",
+    "relativePath": ".windsurf/skills/book-translation",
+    "sourceUrl": "https://github.com/f/prompts.chat/tree/main/.windsurf/skills/book-translation"
+  }
+}

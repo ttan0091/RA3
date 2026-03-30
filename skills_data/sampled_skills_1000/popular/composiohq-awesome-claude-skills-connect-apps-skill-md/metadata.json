@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 323,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 323,
+    "id": "composiohq-awesome-claude-skills-connect-apps-skill-md",
+    "name": "connect-apps",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/connect-apps",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-connect-apps-skill-md",
+    "updatedAt": 1768203099,
+    "description": "Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions in external services."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "connect-apps",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/connect-apps"
+  }
+}

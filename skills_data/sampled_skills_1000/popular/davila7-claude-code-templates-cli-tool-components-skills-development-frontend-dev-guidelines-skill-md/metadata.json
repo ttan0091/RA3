@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 871,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 871,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-frontend-dev-guidelines-skill-md",
+    "name": "frontend-dev-guidelines",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/frontend-dev-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-frontend-dev-guidelines-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Frontend development guidelines for React/TypeScript applications. Modern patterns including Suspense, lazy loading, useSuspenseQuery, file organization with features directory, MUI v7 styling, TanStack Router, performance optimization, and TypeScript best practices. Use when creating components, pages, features, fetching data, styling, routing, or working with frontend code."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/frontend-dev-guidelines",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/frontend-dev-guidelines"
+  }
+}

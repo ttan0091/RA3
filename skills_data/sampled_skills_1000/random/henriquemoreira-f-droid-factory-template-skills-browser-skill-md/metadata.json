@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 164,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 164,
+    "id": "henriquemoreira-f-droid-factory-template-skills-browser-skill-md",
+    "name": "browser",
+    "author": "HenriqueMoreira-f",
+    "stars": 1,
+    "githubUrl": "https://github.com/HenriqueMoreira-f/droid-factory-template/tree/main/skills/browser",
+    "skillUrl": "https://skillsmp.com/skills/henriquemoreira-f-droid-factory-template-skills-browser-skill-md",
+    "updatedAt": 1767149463,
+    "description": "Minimal Chrome DevTools Protocol tools for browser automation and scraping. Use when you need to start Chrome, navigate pages, execute JavaScript, take screenshots, or interactively pick DOM elements."
+  },
+  "github": {
+    "owner": "HenriqueMoreira-f",
+    "repo": "droid-factory-template",
+    "ref": "main",
+    "relativePath": "skills/browser",
+    "sourceUrl": "https://github.com/HenriqueMoreira-f/droid-factory-template/tree/main/skills/browser"
+  }
+}

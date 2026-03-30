@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 932,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 932,
+    "id": "davidromeo-tradeblocks-packages-agent-skills-tradeblocks-health-check-skill-md",
+    "name": "tradeblocks-health-check",
+    "author": "davidromeo",
+    "stars": 31,
+    "githubUrl": "https://github.com/davidromeo/tradeblocks/tree/master/packages/agent-skills/tradeblocks-health-check",
+    "skillUrl": "https://skillsmp.com/skills/davidromeo-tradeblocks-packages-agent-skills-tradeblocks-health-check-skill-md",
+    "updatedAt": 1768915860,
+    "description": "Strategy health check for trading backtests. Analyzes performance metrics, runs stress tests, and surfaces risk indicators. Use when evaluating a strategy's historical performance and stress characteristics."
+  },
+  "github": {
+    "owner": "davidromeo",
+    "repo": "tradeblocks",
+    "ref": "master",
+    "relativePath": "packages/agent-skills/tradeblocks-health-check",
+    "sourceUrl": "https://github.com/davidromeo/tradeblocks/tree/master/packages/agent-skills/tradeblocks-health-check"
+  }
+}

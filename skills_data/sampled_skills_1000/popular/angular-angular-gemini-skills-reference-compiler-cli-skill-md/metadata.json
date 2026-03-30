@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 77,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 77,
+    "id": "angular-angular-gemini-skills-reference-compiler-cli-skill-md",
+    "name": "reference-compiler-cli",
+    "author": "angular",
+    "stars": 99821,
+    "githubUrl": "https://github.com/angular/angular/tree/main/.gemini/skills/reference-compiler-cli",
+    "skillUrl": "https://skillsmp.com/skills/angular-angular-gemini-skills-reference-compiler-cli-skill-md",
+    "updatedAt": 1770668055,
+    "description": "Explains the mental model and architecture of the code under `packages/compiler-cli`. You MUST use this skill any time you plan to work with code in `packages/compiler-cli`"
+  },
+  "github": {
+    "owner": "angular",
+    "repo": "angular",
+    "ref": "main",
+    "relativePath": ".gemini/skills/reference-compiler-cli",
+    "sourceUrl": "https://github.com/angular/angular/tree/main/.gemini/skills/reference-compiler-cli"
+  }
+}

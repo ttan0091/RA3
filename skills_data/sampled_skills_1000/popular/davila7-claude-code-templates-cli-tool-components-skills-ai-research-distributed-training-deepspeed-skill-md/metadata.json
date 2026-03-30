@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 650,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 650,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-deepspeed-skill-md",
+    "name": "deepspeed",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-deepspeed",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-deepspeed-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Expert guidance for distributed training with DeepSpeed - ZeRO optimization stages, pipeline parallelism, FP16/BF16/FP8, 1-bit Adam, sparse attention"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/distributed-training-deepspeed",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-deepspeed"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 866,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 866,
+    "id": "groeimetai-snow-flow-packages-opencode-src-bundled-skills-csm-patterns-skill-md",
+    "name": "csm-patterns",
+    "author": "groeimetai",
+    "stars": 45,
+    "githubUrl": "https://github.com/groeimetai/snow-flow/tree/main/packages/opencode/src/bundled-skills/csm-patterns",
+    "skillUrl": "https://skillsmp.com/skills/groeimetai-snow-flow-packages-opencode-src-bundled-skills-csm-patterns-skill-md",
+    "updatedAt": 1769585327,
+    "description": "This skill should be used when the user asks to \"customer service\", \"CSM\", \"case\", \"account\", \"contact\", \"customer portal\", \"entitlement\", \"service contract\", or any ServiceNow Customer Service Management development."
+  },
+  "github": {
+    "owner": "groeimetai",
+    "repo": "snow-flow",
+    "ref": "main",
+    "relativePath": "packages/opencode/src/bundled-skills/csm-patterns",
+    "sourceUrl": "https://github.com/groeimetai/snow-flow/tree/main/packages/opencode/src/bundled-skills/csm-patterns"
+  }
+}

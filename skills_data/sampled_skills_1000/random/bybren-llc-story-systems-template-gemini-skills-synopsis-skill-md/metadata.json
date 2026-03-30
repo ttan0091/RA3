@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 852,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 852,
+    "id": "bybren-llc-story-systems-template-gemini-skills-synopsis-skill-md",
+    "name": "synopsis",
+    "author": "bybren-llc",
+    "stars": 14,
+    "githubUrl": "https://github.com/bybren-llc/story-systems-template/tree/main/.gemini/skills/synopsis",
+    "skillUrl": "https://skillsmp.com/skills/bybren-llc-story-systems-template-gemini-skills-synopsis-skill-md",
+    "updatedAt": 1768929882,
+    "description": "This skill provides one-page synopsis writing techniques for screenplays.\nCovers the five requirements of a good synopsis, synopsis vs treatment\ncomparison, and formatting for submission to producers and executives.\n\nUse when: preparing submission materials, creating one-page story summaries,\npitching to producers or executives, or condensing screenplay for coverage."
+  },
+  "github": {
+    "owner": "bybren-llc",
+    "repo": "story-systems-template",
+    "ref": "main",
+    "relativePath": ".gemini/skills/synopsis",
+    "sourceUrl": "https://github.com/bybren-llc/story-systems-template/tree/main/.gemini/skills/synopsis"
+  }
+}

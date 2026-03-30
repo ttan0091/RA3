@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 171,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 171,
+    "id": "qenex-ai-devops-plugin-skills-serverless-architecture-skill-md",
+    "name": "serverless-architecture",
+    "author": "qenex-ai",
+    "stars": 0,
+    "githubUrl": "https://github.com/qenex-ai/devops-plugin/tree/main/skills/serverless-architecture",
+    "skillUrl": "https://skillsmp.com/skills/qenex-ai-devops-plugin-skills-serverless-architecture-skill-md",
+    "updatedAt": 1769323223,
+    "description": "This skill should be used when the user asks to \"serverless, Lambda function, Azure Functions, Cloud Functions, serverless patterns, FaaS, event-driven architecture, cold start optimization\", or needs help with Lambda, Functions, serverless patterns, and event-driven systems."
+  },
+  "github": {
+    "owner": "qenex-ai",
+    "repo": "devops-plugin",
+    "ref": "main",
+    "relativePath": "skills/serverless-architecture",
+    "sourceUrl": "https://github.com/qenex-ai/devops-plugin/tree/main/skills/serverless-architecture"
+  }
+}

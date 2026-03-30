@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 356,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 356,
+    "id": "team-telnyx-telnyx-ext-agent-skills-telnyx-java-skills-telnyx-verify-java-skill-md",
+    "name": "telnyx-verify-java",
+    "author": "team-telnyx",
+    "stars": 9,
+    "githubUrl": "https://github.com/team-telnyx/telnyx-ext-agent-skills/tree/main/telnyx-java/skills/telnyx-verify-java",
+    "skillUrl": "https://skillsmp.com/skills/team-telnyx-telnyx-ext-agent-skills-telnyx-java-skills-telnyx-verify-java-skill-md",
+    "updatedAt": 1770645062,
+    "description": "Look up phone number information (carrier, type, caller name) and verify users via SMS/voice OTP. Use for phone verification and data enrichment. This skill provides Java SDK examples."
+  },
+  "github": {
+    "owner": "team-telnyx",
+    "repo": "telnyx-ext-agent-skills",
+    "ref": "main",
+    "relativePath": "telnyx-java/skills/telnyx-verify-java",
+    "sourceUrl": "https://github.com/team-telnyx/telnyx-ext-agent-skills/tree/main/telnyx-java/skills/telnyx-verify-java"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 998,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 998,
+    "id": "drbscl-dream-team-skills-assemble-plugins-skill-md",
+    "name": "assemble-plugins",
+    "author": "drbscl",
+    "stars": 6,
+    "githubUrl": "https://github.com/drbscl/dream-team/tree/trunk/skills/assemble-plugins",
+    "skillUrl": "https://skillsmp.com/skills/drbscl-dream-team-skills-assemble-plugins-skill-md",
+    "updatedAt": 1770324986,
+    "description": "Search the official Claude Code marketplace (claude-plugins-official) for plugins matching capability gaps. Uses plugin CLI to list and search, presents top 5 matches for user approval."
+  },
+  "github": {
+    "owner": "drbscl",
+    "repo": "dream-team",
+    "ref": "trunk",
+    "relativePath": "skills/assemble-plugins",
+    "sourceUrl": "https://github.com/drbscl/dream-team/tree/trunk/skills/assemble-plugins"
+  }
+}

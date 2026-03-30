@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 234,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 234,
+    "id": "erikdrouhard-skills-workshop-claude-skills-carlton-subject-skill-md",
+    "name": "carlton-subject",
+    "author": "erikdrouhard",
+    "stars": 0,
+    "githubUrl": "https://github.com/erikdrouhard/skills-workshop/tree/main/.claude/skills/carlton-subject",
+    "skillUrl": "https://skillsmp.com/skills/erikdrouhard-skills-workshop-claude-skills-carlton-subject-skill-md",
+    "updatedAt": 1768859945,
+    "description": "Generates catchy Carlton-style copywriting email subject lines. Usage: /carlton-subject <description of email content or paste the email body>"
+  },
+  "github": {
+    "owner": "erikdrouhard",
+    "repo": "skills-workshop",
+    "ref": "main",
+    "relativePath": ".claude/skills/carlton-subject",
+    "sourceUrl": "https://github.com/erikdrouhard/skills-workshop/tree/main/.claude/skills/carlton-subject"
+  }
+}

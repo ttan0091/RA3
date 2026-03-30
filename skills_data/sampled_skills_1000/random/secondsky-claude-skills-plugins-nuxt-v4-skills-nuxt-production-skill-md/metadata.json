@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 298,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 298,
+    "id": "secondsky-claude-skills-plugins-nuxt-v4-skills-nuxt-production-skill-md",
+    "name": "nuxt-production",
+    "author": "secondsky",
+    "stars": 44,
+    "githubUrl": "https://github.com/secondsky/claude-skills/tree/main/plugins/nuxt-v4/skills/nuxt-production",
+    "skillUrl": "https://skillsmp.com/skills/secondsky-claude-skills-plugins-nuxt-v4-skills-nuxt-production-skill-md",
+    "updatedAt": 1766968405,
+    "description": "Nuxt 4 production optimization: hydration, performance, testing with Vitest,\ndeployment to Cloudflare/Vercel/Netlify, and v4 migration.\n\nUse when: debugging hydration mismatches, optimizing performance and Core Web Vitals,\nwriting tests with Vitest, deploying to Cloudflare Pages/Workers/Vercel/Netlify,\nor migrating from Nuxt 3 to Nuxt 4.\n\nKeywords: hydration, hydration mismatch, ClientOnly, SSR, performance,\nlazy loading, lazy hydration, Vitest, testing, deployment, Cloudflare Pages,\nCloudflare Workers, Vercel, Netlify, NuxtHub, migration, Nuxt 3 to Nuxt 4"
+  },
+  "github": {
+    "owner": "secondsky",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "plugins/nuxt-v4/skills/nuxt-production",
+    "sourceUrl": "https://github.com/secondsky/claude-skills/tree/main/plugins/nuxt-v4/skills/nuxt-production"
+  }
+}

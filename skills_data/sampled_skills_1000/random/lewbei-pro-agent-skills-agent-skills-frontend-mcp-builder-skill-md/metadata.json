@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 691,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 691,
+    "id": "lewbei-pro-agent-skills-agent-skills-frontend-mcp-builder-skill-md",
+    "name": "mcp-builder",
+    "author": "lewbei",
+    "stars": 1,
+    "githubUrl": "https://github.com/lewbei/pro-agent-skills/tree/main/.agent/skills/Frontend/mcp-builder",
+    "skillUrl": "https://skillsmp.com/skills/lewbei-pro-agent-skills-agent-skills-frontend-mcp-builder-skill-md",
+    "updatedAt": 1769159250,
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+  },
+  "github": {
+    "owner": "lewbei",
+    "repo": "pro-agent-skills",
+    "ref": "main",
+    "relativePath": ".agent/skills/Frontend/mcp-builder",
+    "sourceUrl": "https://github.com/lewbei/pro-agent-skills/tree/main/.agent/skills/Frontend/mcp-builder"
+  }
+}

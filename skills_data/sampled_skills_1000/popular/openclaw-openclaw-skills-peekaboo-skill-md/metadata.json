@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 45,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 45,
+    "id": "openclaw-openclaw-skills-peekaboo-skill-md",
+    "name": "peekaboo",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/peekaboo",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-peekaboo-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Capture and automate macOS UI with the Peekaboo CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/peekaboo",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/peekaboo"
+  }
+}

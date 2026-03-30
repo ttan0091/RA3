@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 385,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 385,
+    "id": "333-333-333-agents-skills-go-resilience-skill-md",
+    "name": "go-resilience",
+    "author": "333-333-333",
+    "stars": 0,
+    "githubUrl": "https://github.com/333-333-333/agents/tree/main/skills/go-resilience",
+    "skillUrl": "https://skillsmp.com/skills/333-333-333-agents-skills-go-resilience-skill-md",
+    "updatedAt": 1770660776,
+    "description": "Resilience patterns for Go microservices: circuit breaker, retry with backoff, timeouts, graceful degradation, and failure injection testing. Trigger: When implementing circuit breakers, adding retry logic, configuring timeouts, or testing service resilience under failure."
+  },
+  "github": {
+    "owner": "333-333-333",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "skills/go-resilience",
+    "sourceUrl": "https://github.com/333-333-333/agents/tree/main/skills/go-resilience"
+  }
+}

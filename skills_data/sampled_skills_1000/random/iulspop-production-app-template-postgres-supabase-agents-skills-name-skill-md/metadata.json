@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 325,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 325,
+    "id": "iulspop-production-app-template-postgres-supabase-agents-skills-name-skill-md",
+    "name": "name",
+    "author": "iulspop",
+    "stars": 0,
+    "githubUrl": "https://github.com/iulspop/production-app-template-postgres-supabase/tree/main/.agents/skills/name",
+    "skillUrl": "https://skillsmp.com/skills/iulspop-production-app-template-postgres-supabase-agents-skills-name-skill-md",
+    "updatedAt": 1770691102,
+    "description": "Suggests clear, descriptive names for functions and variables following consistent naming conventions. Use when naming new code constructs, renaming for clarity, or reviewing naming in code reviews."
+  },
+  "github": {
+    "owner": "iulspop",
+    "repo": "production-app-template-postgres-supabase",
+    "ref": "main",
+    "relativePath": ".agents/skills/name",
+    "sourceUrl": "https://github.com/iulspop/production-app-template-postgres-supabase/tree/main/.agents/skills/name"
+  }
+}

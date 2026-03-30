@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 370,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 370,
+    "id": "get2knowio-maverick-src-maverick-skills-maverick-python-security-skill-md",
+    "name": "maverick-python-security",
+    "author": "get2knowio",
+    "stars": 0,
+    "githubUrl": "https://github.com/get2knowio/maverick/tree/main/src/maverick/skills/maverick_python_security",
+    "skillUrl": "https://skillsmp.com/skills/get2knowio-maverick-src-maverick-skills-maverick-python-security-skill-md",
+    "updatedAt": 1767196864,
+    "description": "Python security patterns and OWASP vulnerability detection"
+  },
+  "github": {
+    "owner": "get2knowio",
+    "repo": "maverick",
+    "ref": "main",
+    "relativePath": "src/maverick/skills/maverick_python_security",
+    "sourceUrl": "https://github.com/get2knowio/maverick/tree/main/src/maverick/skills/maverick_python_security"
+  }
+}

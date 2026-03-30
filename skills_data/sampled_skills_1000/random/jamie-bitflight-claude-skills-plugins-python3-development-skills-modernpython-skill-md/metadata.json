@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 78,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 78,
+    "id": "jamie-bitflight-claude-skills-plugins-python3-development-skills-modernpython-skill-md",
+    "name": "modernpython",
+    "author": "Jamie-BitFlight",
+    "stars": 16,
+    "githubUrl": "https://github.com/Jamie-BitFlight/claude_skills/tree/main/plugins/python3-development/skills/modernpython",
+    "skillUrl": "https://skillsmp.com/skills/jamie-bitflight-claude-skills-plugins-python3-development-skills-modernpython-skill-md",
+    "updatedAt": 1769374455,
+    "description": "Apply modern Python 3.11+ best practices with proper types, DRY, SRP, and framework patterns. Use when reviewing Python code for modernization opportunities, when writing new Python code to ensure modern patterns, or when refactoring legacy Python code to use current idioms."
+  },
+  "github": {
+    "owner": "Jamie-BitFlight",
+    "repo": "claude_skills",
+    "ref": "main",
+    "relativePath": "plugins/python3-development/skills/modernpython",
+    "sourceUrl": "https://github.com/Jamie-BitFlight/claude_skills/tree/main/plugins/python3-development/skills/modernpython"
+  }
+}

@@ -1,0 +1,142 @@
+# Event Management Checklist
+# Comprehensive planning guide for developer events
+
+event_types:
+  meetup:
+    timeline: 4-6 weeks
+    budget: $500-2000
+    team_size: 1-2
+
+  workshop:
+    timeline: 6-8 weeks
+    budget: $2000-10000
+    team_size: 2-4
+
+  hackathon:
+    timeline: 8-12 weeks
+    budget: $10000-50000
+    team_size: 4-8
+
+  conference:
+    timeline: 6-12 months
+    budget: $50000-500000
+    team_size: 5-20
+
+planning_phases:
+  phase_1_strategy:
+    weeks_before: 24-12
+    tasks:
+      - [ ] "Define event goals and KPIs"
+      - [ ] "Identify target audience"
+      - [ ] "Set preliminary budget"
+      - [ ] "Choose date (check conflicts)"
+      - [ ] "Select format (virtual/hybrid/in-person)"
+
+  phase_2_logistics:
+    weeks_before: 12-8
+    tasks:
+      - [ ] "Book venue or virtual platform"
+      - [ ] "Create event branding"
+      - [ ] "Open CFP for speakers"
+      - [ ] "Secure sponsors"
+      - [ ] "Set up registration"
+
+  phase_3_promotion:
+    weeks_before: 8-4
+    tasks:
+      - [ ] "Launch event website"
+      - [ ] "Begin social media campaign"
+      - [ ] "Send email announcements"
+      - [ ] "Partner cross-promotion"
+      - [ ] "Press outreach"
+
+  phase_4_preparation:
+    weeks_before: 4-1
+    tasks:
+      - [ ] "Finalize speaker lineup"
+      - [ ] "Complete agenda"
+      - [ ] "Order swag and materials"
+      - [ ] "Recruit volunteers"
+      - [ ] "Create run-of-show document"
+
+  phase_5_execution:
+    days_before: 7-0
+    tasks:
+      - [ ] "Send final attendee email"
+      - [ ] "Test all technology"
+      - [ ] "Brief all staff"
+      - [ ] "Prepare backup plans"
+      - [ ] "Day-of coordination"
+
+promotion_channels:
+  owned:
+    - email_list
+    - blog_announcement
+    - community_channels
+    - social_accounts
+
+  earned:
+    - partner_cross_promotion
+    - speaker_networks
+    - press_coverage
+    - community_shares
+
+  paid:
+    - social_ads
+    - newsletter_sponsorships
+    - developer_platform_ads
+
+budget_breakdown:
+  typical_percentages:
+    venue_catering: 40%
+    speakers_travel: 20%
+    marketing: 15%
+    av_technology: 10%
+    swag_materials: 10%
+    contingency: 5%
+
+post_event:
+  immediate_24h:
+    - [ ] "Send thank you emails"
+    - [ ] "Share event photos"
+    - [ ] "Post highlight reel"
+
+  week_1:
+    - [ ] "Send feedback survey"
+    - [ ] "Publish recordings"
+    - [ ] "Share slides"
+    - [ ] "Thank sponsors publicly"
+
+  week_2:
+    - [ ] "Analyze survey results"
+    - [ ] "Write blog recap"
+    - [ ] "Calculate ROI metrics"
+    - [ ] "Debrief with team"
+
+  ongoing:
+    - [ ] "Nurture new contacts"
+    - [ ] "Plan follow-up content"
+    - [ ] "Document lessons learned"
+
+success_metrics:
+  registration:
+    - total_registrations
+    - registration_conversion_rate
+    - early_bird_vs_late
+
+  attendance:
+    - show_up_rate
+    - session_attendance
+    - engagement_duration
+
+  satisfaction:
+    - nps_score
+    - session_ratings
+    - speaker_ratings
+    - venue_feedback
+
+  business:
+    - leads_generated
+    - pipeline_influenced
+    - community_growth
+    - content_engagement

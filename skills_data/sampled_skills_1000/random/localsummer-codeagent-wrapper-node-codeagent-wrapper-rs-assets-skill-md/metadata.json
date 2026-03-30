@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 502,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 502,
+    "id": "localsummer-codeagent-wrapper-node-codeagent-wrapper-rs-assets-skill-md",
+    "name": "codeagent",
+    "author": "localSummer",
+    "stars": 1,
+    "githubUrl": "https://github.com/localSummer/codeagent-wrapper-node/tree/main/codeagent-wrapper-rs/assets",
+    "skillUrl": "https://skillsmp.com/skills/localsummer-codeagent-wrapper-node-codeagent-wrapper-rs-assets-skill-md",
+    "updatedAt": 1770017961,
+    "description": "Execute codeagent-wrapper for multi-backend AI code tasks. Supports Codex, Claude, Gemini, and Opencode backends with file references (@syntax) and structured output."
+  },
+  "github": {
+    "owner": "localSummer",
+    "repo": "codeagent-wrapper-node",
+    "ref": "main",
+    "relativePath": "codeagent-wrapper-rs/assets",
+    "sourceUrl": "https://github.com/localSummer/codeagent-wrapper-node/tree/main/codeagent-wrapper-rs/assets"
+  }
+}

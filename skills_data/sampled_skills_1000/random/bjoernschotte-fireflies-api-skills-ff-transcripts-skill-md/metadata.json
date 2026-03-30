@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 202,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 202,
+    "id": "bjoernschotte-fireflies-api-skills-ff-transcripts-skill-md",
+    "name": "ff-transcripts",
+    "author": "BjoernSchotte",
+    "stars": 0,
+    "githubUrl": "https://github.com/BjoernSchotte/fireflies-api/tree/main/skills/ff-transcripts",
+    "skillUrl": "https://skillsmp.com/skills/bjoernschotte-fireflies-api-skills-ff-transcripts-skill-md",
+    "updatedAt": 1769878903,
+    "description": "Manage and analyze meeting transcripts. Use when listing, getting, or analyzing transcripts, speakers, or action items."
+  },
+  "github": {
+    "owner": "BjoernSchotte",
+    "repo": "fireflies-api",
+    "ref": "main",
+    "relativePath": "skills/ff-transcripts",
+    "sourceUrl": "https://github.com/BjoernSchotte/fireflies-api/tree/main/skills/ff-transcripts"
+  }
+}

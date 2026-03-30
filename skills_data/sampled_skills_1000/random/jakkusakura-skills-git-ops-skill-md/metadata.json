@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 446,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 446,
+    "id": "jakkusakura-skills-git-ops-skill-md",
+    "name": "git-ops",
+    "author": "JakkuSakura",
+    "stars": 1,
+    "githubUrl": "https://github.com/JakkuSakura/skills/tree/main/git-ops",
+    "skillUrl": "https://skillsmp.com/skills/jakkusakura-skills-git-ops-skill-md",
+    "updatedAt": 1769423788,
+    "description": "Git operations for local repos and GitHub workflows. Use when Codex needs to inspect repo state, craft commits, manage branches, rebase/merge safely, or decide on Git/GitHub commands (including gh usage) while following safety constraints and commit conventions."
+  },
+  "github": {
+    "owner": "JakkuSakura",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "git-ops",
+    "sourceUrl": "https://github.com/JakkuSakura/skills/tree/main/git-ops"
+  }
+}

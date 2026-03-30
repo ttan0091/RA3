@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 17,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 17,
+    "id": "openclaw-openclaw-skills-blogwatcher-skill-md",
+    "name": "blogwatcher",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-blogwatcher-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Monitor blogs and RSS/Atom feeds for updates using the blogwatcher CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/blogwatcher",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/blogwatcher"
+  }
+}

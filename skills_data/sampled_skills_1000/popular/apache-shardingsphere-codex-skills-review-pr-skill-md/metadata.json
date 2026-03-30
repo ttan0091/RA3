@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 626,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 626,
+    "id": "apache-shardingsphere-codex-skills-review-pr-skill-md",
+    "name": "review-pr",
+    "author": "apache",
+    "stars": 20673,
+    "githubUrl": "https://github.com/apache/shardingsphere/tree/master/.codex/skills/review-pr",
+    "skillUrl": "https://skillsmp.com/skills/apache-shardingsphere-codex-skills-review-pr-skill-md",
+    "updatedAt": 1770481389,
+    "description": "Used to review whether an Apache ShardingSphere PR truly fixes the root cause, assess side effects and regression risks, and determine whether it can be safely merged. If not mergeable, produce committer-tone change request suggestions. Supports targeted comparison across multiple review rounds."
+  },
+  "github": {
+    "owner": "apache",
+    "repo": "shardingsphere",
+    "ref": "master",
+    "relativePath": ".codex/skills/review-pr",
+    "sourceUrl": "https://github.com/apache/shardingsphere/tree/master/.codex/skills/review-pr"
+  }
+}

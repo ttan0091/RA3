@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 185,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 185,
+    "id": "rfxlamia-flow-creative-studio-03-production-validator-skill-md",
+    "name": "production-validator",
+    "author": "rfxlamia",
+    "stars": 0,
+    "githubUrl": "https://github.com/rfxlamia/flow/tree/main/creative-studio/03-production-validator",
+    "skillUrl": "https://skillsmp.com/skills/rfxlamia-flow-creative-studio-03-production-validator-skill-md",
+    "updatedAt": 1766014670,
+    "description": "AI video pipeline validator for Veo 3 feasibility, 8-second scene chunking, and shot continuity.\nUSE WHEN: Validating screenplays for AI video generation, chunking scenes into 8-second segments, generating continuation prompts, scoring feasibility risk, or adding editing metadata.\nPIPELINE POSITION: screenwriter → **production-validator** → imagine/arch-v\nINPUT: XML from screenwriter skill (scene tags with duration, action, key_visuals) OUTPUT: Enhanced XML with validation, chunks, continuity tags, and Veo 3 prompts\nKEY FUNCTIONS: - Veo 3 feasibility validation with risk scoring (LOW/MEDIUM/HIGH/CRITICAL) - 8-second scene chunking with continuation prompts - Shot continuity tagging for editors - Technical optimization for AI-friendly alternatives"
+  },
+  "github": {
+    "owner": "rfxlamia",
+    "repo": "flow",
+    "ref": "main",
+    "relativePath": "creative-studio/03-production-validator",
+    "sourceUrl": "https://github.com/rfxlamia/flow/tree/main/creative-studio/03-production-validator"
+  }
+}

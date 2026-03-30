@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 478,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 478,
+    "id": "duclm1x1-dive-ai-skills-library-devops-cloud-openclaw-nextcloud-skill-md",
+    "name": "openclaw-nextcloud",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/devops_cloud/openclaw-nextcloud",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-devops-cloud-openclaw-nextcloud-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Manage Notes, Tasks, Calendar, Files, and Contacts in your Nextcloud instance via CalDAV, WebDAV, and Notes API. Use for creating notes, managing todos and calendar events, uploading/downloading files, and managing contacts."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/devops_cloud/openclaw-nextcloud",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/devops_cloud/openclaw-nextcloud"
+  }
+}

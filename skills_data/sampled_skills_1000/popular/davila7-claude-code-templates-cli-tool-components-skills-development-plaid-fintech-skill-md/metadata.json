@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 902,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 902,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-plaid-fintech-skill-md",
+    "name": "plaid-fintech",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plaid-fintech",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-plaid-fintech-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert patterns for Plaid API integration including Link token flows, transactions sync, identity verification, Auth for ACH, balance checks, webhook handling, and fintech compliance best practices. Use when: plaid, bank account linking, bank connection, ach, account aggregation."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/plaid-fintech",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plaid-fintech"
+  }
+}

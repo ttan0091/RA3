@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 766,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 766,
+    "id": "vanman2024-dev-lifecycle-marketplace-archive-old-numbered-plugins-04-iterate-skills-iteration-tracking-skill-md",
+    "name": "iteration-tracking",
+    "author": "vanman2024",
+    "stars": 1,
+    "githubUrl": "https://github.com/vanman2024/dev-lifecycle-marketplace/tree/master/.archive/old-numbered-plugins/04-iterate/skills/iteration-tracking",
+    "skillUrl": "https://skillsmp.com/skills/vanman2024-dev-lifecycle-marketplace-archive-old-numbered-plugins-04-iterate-skills-iteration-tracking-skill-md",
+    "updatedAt": 1768330716,
+    "description": "Tracks iteration progress and state management. Use when starting, checkpointing, or ending iteration cycles, or when user mentions iteration tracking, progress monitoring, or iteration state."
+  },
+  "github": {
+    "owner": "vanman2024",
+    "repo": "dev-lifecycle-marketplace",
+    "ref": "master",
+    "relativePath": ".archive/old-numbered-plugins/04-iterate/skills/iteration-tracking",
+    "sourceUrl": "https://github.com/vanman2024/dev-lifecycle-marketplace/tree/master/.archive/old-numbered-plugins/04-iterate/skills/iteration-tracking"
+  }
+}

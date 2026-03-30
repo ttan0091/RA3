@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 396,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 396,
+    "id": "simonheimlicher-spx-claude-plugins-core-skills-committing-changes-skill-md",
+    "name": "committing-changes",
+    "author": "simonheimlicher",
+    "stars": 1,
+    "githubUrl": "https://github.com/simonheimlicher/spx-claude/tree/main/plugins/core/skills/committing-changes",
+    "skillUrl": "https://skillsmp.com/skills/simonheimlicher-spx-claude-plugins-core-skills-committing-changes-skill-md",
+    "updatedAt": 1770292332,
+    "description": "Commit changes following Conventional Commits with selective staging. Use when user says \"commit\", \"commit this\", or when ready to commit after completing work."
+  },
+  "github": {
+    "owner": "simonheimlicher",
+    "repo": "spx-claude",
+    "ref": "main",
+    "relativePath": "plugins/core/skills/committing-changes",
+    "sourceUrl": "https://github.com/simonheimlicher/spx-claude/tree/main/plugins/core/skills/committing-changes"
+  }
+}

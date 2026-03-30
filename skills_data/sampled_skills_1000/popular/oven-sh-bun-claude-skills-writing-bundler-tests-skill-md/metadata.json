@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 116,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 116,
+    "id": "oven-sh-bun-claude-skills-writing-bundler-tests-skill-md",
+    "name": "writing-bundler-tests",
+    "author": "oven-sh",
+    "stars": 87226,
+    "githubUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/writing-bundler-tests",
+    "skillUrl": "https://skillsmp.com/skills/oven-sh-bun-claude-skills-writing-bundler-tests-skill-md",
+    "updatedAt": 1766648246,
+    "description": "Guides writing bundler tests using itBundled/expectBundled in test/bundler/. Use when creating or modifying bundler, transpiler, or code transformation tests."
+  },
+  "github": {
+    "owner": "oven-sh",
+    "repo": "bun",
+    "ref": "main",
+    "relativePath": ".claude/skills/writing-bundler-tests",
+    "sourceUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/writing-bundler-tests"
+  }
+}

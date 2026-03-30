@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 379,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 379,
+    "id": "wshobson-agents-plugins-backend-development-skills-workflow-orchestration-patterns-skill-md",
+    "name": "workflow-orchestration-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/workflow-orchestration-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-backend-development-skills-workflow-orchestration-patterns-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Design durable workflows with Temporal for distributed systems. Covers workflow vs activity separation, saga patterns, state management, and determinism constraints. Use when building long-running processes, distributed transactions, or microservice orchestration."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/backend-development/skills/workflow-orchestration-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/workflow-orchestration-patterns"
+  }
+}

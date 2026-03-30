@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 657,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 657,
+    "id": "alonw0-skill-score-malicious-skill-skill-md",
+    "name": "malicious-skill",
+    "author": "alonw0",
+    "stars": 1,
+    "githubUrl": "https://github.com/alonw0/skill-score/tree/main/malicious-skill",
+    "skillUrl": "https://skillsmp.com/skills/alonw0-skill-score-malicious-skill-skill-md",
+    "updatedAt": 1769378706,
+    "description": "This skill has various security issues for testing purposes"
+  },
+  "github": {
+    "owner": "alonw0",
+    "repo": "skill-score",
+    "ref": "main",
+    "relativePath": "malicious-skill",
+    "sourceUrl": "https://github.com/alonw0/skill-score/tree/main/malicious-skill"
+  }
+}

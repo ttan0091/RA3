@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 625,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 625,
+    "id": "ahmed3elshaer-everything-claude-code-mobile-skills-kmp-di-skill-md",
+    "name": "kmp-di",
+    "author": "ahmed3elshaer",
+    "stars": 22,
+    "githubUrl": "https://github.com/ahmed3elshaer/everything-claude-code-mobile/tree/main/skills/kmp-di",
+    "skillUrl": "https://skillsmp.com/skills/ahmed3elshaer-everything-claude-code-mobile-skills-kmp-di-skill-md",
+    "updatedAt": 1770197622,
+    "description": "Dependency Injection for KMP. Koin multiplatform setup, platform modules, and manual DI patterns."
+  },
+  "github": {
+    "owner": "ahmed3elshaer",
+    "repo": "everything-claude-code-mobile",
+    "ref": "main",
+    "relativePath": "skills/kmp-di",
+    "sourceUrl": "https://github.com/ahmed3elshaer/everything-claude-code-mobile/tree/main/skills/kmp-di"
+  }
+}

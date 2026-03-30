@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 354,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 354,
+    "id": "lollipopkit-cc-skills-supabase-rest-skill-md",
+    "name": "supabase-rest",
+    "author": "lollipopkit",
+    "stars": 1,
+    "githubUrl": "https://github.com/lollipopkit/cc-skills/tree/main/supabase-rest",
+    "skillUrl": "https://skillsmp.com/skills/lollipopkit-cc-skills-supabase-rest-skill-md",
+    "updatedAt": 1766657222,
+    "description": "Inspect Supabase database schemas and data. Use when the user asks to \"check table\", \"list columns\", or \"query data\" in Supabase. READ-ONLY."
+  },
+  "github": {
+    "owner": "lollipopkit",
+    "repo": "cc-skills",
+    "ref": "main",
+    "relativePath": "supabase-rest",
+    "sourceUrl": "https://github.com/lollipopkit/cc-skills/tree/main/supabase-rest"
+  }
+}

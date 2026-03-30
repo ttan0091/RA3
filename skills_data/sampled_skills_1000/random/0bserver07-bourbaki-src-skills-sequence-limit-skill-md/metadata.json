@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 796,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 796,
+    "id": "0bserver07-bourbaki-src-skills-sequence-limit-skill-md",
+    "name": "sequence-limit",
+    "author": "0bserver07",
+    "stars": 0,
+    "githubUrl": "https://github.com/0bserver07/bourbaki/tree/master/src/skills/sequence-limit",
+    "skillUrl": "https://skillsmp.com/skills/0bserver07-bourbaki-src-skills-sequence-limit-skill-md",
+    "updatedAt": 1770658682,
+    "description": "Prove sequence limits using epsilon-N definition, monotone convergence, and squeeze theorem. Triggers on \"sequence converges\", \"limit of sequence\", \"prove a_n tends to\", \"epsilon-N\", \"monotone convergence\", \"squeeze theorem\", \"bounded monotone\""
+  },
+  "github": {
+    "owner": "0bserver07",
+    "repo": "bourbaki",
+    "ref": "master",
+    "relativePath": "src/skills/sequence-limit",
+    "sourceUrl": "https://github.com/0bserver07/bourbaki/tree/master/src/skills/sequence-limit"
+  }
+}

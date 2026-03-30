@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 663,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 663,
+    "id": "creatifcoding-gbg-packages-tmnl-claude-skills-react-compound-components-skill-md",
+    "name": "react-compound-components",
+    "author": "creatifcoding",
+    "stars": 1,
+    "githubUrl": "https://github.com/creatifcoding/gbg/tree/master/packages/tmnl/.claude/skills/react-compound-components",
+    "skillUrl": "https://skillsmp.com/skills/creatifcoding-gbg-packages-tmnl-claude-skills-react-compound-components-skill-md",
+    "updatedAt": 1769458636,
+    "description": "Compound component patterns for TMNL. Covers context-based composition, slot patterns, and Object.assign exports. Use for building composable component APIs like VantaCard.Header, Modal.Content, etc."
+  },
+  "github": {
+    "owner": "creatifcoding",
+    "repo": "gbg",
+    "ref": "master",
+    "relativePath": "packages/tmnl/.claude/skills/react-compound-components",
+    "sourceUrl": "https://github.com/creatifcoding/gbg/tree/master/packages/tmnl/.claude/skills/react-compound-components"
+  }
+}

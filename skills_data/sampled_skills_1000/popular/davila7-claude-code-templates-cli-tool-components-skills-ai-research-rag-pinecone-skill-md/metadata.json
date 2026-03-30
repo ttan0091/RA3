@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 734,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 734,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-pinecone-skill-md",
+    "name": "pinecone",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-pinecone",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-pinecone-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Managed vector database for production AI applications. Fully managed, auto-scaling, with hybrid search (dense + sparse), metadata filtering, and namespaces. Low latency (<100ms p95). Use for production RAG, recommendation systems, or semantic search at scale. Best for serverless, managed infrastructure."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/rag-pinecone",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-pinecone"
+  }
+}

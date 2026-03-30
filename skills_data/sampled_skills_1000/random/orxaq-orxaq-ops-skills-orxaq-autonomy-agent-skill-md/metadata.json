@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 882,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 882,
+    "id": "orxaq-orxaq-ops-skills-orxaq-autonomy-agent-skill-md",
+    "name": "orxaq-autonomy-agent",
+    "author": "Orxaq",
+    "stars": 0,
+    "githubUrl": "https://github.com/Orxaq/orxaq-ops/tree/main/skills/orxaq-autonomy-agent",
+    "skillUrl": "https://skillsmp.com/skills/orxaq-orxaq-ops-skills-orxaq-autonomy-agent-skill-md",
+    "updatedAt": 1770574701,
+    "description": "Run resilient autonomous software-delivery cycles with protocol-driven prompts, optional MCP context injection, and cross-platform non-admin supervision."
+  },
+  "github": {
+    "owner": "Orxaq",
+    "repo": "orxaq-ops",
+    "ref": "main",
+    "relativePath": "skills/orxaq-autonomy-agent",
+    "sourceUrl": "https://github.com/Orxaq/orxaq-ops/tree/main/skills/orxaq-autonomy-agent"
+  }
+}

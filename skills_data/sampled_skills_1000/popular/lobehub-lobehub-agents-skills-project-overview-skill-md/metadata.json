@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 132,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 132,
+    "id": "lobehub-lobehub-agents-skills-project-overview-skill-md",
+    "name": "project-overview",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/project-overview",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-project-overview-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Complete project architecture and structure guide. Use when exploring the codebase, understanding project organization, finding files, or needing comprehensive architectural context. Triggers on architecture questions, directory navigation, or project overview needs."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/project-overview",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/project-overview"
+  }
+}

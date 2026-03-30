@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 64,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 64,
+    "id": "ss2608-dev-resilience-claude-skills-dev-seed-data-skill-md",
+    "name": "seed-data",
+    "author": "SS2608-dev",
+    "stars": 0,
+    "githubUrl": "https://github.com/SS2608-dev/Resilience/tree/Resilience_Dec2025/.claude/skills/dev/seed-data",
+    "skillUrl": "https://skillsmp.com/skills/ss2608-dev-resilience-claude-skills-dev-seed-data-skill-md",
+    "updatedAt": 1770485905,
+    "description": "Seed database with test assessment data for development. Use when setting up a fresh environment or resetting test data."
+  },
+  "github": {
+    "owner": "SS2608-dev",
+    "repo": "Resilience",
+    "ref": "Resilience_Dec2025",
+    "relativePath": ".claude/skills/dev/seed-data",
+    "sourceUrl": "https://github.com/SS2608-dev/Resilience/tree/Resilience_Dec2025/.claude/skills/dev/seed-data"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 22,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 22,
+    "id": "faulkdev-github-copilot-superpowers-github-skills-obra-obra-using-git-worktrees-skill-md",
+    "name": "obra-using-git-worktrees",
+    "author": "faulkdev",
+    "stars": 0,
+    "githubUrl": "https://github.com/faulkdev/github-copilot-superpowers/tree/integrate-obra-superpowers/.github/skills/obra/obra-using-git-worktrees",
+    "skillUrl": "https://skillsmp.com/skills/faulkdev-github-copilot-superpowers-github-skills-obra-obra-using-git-worktrees-skill-md",
+    "updatedAt": 1769029058,
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification"
+  },
+  "github": {
+    "owner": "faulkdev",
+    "repo": "github-copilot-superpowers",
+    "ref": "integrate-obra-superpowers",
+    "relativePath": ".github/skills/obra/obra-using-git-worktrees",
+    "sourceUrl": "https://github.com/faulkdev/github-copilot-superpowers/tree/integrate-obra-superpowers/.github/skills/obra/obra-using-git-worktrees"
+  }
+}

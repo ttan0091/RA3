@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 459,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 459,
+    "id": "yellow-seed-spotify-toolbox-github-skills-pull-request-skill-md",
+    "name": "pull-request",
+    "author": "yellow-seed",
+    "stars": 1,
+    "githubUrl": "https://github.com/yellow-seed/spotify-toolbox/tree/main/.github/skills/pull-request",
+    "skillUrl": "https://skillsmp.com/skills/yellow-seed-spotify-toolbox-github-skills-pull-request-skill-md",
+    "updatedAt": 1768215264,
+    "description": "Pull Request作成スキル。.github/PULL_REQUEST_TEMPLATE.mdに準拠した高品質なPRを作成。Use when: PR作成、Pull Request作成、変更内容のPR化を依頼された時。"
+  },
+  "github": {
+    "owner": "yellow-seed",
+    "repo": "spotify-toolbox",
+    "ref": "main",
+    "relativePath": ".github/skills/pull-request",
+    "sourceUrl": "https://github.com/yellow-seed/spotify-toolbox/tree/main/.github/skills/pull-request"
+  }
+}

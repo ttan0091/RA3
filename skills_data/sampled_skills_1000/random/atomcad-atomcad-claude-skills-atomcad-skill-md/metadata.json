@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 472,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 472,
+    "id": "atomcad-atomcad-claude-skills-atomcad-skill-md",
+    "name": "atomcad",
+    "author": "atomCAD",
+    "stars": 44,
+    "githubUrl": "https://github.com/atomCAD/atomCAD/tree/main/.claude/skills/atomcad",
+    "skillUrl": "https://skillsmp.com/skills/atomcad-atomcad-claude-skills-atomcad-skill-md",
+    "updatedAt": 1769699068,
+    "description": "Interact with atomCAD node networks programmatically. Query, edit, and replace CAD geometry nodes for atomic/molecular structure design. Use when working with atomCAD projects or when the user wants to manipulate node networks, create CSG shapes, or design atomic structures."
+  },
+  "github": {
+    "owner": "atomCAD",
+    "repo": "atomCAD",
+    "ref": "main",
+    "relativePath": ".claude/skills/atomcad",
+    "sourceUrl": "https://github.com/atomCAD/atomCAD/tree/main/.claude/skills/atomcad"
+  }
+}

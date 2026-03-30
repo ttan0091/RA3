@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 606,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 606,
+    "id": "peterbamuhigire-skills-web-dev-webapp-gui-design-skill-md",
+    "name": "webapp-gui-design",
+    "author": "peterbamuhigire",
+    "stars": 2,
+    "githubUrl": "https://github.com/peterbamuhigire/skills-web-dev/tree/main/webapp-gui-design",
+    "skillUrl": "https://skillsmp.com/skills/peterbamuhigire-skills-web-dev-webapp-gui-design-skill-md",
+    "updatedAt": 1770645967,
+    "description": "Professional web app UI using commercial templates (Tabler/Bootstrap 5) with strong frontend design direction when needed. Use for CRUD interfaces, dashboards, admin panels with SweetAlert2, DataTables, Flatpickr. Clone seeder-page.php, use modular includes, follow established patterns."
+  },
+  "github": {
+    "owner": "peterbamuhigire",
+    "repo": "skills-web-dev",
+    "ref": "main",
+    "relativePath": "webapp-gui-design",
+    "sourceUrl": "https://github.com/peterbamuhigire/skills-web-dev/tree/main/webapp-gui-design"
+  }
+}

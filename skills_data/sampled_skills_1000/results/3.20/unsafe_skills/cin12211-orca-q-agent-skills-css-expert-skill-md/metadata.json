@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 571,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 571,
+    "id": "cin12211-orca-q-agent-skills-css-expert-skill-md",
+    "name": "css-styling-expert",
+    "author": "cin12211",
+    "stars": 60,
+    "githubUrl": "https://github.com/cin12211/orca-q/tree/main/.agent/skills/css-expert",
+    "skillUrl": "https://skillsmp.com/skills/cin12211-orca-q-agent-skills-css-expert-skill-md",
+    "updatedAt": 1768734479,
+    "description": "CSS architecture and styling expert with deep knowledge of modern CSS features, responsive design, CSS-in-JS optimization, performance, accessibility, and design systems. Use PROACTIVELY for CSS layout issues, styling architecture, responsive design problems, CSS-in-JS performance, theme implementation, cross-browser compatibility, and design system development. If a specialized expert is better fit, I will recommend switching and stop."
+  },
+  "github": {
+    "owner": "cin12211",
+    "repo": "orca-q",
+    "ref": "main",
+    "relativePath": ".agent/skills/css-expert",
+    "sourceUrl": "https://github.com/cin12211/orca-q/tree/main/.agent/skills/css-expert"
+  }
+}

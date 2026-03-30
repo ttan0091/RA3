@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 107,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 107,
+    "id": "oooo12-git-claude-gamja-marketplace-plugins-gamja-content-writer-skills-threads-to-instagram-skill-md",
+    "name": "threads-to-instagram",
+    "author": "oooo12-git",
+    "stars": 0,
+    "githubUrl": "https://github.com/oooo12-git/claude-gamja-marketplace/tree/main/plugins/gamja-content-writer/skills/threads-to-instagram",
+    "skillUrl": "https://skillsmp.com/skills/oooo12-git-claude-gamja-marketplace-plugins-gamja-content-writer-skills-threads-to-instagram-skill-md",
+    "updatedAt": 1769061882,
+    "description": "Threads 콘텐츠를 Instagram 피드용 caption으로 변환합니다. threads 콘텐츠의 인스타그램 변환, instagram caption 작성 시 사용. (user)"
+  },
+  "github": {
+    "owner": "oooo12-git",
+    "repo": "claude-gamja-marketplace",
+    "ref": "main",
+    "relativePath": "plugins/gamja-content-writer/skills/threads-to-instagram",
+    "sourceUrl": "https://github.com/oooo12-git/claude-gamja-marketplace/tree/main/plugins/gamja-content-writer/skills/threads-to-instagram"
+  }
+}

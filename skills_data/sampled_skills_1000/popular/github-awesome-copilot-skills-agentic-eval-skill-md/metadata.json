@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 582,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 582,
+    "id": "github-awesome-copilot-skills-agentic-eval-skill-md",
+    "name": "agentic-eval",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/agentic-eval",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-agentic-eval-skill-md",
+    "updatedAt": 1768793994,
+    "description": "Patterns and techniques for evaluating and improving AI agent outputs. Use this skill when:\n- Implementing self-critique and reflection loops\n- Building evaluator-optimizer pipelines for quality-critical generation\n- Creating test-driven code refinement workflows\n- Designing rubric-based or LLM-as-judge evaluation systems\n- Adding iterative improvement to agent outputs (code, reports, analysis)\n- Measuring and improving agent response quality"
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/agentic-eval",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/agentic-eval"
+  }
+}

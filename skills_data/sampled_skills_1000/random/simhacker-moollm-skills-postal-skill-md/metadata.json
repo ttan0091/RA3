@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 399,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 399,
+    "id": "simhacker-moollm-skills-postal-skill-md",
+    "name": "postal",
+    "author": "SimHacker",
+    "stars": 25,
+    "githubUrl": "https://github.com/SimHacker/moollm/tree/main/skills/postal",
+    "skillUrl": "https://skillsmp.com/skills/simhacker-moollm-skills-postal-skill-md",
+    "updatedAt": 1770671828,
+    "description": "Complete messaging system — letters, texts, goals, rewards, attachments"
+  },
+  "github": {
+    "owner": "SimHacker",
+    "repo": "moollm",
+    "ref": "main",
+    "relativePath": "skills/postal",
+    "sourceUrl": "https://github.com/SimHacker/moollm/tree/main/skills/postal"
+  }
+}

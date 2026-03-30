@@ -1,0 +1,152 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ucp.dev/schemas/shopping/[capability-name].json",
+  "title": "[Capability Name] Schemas",
+  "description": "Request and response schemas for [capability] operations",
+  "$defs": {
+    "Create[Resource]Request": {
+      "type": "object",
+      "ucp_request": "shopping.[capability].create",
+      "description": "Create a new [resource]",
+      "properties": {
+        "required_field": {
+          "type": "string",
+          "description": "A required field"
+        },
+        "optional_field": {
+          "type": "string",
+          "description": "An optional field"
+        }
+      },
+      "required": ["required_field"]
+    },
+    "Create[Resource]Response": {
+      "type": "object",
+      "ucp_response": "shopping.[capability].create",
+      "description": "Response after creating a [resource]",
+      "properties": {
+        "[resource]": {
+          "$ref": "types/[resource].json",
+          "description": "The created [resource]"
+        }
+      },
+      "required": ["[resource]"]
+    },
+    "Get[Resource]Request": {
+      "type": "object",
+      "ucp_request": "shopping.[capability].get",
+      "description": "Get a [resource] by ID",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "[Resource] identifier"
+        }
+      },
+      "required": ["id"]
+    },
+    "Get[Resource]Response": {
+      "type": "object",
+      "ucp_response": "shopping.[capability].get",
+      "description": "Response with [resource] details",
+      "properties": {
+        "[resource]": {
+          "$ref": "types/[resource].json",
+          "description": "The requested [resource]"
+        }
+      },
+      "required": ["[resource]"]
+    },
+    "Update[Resource]Request": {
+      "type": "object",
+      "ucp_request": "shopping.[capability].update",
+      "description": "Update an existing [resource]",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "[Resource] identifier"
+        },
+        "updates": {
+          "type": "object",
+          "description": "Fields to update",
+          "additionalProperties": true
+        }
+      },
+      "required": ["id"]
+    },
+    "Update[Resource]Response": {
+      "type": "object",
+      "ucp_response": "shopping.[capability].update",
+      "description": "Response after updating a [resource]",
+      "properties": {
+        "[resource]": {
+          "$ref": "types/[resource].json",
+          "description": "The updated [resource]"
+        }
+      },
+      "required": ["[resource]"]
+    },
+    "Delete[Resource]Request": {
+      "type": "object",
+      "ucp_request": "shopping.[capability].delete",
+      "description": "Delete a [resource]",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "[Resource] identifier"
+        }
+      },
+      "required": ["id"]
+    },
+    "Delete[Resource]Response": {
+      "type": "object",
+      "ucp_response": "shopping.[capability].delete",
+      "description": "Response after deleting a [resource]",
+      "properties": {
+        "success": {
+          "type": "boolean",
+          "description": "Whether deletion was successful"
+        }
+      },
+      "required": ["success"]
+    },
+    "List[Resource]sRequest": {
+      "type": "object",
+      "ucp_request": "shopping.[capability].list",
+      "description": "List [resources] with optional filters",
+      "properties": {
+        "page": {
+          "type": "integer",
+          "minimum": 1,
+          "default": 1
+        },
+        "per_page": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 100,
+          "default": 20
+        },
+        "filters": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "List[Resource]sResponse": {
+      "type": "object",
+      "ucp_response": "shopping.[capability].list",
+      "description": "Paginated list of [resources]",
+      "properties": {
+        "[resources]": {
+          "type": "array",
+          "items": {
+            "$ref": "types/[resource].json"
+          }
+        },
+        "pagination": {
+          "$ref": "types/pagination.json"
+        }
+      },
+      "required": ["[resources]", "pagination"]
+    }
+  }
+}

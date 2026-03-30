@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 665,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 665,
+    "id": "barrydobson-dotfiles-extra-packages-claude-claude-skills-github-actions-skill-md",
+    "name": "github-actions",
+    "author": "barrydobson",
+    "stars": 0,
+    "githubUrl": "https://github.com/barrydobson/dotfiles_extra/tree/main/packages/claude/.claude/skills/github-actions",
+    "skillUrl": "https://skillsmp.com/skills/barrydobson-dotfiles-extra-packages-claude-claude-skills-github-actions-skill-md",
+    "updatedAt": 1769094709,
+    "description": "Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matrix strategies, testing, and deployment strategies."
+  },
+  "github": {
+    "owner": "barrydobson",
+    "repo": "dotfiles_extra",
+    "ref": "main",
+    "relativePath": "packages/claude/.claude/skills/github-actions",
+    "sourceUrl": "https://github.com/barrydobson/dotfiles_extra/tree/main/packages/claude/.claude/skills/github-actions"
+  }
+}

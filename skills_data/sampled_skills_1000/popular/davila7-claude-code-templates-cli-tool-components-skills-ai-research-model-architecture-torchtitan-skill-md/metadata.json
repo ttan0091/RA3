@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 694,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 694,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-torchtitan-skill-md",
+    "name": "distributed-llm-pretraining-torchtitan",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-torchtitan",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-torchtitan-skill-md",
+    "updatedAt": 1769665019,
+    "description": "Provides PyTorch-native distributed LLM pretraining using torchtitan with 4D parallelism (FSDP2, TP, PP, CP). Use when pretraining Llama 3.1, DeepSeek V3, or custom models at scale from 8 to 512+ GPUs with Float8, torch.compile, and distributed checkpointing."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/model-architecture-torchtitan",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-torchtitan"
+  }
+}

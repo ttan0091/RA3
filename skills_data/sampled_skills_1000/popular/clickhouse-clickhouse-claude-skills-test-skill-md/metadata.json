@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 199,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 199,
+    "id": "clickhouse-clickhouse-claude-skills-test-skill-md",
+    "name": "test",
+    "author": "ClickHouse",
+    "stars": 45784,
+    "githubUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/test",
+    "skillUrl": "https://skillsmp.com/skills/clickhouse-clickhouse-claude-skills-test-skill-md",
+    "updatedAt": 1770535828,
+    "description": "Run ClickHouse stateless or integration tests. Use when the user wants to run or execute tests."
+  },
+  "github": {
+    "owner": "ClickHouse",
+    "repo": "ClickHouse",
+    "ref": "master",
+    "relativePath": ".claude/skills/test",
+    "sourceUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/test"
+  }
+}

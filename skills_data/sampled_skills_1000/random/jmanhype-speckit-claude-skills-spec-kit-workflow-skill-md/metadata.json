@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 693,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 693,
+    "id": "jmanhype-speckit-claude-skills-spec-kit-workflow-skill-md",
+    "name": "spec-kit-workflow",
+    "author": "jmanhype",
+    "stars": 9,
+    "githubUrl": "https://github.com/jmanhype/speckit/tree/main/.claude/skills/spec-kit-workflow",
+    "skillUrl": "https://skillsmp.com/skills/jmanhype-speckit-claude-skills-spec-kit-workflow-skill-md",
+    "updatedAt": 1765219978,
+    "description": "Guides specification-driven development workflow. Automatically invoked when discussing new features, specifications, technical planning, or implementation tasks. Ensures proper workflow phases (specify → clarify → plan → checklist → tasks → analyze → implement)."
+  },
+  "github": {
+    "owner": "jmanhype",
+    "repo": "speckit",
+    "ref": "main",
+    "relativePath": ".claude/skills/spec-kit-workflow",
+    "sourceUrl": "https://github.com/jmanhype/speckit/tree/main/.claude/skills/spec-kit-workflow"
+  }
+}

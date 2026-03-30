@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 785,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 785,
+    "id": "cantara-lib-electronic-components-claude-skills-documentation-maintenance-skill-md",
+    "name": "documentation-maintenance",
+    "author": "Cantara",
+    "stars": 1,
+    "githubUrl": "https://github.com/Cantara/lib-electronic-components/tree/main/.claude/skills/documentation-maintenance",
+    "skillUrl": "https://skillsmp.com/skills/cantara-lib-electronic-components-claude-skills-documentation-maintenance-skill-md",
+    "updatedAt": 1769253839,
+    "description": "Use this skill BEFORE creating a PR to ensure all documentation, skills, and learnings are updated. Critical for preserving institutional knowledge and preventing documentation drift."
+  },
+  "github": {
+    "owner": "Cantara",
+    "repo": "lib-electronic-components",
+    "ref": "main",
+    "relativePath": ".claude/skills/documentation-maintenance",
+    "sourceUrl": "https://github.com/Cantara/lib-electronic-components/tree/main/.claude/skills/documentation-maintenance"
+  }
+}

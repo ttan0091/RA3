@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 856,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 856,
+    "id": "mahirkurt-metaanaliz-skills-protocol-freeze-change-log-skill-md",
+    "name": "protocol-freeze-change-log",
+    "author": "mahirkurt",
+    "stars": 0,
+    "githubUrl": "https://github.com/mahirkurt/metaanaliz/tree/master/skills/protocol-freeze-change-log",
+    "skillUrl": "https://skillsmp.com/skills/mahirkurt-metaanaliz-skills-protocol-freeze-change-log-skill-md",
+    "updatedAt": 1769875846,
+    "description": "Protokolün (PICO, kriterler, analiz planı) dondurulması ve değişikliklerin audit edilebilir şekilde loglanması SOP'u."
+  },
+  "github": {
+    "owner": "mahirkurt",
+    "repo": "metaanaliz",
+    "ref": "master",
+    "relativePath": "skills/protocol-freeze-change-log",
+    "sourceUrl": "https://github.com/mahirkurt/metaanaliz/tree/master/skills/protocol-freeze-change-log"
+  }
+}

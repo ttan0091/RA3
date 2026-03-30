@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 524,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 524,
+    "id": "charleswiltgen-axiom-claude-plugin-plugins-axiom-skills-axiom-typography-ref-skill-md",
+    "name": "axiom-typography-ref",
+    "author": "CharlesWiltgen",
+    "stars": 440,
+    "githubUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-typography-ref",
+    "skillUrl": "https://skillsmp.com/skills/charleswiltgen-axiom-claude-plugin-plugins-axiom-skills-axiom-typography-ref-skill-md",
+    "updatedAt": 1770149697,
+    "description": "Apple platform typography reference (San Francisco fonts, text styles, Dynamic Type, tracking, leading, internationalization) through iOS 26"
+  },
+  "github": {
+    "owner": "CharlesWiltgen",
+    "repo": "Axiom",
+    "ref": "main",
+    "relativePath": ".claude-plugin/plugins/axiom/skills/axiom-typography-ref",
+    "sourceUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-typography-ref"
+  }
+}

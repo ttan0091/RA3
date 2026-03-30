@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 486,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 486,
+    "id": "wshobson-agents-plugins-security-scanning-skills-stride-analysis-patterns-skill-md",
+    "name": "stride-analysis-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/stride-analysis-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-security-scanning-skills-stride-analysis-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/security-scanning/skills/stride-analysis-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/stride-analysis-patterns"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 98,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 98,
+    "id": "ruan-cat-monorepo-claude-code-marketplace-common-tools-skills-git-commit-skill-md",
+    "name": "git-commit",
+    "author": "ruan-cat",
+    "stars": 3,
+    "githubUrl": "https://github.com/ruan-cat/monorepo/tree/main/claude-code-marketplace/common-tools/skills/git-commit",
+    "skillUrl": "https://skillsmp.com/skills/ruan-cat-monorepo-claude-code-marketplace-common-tools-skills-git-commit-skill-md",
+    "updatedAt": 1769949416,
+    "description": "创建高质量的 git 提交：审查/暂存预期的变更，拆分为逻辑提交，并编写清晰的提交信息（遵循 Conventional Commits 规范，支持 Emoji）。当用户要求提交代码、编写提交信息、暂存变更或将工作拆分为多个提交时使用此技能。"
+  },
+  "github": {
+    "owner": "ruan-cat",
+    "repo": "monorepo",
+    "ref": "main",
+    "relativePath": "claude-code-marketplace/common-tools/skills/git-commit",
+    "sourceUrl": "https://github.com/ruan-cat/monorepo/tree/main/claude-code-marketplace/common-tools/skills/git-commit"
+  }
+}

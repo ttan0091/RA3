@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 605,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 605,
+    "id": "github-awesome-copilot-skills-nano-banana-pro-openrouter-skill-md",
+    "name": "nano-banana-pro-openrouter",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/nano-banana-pro-openrouter",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-nano-banana-pro-openrouter-skill-md",
+    "updatedAt": 1770689029,
+    "description": "Generate or edit images via OpenRouter with the Gemini 3 Pro Image model. Use for prompt-only image generation, image edits, and multi-image compositing; supports 1K/2K/4K output."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/nano-banana-pro-openrouter",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/nano-banana-pro-openrouter"
+  }
+}

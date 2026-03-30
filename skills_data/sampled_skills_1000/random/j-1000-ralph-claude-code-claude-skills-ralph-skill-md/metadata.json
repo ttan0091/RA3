@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 175,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 175,
+    "id": "j-1000-ralph-claude-code-claude-skills-ralph-skill-md",
+    "name": "ralph",
+    "author": "J-1000",
+    "stars": 0,
+    "githubUrl": "https://github.com/J-1000/ralph-claude-code/tree/main/.claude/skills/ralph",
+    "skillUrl": "https://skillsmp.com/skills/j-1000-ralph-claude-code-claude-skills-ralph-skill-md",
+    "updatedAt": 1767907318,
+    "description": "Convert markdown PRDs to prd.json format for autonomous Ralph loop execution. Use after creating a PRD with the prd skill."
+  },
+  "github": {
+    "owner": "J-1000",
+    "repo": "ralph-claude-code",
+    "ref": "main",
+    "relativePath": ".claude/skills/ralph",
+    "sourceUrl": "https://github.com/J-1000/ralph-claude-code/tree/main/.claude/skills/ralph"
+  }
+}

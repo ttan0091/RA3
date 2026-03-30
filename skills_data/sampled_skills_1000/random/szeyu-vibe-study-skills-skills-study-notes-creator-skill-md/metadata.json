@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 369,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 369,
+    "id": "szeyu-vibe-study-skills-skills-study-notes-creator-skill-md",
+    "name": "study-notes-creator",
+    "author": "szeyu",
+    "stars": 5,
+    "githubUrl": "https://github.com/szeyu/vibe-study-skills/tree/main/skills/study-notes-creator",
+    "skillUrl": "https://skillsmp.com/skills/szeyu-vibe-study-skills-skills-study-notes-creator-skill-md",
+    "updatedAt": 1769674326,
+    "description": "Create organized, visual study notes with folder structures, diagrams, and example-based learning from source materials (PDFs, lecture notes, documentation). Use when creating structured learning materials, exam preparation notes, or educational documentation. Triggers - organize study notes, create visual learning materials, generate notes with diagrams, exam prep notes, example-based learning."
+  },
+  "github": {
+    "owner": "szeyu",
+    "repo": "vibe-study-skills",
+    "ref": "main",
+    "relativePath": "skills/study-notes-creator",
+    "sourceUrl": "https://github.com/szeyu/vibe-study-skills/tree/main/skills/study-notes-creator"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 835,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 835,
+    "id": "microck-ordinary-claude-skills-skills-all-flutter-development-skill-md",
+    "name": "flutter-development",
+    "author": "Microck",
+    "stars": 119,
+    "githubUrl": "https://github.com/Microck/ordinary-claude-skills/tree/main/skills_all/flutter-development",
+    "skillUrl": "https://skillsmp.com/skills/microck-ordinary-claude-skills-skills-all-flutter-development-skill-md",
+    "updatedAt": 1764886459,
+    "description": "Build beautiful cross-platform mobile apps with Flutter and Dart. Covers widgets, state management with Provider/BLoC, navigation, API integration, and material design."
+  },
+  "github": {
+    "owner": "Microck",
+    "repo": "ordinary-claude-skills",
+    "ref": "main",
+    "relativePath": "skills_all/flutter-development",
+    "sourceUrl": "https://github.com/Microck/ordinary-claude-skills/tree/main/skills_all/flutter-development"
+  }
+}

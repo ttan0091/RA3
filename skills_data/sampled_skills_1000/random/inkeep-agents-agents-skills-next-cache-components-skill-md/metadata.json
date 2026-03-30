@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 289,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 289,
+    "id": "inkeep-agents-agents-skills-next-cache-components-skill-md",
+    "name": "next-cache-components",
+    "author": "inkeep",
+    "stars": 917,
+    "githubUrl": "https://github.com/inkeep/agents/tree/main/.agents/skills/next-cache-components",
+    "skillUrl": "https://skillsmp.com/skills/inkeep-agents-agents-skills-next-cache-components-skill-md",
+    "updatedAt": 1769517783,
+    "description": "Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag"
+  },
+  "github": {
+    "owner": "inkeep",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": ".agents/skills/next-cache-components",
+    "sourceUrl": "https://github.com/inkeep/agents/tree/main/.agents/skills/next-cache-components"
+  }
+}

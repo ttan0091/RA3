@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 5,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 5,
+    "id": "facebook-react-claude-skills-flow-skill-md",
+    "name": "flow",
+    "author": "facebook",
+    "stars": 242927,
+    "githubUrl": "https://github.com/facebook/react/tree/main/.claude/skills/flow",
+    "skillUrl": "https://skillsmp.com/skills/facebook-react-claude-skills-flow-skill-md",
+    "updatedAt": 1769217366,
+    "description": "Use when you need to run Flow type checking, or when seeing Flow type errors in React code."
+  },
+  "github": {
+    "owner": "facebook",
+    "repo": "react",
+    "ref": "main",
+    "relativePath": ".claude/skills/flow",
+    "sourceUrl": "https://github.com/facebook/react/tree/main/.claude/skills/flow"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 844,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 844,
+    "id": "hawi254-transport-tycoon-sim-agent-skills-determinism-verifier-skill-md",
+    "name": "determinism-verifier",
+    "author": "Hawi254",
+    "stars": 0,
+    "githubUrl": "https://github.com/Hawi254/transport_tycoon_sim/tree/master/.agent/skills/determinism-verifier",
+    "skillUrl": "https://skillsmp.com/skills/hawi254-transport-tycoon-sim-agent-skills-determinism-verifier-skill-md",
+    "updatedAt": 1769071016,
+    "description": "Verifies deterministic simulation behavior while coding by running repeatable replays/tests via terminal access and diffing event streams, snapshots, and projections. Automatically used after changes to simulation logic, event ordering, persistence, scheduling, or any flaky test/replay divergence."
+  },
+  "github": {
+    "owner": "Hawi254",
+    "repo": "transport_tycoon_sim",
+    "ref": "master",
+    "relativePath": ".agent/skills/determinism-verifier",
+    "sourceUrl": "https://github.com/Hawi254/transport_tycoon_sim/tree/master/.agent/skills/determinism-verifier"
+  }
+}

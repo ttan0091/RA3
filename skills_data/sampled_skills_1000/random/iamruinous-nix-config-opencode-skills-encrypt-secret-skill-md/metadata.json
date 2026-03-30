@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 499,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 499,
+    "id": "iamruinous-nix-config-opencode-skills-encrypt-secret-skill-md",
+    "name": "encrypt-secret",
+    "author": "iamruinous",
+    "stars": 6,
+    "githubUrl": "https://github.com/iamruinous/nix-config/tree/main/.opencode/skills/encrypt-secret",
+    "skillUrl": "https://skillsmp.com/skills/iamruinous-nix-config-opencode-skills-encrypt-secret-skill-md",
+    "updatedAt": 1770169078,
+    "description": "Create or update secrets using Infisical (preferred) or legacy agenix files"
+  },
+  "github": {
+    "owner": "iamruinous",
+    "repo": "nix-config",
+    "ref": "main",
+    "relativePath": ".opencode/skills/encrypt-secret",
+    "sourceUrl": "https://github.com/iamruinous/nix-config/tree/main/.opencode/skills/encrypt-secret"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 179,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 179,
+    "id": "petbrains-mvp-builder-claude-skills-prompt-optimizer-skill-md",
+    "name": "prompt-optimizer",
+    "author": "petbrains",
+    "stars": 8,
+    "githubUrl": "https://github.com/petbrains/mvp-builder/tree/main/.claude/skills/prompt-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/petbrains-mvp-builder-claude-skills-prompt-optimizer-skill-md",
+    "updatedAt": 1764652572,
+    "description": "Prompt engineering framework for Claude Code. Transforms vague requests into precise TCRO-structured prompts. Use when: crafting prompts for code generation, improving prompts not getting results, structuring multi-step workflows, debugging pattern drift. Triggers: optimize prompt, improve prompt, create prompt, prompt engineering, TCRO, prompt template, better prompt."
+  },
+  "github": {
+    "owner": "petbrains",
+    "repo": "mvp-builder",
+    "ref": "main",
+    "relativePath": ".claude/skills/prompt-optimizer",
+    "sourceUrl": "https://github.com/petbrains/mvp-builder/tree/main/.claude/skills/prompt-optimizer"
+  }
+}

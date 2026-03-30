@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 774,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 774,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-popup-cro-skill-md",
+    "name": "popup-cro",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/popup-cro",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-popup-cro-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to create or optimize popups, modals, overlays, slide-ins, or banners for conversion purposes. Also use when the user mentions \"exit intent,\" \"popup conversions,\" \"modal optimization,\" \"lead capture popup,\" \"email popup,\" \"announcement banner,\" or \"overlay.\" For forms outside of popups, see form-cro. For general page conversion optimization, see page-cro."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/popup-cro",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/popup-cro"
+  }
+}

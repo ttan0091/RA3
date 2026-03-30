@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 711,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 711,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-parallel-agents-skill-md",
+    "name": "parallel-agents",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/parallel-agents",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-parallel-agents-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/parallel-agents",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/parallel-agents"
+  }
+}

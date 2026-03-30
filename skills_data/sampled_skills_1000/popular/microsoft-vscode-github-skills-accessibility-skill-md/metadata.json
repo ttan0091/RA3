@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 62,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 62,
+    "id": "microsoft-vscode-github-skills-accessibility-skill-md",
+    "name": "accessibility",
+    "author": "microsoft",
+    "stars": 181590,
+    "githubUrl": "https://github.com/microsoft/vscode/tree/main/.github/skills/accessibility",
+    "skillUrl": "https://skillsmp.com/skills/microsoft-vscode-github-skills-accessibility-skill-md",
+    "updatedAt": 1770420123,
+    "description": "Accessibility guidelines for VS Code features — covers accessibility help dialogs, accessible views, verbosity settings, accessibility signals, ARIA alerts/status announcements, keyboard navigation, and ARIA labels/roles. Applies to both new interactive UI surfaces and updates to existing features. Use when creating new UI or updating existing UI features."
+  },
+  "github": {
+    "owner": "microsoft",
+    "repo": "vscode",
+    "ref": "main",
+    "relativePath": ".github/skills/accessibility",
+    "sourceUrl": "https://github.com/microsoft/vscode/tree/main/.github/skills/accessibility"
+  }
+}

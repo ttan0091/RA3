@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 895,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 895,
+    "id": "zeabur-zeabur-claude-plugin-skills-zeabur-port-mismatch-skill-md",
+    "name": "zeabur-port-mismatch",
+    "author": "zeabur",
+    "stars": 1,
+    "githubUrl": "https://github.com/zeabur/zeabur-claude-plugin/tree/main/skills/zeabur-port-mismatch",
+    "skillUrl": "https://skillsmp.com/skills/zeabur-zeabur-claude-plugin-skills-zeabur-port-mismatch-skill-md",
+    "updatedAt": 1770746699,
+    "description": "Use when proxy shows dial tcp timeout or i/o timeout. Use when service port doesn't match proxy expectation."
+  },
+  "github": {
+    "owner": "zeabur",
+    "repo": "zeabur-claude-plugin",
+    "ref": "main",
+    "relativePath": "skills/zeabur-port-mismatch",
+    "sourceUrl": "https://github.com/zeabur/zeabur-claude-plugin/tree/main/skills/zeabur-port-mismatch"
+  }
+}

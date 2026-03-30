@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 653,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 653,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-pytorch-lightning-skill-md",
+    "name": "pytorch-lightning",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-lightning",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-pytorch-lightning-skill-md",
+    "updatedAt": 1767882269,
+    "description": "High-level PyTorch framework with Trainer class, automatic distributed training (DDP/FSDP/DeepSpeed), callbacks system, and minimal boilerplate. Scales from laptop to supercomputer with same code. Use when you want clean training loops with built-in best practices."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/distributed-training-pytorch-lightning",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-lightning"
+  }
+}

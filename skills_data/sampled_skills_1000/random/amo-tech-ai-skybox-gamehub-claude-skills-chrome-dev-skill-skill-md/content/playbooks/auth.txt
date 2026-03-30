@@ -1,0 +1,90 @@
+# Auth Flow Playbook
+# Duration: 3 minutes
+# Purpose: Test authentication - login, session, protected routes, logout
+
+## Step 1: Navigate to Auth Page
+navigate_page({ url: "http://localhost:8080/auth" })
+
+## Step 2: Wait for login form
+wait_for({ text: "Sign In" })
+
+## Step 3: Get form structure
+snapshot = take_snapshot()
+print("Login form loaded")
+
+## Step 4: Take screenshot of auth page
+take_screenshot({ filename: "01-auth-page.png" })
+
+## Step 5: Fill login form
+# Find input UIDs from snapshot, then fill
+fill({ uid: "input-email", value: "test@eventos.com" })
+fill({ uid: "input-password", value: "TestPassword123!" })
+
+print("✅ Credentials entered")
+
+## Step 6: Screenshot filled form
+take_screenshot({ filename: "02-form-filled.png" })
+
+## Step 7: Submit login
+click({ uid: "button-login" })
+print("Login submitted...")
+
+## Step 8: Wait for redirect to dashboard
+wait_for({ text: "Dashboard", timeout: 10000 })
+
+## Step 9: Verify URL changed
+script = evaluate_script({ function: "() => window.location.pathname" })
+print(f"Current path: {script}")
+
+if script == "/auth":
+    raise Error("Failed to redirect after login - still on /auth")
+else:
+    print(f"✅ Redirected to: {script}")
+
+## Step 10: Take screenshot of logged-in state
+take_screenshot({ filename: "03-logged-in.png" })
+
+## Step 11: Check for session data (dev mode check)
+session = evaluate_script({
+    function: `() => {
+        const token = localStorage.getItem('supabase.auth.token');
+        return token !== null;
+    }`
+})
+
+if session:
+    print("✅ Session data exists in localStorage")
+else:
+    print("⚠️  No session data (dev mode might not use localStorage)")
+
+## Step 12: Test protected route access
+navigate_page({ url: "http://localhost:8080/presentations" })
+wait_for({ text: "Presentations" })
+print("✅ Protected route accessible")
+
+## Step 13: Screenshot protected route
+take_screenshot({ filename: "04-protected-route.png" })
+
+## Step 14: Check console for errors
+errors = list_console_messages()
+if len(errors) > 0:
+    print(f"⚠️  Console errors: {len(errors)}")
+    for error in errors:
+        print(f"  - {error['type']}: {error['text']}")
+else:
+    print("✅ No console errors during auth flow")
+
+## Step 15: Check auth API calls
+requests = list_network_requests({ resourceTypes: ["fetch", "xhr"] })
+auth_calls = filter(lambda r: "/auth/" in r['url'] or "/session" in r['url'], requests)
+
+print(f"\nAuth API calls: {len(auth_calls)}")
+for call in auth_calls:
+    print(f"  - {call['method']} {call['url']} → {call['status']}")
+
+## Result
+print("\n✅ Auth flow test passed!")
+print("   - Login form works")
+print("   - Redirect after login")
+print("   - Protected routes accessible")
+print(f"   - {len(auth_calls)} auth API calls made")

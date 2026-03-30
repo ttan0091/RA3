@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 937,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 937,
+    "id": "polarcoding85-convex-agent-skillz-claude-skills-convex-components-skill-skill-md",
+    "name": "convex-components",
+    "author": "PolarCoding85",
+    "stars": 11,
+    "githubUrl": "https://github.com/PolarCoding85/convex-agent-skillz/tree/main/.claude/skills/convex-components-skill",
+    "skillUrl": "https://skillsmp.com/skills/polarcoding85-convex-agent-skillz-claude-skills-convex-components-skill-skill-md",
+    "updatedAt": 1770162931,
+    "description": "Universal patterns for Convex components including installation, configuration, and usage. Use when working with Rate Limiter, Aggregate, Workpool, Workflow, or any Convex component from the ecosystem."
+  },
+  "github": {
+    "owner": "PolarCoding85",
+    "repo": "convex-agent-skillz",
+    "ref": "main",
+    "relativePath": ".claude/skills/convex-components-skill",
+    "sourceUrl": "https://github.com/PolarCoding85/convex-agent-skillz/tree/main/.claude/skills/convex-components-skill"
+  }
+}

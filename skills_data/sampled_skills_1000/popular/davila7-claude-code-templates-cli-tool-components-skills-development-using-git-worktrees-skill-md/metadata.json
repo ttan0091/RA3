@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 943,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 943,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-using-git-worktrees-skill-md",
+    "name": "using-git-worktrees",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/using-git-worktrees",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-using-git-worktrees-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/using-git-worktrees",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/using-git-worktrees"
+  }
+}

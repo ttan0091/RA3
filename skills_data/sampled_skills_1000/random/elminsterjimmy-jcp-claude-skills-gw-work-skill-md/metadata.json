@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 208,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 208,
+    "id": "elminsterjimmy-jcp-claude-skills-gw-work-skill-md",
+    "name": "gw-work",
+    "author": "elminsterjimmy",
+    "stars": 0,
+    "githubUrl": "https://github.com/elminsterjimmy/jcp/tree/master/.claude/skills/gw-work",
+    "skillUrl": "https://skillsmp.com/skills/elminsterjimmy-jcp-claude-skills-gw-work-skill-md",
+    "updatedAt": 1770693281,
+    "description": "Implement a planned feature, creating a feature branch and PR linked to the tracking issue."
+  },
+  "github": {
+    "owner": "elminsterjimmy",
+    "repo": "jcp",
+    "ref": "master",
+    "relativePath": ".claude/skills/gw-work",
+    "sourceUrl": "https://github.com/elminsterjimmy/jcp/tree/master/.claude/skills/gw-work"
+  }
+}

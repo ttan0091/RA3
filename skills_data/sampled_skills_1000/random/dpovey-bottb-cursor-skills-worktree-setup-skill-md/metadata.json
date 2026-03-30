@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 865,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 865,
+    "id": "dpovey-bottb-cursor-skills-worktree-setup-skill-md",
+    "name": "worktree-setup",
+    "author": "dpovey",
+    "stars": 0,
+    "githubUrl": "https://github.com/dpovey/bottb/tree/main/.cursor/skills/worktree-setup",
+    "skillUrl": "https://skillsmp.com/skills/dpovey-bottb-cursor-skills-worktree-setup-skill-md",
+    "updatedAt": 1770434165,
+    "description": "Create a git worktree for isolated feature development. Use when starting new work, creating feature branches, or setting up parallel development environments."
+  },
+  "github": {
+    "owner": "dpovey",
+    "repo": "bottb",
+    "ref": "main",
+    "relativePath": ".cursor/skills/worktree-setup",
+    "sourceUrl": "https://github.com/dpovey/bottb/tree/main/.cursor/skills/worktree-setup"
+  }
+}

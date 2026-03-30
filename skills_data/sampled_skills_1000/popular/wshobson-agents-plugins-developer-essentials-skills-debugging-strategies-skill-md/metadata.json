@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 409,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 409,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-debugging-strategies-skill-md",
+    "name": "debugging-strategies",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/debugging-strategies",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-debugging-strategies-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master systematic debugging techniques, profiling tools, and root cause analysis to efficiently track down bugs across any codebase or technology stack. Use when investigating bugs, performance issues, or unexpected behavior."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/debugging-strategies",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/debugging-strategies"
+  }
+}

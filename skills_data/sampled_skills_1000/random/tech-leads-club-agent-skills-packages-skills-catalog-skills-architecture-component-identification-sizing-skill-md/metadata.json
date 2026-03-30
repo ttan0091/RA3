@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 315,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 315,
+    "id": "tech-leads-club-agent-skills-packages-skills-catalog-skills-architecture-component-identification-sizing-skill-md",
+    "name": "component-identification-sizing",
+    "author": "tech-leads-club",
+    "stars": 1265,
+    "githubUrl": "https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/component-identification-sizing",
+    "skillUrl": "https://skillsmp.com/skills/tech-leads-club-agent-skills-packages-skills-catalog-skills-architecture-component-identification-sizing-skill-md",
+    "updatedAt": 1770402397,
+    "description": "Identifies architectural components in codebases and calculates size metrics for decomposition planning. Use when analyzing codebase structure, planning monolithic decomposition, identifying oversized components, calculating component statistics, or when the user asks about component analysis, codebase sizing, or architectural decomposition."
+  },
+  "github": {
+    "owner": "tech-leads-club",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "packages/skills-catalog/skills/(architecture)/component-identification-sizing",
+    "sourceUrl": "https://github.com/tech-leads-club/agent-skills/tree/main/packages/skills-catalog/skills/(architecture)/component-identification-sizing"
+  }
+}

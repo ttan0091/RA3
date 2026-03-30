@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 637,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 637,
+    "id": "ming-kai-lc-self-learn-claude-skills-pdf-processing-skill-md",
+    "name": "pdf-processing",
+    "author": "Ming-Kai-LC",
+    "stars": 0,
+    "githubUrl": "https://github.com/Ming-Kai-LC/self-learn/tree/main/.claude/skills/pdf-processing",
+    "skillUrl": "https://skillsmp.com/skills/ming-kai-lc-self-learn-claude-skills-pdf-processing-skill-md",
+    "updatedAt": 1763967991,
+    "description": "Comprehensive PDF processing techniques for handling large files that exceed Claude Code's reading limits, including chunking strategies, text/table extraction, and OCR for scanned documents. Use when working with PDFs larger than 10-15MB or more than 30-50 pages."
+  },
+  "github": {
+    "owner": "Ming-Kai-LC",
+    "repo": "self-learn",
+    "ref": "main",
+    "relativePath": ".claude/skills/pdf-processing",
+    "sourceUrl": "https://github.com/Ming-Kai-LC/self-learn/tree/main/.claude/skills/pdf-processing"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 812,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 812,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-mermaid-diagrams-skill-md",
+    "name": "mermaid-diagrams",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/mermaid-diagrams",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-mermaid-diagrams-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Comprehensive guide for creating software diagrams using Mermaid syntax. Use when users need to create, visualize, or document software through diagrams including class diagrams (domain modeling, object-oriented design), sequence diagrams (application flows, API interactions, code execution), flowcharts (processes, algorithms, user journeys), entity relationship diagrams (database schemas), C4 architecture diagrams (system context, containers, components), state diagrams, git graphs, pie charts, gantt charts, or any other diagram type. Triggers include requests to \"diagram\", \"visualize\", \"model\", \"map out\", \"show the flow\", or when explaining system architecture, database design, code structure, or user/application flows."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/mermaid-diagrams",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/mermaid-diagrams"
+  }
+}

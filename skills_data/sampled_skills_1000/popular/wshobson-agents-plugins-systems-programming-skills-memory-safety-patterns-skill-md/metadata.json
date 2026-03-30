@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 497,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 497,
+    "id": "wshobson-agents-plugins-systems-programming-skills-memory-safety-patterns-skill-md",
+    "name": "memory-safety-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/memory-safety-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-systems-programming-skills-memory-safety-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement memory-safe programming with RAII, ownership, smart pointers, and resource management across Rust, C++, and C. Use when writing safe systems code, managing resources, or preventing memory bugs."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/systems-programming/skills/memory-safety-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/memory-safety-patterns"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 738,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 738,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-safety-alignment-constitutional-ai-skill-md",
+    "name": "constitutional-ai",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-constitutional-ai",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-safety-alignment-constitutional-ai-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Anthropic's method for training harmless AI through self-improvement. Two-phase approach - supervised learning with self-critique/revision, then RLAIF (RL from AI Feedback). Use for safety alignment, reducing harmful outputs without human labels. Powers Claude's safety system."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/safety-alignment-constitutional-ai",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-constitutional-ai"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 88,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 88,
+    "id": "pytorch-pytorch-claude-skills-skill-writer-skill-md",
+    "name": "skill-writer",
+    "author": "pytorch",
+    "stars": 97306,
+    "githubUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/skill-writer",
+    "skillUrl": "https://skillsmp.com/skills/pytorch-pytorch-claude-skills-skill-writer-skill-md",
+    "updatedAt": 1761670167,
+    "description": "Guide users through creating Agent Skills for Claude Code. Use when the user wants to create, write, author, or design a new Skill, or needs help with SKILL.md files, frontmatter, or skill structure."
+  },
+  "github": {
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "ref": "main",
+    "relativePath": ".claude/skills/skill-writer",
+    "sourceUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/skill-writer"
+  }
+}

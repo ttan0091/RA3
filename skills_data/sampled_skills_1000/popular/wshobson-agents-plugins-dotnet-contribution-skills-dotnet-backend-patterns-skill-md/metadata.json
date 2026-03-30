@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 420,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 420,
+    "id": "wshobson-agents-plugins-dotnet-contribution-skills-dotnet-backend-patterns-skill-md",
+    "name": "dotnet-backend-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/dotnet-contribution/skills/dotnet-backend-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-dotnet-contribution-skills-dotnet-backend-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuration, caching, and testing with xUnit. Use when developing .NET backends, reviewing C# code, or designing API architectures."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/dotnet-contribution/skills/dotnet-backend-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/dotnet-contribution/skills/dotnet-backend-patterns"
+  }
+}

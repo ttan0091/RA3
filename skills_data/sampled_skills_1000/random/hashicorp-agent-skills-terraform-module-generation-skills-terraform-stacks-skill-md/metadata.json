@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 582,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 582,
+    "id": "hashicorp-agent-skills-terraform-module-generation-skills-terraform-stacks-skill-md",
+    "name": "terraform-stacks",
+    "author": "hashicorp",
+    "stars": 312,
+    "githubUrl": "https://github.com/hashicorp/agent-skills/tree/main/terraform/module-generation/skills/terraform-stacks",
+    "skillUrl": "https://skillsmp.com/skills/hashicorp-agent-skills-terraform-module-generation-skills-terraform-stacks-skill-md",
+    "updatedAt": 1769454749,
+    "description": "Comprehensive guide for working with HashiCorp Terraform Stacks. Use when creating, modifying, or validating Terraform Stack configurations (.tfcomponent.hcl, .tfdeploy.hcl files), working with stack components and deployments from local modules, public registry, or private registry sources, managing multi-region or multi-environment infrastructure, or troubleshooting Terraform Stacks syntax and structure."
+  },
+  "github": {
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "terraform/module-generation/skills/terraform-stacks",
+    "sourceUrl": "https://github.com/hashicorp/agent-skills/tree/main/terraform/module-generation/skills/terraform-stacks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 540,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 540,
+    "id": "dotnet-maui-github-skills-find-reviewable-pr-skill-md",
+    "name": "find-reviewable-pr",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/find-reviewable-pr",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-find-reviewable-pr-skill-md",
+    "updatedAt": 1768924747,
+    "description": "Finds open PRs in the dotnet/maui and dotnet/docs-maui repositories that are good candidates for review, prioritizing by milestone, priority labels, partner/community status."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/find-reviewable-pr",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/find-reviewable-pr"
+  }
+}

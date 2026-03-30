@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 348,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 348,
+    "id": "agentuity-examples-training-v1-deep-research-v1-agents-skills-agentuity-cli-cloud-vector-delete-namespace-skill-md",
+    "name": "agentuity-cli-cloud-vector-delete-namespace",
+    "author": "agentuity",
+    "stars": 3,
+    "githubUrl": "https://github.com/agentuity/examples/tree/main/training-v1/deep-research-v1/.agents/skills/agentuity-cli-cloud-vector-delete-namespace",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-examples-training-v1-deep-research-v1-agents-skills-agentuity-cli-cloud-vector-delete-namespace-skill-md",
+    "updatedAt": 1766868976,
+    "description": "Delete a vector namespace and all its vectors. Requires authentication. Use for Agentuity cloud platform operations"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "examples",
+    "ref": "main",
+    "relativePath": "training-v1/deep-research-v1/.agents/skills/agentuity-cli-cloud-vector-delete-namespace",
+    "sourceUrl": "https://github.com/agentuity/examples/tree/main/training-v1/deep-research-v1/.agents/skills/agentuity-cli-cloud-vector-delete-namespace"
+  }
+}

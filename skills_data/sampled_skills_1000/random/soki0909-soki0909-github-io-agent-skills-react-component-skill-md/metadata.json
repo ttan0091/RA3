@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 726,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 726,
+    "id": "soki0909-soki0909-github-io-agent-skills-react-component-skill-md",
+    "name": "react-component",
+    "author": "Soki0909",
+    "stars": 0,
+    "githubUrl": "https://github.com/Soki0909/Soki0909.github.io/tree/main/.agent/skills/react-component",
+    "skillUrl": "https://skillsmp.com/skills/soki0909-soki0909-github-io-agent-skills-react-component-skill-md",
+    "updatedAt": 1768645336,
+    "description": "React + TypeScript コンポーネント作成ガイド"
+  },
+  "github": {
+    "owner": "Soki0909",
+    "repo": "Soki0909.github.io",
+    "ref": "main",
+    "relativePath": ".agent/skills/react-component",
+    "sourceUrl": "https://github.com/Soki0909/Soki0909.github.io/tree/main/.agent/skills/react-component"
+  }
+}

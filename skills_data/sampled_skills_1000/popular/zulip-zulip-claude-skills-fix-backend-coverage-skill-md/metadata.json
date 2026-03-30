@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 530,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 530,
+    "id": "zulip-zulip-claude-skills-fix-backend-coverage-skill-md",
+    "name": "fix-backend-coverage",
+    "author": "zulip",
+    "stars": 24572,
+    "githubUrl": "https://github.com/zulip/zulip/tree/main/.claude/skills/fix-backend-coverage",
+    "skillUrl": "https://skillsmp.com/skills/zulip-zulip-claude-skills-fix-backend-coverage-skill-md",
+    "updatedAt": 1770669312,
+    "description": "Fix backend test coverage gaps. Use when CI output or test-backend --coverage reports missing lines, like \"ERROR: path/to/file.py no longer has complete backend test coverage\"."
+  },
+  "github": {
+    "owner": "zulip",
+    "repo": "zulip",
+    "ref": "main",
+    "relativePath": ".claude/skills/fix-backend-coverage",
+    "sourceUrl": "https://github.com/zulip/zulip/tree/main/.claude/skills/fix-backend-coverage"
+  }
+}

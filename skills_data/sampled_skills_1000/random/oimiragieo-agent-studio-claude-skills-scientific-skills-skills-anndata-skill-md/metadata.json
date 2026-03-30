@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 79,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 79,
+    "id": "oimiragieo-agent-studio-claude-skills-scientific-skills-skills-anndata-skill-md",
+    "name": "anndata",
+    "author": "oimiragieo",
+    "stars": 5,
+    "githubUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/scientific-skills/skills/anndata",
+    "skillUrl": "https://skillsmp.com/skills/oimiragieo-agent-studio-claude-skills-scientific-skills-skills-anndata-skill-md",
+    "updatedAt": 1769483079,
+    "description": "Data structure for annotated matrices in single-cell analysis. Use when working with .h5ad files or integrating with the scverse ecosystem. This is the data format skill—for analysis workflows use scanpy; for probabilistic models use scvi-tools; for population-scale queries use cellxgene-census."
+  },
+  "github": {
+    "owner": "oimiragieo",
+    "repo": "agent-studio",
+    "ref": "main",
+    "relativePath": ".claude/skills/scientific-skills/skills/anndata",
+    "sourceUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/scientific-skills/skills/anndata"
+  }
+}

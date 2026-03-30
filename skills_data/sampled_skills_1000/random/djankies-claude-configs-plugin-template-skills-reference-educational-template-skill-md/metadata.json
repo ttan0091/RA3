@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 920,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 920,
+    "id": "djankies-claude-configs-plugin-template-skills-reference-educational-template-skill-md",
+    "name": "reference-educational-template",
+    "author": "djankies",
+    "stars": 0,
+    "githubUrl": "https://github.com/djankies/claude-configs/tree/main/plugin-template/skills/reference-educational-template",
+    "skillUrl": "https://skillsmp.com/skills/djankies-claude-configs-plugin-template-skills-reference-educational-template-skill-md",
+    "updatedAt": 1764089123,
+    "description": "[REPLACE] Teach concepts and demonstrate patterns with examples. Use when [REPLACE with specific triggers]."
+  },
+  "github": {
+    "owner": "djankies",
+    "repo": "claude-configs",
+    "ref": "main",
+    "relativePath": "plugin-template/skills/reference-educational-template",
+    "sourceUrl": "https://github.com/djankies/claude-configs/tree/main/plugin-template/skills/reference-educational-template"
+  }
+}

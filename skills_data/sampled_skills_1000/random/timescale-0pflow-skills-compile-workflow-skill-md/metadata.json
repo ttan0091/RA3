@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 406,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 406,
+    "id": "timescale-0pflow-skills-compile-workflow-skill-md",
+    "name": "compile-workflow",
+    "author": "timescale",
+    "stars": 0,
+    "githubUrl": "https://github.com/timescale/0pflow/tree/main/skills/compile-workflow",
+    "skillUrl": "https://skillsmp.com/skills/timescale-0pflow-skills-compile-workflow-skill-md",
+    "updatedAt": 1770126103,
+    "description": "Compile workflow specs from markdown to TypeScript. Use this after creating or modifying workflow specs."
+  },
+  "github": {
+    "owner": "timescale",
+    "repo": "0pflow",
+    "ref": "main",
+    "relativePath": "skills/compile-workflow",
+    "sourceUrl": "https://github.com/timescale/0pflow/tree/main/skills/compile-workflow"
+  }
+}

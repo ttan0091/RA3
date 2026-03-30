@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 370,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 370,
+    "id": "wshobson-agents-plugins-api-scaffolding-skills-fastapi-templates-skill-md",
+    "name": "fastapi-templates",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/api-scaffolding/skills/fastapi-templates",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-api-scaffolding-skills-fastapi-templates-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/api-scaffolding/skills/fastapi-templates",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/api-scaffolding/skills/fastapi-templates"
+  }
+}

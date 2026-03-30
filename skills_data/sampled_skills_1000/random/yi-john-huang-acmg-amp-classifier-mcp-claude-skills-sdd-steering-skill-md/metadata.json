@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 762,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 762,
+    "id": "yi-john-huang-acmg-amp-classifier-mcp-claude-skills-sdd-steering-skill-md",
+    "name": "sdd-steering",
+    "author": "yi-john-huang",
+    "stars": 2,
+    "githubUrl": "https://github.com/yi-john-huang/acmg-amp-classifier-mcp/tree/develop/.claude/skills/sdd-steering",
+    "skillUrl": "https://skillsmp.com/skills/yi-john-huang-acmg-amp-classifier-mcp-claude-skills-sdd-steering-skill-md",
+    "updatedAt": 1768671617,
+    "description": "Create project-specific steering documents for SDD workflow. Use when setting up project context, documenting technology stack, or establishing project conventions. Invoked via /sdd-steering."
+  },
+  "github": {
+    "owner": "yi-john-huang",
+    "repo": "acmg-amp-classifier-mcp",
+    "ref": "develop",
+    "relativePath": ".claude/skills/sdd-steering",
+    "sourceUrl": "https://github.com/yi-john-huang/acmg-amp-classifier-mcp/tree/develop/.claude/skills/sdd-steering"
+  }
+}

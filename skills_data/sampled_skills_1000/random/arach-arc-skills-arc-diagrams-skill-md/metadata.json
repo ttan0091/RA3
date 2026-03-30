@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 643,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 643,
+    "id": "arach-arc-skills-arc-diagrams-skill-md",
+    "name": "arc-diagrams",
+    "author": "arach",
+    "stars": 3,
+    "githubUrl": "https://github.com/arach/arc/tree/master/skills/arc-diagrams",
+    "skillUrl": "https://skillsmp.com/skills/arach-arc-skills-arc-diagrams-skill-md",
+    "updatedAt": 1768942602,
+    "description": "Create architecture diagrams using Arc's JSON format. Use when asked to \"create an architecture diagram\", \"draw a system diagram\", \"visualize the architecture\", or \"make a diagram of\"."
+  },
+  "github": {
+    "owner": "arach",
+    "repo": "arc",
+    "ref": "master",
+    "relativePath": "skills/arc-diagrams",
+    "sourceUrl": "https://github.com/arach/arc/tree/master/skills/arc-diagrams"
+  }
+}

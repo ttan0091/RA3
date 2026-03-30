@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 81,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 81,
+    "id": "fgarofalo56-suppercharge-microsoft-fabric-github-skills-testing-pytest-advanced-skill-md",
+    "name": "pytest-advanced",
+    "author": "fgarofalo56",
+    "stars": 0,
+    "githubUrl": "https://github.com/fgarofalo56/Suppercharge_Microsoft_Fabric/tree/main/.github/skills/testing/pytest-advanced",
+    "skillUrl": "https://skillsmp.com/skills/fgarofalo56-suppercharge-microsoft-fabric-github-skills-testing-pytest-advanced-skill-md",
+    "updatedAt": 1769193902,
+    "description": "Advanced Python testing with pytest including fixtures, parametrization, mocking, markers, and plugins. Test async code, APIs, and databases. Use for Python testing, test automation, or CI/CD pipelines."
+  },
+  "github": {
+    "owner": "fgarofalo56",
+    "repo": "Suppercharge_Microsoft_Fabric",
+    "ref": "main",
+    "relativePath": ".github/skills/testing/pytest-advanced",
+    "sourceUrl": "https://github.com/fgarofalo56/Suppercharge_Microsoft_Fabric/tree/main/.github/skills/testing/pytest-advanced"
+  }
+}

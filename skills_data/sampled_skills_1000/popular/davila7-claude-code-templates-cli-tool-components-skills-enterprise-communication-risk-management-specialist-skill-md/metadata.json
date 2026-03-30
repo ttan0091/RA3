@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 981,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 981,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-risk-management-specialist-skill-md",
+    "name": "risk-management-specialist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/risk-management-specialist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-risk-management-specialist-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Senior Risk Management specialist for medical device companies implementing ISO 14971 risk management throughout product lifecycle. Provides risk analysis, risk evaluation, risk control, and post-production information analysis. Use for risk management planning, risk assessments, risk control verification, and risk management file maintenance."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/risk-management-specialist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/risk-management-specialist"
+  }
+}

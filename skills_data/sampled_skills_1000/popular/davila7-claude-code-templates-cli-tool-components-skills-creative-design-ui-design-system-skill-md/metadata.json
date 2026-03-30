@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 817,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 817,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-ui-design-system-skill-md",
+    "name": "ui-design-system",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/ui-design-system",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-ui-design-system-skill-md",
+    "updatedAt": 1766196856,
+    "description": "UI design system toolkit for Senior UI Designer including design token generation, component documentation, responsive design calculations, and developer handoff tools. Use for creating design systems, maintaining visual consistency, and facilitating design-dev collaboration."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/ui-design-system",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/ui-design-system"
+  }
+}

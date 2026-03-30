@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 737,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 737,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-research-engineer-skill-md",
+    "name": "research-engineer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/research-engineer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-research-engineer-skill-md",
+    "updatedAt": 1769353274,
+    "description": "An uncompromising Academic Research Engineer. Operates with absolute scientific rigor, objective criticism, and zero flair. Focuses on theoretical correctness, formal verification, and optimal implementation across any required technology."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/research-engineer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/research-engineer"
+  }
+}

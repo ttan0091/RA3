@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 589,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 589,
+    "id": "grimmolf-mga-soap-calculator-claude-skills-backend-api-skill-md",
+    "name": "backend-api",
+    "author": "grimmolf",
+    "stars": 0,
+    "githubUrl": "https://github.com/grimmolf/mga-soap-calculator/tree/main/.claude/skills/backend-api",
+    "skillUrl": "https://skillsmp.com/skills/grimmolf-mga-soap-calculator-claude-skills-backend-api-skill-md",
+    "updatedAt": 1762385993,
+    "description": "Design and implement RESTful API endpoints following REST principles with resource-based URLs, appropriate HTTP methods, and consistent naming conventions. Use this skill when creating or modifying API route handlers, endpoint definitions, or REST controllers in files like routes.py, api.ts, controllers/, handlers/, or when implementing HTTP methods (GET, POST, PUT, PATCH, DELETE). Also applies when working on API versioning, request/response validation, status code handling, rate limiting, or any backend endpoint logic that serves HTTP requests to frontend clients or external systems."
+  },
+  "github": {
+    "owner": "grimmolf",
+    "repo": "mga-soap-calculator",
+    "ref": "main",
+    "relativePath": ".claude/skills/backend-api",
+    "sourceUrl": "https://github.com/grimmolf/mga-soap-calculator/tree/main/.claude/skills/backend-api"
+  }
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="schema" content="https://dmccreary.github.io/intelligent-textbooks/ns/microsim/v1">
+    <title>{{TITLE}}</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Plotly.js CDN -->
+    <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>{{TITLE}}</h1>
+        <p class="subtitle">{{SUBTITLE}}</p>
+
+        <!-- Plot container -->
+        <div id="plot"></div>
+
+        <!-- Interactive controls -->
+        <div class="controls">
+            <label for="x-slider">{{SLIDER_LABEL}}: <span id="slider-value">{{INITIAL_VALUE}}</span></label>
+            <input type="range" id="x-slider" min="{{SLIDER_MIN}}" max="{{SLIDER_MAX}}" step="{{SLIDER_STEP}}" value="{{INITIAL_VALUE}}">
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

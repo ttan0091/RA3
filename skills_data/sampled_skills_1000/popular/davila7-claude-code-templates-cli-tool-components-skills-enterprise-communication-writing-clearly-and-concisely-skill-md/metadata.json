@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 987,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 987,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-writing-clearly-and-concisely-skill-md",
+    "name": "writing-clearly-and-concisely",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/writing-clearly-and-concisely",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-writing-clearly-and-concisely-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Use when writing prose humans will read—documentation, commit messages, error messages, explanations, reports, or UI text. Applies Strunk's timeless rules for clearer, stronger, more professional writing."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/writing-clearly-and-concisely",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/writing-clearly-and-concisely"
+  }
+}

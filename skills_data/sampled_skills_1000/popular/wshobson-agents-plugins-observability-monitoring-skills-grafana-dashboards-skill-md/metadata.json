@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 454,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 454,
+    "id": "wshobson-agents-plugins-observability-monitoring-skills-grafana-dashboards-skill-md",
+    "name": "grafana-dashboards",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/grafana-dashboards",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-observability-monitoring-skills-grafana-dashboards-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or creating operational observability interfaces."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/observability-monitoring/skills/grafana-dashboards",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/grafana-dashboards"
+  }
+}

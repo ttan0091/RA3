@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 804,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 804,
+    "id": "ap3x-dev-ag3nt-skills-app-launcher-skill-md",
+    "name": "app-launcher",
+    "author": "AP3X-Dev",
+    "stars": 2,
+    "githubUrl": "https://github.com/AP3X-Dev/AG3NT/tree/master/skills/app-launcher",
+    "skillUrl": "https://skillsmp.com/skills/ap3x-dev-ag3nt-skills-app-launcher-skill-md",
+    "updatedAt": 1769836044,
+    "description": "Launch applications, open URLs in browser, and list running processes. Requires approval for launching applications."
+  },
+  "github": {
+    "owner": "AP3X-Dev",
+    "repo": "AG3NT",
+    "ref": "master",
+    "relativePath": "skills/app-launcher",
+    "sourceUrl": "https://github.com/AP3X-Dev/AG3NT/tree/master/skills/app-launcher"
+  }
+}

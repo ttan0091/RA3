@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 6,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 6,
+    "id": "involvex-involvex-claude-marketplace-plugins-seo-skills-analytics-interpretation-skill-md",
+    "name": "analytics-interpretation",
+    "author": "involvex",
+    "stars": 1,
+    "githubUrl": "https://github.com/involvex/involvex-claude-marketplace/tree/main/plugins/seo/skills/analytics-interpretation",
+    "skillUrl": "https://skillsmp.com/skills/involvex-involvex-claude-marketplace-plugins-seo-skills-analytics-interpretation-skill-md",
+    "updatedAt": 1766846685,
+    "description": "Interpret GA4, GSC, and SE Ranking data for content optimization.\nProvides benchmarks, status indicators, and actionable insights."
+  },
+  "github": {
+    "owner": "involvex",
+    "repo": "involvex-claude-marketplace",
+    "ref": "main",
+    "relativePath": "plugins/seo/skills/analytics-interpretation",
+    "sourceUrl": "https://github.com/involvex/involvex-claude-marketplace/tree/main/plugins/seo/skills/analytics-interpretation"
+  }
+}

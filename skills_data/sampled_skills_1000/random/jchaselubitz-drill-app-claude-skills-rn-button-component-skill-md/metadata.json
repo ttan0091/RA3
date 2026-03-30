@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 737,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 737,
+    "id": "jchaselubitz-drill-app-claude-skills-rn-button-component-skill-md",
+    "name": "rn-button-component",
+    "author": "jchaselubitz",
+    "stars": 0,
+    "githubUrl": "https://github.com/jchaselubitz/drill-app/tree/main/.claude/skills/rn-button-component",
+    "skillUrl": "https://skillsmp.com/skills/jchaselubitz-drill-app-claude-skills-rn-button-component-skill-md",
+    "updatedAt": 1769100825,
+    "description": "Ensures buttons use the unified Button component with proper state management, icon support, and glass effect integration. Apply when creating or modifying buttons in the app."
+  },
+  "github": {
+    "owner": "jchaselubitz",
+    "repo": "drill-app",
+    "ref": "main",
+    "relativePath": ".claude/skills/rn-button-component",
+    "sourceUrl": "https://github.com/jchaselubitz/drill-app/tree/main/.claude/skills/rn-button-component"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 147,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 147,
+    "id": "datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-1-ddc-toolkit-cwicr-database-cwicr-material-procurement-skill-md",
+    "name": "cwicr-material-procurement",
+    "author": "datadrivenconstruction",
+    "stars": 18,
+    "githubUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/1_DDC_Toolkit/CWICR-Database/cwicr-material-procurement",
+    "skillUrl": "https://skillsmp.com/skills/datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-1-ddc-toolkit-cwicr-database-cwicr-material-procurement-skill-md",
+    "updatedAt": 1769681759,
+    "description": "Generate material procurement lists from CWICR data. Calculate quantities with waste factors, group by supplier categories, and create purchase orders."
+  },
+  "github": {
+    "owner": "datadrivenconstruction",
+    "repo": "DDC_Skills_for_AI_Agents_in_Construction",
+    "ref": "main",
+    "relativePath": "1_DDC_Toolkit/CWICR-Database/cwicr-material-procurement",
+    "sourceUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/1_DDC_Toolkit/CWICR-Database/cwicr-material-procurement"
+  }
+}

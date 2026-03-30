@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 423,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 423,
+    "id": "wshobson-agents-plugins-framework-migration-skills-dependency-upgrade-skill-md",
+    "name": "dependency-upgrade",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-framework-migration-skills-dependency-upgrade-skill-md",
+    "updatedAt": 1769997861,
+    "description": "Manage major dependency version upgrades with compatibility analysis, staged rollout, and comprehensive testing. Use when upgrading framework versions, updating major dependencies, or managing breaking changes in libraries."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/framework-migration/skills/dependency-upgrade",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/framework-migration/skills/dependency-upgrade"
+  }
+}

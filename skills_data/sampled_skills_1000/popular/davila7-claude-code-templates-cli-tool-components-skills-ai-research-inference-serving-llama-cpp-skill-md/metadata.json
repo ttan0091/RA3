@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 670,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 670,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-inference-serving-llama-cpp-skill-md",
+    "name": "llama-cpp",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/inference-serving-llama-cpp",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-inference-serving-llama-cpp-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardware. Use for edge deployment, M1/M2/M3 Macs, AMD/Intel GPUs, or when CUDA is unavailable. Supports GGUF quantization (1.5-8 bit) for reduced memory and 4-10× speedup vs PyTorch on CPU."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/inference-serving-llama-cpp",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/inference-serving-llama-cpp"
+  }
+}

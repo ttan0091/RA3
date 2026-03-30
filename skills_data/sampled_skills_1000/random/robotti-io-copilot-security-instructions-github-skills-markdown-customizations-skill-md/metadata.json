@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 539,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 539,
+    "id": "robotti-io-copilot-security-instructions-github-skills-markdown-customizations-skill-md",
+    "name": "markdown-customizations",
+    "author": "Robotti-io",
+    "stars": 32,
+    "githubUrl": "https://github.com/Robotti-io/copilot-security-instructions/tree/main/.github/skills/markdown-customizations",
+    "skillUrl": "https://skillsmp.com/skills/robotti-io-copilot-security-instructions-github-skills-markdown-customizations-skill-md",
+    "updatedAt": 1769289491,
+    "description": "Use this skill when creating or editing GitHub Copilot customization Markdown files (agent profiles, prompt files, instruction files, and skills)."
+  },
+  "github": {
+    "owner": "Robotti-io",
+    "repo": "copilot-security-instructions",
+    "ref": "main",
+    "relativePath": ".github/skills/markdown-customizations",
+    "sourceUrl": "https://github.com/Robotti-io/copilot-security-instructions/tree/main/.github/skills/markdown-customizations"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 324,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 324,
+    "id": "paulbreuler-runi-claude-skills-comprehensive-tdd-planning-skill-md",
+    "name": "comprehensive-tdd-planning",
+    "author": "paulbreuler",
+    "stars": 10,
+    "githubUrl": "https://github.com/paulbreuler/runi/tree/main/.claude/skills/comprehensive-tdd-planning",
+    "skillUrl": "https://skillsmp.com/skills/paulbreuler-runi-claude-skills-comprehensive-tdd-planning-skill-md",
+    "updatedAt": 1769912832,
+    "description": "TDD planning with agent-per-file execution. Planning is verbose. Agent files are minimal execution context."
+  },
+  "github": {
+    "owner": "paulbreuler",
+    "repo": "runi",
+    "ref": "main",
+    "relativePath": ".claude/skills/comprehensive-tdd-planning",
+    "sourceUrl": "https://github.com/paulbreuler/runi/tree/main/.claude/skills/comprehensive-tdd-planning"
+  }
+}

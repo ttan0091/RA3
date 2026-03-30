@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 730,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 730,
+    "id": "pbh-btn-peerbanhelper-claude-skills-openspec-sync-specs-skill-md",
+    "name": "openspec-sync-specs",
+    "author": "PBH-BTN",
+    "stars": 5692,
+    "githubUrl": "https://github.com/PBH-BTN/PeerBanHelper/tree/master/.claude/skills/openspec-sync-specs",
+    "skillUrl": "https://skillsmp.com/skills/pbh-btn-peerbanhelper-claude-skills-openspec-sync-specs-skill-md",
+    "updatedAt": 1770013833,
+    "description": "Sync delta specs from a change to main specs. Use when the user wants to update main specs with changes from a delta spec, without archiving the change."
+  },
+  "github": {
+    "owner": "PBH-BTN",
+    "repo": "PeerBanHelper",
+    "ref": "master",
+    "relativePath": ".claude/skills/openspec-sync-specs",
+    "sourceUrl": "https://github.com/PBH-BTN/PeerBanHelper/tree/master/.claude/skills/openspec-sync-specs"
+  }
+}

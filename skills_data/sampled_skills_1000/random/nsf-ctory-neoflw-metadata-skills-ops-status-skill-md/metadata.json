@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 514,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 514,
+    "id": "nsf-ctory-neoflw-metadata-skills-ops-status-skill-md",
+    "name": "ops-status",
+    "author": "nsf-ctory",
+    "stars": 0,
+    "githubUrl": "https://github.com/nsf-ctory/neoflw-metadata/tree/main/skills/ops-status",
+    "skillUrl": "https://skillsmp.com/skills/nsf-ctory-neoflw-metadata-skills-ops-status-skill-md",
+    "updatedAt": 1770003158,
+    "description": "Report on the operational status of the Moltbot ecosystem"
+  },
+  "github": {
+    "owner": "nsf-ctory",
+    "repo": "neoflw-metadata",
+    "ref": "main",
+    "relativePath": "skills/ops-status",
+    "sourceUrl": "https://github.com/nsf-ctory/neoflw-metadata/tree/main/skills/ops-status"
+  }
+}

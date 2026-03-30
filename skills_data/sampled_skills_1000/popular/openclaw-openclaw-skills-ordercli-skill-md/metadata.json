@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 44,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 44,
+    "id": "openclaw-openclaw-skills-ordercli-skill-md",
+    "name": "ordercli",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/ordercli",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-ordercli-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Foodora-only CLI for checking past orders and active order status (Deliveroo WIP)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/ordercli",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/ordercli"
+  }
+}

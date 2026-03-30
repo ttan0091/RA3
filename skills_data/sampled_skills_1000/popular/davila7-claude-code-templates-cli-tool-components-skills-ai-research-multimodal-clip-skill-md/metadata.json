@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 697,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 697,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-clip-skill-md",
+    "name": "clip",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-clip",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-clip-skill-md",
+    "updatedAt": 1767882269,
+    "description": "OpenAI's model connecting vision and language. Enables zero-shot image classification, image-text matching, and cross-modal retrieval. Trained on 400M image-text pairs. Use for image search, content moderation, or vision-language tasks without fine-tuning. Best for general-purpose image understanding."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/multimodal-clip",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-clip"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 848,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 848,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-clean-code-skill-md",
+    "name": "clean-code",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/clean-code",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-clean-code-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Pragmatic coding standards - concise, direct, no over-engineering, no unnecessary comments"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/clean-code",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/clean-code"
+  }
+}

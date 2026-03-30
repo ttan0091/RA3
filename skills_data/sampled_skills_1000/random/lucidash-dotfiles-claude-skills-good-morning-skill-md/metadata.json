@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 806,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 806,
+    "id": "lucidash-dotfiles-claude-skills-good-morning-skill-md",
+    "name": "good-morning",
+    "author": "lucidash",
+    "stars": 5,
+    "githubUrl": "https://github.com/lucidash/dotfiles/tree/master/claude/skills/good-morning",
+    "skillUrl": "https://skillsmp.com/skills/lucidash-dotfiles-claude-skills-good-morning-skill-md",
+    "updatedAt": 1769662790,
+    "description": "출근 시 오늘 할 일을 분석할 때, 아침에 업무 현황을 파악할 때, 하루 시작할 때 사용. \"굿모닝\", \"오늘 뭐해야 돼\", \"출근했어\" 같은 요청에 자동으로 활성화됩니다."
+  },
+  "github": {
+    "owner": "lucidash",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": "claude/skills/good-morning",
+    "sourceUrl": "https://github.com/lucidash/dotfiles/tree/master/claude/skills/good-morning"
+  }
+}

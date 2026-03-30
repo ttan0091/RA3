@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 622,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 622,
+    "id": "fwojciec-jira4claude-claude-skills-jira-workflow-skill-md",
+    "name": "jira-workflow",
+    "author": "fwojciec",
+    "stars": 2,
+    "githubUrl": "https://github.com/fwojciec/jira4claude/tree/main/.claude/skills/jira-workflow",
+    "skillUrl": "https://skillsmp.com/skills/fwojciec-jira4claude-claude-skills-jira-workflow-skill-md",
+    "updatedAt": 1767573044,
+    "description": "Manage project tasks via Jira API using j4c. Use for ALL Jira project management tasks including creating tasks, checking ready work, linking dependencies, transitioning status, or adding comments."
+  },
+  "github": {
+    "owner": "fwojciec",
+    "repo": "jira4claude",
+    "ref": "main",
+    "relativePath": ".claude/skills/jira-workflow",
+    "sourceUrl": "https://github.com/fwojciec/jira4claude/tree/main/.claude/skills/jira-workflow"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 851,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 851,
+    "id": "trevor-scheer-graphql-analyzer-claude-skills-create-pr-skill-md",
+    "name": "create-pr",
+    "author": "trevor-scheer",
+    "stars": 0,
+    "githubUrl": "https://github.com/trevor-scheer/graphql-analyzer/tree/main/.claude/skills/create-pr",
+    "skillUrl": "https://skillsmp.com/skills/trevor-scheer-graphql-analyzer-claude-skills-create-pr-skill-md",
+    "updatedAt": 1770257388,
+    "description": "Create pull requests following project standards. Use when opening a PR, preparing changes for review, or running gh pr create."
+  },
+  "github": {
+    "owner": "trevor-scheer",
+    "repo": "graphql-analyzer",
+    "ref": "main",
+    "relativePath": ".claude/skills/create-pr",
+    "sourceUrl": "https://github.com/trevor-scheer/graphql-analyzer/tree/main/.claude/skills/create-pr"
+  }
+}

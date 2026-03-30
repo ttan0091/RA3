@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 34,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 34,
+    "id": "openclaw-openclaw-skills-model-usage-skill-md",
+    "name": "model-usage",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/model-usage",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-model-usage-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Use CodexBar CLI local cost usage to summarize per-model usage for Codex or Claude, including the current (most recent) model or a full model breakdown. Trigger when asked for model-level usage/cost data from codexbar, or when you need a scriptable per-model summary from codexbar cost JSON."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/model-usage",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/model-usage"
+  }
+}

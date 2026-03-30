@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 314,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 314,
+    "id": "remotion-dev-remotion-claude-skills-video-report-skill-md",
+    "name": "video-report",
+    "author": "remotion-dev",
+    "stars": 36019,
+    "githubUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/video-report",
+    "skillUrl": "https://skillsmp.com/skills/remotion-dev-remotion-claude-skills-video-report-skill-md",
+    "updatedAt": 1769420905,
+    "description": "Generate a report about a video"
+  },
+  "github": {
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "ref": "main",
+    "relativePath": ".claude/skills/video-report",
+    "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/video-report"
+  }
+}

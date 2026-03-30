@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 701,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 701,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-whisper-skill-md",
+    "name": "whisper",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-whisper",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-whisper-skill-md",
+    "updatedAt": 1767882269,
+    "description": "OpenAI's general-purpose speech recognition model. Supports 99 languages, transcription, translation to English, and language identification. Six model sizes from tiny (39M params) to large (1550M params). Use for speech-to-text, podcast transcription, or multilingual audio processing. Best for robust, multilingual ASR."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/multimodal-whisper",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-whisper"
+  }
+}

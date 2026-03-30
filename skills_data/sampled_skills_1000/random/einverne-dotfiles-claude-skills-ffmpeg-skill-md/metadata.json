@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 140,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 140,
+    "id": "einverne-dotfiles-claude-skills-ffmpeg-skill-md",
+    "name": "ffmpeg",
+    "author": "einverne",
+    "stars": 116,
+    "githubUrl": "https://github.com/einverne/dotfiles/tree/master/claude/skills/ffmpeg",
+    "skillUrl": "https://skillsmp.com/skills/einverne-dotfiles-claude-skills-ffmpeg-skill-md",
+    "updatedAt": 1765272505,
+    "description": "Guide for using FFmpeg - a comprehensive multimedia framework for video/audio encoding, conversion, streaming, and filtering. Use when processing media files, converting formats, extracting audio, creating streams, applying filters, or optimizing video/audio quality."
+  },
+  "github": {
+    "owner": "einverne",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": "claude/skills/ffmpeg",
+    "sourceUrl": "https://github.com/einverne/dotfiles/tree/master/claude/skills/ffmpeg"
+  }
+}

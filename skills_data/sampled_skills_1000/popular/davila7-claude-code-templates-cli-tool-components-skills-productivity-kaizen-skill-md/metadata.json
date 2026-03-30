@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 1000,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 1000,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-kaizen-skill-md",
+    "name": "kaizen",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/kaizen",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-kaizen-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/kaizen",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/kaizen"
+  }
+}

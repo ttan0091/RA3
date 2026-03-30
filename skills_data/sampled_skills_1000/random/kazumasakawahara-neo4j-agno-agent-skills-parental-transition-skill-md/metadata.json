@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 989,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 989,
+    "id": "kazumasakawahara-neo4j-agno-agent-skills-parental-transition-skill-md",
+    "name": "parental-transition",
+    "author": "kazumasakawahara",
+    "stars": 0,
+    "githubUrl": "https://github.com/kazumasakawahara/neo4j-agno-agent/tree/main/skills/parental_transition",
+    "skillUrl": "https://skillsmp.com/skills/kazumasakawahara-neo4j-agno-agent-skills-parental-transition-skill-md",
+    "updatedAt": 1769855006,
+    "description": "Manage the transition of care roles when a key person (parent) becomes unable to fulfill them."
+  },
+  "github": {
+    "owner": "kazumasakawahara",
+    "repo": "neo4j-agno-agent",
+    "ref": "main",
+    "relativePath": "skills/parental_transition",
+    "sourceUrl": "https://github.com/kazumasakawahara/neo4j-agno-agent/tree/main/skills/parental_transition"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 286,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 286,
+    "id": "liveloveapp-hashbrown-codex-skills-ideate-skill-md",
+    "name": "ideate",
+    "author": "liveloveapp",
+    "stars": 602,
+    "githubUrl": "https://github.com/liveloveapp/hashbrown/tree/main/.codex/skills/ideate",
+    "skillUrl": "https://skillsmp.com/skills/liveloveapp-hashbrown-codex-skills-ideate-skill-md",
+    "updatedAt": 1769391425,
+    "description": "Capture and document a new idea in this repo. Use when the user says things like \"help me brainstorm\", \"I have an idea\", or \"let's capture this for the future\" and wants it recorded in `design/ideas/` with a summary, supporting research (repo context + web if useful), and a sketch."
+  },
+  "github": {
+    "owner": "liveloveapp",
+    "repo": "hashbrown",
+    "ref": "main",
+    "relativePath": ".codex/skills/ideate",
+    "sourceUrl": "https://github.com/liveloveapp/hashbrown/tree/main/.codex/skills/ideate"
+  }
+}

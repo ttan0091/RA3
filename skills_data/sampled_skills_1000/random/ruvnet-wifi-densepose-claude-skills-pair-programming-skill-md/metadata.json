@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 614,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 614,
+    "id": "ruvnet-wifi-densepose-claude-skills-pair-programming-skill-md",
+    "name": "pair-programming",
+    "author": "ruvnet",
+    "stars": 5845,
+    "githubUrl": "https://github.com/ruvnet/wifi-densepose/tree/main/.claude/skills/pair-programming",
+    "skillUrl": "https://skillsmp.com/skills/ruvnet-wifi-densepose-claude-skills-pair-programming-skill-md",
+    "updatedAt": 1768415618,
+    "description": "AI-assisted pair programming with multiple modes (driver/navigator/switch), real-time verification, quality monitoring, and comprehensive testing. Supports TDD, debugging, refactoring, and learning sessions. Features automatic role switching, continuous code review, security scanning, and performance optimization with truth-score verification."
+  },
+  "github": {
+    "owner": "ruvnet",
+    "repo": "wifi-densepose",
+    "ref": "main",
+    "relativePath": ".claude/skills/pair-programming",
+    "sourceUrl": "https://github.com/ruvnet/wifi-densepose/tree/main/.claude/skills/pair-programming"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 432,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 432,
+    "id": "yoshiwatanabe-agent-patterns-claude-skills-task-organizer-skill-md",
+    "name": "task-organizer",
+    "author": "yoshiwatanabe",
+    "stars": 1,
+    "githubUrl": "https://github.com/yoshiwatanabe/agent-patterns/tree/main/.claude/skills/task-organizer",
+    "skillUrl": "https://skillsmp.com/skills/yoshiwatanabe-agent-patterns-claude-skills-task-organizer-skill-md",
+    "updatedAt": 1766560171,
+    "description": "Track and manage tasks, projects, and tags using a SQLite-backed task tracking system. Use for task creation, project planning, todo lists, and productivity workflows."
+  },
+  "github": {
+    "owner": "yoshiwatanabe",
+    "repo": "agent-patterns",
+    "ref": "main",
+    "relativePath": ".claude/skills/task-organizer",
+    "sourceUrl": "https://github.com/yoshiwatanabe/agent-patterns/tree/main/.claude/skills/task-organizer"
+  }
+}

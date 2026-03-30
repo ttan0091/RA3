@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 751,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 751,
+    "id": "pepegar-nix-home-skills-zellij-skill-md",
+    "name": "zellij",
+    "author": "pepegar",
+    "stars": 0,
+    "githubUrl": "https://github.com/pepegar/nix-home/tree/main/skills/zellij",
+    "skillUrl": "https://skillsmp.com/skills/pepegar-nix-home-skills-zellij-skill-md",
+    "updatedAt": 1770027792,
+    "description": "Control Zellij terminal multiplexer from Claude Code. Use when the user asks to create panes, tabs, run commands in new panes, manage terminal layout, or interact with the Zellij workspace."
+  },
+  "github": {
+    "owner": "pepegar",
+    "repo": "nix-home",
+    "ref": "main",
+    "relativePath": "skills/zellij",
+    "sourceUrl": "https://github.com/pepegar/nix-home/tree/main/skills/zellij"
+  }
+}

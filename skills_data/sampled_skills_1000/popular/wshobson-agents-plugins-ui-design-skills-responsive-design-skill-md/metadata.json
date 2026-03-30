@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 505,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 505,
+    "id": "wshobson-agents-plugins-ui-design-skills-responsive-design-skill-md",
+    "name": "responsive-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/responsive-design",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-responsive-design-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement modern responsive layouts using container queries, fluid typography, CSS Grid, and mobile-first breakpoint strategies. Use when building adaptive interfaces, implementing fluid layouts, or creating component-level responsive behavior."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/responsive-design",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/responsive-design"
+  }
+}

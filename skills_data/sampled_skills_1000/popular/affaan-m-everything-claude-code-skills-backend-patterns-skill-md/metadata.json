@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 259,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 259,
+    "id": "affaan-m-everything-claude-code-skills-backend-patterns-skill-md",
+    "name": "backend-patterns",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/backend-patterns",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-skills-backend-patterns-skill-md",
+    "updatedAt": 1769384628,
+    "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes."
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "skills/backend-patterns",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/backend-patterns"
+  }
+}

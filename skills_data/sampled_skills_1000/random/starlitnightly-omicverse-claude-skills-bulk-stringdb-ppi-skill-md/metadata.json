@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 802,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 802,
+    "id": "starlitnightly-omicverse-claude-skills-bulk-stringdb-ppi-skill-md",
+    "name": "string-protein-interaction-analysis-with-omicverse",
+    "author": "Starlitnightly",
+    "stars": 834,
+    "githubUrl": "https://github.com/Starlitnightly/omicverse/tree/master/.claude/skills/bulk-stringdb-ppi",
+    "skillUrl": "https://skillsmp.com/skills/starlitnightly-omicverse-claude-skills-bulk-stringdb-ppi-skill-md",
+    "updatedAt": 1761564617,
+    "description": "Help Claude query STRING for protein interactions, build PPI graphs with pyPPI, and render styled network figures for bulk gene lists."
+  },
+  "github": {
+    "owner": "Starlitnightly",
+    "repo": "omicverse",
+    "ref": "master",
+    "relativePath": ".claude/skills/bulk-stringdb-ppi",
+    "sourceUrl": "https://github.com/Starlitnightly/omicverse/tree/master/.claude/skills/bulk-stringdb-ppi"
+  }
+}

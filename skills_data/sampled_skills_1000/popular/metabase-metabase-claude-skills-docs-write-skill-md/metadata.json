@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 193,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 193,
+    "id": "metabase-metabase-claude-skills-docs-write-skill-md",
+    "name": "docs-write",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/docs-write",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-docs-write-skill-md",
+    "updatedAt": 1770740877,
+    "description": "Write documentation following Metabase's conversational, clear, and user-focused style. Use when creating or editing documentation files (markdown, MDX, etc.)."
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/docs-write",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/docs-write"
+  }
+}

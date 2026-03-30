@@ -1,0 +1,133 @@
+# Performance Trace Playbook
+# Duration: 5 minutes
+# Purpose: Record performance trace, analyze Core Web Vitals, get AI insights
+
+## Step 1: Start Performance Trace
+print("🔄 Starting performance trace...")
+performance_start_trace({
+    reload: true,      # Reload page and record
+    autoStop: true     # Auto-stop after page load
+})
+
+## Step 2: Navigate to page being profiled
+navigate_page({ url: "http://localhost:8080/dashboard" })
+print("✅ Page loaded - trace recording...")
+
+## Step 3: Wait for page to fully load
+wait_for({ time: 3000 })
+
+## Step 4: Stop trace
+print("⏹️  Stopping trace...")
+performance_stop_trace()
+print("✅ Trace complete")
+
+## Step 5: Get Core Web Vitals insights
+
+# Largest Contentful Paint (LCP)
+print("\n📊 Analyzing LCP (Largest Contentful Paint)...")
+lcp_insight = performance_analyze_insight({
+    insightName: "LCPBreakdown"
+})
+print(f"LCP Insight: {lcp_insight}")
+
+# Cumulative Layout Shift (CLS)
+print("\n📊 Analyzing CLS (Cumulative Layout Shift)...")
+cls_insight = performance_analyze_insight({
+    insightName: "CLSCulprits"
+})
+print(f"CLS Insight: {cls_insight}")
+
+# Document Latency
+print("\n📊 Analyzing Document Latency...")
+doc_insight = performance_analyze_insight({
+    insightName: "DocumentLatency"
+})
+print(f"Document Latency: {doc_insight}")
+
+# Render Blocking Resources
+print("\n📊 Analyzing Render Blocking...")
+render_insight = performance_analyze_insight({
+    insightName: "RenderBlocking"
+})
+print(f"Render Blocking: {render_insight}")
+
+# Slow CSS Selectors (if any)
+print("\n📊 Analyzing CSS Performance...")
+try:
+    css_insight = performance_analyze_insight({
+        insightName: "SlowCSSSelector"
+    })
+    print(f"CSS Insight: {css_insight}")
+except:
+    print("No slow CSS selectors detected")
+
+## Step 6: Take screenshot of final state
+take_screenshot({ filename: "performance-dashboard.png" })
+
+## Step 7: Check network requests
+requests = list_network_requests()
+print(f"\nNetwork Summary:")
+print(f"  - Total requests: {len(requests)}")
+
+# Categorize by type
+types = {}
+for req in requests:
+    t = req.get('type', 'other')
+    types[t] = types.get(t, 0) + 1
+
+for type, count in types.items():
+    print(f"  - {type}: {count}")
+
+# Find slowest requests
+slow_requests = filter(lambda r: r.get('duration', 0) > 1000, requests)
+if len(slow_requests) > 0:
+    print(f"\n⚠️  Slow requests (>1s):")
+    for req in slow_requests:
+        print(f"  - {req['url']}: {req['duration']}ms")
+
+## Step 8: Check console for errors
+errors = list_console_messages()
+if len(errors) > 0:
+    print(f"\n⚠️  Console errors: {len(errors)}")
+else:
+    print("\n✅ No console errors")
+
+## Step 9: Network Performance Test with Throttling
+print("\n🔄 Testing on Slow 3G...")
+
+# Emulate slow network
+emulate_network({ throttlingOption: "Slow 3G" })
+
+# Navigate again
+navigate_page({ url: "http://localhost:8080/dashboard" })
+wait_for({ time: 2000 })
+
+# Check load time
+throttled_requests = list_network_requests()
+page_load = filter(lambda r: r.get('type') == 'document', throttled_requests)[0]
+print(f"Load time on Slow 3G: {page_load.get('duration', 'N/A')}ms")
+
+# Reset throttling
+emulate_network({ throttlingOption: "No emulation" })
+print("✅ Network throttling reset")
+
+## Result
+print("\n" + "="*60)
+print("✅ PERFORMANCE TRACE COMPLETE")
+print("="*60)
+print("\nKey Findings:")
+print(f"  - LCP: {lcp_insight.get('summary', 'N/A')}")
+print(f"  - CLS: {cls_insight.get('summary', 'N/A')}")
+print(f"  - Document Latency: {doc_insight.get('summary', 'N/A')}")
+print(f"  - Render Blocking: {render_insight.get('summary', 'N/A')}")
+print(f"  - Total Requests: {len(requests)}")
+print(f"  - Slow Requests: {len(slow_requests)}")
+print(f"  - Console Errors: {len(errors)}")
+
+print("\n💡 Recommendations:")
+print("  1. Review LCP insights for optimization opportunities")
+print("  2. Fix any CLS issues for better user experience")
+print("  3. Reduce render-blocking resources")
+print("  4. Optimize slow network requests")
+
+print("\n📸 Screenshot saved: performance-dashboard.png")

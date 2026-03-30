@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 154,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 154,
+    "id": "fabriqaai-specs-md-src-flows-fire-agents-planner-skills-design-doc-generate-skill-md",
+    "name": "design-doc-generate",
+    "author": "fabriqaai",
+    "stars": 46,
+    "githubUrl": "https://github.com/fabriqaai/specs.md/tree/main/src/flows/fire/agents/planner/skills/design-doc-generate",
+    "skillUrl": "https://skillsmp.com/skills/fabriqaai-specs-md-src-flows-fire-agents-planner-skills-design-doc-generate-skill-md",
+    "updatedAt": 1769241761,
+    "description": "Generate design documents for Validate mode work items (Checkpoint 1). Required for high-complexity items."
+  },
+  "github": {
+    "owner": "fabriqaai",
+    "repo": "specs.md",
+    "ref": "main",
+    "relativePath": "src/flows/fire/agents/planner/skills/design-doc-generate",
+    "sourceUrl": "https://github.com/fabriqaai/specs.md/tree/main/src/flows/fire/agents/planner/skills/design-doc-generate"
+  }
+}

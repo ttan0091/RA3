@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 293,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 293,
+    "id": "zhayujie-chatgpt-on-wechat-skills-linkai-agent-skill-md",
+    "name": "linkai-agent",
+    "author": "zhayujie",
+    "stars": 41220,
+    "githubUrl": "https://github.com/zhayujie/chatgpt-on-wechat/tree/master/skills/linkai-agent",
+    "skillUrl": "https://skillsmp.com/skills/zhayujie-chatgpt-on-wechat-skills-linkai-agent-skill-md",
+    "updatedAt": 1770004133,
+    "description": "Call LinkAI applications and workflows. Use bash command to execute like 'bash <base_dir>/scripts/call.sh <app_code> <question>'."
+  },
+  "github": {
+    "owner": "zhayujie",
+    "repo": "chatgpt-on-wechat",
+    "ref": "master",
+    "relativePath": "skills/linkai-agent",
+    "sourceUrl": "https://github.com/zhayujie/chatgpt-on-wechat/tree/master/skills/linkai-agent"
+  }
+}

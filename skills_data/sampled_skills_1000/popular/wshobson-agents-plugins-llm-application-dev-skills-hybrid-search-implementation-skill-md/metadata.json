@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 445,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 445,
+    "id": "wshobson-agents-plugins-llm-application-dev-skills-hybrid-search-implementation-skill-md",
+    "name": "hybrid-search-implementation",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/hybrid-search-implementation",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-hybrid-search-implementation-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/llm-application-dev/skills/hybrid-search-implementation",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/hybrid-search-implementation"
+  }
+}

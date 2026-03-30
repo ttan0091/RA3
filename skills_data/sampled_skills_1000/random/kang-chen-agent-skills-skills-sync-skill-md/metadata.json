@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 26,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 26,
+    "id": "kang-chen-agent-skills-skills-sync-skill-md",
+    "name": "skills-sync",
+    "author": "Kang-chen",
+    "stars": 1,
+    "githubUrl": "https://github.com/Kang-chen/Agent-skills/tree/main/skills-sync",
+    "skillUrl": "https://skillsmp.com/skills/kang-chen-agent-skills-skills-sync-skill-md",
+    "updatedAt": 1768749210,
+    "description": "DEPRECATED - Use skill-manager instead. This skill is kept for backward compatibility. For syncing skills: use 'skills sync' from skill-manager."
+  },
+  "github": {
+    "owner": "Kang-chen",
+    "repo": "Agent-skills",
+    "ref": "main",
+    "relativePath": "skills-sync",
+    "sourceUrl": "https://github.com/Kang-chen/Agent-skills/tree/main/skills-sync"
+  }
+}

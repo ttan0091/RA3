@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 862,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 862,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-dependency-updater-skill-md",
+    "name": "dependency-updater",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/dependency-updater",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-dependency-updater-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Smart dependency management for any language. Auto-detects project type, applies safe updates automatically, prompts for major versions, diagnoses and fixes dependency issues."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/dependency-updater",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/dependency-updater"
+  }
+}

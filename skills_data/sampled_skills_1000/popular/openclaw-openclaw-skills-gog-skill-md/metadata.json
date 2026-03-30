@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 28,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 28,
+    "id": "openclaw-openclaw-skills-gog-skill-md",
+    "name": "gog",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gog",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-gog-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Google Workspace CLI for Gmail, Calendar, Drive, Contacts, Sheets, and Docs."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/gog",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gog"
+  }
+}

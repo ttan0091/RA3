@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 952,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 952,
+    "id": "phrazzld-claude-config-skills-check-production-skill-md",
+    "name": "check-production",
+    "author": "phrazzld",
+    "stars": 3,
+    "githubUrl": "https://github.com/phrazzld/claude-config/tree/master/skills/check-production",
+    "skillUrl": "https://skillsmp.com/skills/phrazzld-claude-config-skills-check-production-skill-md",
+    "updatedAt": 1770320025,
+    "description": "Check production health: Sentry errors, Vercel logs, health endpoints, GitHub CI/CD.\nOutputs structured findings. Use log-production-issues to create issues.\nInvoke for: production diagnostics, error audit, health status, CI failures."
+  },
+  "github": {
+    "owner": "phrazzld",
+    "repo": "claude-config",
+    "ref": "master",
+    "relativePath": "skills/check-production",
+    "sourceUrl": "https://github.com/phrazzld/claude-config/tree/master/skills/check-production"
+  }
+}

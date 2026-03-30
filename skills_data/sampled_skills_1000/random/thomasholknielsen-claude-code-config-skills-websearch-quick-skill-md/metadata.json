@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 265,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 265,
+    "id": "thomasholknielsen-claude-code-config-skills-websearch-quick-skill-md",
+    "name": "websearch-quick",
+    "author": "thomasholknielsen",
+    "stars": 4,
+    "githubUrl": "https://github.com/thomasholknielsen/claude-code-config/tree/master/skills/websearch-quick",
+    "skillUrl": "https://skillsmp.com/skills/thomasholknielsen-claude-code-config-skills-websearch-quick-skill-md",
+    "updatedAt": 1763468110,
+    "description": "Fast, targeted single-pass search strategy for simple factual lookups. 1-iteration workflow with authoritative source verification and minimal citations. Use for version lookups, documentation finding, simple definitions, existence checks. Keywords: what version, find docs, link to, what is, does X support."
+  },
+  "github": {
+    "owner": "thomasholknielsen",
+    "repo": "claude-code-config",
+    "ref": "master",
+    "relativePath": "skills/websearch-quick",
+    "sourceUrl": "https://github.com/thomasholknielsen/claude-code-config/tree/master/skills/websearch-quick"
+  }
+}

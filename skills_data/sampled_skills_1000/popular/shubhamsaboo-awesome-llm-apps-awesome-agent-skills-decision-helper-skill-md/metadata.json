@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 101,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 101,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-decision-helper-skill-md",
+    "name": "decision-helper",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/decision-helper",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-decision-helper-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Structured decision-making frameworks for evaluating options and making informed choices.\nUse when: making decisions, evaluating options, weighing trade-offs, or when user needs help\nchoosing between alternatives, analyzing pros/cons, or making structured decisions."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/decision-helper",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/decision-helper"
+  }
+}

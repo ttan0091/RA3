@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 538,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 538,
+    "id": "livewire-livewire-claude-skills-summarize-activity-skill-md",
+    "name": "summarize-activity",
+    "author": "livewire",
+    "stars": 23433,
+    "githubUrl": "https://github.com/livewire/livewire/tree/main/.claude/skills/summarize-activity",
+    "skillUrl": "https://skillsmp.com/skills/livewire-livewire-claude-skills-summarize-activity-skill-md",
+    "updatedAt": 1770589328,
+    "description": "Summarize recent GitHub activity — discussions, PRs, issues, events, traffic — into an actionable report so you can stay on top of the project without reading everything."
+  },
+  "github": {
+    "owner": "livewire",
+    "repo": "livewire",
+    "ref": "main",
+    "relativePath": ".claude/skills/summarize-activity",
+    "sourceUrl": "https://github.com/livewire/livewire/tree/main/.claude/skills/summarize-activity"
+  }
+}

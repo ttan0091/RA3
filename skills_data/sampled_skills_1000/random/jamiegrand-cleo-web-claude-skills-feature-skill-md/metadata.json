@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 662,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 662,
+    "id": "jamiegrand-cleo-web-claude-skills-feature-skill-md",
+    "name": "feature",
+    "author": "jamiegrand",
+    "stars": 0,
+    "githubUrl": "https://github.com/jamiegrand/cleo-web/tree/main/.claude/skills/feature",
+    "skillUrl": "https://skillsmp.com/skills/jamiegrand-cleo-web-claude-skills-feature-skill-md",
+    "updatedAt": 1769345614,
+    "description": "Spec-driven feature development workflow with documentation consultation"
+  },
+  "github": {
+    "owner": "jamiegrand",
+    "repo": "cleo-web",
+    "ref": "main",
+    "relativePath": ".claude/skills/feature",
+    "sourceUrl": "https://github.com/jamiegrand/cleo-web/tree/main/.claude/skills/feature"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 813,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 813,
+    "id": "gavin-qiao-codebase-to-wiki-codebase-to-wiki-skill-md",
+    "name": "codebase-to-wiki",
+    "author": "Gavin-Qiao",
+    "stars": 1,
+    "githubUrl": "https://github.com/Gavin-Qiao/codebase-to-wiki/tree/main/codebase-to-wiki",
+    "skillUrl": "https://skillsmp.com/skills/gavin-qiao-codebase-to-wiki-codebase-to-wiki-skill-md",
+    "updatedAt": 1768447911,
+    "description": "Convert arbitrary codebases into structured Obsidian wikis with human-in-the-loop iterative refinement. Use when user asks to analyze, document, or create a wiki for a codebase. Supports three modes: Fresh wiki (plan structure collaboratively), Midway wiki (continue from tracked progress), Debugging (diagnose and fix issues). Features user-defined nested hierarchy, mandatory mermaid graphs and index paragraphs at non-atomic levels, multiple node types (code-bound, code-spanning, conceptual, external), and optional test coverage documentation.\nDO NOT USE when: code is still under active development, documenting generated/minified code, node_modules/vendor directories, during major refactoring, or when API reference docs (Swagger/TypeDoc) are the actual need."
+  },
+  "github": {
+    "owner": "Gavin-Qiao",
+    "repo": "codebase-to-wiki",
+    "ref": "main",
+    "relativePath": "codebase-to-wiki",
+    "sourceUrl": "https://github.com/Gavin-Qiao/codebase-to-wiki/tree/main/codebase-to-wiki"
+  }
+}

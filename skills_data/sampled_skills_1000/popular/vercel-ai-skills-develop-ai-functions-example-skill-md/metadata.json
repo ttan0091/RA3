@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 566,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 566,
+    "id": "vercel-ai-skills-develop-ai-functions-example-skill-md",
+    "name": "develop-ai-functions-example",
+    "author": "vercel",
+    "stars": 21656,
+    "githubUrl": "https://github.com/vercel/ai/tree/main/skills/develop-ai-functions-example",
+    "skillUrl": "https://skillsmp.com/skills/vercel-ai-skills-develop-ai-functions-example-skill-md",
+    "updatedAt": 1769474497,
+    "description": "Develop examples for AI SDK functions. Use when creating, running, or modifying examples under examples/ai-functions/src to validate provider support, demonstrate features, or create test fixtures."
+  },
+  "github": {
+    "owner": "vercel",
+    "repo": "ai",
+    "ref": "main",
+    "relativePath": "skills/develop-ai-functions-example",
+    "sourceUrl": "https://github.com/vercel/ai/tree/main/skills/develop-ai-functions-example"
+  }
+}

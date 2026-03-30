@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 288,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 288,
+    "id": "lvcidpsyche-polymarket-arbitrage-bot-skills-moltbook-registry-skill-md",
+    "name": "molt-registry",
+    "author": "LvcidPsyche",
+    "stars": 1,
+    "githubUrl": "https://github.com/LvcidPsyche/polymarket-arbitrage-bot/tree/master/skills/moltbook-registry",
+    "skillUrl": "https://skillsmp.com/skills/lvcidpsyche-polymarket-arbitrage-bot-skills-moltbook-registry-skill-md",
+    "updatedAt": 1770179913,
+    "description": "Official Moltbook Identity Registry interface. Verify yourself, lookup others, and build on-chain reputation."
+  },
+  "github": {
+    "owner": "LvcidPsyche",
+    "repo": "polymarket-arbitrage-bot",
+    "ref": "master",
+    "relativePath": "skills/moltbook-registry",
+    "sourceUrl": "https://github.com/LvcidPsyche/polymarket-arbitrage-bot/tree/master/skills/moltbook-registry"
+  }
+}

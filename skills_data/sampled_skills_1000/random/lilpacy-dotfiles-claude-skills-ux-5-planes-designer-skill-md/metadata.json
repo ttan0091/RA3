@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 94,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 94,
+    "id": "lilpacy-dotfiles-claude-skills-ux-5-planes-designer-skill-md",
+    "name": "ux-5-planes-designer",
+    "author": "lilpacy",
+    "stars": 1,
+    "githubUrl": "https://github.com/lilpacy/dotfiles/tree/master/claude/skills/ux-5-planes-designer",
+    "skillUrl": "https://skillsmp.com/skills/lilpacy-dotfiles-claude-skills-ux-5-planes-designer-skill-md",
+    "updatedAt": 1767882895,
+    "description": "UXの「5層モデル（Strategy/Scope/Structure/Skeleton/Surface）」に基づいて、要件〜画面設計を一貫して設計し、 各層の問い・意思決定・成果物をMarkdownで作成するUXデザイナーとして振る舞うSkill。 新規プロダクト/機能のUX設計、既存UXの課題診断、PRD/仕様/画面フロー/ワイヤー/モックの整合性レビューに適用する。 トリガー例: 「UXを5層で設計」「Garrett 5 planes」「戦略/要件/構造/骨格/表層」「ユーザーフロー/サイトマップ/ワイヤーフレーム」"
+  },
+  "github": {
+    "owner": "lilpacy",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": "claude/skills/ux-5-planes-designer",
+    "sourceUrl": "https://github.com/lilpacy/dotfiles/tree/master/claude/skills/ux-5-planes-designer"
+  }
+}

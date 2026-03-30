@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 338,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 338,
+    "id": "kellyson520-tg-one-agent-skills-skill-master-skill-md",
+    "name": "skill-master",
+    "author": "kellyson520",
+    "stars": 0,
+    "githubUrl": "https://github.com/kellyson520/TG-ONE/tree/main/.agent/skills/skill-master",
+    "skillUrl": "https://skillsmp.com/skills/kellyson520-tg-one-agent-skills-skill-master-skill-md",
+    "updatedAt": 1769398778,
+    "description": "Intelligent skill orchestrator that automatically finds, creates, executes, and improves skills. When you need to accomplish a task, this skill searches for existing skills (internal, GitHub via MCP, web), creates new skills if none found, executes them, and reviews execution to improve skills based on actual usage. Also handles feedback about skill-generated outputs - if you want to fix/adjust an output AND improve the skill that created it, invoke this with your feedback. Use when you want automated skill discovery, continuous improvement, or to provide feedback on previous skill outputs."
+  },
+  "github": {
+    "owner": "kellyson520",
+    "repo": "TG-ONE",
+    "ref": "main",
+    "relativePath": ".agent/skills/skill-master",
+    "sourceUrl": "https://github.com/kellyson520/TG-ONE/tree/main/.agent/skills/skill-master"
+  }
+}

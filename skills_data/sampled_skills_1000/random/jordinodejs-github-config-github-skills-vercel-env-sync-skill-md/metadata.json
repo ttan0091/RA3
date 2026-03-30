@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 605,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 605,
+    "id": "jordinodejs-github-config-github-skills-vercel-env-sync-skill-md",
+    "name": "vercel-env-sync",
+    "author": "JordiNodeJS",
+    "stars": 0,
+    "githubUrl": "https://github.com/JordiNodeJS/.github-config/tree/main/.github/skills/vercel-env-sync",
+    "skillUrl": "https://skillsmp.com/skills/jordinodejs-github-config-github-skills-vercel-env-sync-skill-md",
+    "updatedAt": 1769867235,
+    "description": "Synchronize and verify environment variables between local files (.env.example, .env.local) and Vercel deployment configuration across production, preview, and development environments. Use when deploying to Vercel, managing environment variables, or ensuring deployment readiness."
+  },
+  "github": {
+    "owner": "JordiNodeJS",
+    "repo": ".github-config",
+    "ref": "main",
+    "relativePath": ".github/skills/vercel-env-sync",
+    "sourceUrl": "https://github.com/JordiNodeJS/.github-config/tree/main/.github/skills/vercel-env-sync"
+  }
+}

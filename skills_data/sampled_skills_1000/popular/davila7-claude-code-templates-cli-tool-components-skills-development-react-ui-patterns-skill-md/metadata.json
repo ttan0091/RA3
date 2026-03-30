@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 913,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 913,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-react-ui-patterns-skill-md",
+    "name": "react-ui-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-ui-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-react-ui-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/react-ui-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-ui-patterns"
+  }
+}

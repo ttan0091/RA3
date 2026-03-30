@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 495,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 495,
+    "id": "canyouseeus-thelostandunfounds-agent-skills-commerce-engine-skill-md",
+    "name": "commerce-engine",
+    "author": "canyouseeus",
+    "stars": 0,
+    "githubUrl": "https://github.com/canyouseeus/thelostandunfounds/tree/main/.agent/skills/commerce-engine",
+    "skillUrl": "https://skillsmp.com/skills/canyouseeus-thelostandunfounds-agent-skills-commerce-engine-skill-md",
+    "updatedAt": 1769813912,
+    "description": "Governs the shop, product catalog, and transaction logic. Use when working on Shop.tsx, PaymentSuccess.tsx, or PayPal integrations."
+  },
+  "github": {
+    "owner": "canyouseeus",
+    "repo": "thelostandunfounds",
+    "ref": "main",
+    "relativePath": ".agent/skills/commerce-engine",
+    "sourceUrl": "https://github.com/canyouseeus/thelostandunfounds/tree/main/.agent/skills/commerce-engine"
+  }
+}

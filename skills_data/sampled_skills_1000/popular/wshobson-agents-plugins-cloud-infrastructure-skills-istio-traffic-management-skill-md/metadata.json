@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 392,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 392,
+    "id": "wshobson-agents-plugins-cloud-infrastructure-skills-istio-traffic-management-skill-md",
+    "name": "istio-traffic-management",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cloud-infrastructure-skills-istio-traffic-management-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Configure Istio traffic management including routing, load balancing, circuit breakers, and canary deployments. Use when implementing service mesh traffic policies, progressive delivery, or resilience patterns."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cloud-infrastructure/skills/istio-traffic-management",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/istio-traffic-management"
+  }
+}

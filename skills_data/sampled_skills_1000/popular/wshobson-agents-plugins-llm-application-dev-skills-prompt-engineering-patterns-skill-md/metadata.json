@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 448,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 448,
+    "id": "wshobson-agents-plugins-llm-application-dev-skills-prompt-engineering-patterns-skill-md",
+    "name": "prompt-engineering-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/prompt-engineering-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-prompt-engineering-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability in production. Use when optimizing prompts, improving LLM outputs, or designing production prompt templates."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/llm-application-dev/skills/prompt-engineering-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/prompt-engineering-patterns"
+  }
+}

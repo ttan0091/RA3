@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 780,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 780,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-schema-markup-skill-md",
+    "name": "schema-markup",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/schema-markup",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-schema-markup-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to add, fix, or optimize schema markup and structured data on their site. Also use when the user mentions \"schema markup,\" \"structured data,\" \"JSON-LD,\" \"rich snippets,\" \"schema.org,\" \"FAQ schema,\" \"product schema,\" \"review schema,\" or \"breadcrumb schema.\" For broader SEO issues, see seo-audit."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/schema-markup",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/schema-markup"
+  }
+}

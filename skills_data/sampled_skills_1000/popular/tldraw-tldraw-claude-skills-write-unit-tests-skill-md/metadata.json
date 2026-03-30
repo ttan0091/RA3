@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 211,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 211,
+    "id": "tldraw-tldraw-claude-skills-write-unit-tests-skill-md",
+    "name": "write-unit-tests",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-unit-tests",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-unit-tests-skill-md",
+    "updatedAt": 1767696822,
+    "description": "Writing unit and integration tests for the tldraw SDK. Use when creating new tests, adding test coverage, or fixing failing tests in packages/editor or packages/tldraw. Covers Vitest patterns, TestEditor usage, and test file organization."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-unit-tests",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-unit-tests"
+  }
+}

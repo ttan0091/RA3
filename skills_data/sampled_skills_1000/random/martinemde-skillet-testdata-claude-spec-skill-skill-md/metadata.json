@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 287,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 287,
+    "id": "martinemde-skillet-testdata-claude-spec-skill-skill-md",
+    "name": "claude-spec-skill",
+    "author": "martinemde",
+    "stars": 16,
+    "githubUrl": "https://github.com/martinemde/skillet/tree/main/testdata/claude-spec-skill",
+    "skillUrl": "https://skillsmp.com/skills/martinemde-skillet-testdata-claude-spec-skill-skill-md",
+    "updatedAt": 1769061688,
+    "description": "A skill demonstrating all Claude Code spec fields."
+  },
+  "github": {
+    "owner": "martinemde",
+    "repo": "skillet",
+    "ref": "main",
+    "relativePath": "testdata/claude-spec-skill",
+    "sourceUrl": "https://github.com/martinemde/skillet/tree/main/testdata/claude-spec-skill"
+  }
+}

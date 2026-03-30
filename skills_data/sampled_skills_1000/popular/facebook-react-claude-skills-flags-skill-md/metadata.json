@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 4,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 4,
+    "id": "facebook-react-claude-skills-flags-skill-md",
+    "name": "flags",
+    "author": "facebook",
+    "stars": 242927,
+    "githubUrl": "https://github.com/facebook/react/tree/main/.claude/skills/flags",
+    "skillUrl": "https://skillsmp.com/skills/facebook-react-claude-skills-flags-skill-md",
+    "updatedAt": 1769217366,
+    "description": "Use when you need to check feature flag states, compare channels, or debug why a feature behaves differently across release channels."
+  },
+  "github": {
+    "owner": "facebook",
+    "repo": "react",
+    "ref": "main",
+    "relativePath": ".claude/skills/flags",
+    "sourceUrl": "https://github.com/facebook/react/tree/main/.claude/skills/flags"
+  }
+}

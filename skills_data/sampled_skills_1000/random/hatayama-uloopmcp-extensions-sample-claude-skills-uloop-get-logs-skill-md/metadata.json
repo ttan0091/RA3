@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 47,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 47,
+    "id": "hatayama-uloopmcp-extensions-sample-claude-skills-uloop-get-logs-skill-md",
+    "name": "uloop-get-logs",
+    "author": "hatayama",
+    "stars": 1,
+    "githubUrl": "https://github.com/hatayama/uLoopMCP-extensions-sample/tree/main/.claude/skills/uloop-get-logs",
+    "skillUrl": "https://skillsmp.com/skills/hatayama-uloopmcp-extensions-sample-claude-skills-uloop-get-logs-skill-md",
+    "updatedAt": 1769732479,
+    "description": "Retrieve Unity Console logs via uloop CLI. Use when you need to: (1) Check for errors or warnings after operations, (2) Debug runtime issues in Unity Editor, (3) Investigate unexpected behavior or exceptions."
+  },
+  "github": {
+    "owner": "hatayama",
+    "repo": "uLoopMCP-extensions-sample",
+    "ref": "main",
+    "relativePath": ".claude/skills/uloop-get-logs",
+    "sourceUrl": "https://github.com/hatayama/uLoopMCP-extensions-sample/tree/main/.claude/skills/uloop-get-logs"
+  }
+}

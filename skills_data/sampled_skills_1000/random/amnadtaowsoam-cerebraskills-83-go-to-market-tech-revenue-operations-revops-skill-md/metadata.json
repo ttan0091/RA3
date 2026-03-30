@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 211,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 211,
+    "id": "amnadtaowsoam-cerebraskills-83-go-to-market-tech-revenue-operations-revops-skill-md",
+    "name": "revenue-operations-revops",
+    "author": "AmnadTaowsoam",
+    "stars": 1,
+    "githubUrl": "https://github.com/AmnadTaowsoam/CerebraSkills/tree/main/83-go-to-market-tech/revenue-operations-revops",
+    "skillUrl": "https://skillsmp.com/skills/amnadtaowsoam-cerebraskills-83-go-to-market-tech-revenue-operations-revops-skill-md",
+    "updatedAt": 1769246725,
+    "description": "Aligning marketing, sales, and customer success for revenue growth"
+  },
+  "github": {
+    "owner": "AmnadTaowsoam",
+    "repo": "CerebraSkills",
+    "ref": "main",
+    "relativePath": "83-go-to-market-tech/revenue-operations-revops",
+    "sourceUrl": "https://github.com/AmnadTaowsoam/CerebraSkills/tree/main/83-go-to-market-tech/revenue-operations-revops"
+  }
+}

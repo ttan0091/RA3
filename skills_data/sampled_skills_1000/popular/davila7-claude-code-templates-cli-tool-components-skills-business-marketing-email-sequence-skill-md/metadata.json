@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 760,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 760,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-email-sequence-skill-md",
+    "name": "email-sequence",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/email-sequence",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-email-sequence-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campaign,\" \"nurture sequence,\" \"onboarding emails,\" \"welcome sequence,\" \"re-engagement emails,\" \"email automation,\" or \"lifecycle emails.\" For in-app onboarding, see onboarding-cro."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/email-sequence",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/email-sequence"
+  }
+}

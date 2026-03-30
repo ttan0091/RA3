@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 878,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 878,
+    "id": "konamgil-mandu-packages-mcp-src-resources-skills-mandu-composition-skill-md",
+    "name": "mandu-composition",
+    "author": "konamgil",
+    "stars": 15,
+    "githubUrl": "https://github.com/konamgil/mandu/tree/main/packages/mcp/src/resources/skills/mandu-composition",
+    "skillUrl": "https://skillsmp.com/skills/konamgil-mandu-packages-mcp-src-resources-skills-mandu-composition-skill-md",
+    "updatedAt": 1770023002,
+    "description": "React composition patterns for Mandu applications. Use when designing\nIsland components, managing shared state, or building reusable component\nAPIs. Triggers on compound components, context providers, boolean props,\nor component architecture tasks."
+  },
+  "github": {
+    "owner": "konamgil",
+    "repo": "mandu",
+    "ref": "main",
+    "relativePath": "packages/mcp/src/resources/skills/mandu-composition",
+    "sourceUrl": "https://github.com/konamgil/mandu/tree/main/packages/mcp/src/resources/skills/mandu-composition"
+  }
+}

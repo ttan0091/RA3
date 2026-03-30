@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 580,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 580,
+    "id": "mastra-ai-mastra-examples-unified-workspace-skills-code-review-skill-md",
+    "name": "code-review",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-examples-unified-workspace-skills-code-review-skill-md",
+    "updatedAt": 1769718852,
+    "description": "Provides structured code review guidelines for TypeScript projects. Use when reviewing pull requests, analyzing code quality, or suggesting improvements."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": "examples/unified-workspace/skills/code-review",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/skills/code-review"
+  }
+}

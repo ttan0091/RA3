@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 38,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 38,
+    "id": "openclaw-openclaw-skills-obsidian-skill-md",
+    "name": "obsidian",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/obsidian",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-obsidian-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Work with Obsidian vaults (plain Markdown notes) and automate via obsidian-cli."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/obsidian",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/obsidian"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 268,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 268,
+    "id": "datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-5-ddc-innovative-safety-compliance-checker-skill-md",
+    "name": "safety-compliance-checker",
+    "author": "datadrivenconstruction",
+    "stars": 18,
+    "githubUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/5_DDC_Innovative/safety-compliance-checker",
+    "skillUrl": "https://skillsmp.com/skills/datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-5-ddc-innovative-safety-compliance-checker-skill-md",
+    "updatedAt": 1769681759,
+    "description": "Automated safety compliance verification for construction sites. Check PPE usage, zone access, working at heights regulations, and generate compliance reports using rule-based and ML approaches."
+  },
+  "github": {
+    "owner": "datadrivenconstruction",
+    "repo": "DDC_Skills_for_AI_Agents_in_Construction",
+    "ref": "main",
+    "relativePath": "5_DDC_Innovative/safety-compliance-checker",
+    "sourceUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/5_DDC_Innovative/safety-compliance-checker"
+  }
+}

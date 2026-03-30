@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 681,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 681,
+    "id": "chaterm-terminal-skills-network-tcp-ip-skill-md",
+    "name": "tcp-ip",
+    "author": "chaterm",
+    "stars": 10,
+    "githubUrl": "https://github.com/chaterm/terminal-skills/tree/main/network/tcp-ip",
+    "skillUrl": "https://skillsmp.com/skills/chaterm-terminal-skills-network-tcp-ip-skill-md",
+    "updatedAt": 1768817521,
+    "description": "TCP/IP 网络诊断与排查"
+  },
+  "github": {
+    "owner": "chaterm",
+    "repo": "terminal-skills",
+    "ref": "main",
+    "relativePath": "network/tcp-ip",
+    "sourceUrl": "https://github.com/chaterm/terminal-skills/tree/main/network/tcp-ip"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 708,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 708,
+    "id": "sorfeb-personal-web-claude-skills-reviewing-code-skill-md",
+    "name": "reviewing-code",
+    "author": "sorfeb",
+    "stars": 0,
+    "githubUrl": "https://github.com/sorfeb/personal_web/tree/main/.claude/skills/reviewing-code",
+    "skillUrl": "https://skillsmp.com/skills/sorfeb-personal-web-claude-skills-reviewing-code-skill-md",
+    "updatedAt": 1767626785,
+    "description": "Code review with project-specific conventions for Xbox 360 portfolio site.\nUse when reviewing code, checking PRs, auditing files, or when user mentions\n\"review\", \"check code\", \"audit\", \"PR review\", \"code quality\", or \"best practices\"."
+  },
+  "github": {
+    "owner": "sorfeb",
+    "repo": "personal_web",
+    "ref": "main",
+    "relativePath": ".claude/skills/reviewing-code",
+    "sourceUrl": "https://github.com/sorfeb/personal_web/tree/main/.claude/skills/reviewing-code"
+  }
+}

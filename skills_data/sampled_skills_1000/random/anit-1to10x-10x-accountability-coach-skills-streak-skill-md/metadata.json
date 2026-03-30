@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 550,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 550,
+    "id": "anit-1to10x-10x-accountability-coach-skills-streak-skill-md",
+    "name": "streak",
+    "author": "Anit-1to10x",
+    "stars": 6,
+    "githubUrl": "https://github.com/Anit-1to10x/10x-Accountability-Coach/tree/main/skills/streak",
+    "skillUrl": "https://skillsmp.com/skills/anit-1to10x-10x-accountability-coach-skills-streak-skill-md",
+    "updatedAt": 1768740710,
+    "description": "Universal challenge tracker with flexible cadence, intelligent insights, and cross-challenge learning detection. Use when user wants to track any personal challenge - learning, habits, building, fitness, creative, or custom. Supports daily, weekly, or N-day check-ins with type-adaptive preferences, backlog, and context files."
+  },
+  "github": {
+    "owner": "Anit-1to10x",
+    "repo": "10x-Accountability-Coach",
+    "ref": "main",
+    "relativePath": "skills/streak",
+    "sourceUrl": "https://github.com/Anit-1to10x/10x-Accountability-Coach/tree/main/skills/streak"
+  }
+}

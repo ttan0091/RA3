@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 803,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 803,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-multiplayer-skill-md",
+    "name": "multiplayer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/multiplayer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-multiplayer-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Multiplayer game development principles. Architecture, networking, synchronization."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/game-development/multiplayer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/multiplayer"
+  }
+}

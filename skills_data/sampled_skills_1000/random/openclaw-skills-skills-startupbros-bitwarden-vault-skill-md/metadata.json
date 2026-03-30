@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 904,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 904,
+    "id": "openclaw-skills-skills-startupbros-bitwarden-vault-skill-md",
+    "name": "bitwarden",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-startupbros-bitwarden-vault-skill-md",
+    "updatedAt": 1769481179,
+    "description": "Set up and use Bitwarden CLI (bw). Use when installing the CLI, authenticating (login/unlock), or reading secrets from your vault. Supports email/password, API key, and SSO authentication methods."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/startupbros/bitwarden-vault",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/startupbros/bitwarden-vault"
+  }
+}

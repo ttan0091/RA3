@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 264,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 264,
+    "id": "ainative-studio-ainativestudio-ide-skills-zerodb-workflows-skill-md",
+    "name": "zerodb-workflows",
+    "author": "AINative-Studio",
+    "stars": 1,
+    "githubUrl": "https://github.com/AINative-Studio/AINativeStudio-IDE/tree/main/skills/zerodb-workflows",
+    "skillUrl": "https://skillsmp.com/skills/ainative-studio-ainativestudio-ide-skills-zerodb-workflows-skill-md",
+    "updatedAt": 1768445179,
+    "description": "ZeroDB vector database best practices, semantic search patterns, RLHF workflows, and memory management. Use when working with ZeroDB APIs, vector search, or AI memory systems."
+  },
+  "github": {
+    "owner": "AINative-Studio",
+    "repo": "AINativeStudio-IDE",
+    "ref": "main",
+    "relativePath": "skills/zerodb-workflows",
+    "sourceUrl": "https://github.com/AINative-Studio/AINativeStudio-IDE/tree/main/skills/zerodb-workflows"
+  }
+}

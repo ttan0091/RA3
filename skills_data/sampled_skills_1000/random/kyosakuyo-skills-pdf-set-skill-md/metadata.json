@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 731,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 731,
+    "id": "kyosakuyo-skills-pdf-set-skill-md",
+    "name": "pdf-set",
+    "author": "KyoSakuyo",
+    "stars": 2,
+    "githubUrl": "https://github.com/KyoSakuyo/skills/tree/main/pdf-set",
+    "skillUrl": "https://skillsmp.com/skills/kyosakuyo-skills-pdf-set-skill-md",
+    "updatedAt": 1770274460,
+    "description": "A toolbox for OCR PDF"
+  },
+  "github": {
+    "owner": "KyoSakuyo",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "pdf-set",
+    "sourceUrl": "https://github.com/KyoSakuyo/skills/tree/main/pdf-set"
+  }
+}

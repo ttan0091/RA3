@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 172,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 172,
+    "id": "tjdwls101010-seongjin-extension-youtube-summarize-claude-skills-moai-worktree-skill-md",
+    "name": "moai-worktree",
+    "author": "tjdwls101010",
+    "stars": 0,
+    "githubUrl": "https://github.com/tjdwls101010/seongjin_extension_youtube-summarize/tree/main/.claude/skills/moai-worktree",
+    "skillUrl": "https://skillsmp.com/skills/tjdwls101010-seongjin-extension-youtube-summarize-claude-skills-moai-worktree-skill-md",
+    "updatedAt": 1765513233,
+    "description": "Git worktree management for parallel SPEC development with isolated workspaces, automatic registration, and seamless MoAI-ADK integration"
+  },
+  "github": {
+    "owner": "tjdwls101010",
+    "repo": "seongjin_extension_youtube-summarize",
+    "ref": "main",
+    "relativePath": ".claude/skills/moai-worktree",
+    "sourceUrl": "https://github.com/tjdwls101010/seongjin_extension_youtube-summarize/tree/main/.claude/skills/moai-worktree"
+  }
+}

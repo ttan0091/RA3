@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 637,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 637,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-autonomous-agent-patterns-skill-md",
+    "name": "autonomous-agent-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agent-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-autonomous-agent-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automation, and human-in-the-loop workflows. Use when building AI agents, designing tool APIs, implementing permission systems, or creating autonomous coding assistants."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/autonomous-agent-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agent-patterns"
+  }
+}

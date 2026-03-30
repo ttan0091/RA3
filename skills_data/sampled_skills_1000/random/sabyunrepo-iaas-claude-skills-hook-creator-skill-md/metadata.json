@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 612,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 612,
+    "id": "sabyunrepo-iaas-claude-skills-hook-creator-skill-md",
+    "name": "hook-creator",
+    "author": "sabyunrepo",
+    "stars": 0,
+    "githubUrl": "https://github.com/sabyunrepo/IaaS/tree/main/.claude/skills/hook-creator",
+    "skillUrl": "https://skillsmp.com/skills/sabyunrepo-iaas-claude-skills-hook-creator-skill-md",
+    "updatedAt": 1770665123,
+    "description": "Claude Code 훅 생성 스킬. 자동화 훅을 만들 때 사용."
+  },
+  "github": {
+    "owner": "sabyunrepo",
+    "repo": "IaaS",
+    "ref": "main",
+    "relativePath": ".claude/skills/hook-creator",
+    "sourceUrl": "https://github.com/sabyunrepo/IaaS/tree/main/.claude/skills/hook-creator"
+  }
+}

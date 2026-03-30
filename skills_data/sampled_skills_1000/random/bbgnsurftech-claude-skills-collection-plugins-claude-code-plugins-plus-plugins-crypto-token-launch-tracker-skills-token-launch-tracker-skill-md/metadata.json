@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 158,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 158,
+    "id": "bbgnsurftech-claude-skills-collection-plugins-claude-code-plugins-plus-plugins-crypto-token-launch-tracker-skills-token-launch-tracker-skill-md",
+    "name": "tracking-token-launches",
+    "author": "BbgnsurfTech",
+    "stars": 6,
+    "githubUrl": "https://github.com/BbgnsurfTech/claude-skills-collection/tree/main/plugins/claude-code-plugins-plus/plugins/crypto/token-launch-tracker/skills/token-launch-tracker",
+    "skillUrl": "https://skillsmp.com/skills/bbgnsurftech-claude-skills-collection-plugins-claude-code-plugins-plus-plugins-crypto-token-launch-tracker-skills-token-launch-tracker-skill-md",
+    "updatedAt": 1766060398,
+    "description": "Monitor new token launches, IDOs, and fair launches with contract verification.\nUse when discovering new token launches.\nTrigger with phrases like \"track launches\", \"find new tokens\", or \"monitor IDOs\"."
+  },
+  "github": {
+    "owner": "BbgnsurfTech",
+    "repo": "claude-skills-collection",
+    "ref": "main",
+    "relativePath": "plugins/claude-code-plugins-plus/plugins/crypto/token-launch-tracker/skills/token-launch-tracker",
+    "sourceUrl": "https://github.com/BbgnsurfTech/claude-skills-collection/tree/main/plugins/claude-code-plugins-plus/plugins/crypto/token-launch-tracker/skills/token-launch-tracker"
+  }
+}

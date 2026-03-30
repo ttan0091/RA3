@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 298,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 298,
+    "id": "ccxt-ccxt-claude-skills-ccxt-go-skill-md",
+    "name": "ccxt-go",
+    "author": "ccxt",
+    "stars": 40891,
+    "githubUrl": "https://github.com/ccxt/ccxt/tree/master/.claude/skills/ccxt-go",
+    "skillUrl": "https://skillsmp.com/skills/ccxt-ccxt-claude-skills-ccxt-go-skill-md",
+    "updatedAt": 1770028077,
+    "description": "CCXT cryptocurrency exchange library for Go developers. Covers both REST API (standard) and WebSocket API (real-time). Helps install CCXT, connect to exchanges, fetch market data, place orders, stream live tickers/orderbooks, handle authentication, and manage errors in Go projects. Use when working with crypto exchanges in Go applications, microservices, or trading systems."
+  },
+  "github": {
+    "owner": "ccxt",
+    "repo": "ccxt",
+    "ref": "master",
+    "relativePath": ".claude/skills/ccxt-go",
+    "sourceUrl": "https://github.com/ccxt/ccxt/tree/master/.claude/skills/ccxt-go"
+  }
+}

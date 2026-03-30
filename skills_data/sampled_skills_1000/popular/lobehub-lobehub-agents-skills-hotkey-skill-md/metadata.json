@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 127,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 127,
+    "id": "lobehub-lobehub-agents-skills-hotkey-skill-md",
+    "name": "hotkey",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/hotkey",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-hotkey-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Guide for adding keyboard shortcuts. Use when implementing new hotkeys, registering shortcuts, or working with keyboard interactions. Triggers on hotkey implementation or keyboard shortcut tasks."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/hotkey",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/hotkey"
+  }
+}

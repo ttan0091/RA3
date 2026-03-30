@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 104,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 104,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-email-drafter-skill-md",
+    "name": "email-drafter",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/email-drafter",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-email-drafter-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Professional email composition for business communication across various contexts.\nUse when: writing emails, drafting professional messages, composing replies, or when user\nmentions email, message drafting, or needs help with business correspondence."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/email-drafter",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/email-drafter"
+  }
+}

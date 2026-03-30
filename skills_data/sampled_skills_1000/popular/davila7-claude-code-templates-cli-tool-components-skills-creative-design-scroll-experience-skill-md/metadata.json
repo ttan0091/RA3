@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 815,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 815,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-scroll-experience-skill-md",
+    "name": "scroll-experience",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/scroll-experience",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-scroll-experience-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in building immersive scroll-driven experiences - parallax storytelling, scroll animations, interactive narratives, and cinematic web experiences. Like NY Times interactives, Apple product pages, and award-winning web experiences. Makes websites feel like experiences, not just pages. Use when: scroll animation, parallax, scroll storytelling, interactive story, cinematic website."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/scroll-experience",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/scroll-experience"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 549,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 549,
+    "id": "wot-ui-wot-starter-agent-skills-wot-router-usage-skill-md",
+    "name": "wot-router-usage",
+    "author": "wot-ui",
+    "stars": 237,
+    "githubUrl": "https://github.com/wot-ui/wot-starter/tree/main/.agent/skills/wot-router-usage",
+    "skillUrl": "https://skillsmp.com/skills/wot-ui-wot-starter-agent-skills-wot-router-usage-skill-md",
+    "updatedAt": 1769161863,
+    "description": "@wot-ui/router 轻量级路由库使用指南"
+  },
+  "github": {
+    "owner": "wot-ui",
+    "repo": "wot-starter",
+    "ref": "main",
+    "relativePath": ".agent/skills/wot-router-usage",
+    "sourceUrl": "https://github.com/wot-ui/wot-starter/tree/main/.agent/skills/wot-router-usage"
+  }
+}

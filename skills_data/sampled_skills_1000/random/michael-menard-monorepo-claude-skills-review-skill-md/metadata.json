@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 197,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 197,
+    "id": "michael-menard-monorepo-claude-skills-review-skill-md",
+    "name": "review",
+    "author": "michael-menard",
+    "stars": 0,
+    "githubUrl": "https://github.com/michael-menard/monorepo/tree/main/.claude/skills/review",
+    "skillUrl": "https://skillsmp.com/skills/michael-menard-monorepo-claude-skills-review-skill-md",
+    "updatedAt": 1770513967,
+    "description": "Comprehensive code review with parallel specialist sub-agents. Analyzes requirements traceability, code quality, security, performance, accessibility, test coverage, and technical debt. Produces detailed findings and calls /qa-gate for final gate decision."
+  },
+  "github": {
+    "owner": "michael-menard",
+    "repo": "monorepo",
+    "ref": "main",
+    "relativePath": ".claude/skills/review",
+    "sourceUrl": "https://github.com/michael-menard/monorepo/tree/main/.claude/skills/review"
+  }
+}

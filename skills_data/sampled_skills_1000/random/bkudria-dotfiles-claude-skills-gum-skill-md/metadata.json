@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 222,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 222,
+    "id": "bkudria-dotfiles-claude-skills-gum-skill-md",
+    "name": "gum",
+    "author": "bkudria",
+    "stars": 6,
+    "githubUrl": "https://github.com/bkudria/dotfiles/tree/develop/.claude/skills/gum",
+    "skillUrl": "https://skillsmp.com/skills/bkudria-dotfiles-claude-skills-gum-skill-md",
+    "updatedAt": 1770400456,
+    "description": "Reference for using the `gum` CLI tool from Charmbracelet to create glamorous shell scripts with interactive TUI components. Use when building interactive prompts, styling terminal output, displaying spinners, or creating user-facing CLI experiences. CRITICAL - many gum commands are interactive TUIs that block waiting for user input."
+  },
+  "github": {
+    "owner": "bkudria",
+    "repo": "dotfiles",
+    "ref": "develop",
+    "relativePath": ".claude/skills/gum",
+    "sourceUrl": "https://github.com/bkudria/dotfiles/tree/develop/.claude/skills/gum"
+  }
+}

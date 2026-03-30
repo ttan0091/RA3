@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 825,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 825,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-accessibility-skill-md",
+    "name": "accessibility",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/accessibility",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-accessibility-skill-md",
+    "updatedAt": 1769895150,
+    "description": "Audit and improve web accessibility following WCAG 2.1 guidelines. Use when asked to \"improve accessibility\", \"a11y audit\", \"WCAG compliance\", \"screen reader support\", \"keyboard navigation\", or \"make accessible\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/accessibility",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/accessibility"
+  }
+}

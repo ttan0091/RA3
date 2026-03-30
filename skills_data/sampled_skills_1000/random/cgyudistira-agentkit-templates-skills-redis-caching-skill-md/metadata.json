@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 137,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 137,
+    "id": "cgyudistira-agentkit-templates-skills-redis-caching-skill-md",
+    "name": "redis-caching",
+    "author": "cgyudistira",
+    "stars": 0,
+    "githubUrl": "https://github.com/cgyudistira/agentkit/tree/main/templates/skills/redis-caching",
+    "skillUrl": "https://skillsmp.com/skills/cgyudistira-agentkit-templates-skills-redis-caching-skill-md",
+    "updatedAt": 1770597186,
+    "description": "Redis caching strategies, pub/sub, sessions, and performance optimization."
+  },
+  "github": {
+    "owner": "cgyudistira",
+    "repo": "agentkit",
+    "ref": "main",
+    "relativePath": "templates/skills/redis-caching",
+    "sourceUrl": "https://github.com/cgyudistira/agentkit/tree/main/templates/skills/redis-caching"
+  }
+}

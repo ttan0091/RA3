@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 929,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 929,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-qa-skill-md",
+    "name": "senior-qa",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-qa",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-qa-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Comprehensive QA and testing skill for quality assurance, test automation, and testing strategies for ReactJS, NextJS, NodeJS applications. Includes test suite generation, coverage analysis, E2E testing setup, and quality metrics. Use when designing test strategies, writing test cases, implementing test automation, performing manual testing, or analyzing test coverage."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-qa",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-qa"
+  }
+}

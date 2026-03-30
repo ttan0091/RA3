@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 824,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 824,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-database-using-neon-skill-md",
+    "name": "using-neon",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/using-neon",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-database-using-neon-skill-md",
+    "updatedAt": 1769554120,
+    "description": "Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon features, authentication (@neondatabase/auth), PostgREST-style data API (@neondatabase/neon-js), Neon CLI, and Neon's Platform API/SDKs. Use for any Neon-related questions."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/database/using-neon",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/using-neon"
+  }
+}

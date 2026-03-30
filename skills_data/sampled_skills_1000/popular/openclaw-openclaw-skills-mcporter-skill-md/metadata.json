@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 33,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 33,
+    "id": "openclaw-openclaw-skills-mcporter-skill-md",
+    "name": "mcporter",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/mcporter",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-mcporter-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/mcporter",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/mcporter"
+  }
+}

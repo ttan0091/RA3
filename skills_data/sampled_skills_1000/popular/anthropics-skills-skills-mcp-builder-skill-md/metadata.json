@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 146,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 146,
+    "id": "anthropics-skills-skills-mcp-builder-skill-md",
+    "name": "mcp-builder",
+    "author": "anthropics",
+    "stars": 67303,
+    "githubUrl": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-skills-skills-mcp-builder-skill-md",
+    "updatedAt": 1764612336,
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/mcp-builder",
+    "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder"
+  }
+}

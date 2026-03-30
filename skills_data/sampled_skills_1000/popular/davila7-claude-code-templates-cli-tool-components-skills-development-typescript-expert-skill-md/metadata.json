@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 942,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 942,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-typescript-expert-skill-md",
+    "name": "typescript-expert",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/typescript-expert",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-typescript-expert-skill-md",
+    "updatedAt": 1769353274,
+    "description": "TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling. Use PROACTIVELY for any TypeScript/JavaScript issues including complex type gymnastics, build performance, debugging, and architectural decisions. If a specialized expert is a better fit, I will recommend switching and stop."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/typescript-expert",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/typescript-expert"
+  }
+}

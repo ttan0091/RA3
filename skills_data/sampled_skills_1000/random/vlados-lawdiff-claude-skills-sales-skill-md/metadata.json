@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 104,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 104,
+    "id": "vlados-lawdiff-claude-skills-sales-skill-md",
+    "name": "sales",
+    "author": "vlados",
+    "stars": 3,
+    "githubUrl": "https://github.com/vlados/lawdiff/tree/main/.claude/skills/sales",
+    "skillUrl": "https://skillsmp.com/skills/vlados-lawdiff-claude-skills-sales-skill-md",
+    "updatedAt": 1768663895,
+    "description": "Elite B2C sales strategies focused on consumer psychology, behavioral economics, e-commerce conversion optimization, DTC brand tactics, subscription model optimization, and high-ticket consumer sales. Covers digital commerce, retail psychology, consultative selling, objection handling, and revenue optimization for consumer-facing businesses."
+  },
+  "github": {
+    "owner": "vlados",
+    "repo": "lawdiff",
+    "ref": "main",
+    "relativePath": ".claude/skills/sales",
+    "sourceUrl": "https://github.com/vlados/lawdiff/tree/main/.claude/skills/sales"
+  }
+}

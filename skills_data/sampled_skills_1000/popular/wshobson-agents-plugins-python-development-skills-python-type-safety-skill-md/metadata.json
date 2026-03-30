@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 475,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 475,
+    "id": "wshobson-agents-plugins-python-development-skills-python-type-safety-skill-md",
+    "name": "python-type-safety",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-type-safety",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-type-safety-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python type safety with type hints, generics, protocols, and strict type checking. Use when adding type annotations, implementing generic classes, defining structural interfaces, or configuring mypy/pyright."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-type-safety",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-type-safety"
+  }
+}

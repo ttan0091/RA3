@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 808,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 808,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-imagegen-skill-md",
+    "name": "imagegen",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/imagegen",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-imagegen-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use when the user asks to generate or edit images via the OpenAI Image API (for example: generate image, edit/inpaint/mask, background removal or replacement, transparent background, product shots, concept art, covers, or batch variants); run the bundled CLI (`scripts/image_gen.py`) and require `OPENAI_API_KEY` for live calls."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/imagegen",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/imagegen"
+  }
+}

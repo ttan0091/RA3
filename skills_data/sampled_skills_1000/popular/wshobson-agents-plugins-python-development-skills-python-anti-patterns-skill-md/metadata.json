@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 462,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 462,
+    "id": "wshobson-agents-plugins-python-development-skills-python-anti-patterns-skill-md",
+    "name": "python-anti-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-anti-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-anti-patterns-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Common Python anti-patterns to avoid. Use as a checklist when reviewing code, before finalizing implementations, or when debugging issues that might stem from known bad practices."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-anti-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-anti-patterns"
+  }
+}

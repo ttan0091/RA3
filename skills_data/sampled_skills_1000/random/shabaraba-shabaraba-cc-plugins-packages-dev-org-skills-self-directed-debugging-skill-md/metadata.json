@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 65,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 65,
+    "id": "shabaraba-shabaraba-cc-plugins-packages-dev-org-skills-self-directed-debugging-skill-md",
+    "name": "self-directed-debugging",
+    "author": "shabaraba",
+    "stars": 0,
+    "githubUrl": "https://github.com/shabaraba/shabaraba-cc-plugins/tree/main/packages/dev-org/skills/self-directed-debugging",
+    "skillUrl": "https://skillsmp.com/skills/shabaraba-shabaraba-cc-plugins-packages-dev-org-skills-self-directed-debugging-skill-md",
+    "updatedAt": 1767835092,
+    "description": "Autonomous development workflow that proactively asks questions, verifies implementation with tools, and auto-fixes linter errors. Use when implementing features to ensure quality through self-driven verification."
+  },
+  "github": {
+    "owner": "shabaraba",
+    "repo": "shabaraba-cc-plugins",
+    "ref": "main",
+    "relativePath": "packages/dev-org/skills/self-directed-debugging",
+    "sourceUrl": "https://github.com/shabaraba/shabaraba-cc-plugins/tree/main/packages/dev-org/skills/self-directed-debugging"
+  }
+}

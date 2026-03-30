@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 150,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 150,
+    "id": "anthropics-skills-skills-slack-gif-creator-skill-md",
+    "name": "slack-gif-creator",
+    "author": "anthropics",
+    "stars": 67303,
+    "githubUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-skills-skills-slack-gif-creator-skill-md",
+    "updatedAt": 1764867706,
+    "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\""
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/slack-gif-creator",
+    "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator"
+  }
+}

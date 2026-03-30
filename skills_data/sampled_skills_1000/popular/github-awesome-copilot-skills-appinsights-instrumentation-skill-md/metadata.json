@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 583,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 583,
+    "id": "github-awesome-copilot-skills-appinsights-instrumentation-skill-md",
+    "name": "appinsights-instrumentation",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/appinsights-instrumentation",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-appinsights-instrumentation-skill-md",
+    "updatedAt": 1767986732,
+    "description": "Instrument a webapp to send useful telemetry data to Azure App Insights"
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/appinsights-instrumentation",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/appinsights-instrumentation"
+  }
+}

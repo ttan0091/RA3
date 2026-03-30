@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 497,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 497,
+    "id": "sundial-org-awesome-openclaw-skills-skills-people-memories-skill-md",
+    "name": "people-memories",
+    "author": "sundial-org",
+    "stars": 35,
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/people-memories",
+    "skillUrl": "https://skillsmp.com/skills/sundial-org-awesome-openclaw-skills-skills-people-memories-skill-md",
+    "updatedAt": 1769996135,
+    "description": "Capture short personal notes about people you mention, store them in a lightweight DB, and recall those details whenever you ask about them later. Use when you want to remember preferences, reminders, or the context around a person without digging through past chats."
+  },
+  "github": {
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "ref": "main",
+    "relativePath": "skills/people-memories",
+    "sourceUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/people-memories"
+  }
+}

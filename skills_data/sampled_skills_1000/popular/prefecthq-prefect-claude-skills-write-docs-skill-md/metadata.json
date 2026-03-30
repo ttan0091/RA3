@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 569,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 569,
+    "id": "prefecthq-prefect-claude-skills-write-docs-skill-md",
+    "name": "write-docs",
+    "author": "PrefectHQ",
+    "stars": 21589,
+    "githubUrl": "https://github.com/PrefectHQ/prefect/tree/main/.claude/skills/write-docs",
+    "skillUrl": "https://skillsmp.com/skills/prefecthq-prefect-claude-skills-write-docs-skill-md",
+    "updatedAt": 1770733189,
+    "description": "Comprehensive guide for writing and updating Prefect documentation. Use when creating new doc pages, updating existing docs, or working with Mintlify components and code example testing."
+  },
+  "github": {
+    "owner": "PrefectHQ",
+    "repo": "prefect",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-docs",
+    "sourceUrl": "https://github.com/PrefectHQ/prefect/tree/main/.claude/skills/write-docs"
+  }
+}

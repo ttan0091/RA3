@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 420,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 420,
+    "id": "cliftonc-unwind-skills-analyzing-integration-tests-skill-md",
+    "name": "analyzing-integration-tests",
+    "author": "cliftonc",
+    "stars": 9,
+    "githubUrl": "https://github.com/cliftonc/unwind/tree/main/skills/analyzing-integration-tests",
+    "skillUrl": "https://skillsmp.com/skills/cliftonc-unwind-skills-analyzing-integration-tests-skill-md",
+    "updatedAt": 1768540917,
+    "description": "Use when analyzing integration tests that verify component interactions, database access, and external service integration"
+  },
+  "github": {
+    "owner": "cliftonc",
+    "repo": "unwind",
+    "ref": "main",
+    "relativePath": "skills/analyzing-integration-tests",
+    "sourceUrl": "https://github.com/cliftonc/unwind/tree/main/skills/analyzing-integration-tests"
+  }
+}

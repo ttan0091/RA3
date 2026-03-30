@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 899,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 899,
+    "id": "laulauland-dotfiles-shared-claude-skills-typescript-skill-md",
+    "name": "typescript",
+    "author": "laulauland",
+    "stars": 8,
+    "githubUrl": "https://github.com/laulauland/dotfiles/tree/main/shared/.claude/skills/typescript",
+    "skillUrl": "https://skillsmp.com/skills/laulauland-dotfiles-shared-claude-skills-typescript-skill-md",
+    "updatedAt": 1765450552,
+    "description": "TypeScript coding conventions and best practices. Use when working with TypeScript files, defining types, or setting up TypeScript projects."
+  },
+  "github": {
+    "owner": "laulauland",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "shared/.claude/skills/typescript",
+    "sourceUrl": "https://github.com/laulauland/dotfiles/tree/main/shared/.claude/skills/typescript"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 446,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 446,
+    "id": "wshobson-agents-plugins-llm-application-dev-skills-langchain-architecture-skill-md",
+    "name": "langchain-architecture",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/langchain-architecture",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-langchain-architecture-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Design LLM applications using LangChain 1.x and LangGraph for agents, memory, and tool integration. Use when building LangChain applications, implementing AI agents, or creating complex LLM workflows."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/llm-application-dev/skills/langchain-architecture",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/langchain-architecture"
+  }
+}

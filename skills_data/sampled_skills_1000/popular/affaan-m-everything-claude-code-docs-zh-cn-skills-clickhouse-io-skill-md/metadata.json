@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 220,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 220,
+    "id": "affaan-m-everything-claude-code-docs-zh-cn-skills-clickhouse-io-skill-md",
+    "name": "clickhouse-io",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/clickhouse-io",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-cn-skills-clickhouse-io-skill-md",
+    "updatedAt": 1770299874,
+    "description": "ClickHouse数据库模式、查询优化、分析和数据工程最佳实践，适用于高性能分析工作负载。"
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-CN/skills/clickhouse-io",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/clickhouse-io"
+  }
+}

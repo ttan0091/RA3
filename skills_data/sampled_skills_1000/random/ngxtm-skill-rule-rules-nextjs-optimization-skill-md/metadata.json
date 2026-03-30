@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 759,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 759,
+    "id": "ngxtm-skill-rule-rules-nextjs-optimization-skill-md",
+    "name": "nextjs-optimization",
+    "author": "ngxtm",
+    "stars": 0,
+    "githubUrl": "https://github.com/ngxtm/skill-rule/tree/main/rules/nextjs/optimization",
+    "skillUrl": "https://skillsmp.com/skills/ngxtm-skill-rule-rules-nextjs-optimization-skill-md",
+    "updatedAt": 1769068941,
+    "description": "Image, Font, Script, and Metadata optimization strategies."
+  },
+  "github": {
+    "owner": "ngxtm",
+    "repo": "skill-rule",
+    "ref": "main",
+    "relativePath": "rules/nextjs/optimization",
+    "sourceUrl": "https://github.com/ngxtm/skill-rule/tree/main/rules/nextjs/optimization"
+  }
+}

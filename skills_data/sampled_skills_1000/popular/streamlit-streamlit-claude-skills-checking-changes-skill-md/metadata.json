@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 287,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 287,
+    "id": "streamlit-streamlit-claude-skills-checking-changes-skill-md",
+    "name": "checking-changes",
+    "author": "streamlit",
+    "stars": 43433,
+    "githubUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/checking-changes",
+    "skillUrl": "https://skillsmp.com/skills/streamlit-streamlit-claude-skills-checking-changes-skill-md",
+    "updatedAt": 1770084548,
+    "description": "Validates all code changes before committing by running format, lint, type, and unit test checks. Use after making backend (Python) or frontend (TypeScript) changes, before committing or finishing a work session."
+  },
+  "github": {
+    "owner": "streamlit",
+    "repo": "streamlit",
+    "ref": "develop",
+    "relativePath": ".claude/skills/checking-changes",
+    "sourceUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/checking-changes"
+  }
+}

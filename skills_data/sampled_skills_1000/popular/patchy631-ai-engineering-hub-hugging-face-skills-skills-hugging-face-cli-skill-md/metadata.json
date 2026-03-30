@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 509,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 509,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-cli-skill-md",
+    "name": "hugging-face-cli",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-cli",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-cli-skill-md",
+    "updatedAt": 1769769658,
+    "description": "Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, upload files to Hub repositories, create repos, manage local cache, or run compute jobs on HF infrastructure. Covers authentication, file transfers, repository creation, cache operations, and cloud compute."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-cli",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-cli"
+  }
+}

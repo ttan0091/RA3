@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 885,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 885,
+    "id": "danmarauda-agent-alias-configurator-convex-skills-main-convex-agents-threads-skill-md",
+    "name": "convex-agents-threads",
+    "author": "danmarauda",
+    "stars": 0,
+    "githubUrl": "https://github.com/danmarauda/agent-alias-configurator/tree/main/convex-skills-main/convex-agents-threads",
+    "skillUrl": "https://skillsmp.com/skills/danmarauda-agent-alias-configurator-convex-skills-main-convex-agents-threads-skill-md",
+    "updatedAt": 1770154873,
+    "description": "Manages conversation threads to group messages into linear histories. Use this when organizing multi-turn conversations, managing per-user history, and handling thread metadata."
+  },
+  "github": {
+    "owner": "danmarauda",
+    "repo": "agent-alias-configurator",
+    "ref": "main",
+    "relativePath": "convex-skills-main/convex-agents-threads",
+    "sourceUrl": "https://github.com/danmarauda/agent-alias-configurator/tree/main/convex-skills-main/convex-agents-threads"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 830,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 830,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-api-patterns-skill-md",
+    "name": "api-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-api-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "API design principles and decision-making. REST vs GraphQL vs tRPC selection, response formats, versioning, pagination."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/api-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-patterns"
+  }
+}

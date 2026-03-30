@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 167,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 167,
+    "id": "levnikolaevich-claude-code-skills-ln-302-task-replanner-skill-md",
+    "name": "ln-302-task-replanner",
+    "author": "levnikolaevich",
+    "stars": 82,
+    "githubUrl": "https://github.com/levnikolaevich/claude-code-skills/tree/master/ln-302-task-replanner",
+    "skillUrl": "https://skillsmp.com/skills/levnikolaevich-claude-code-skills-ln-302-task-replanner-skill-md",
+    "updatedAt": 1770500943,
+    "description": "Updates ALL task types (implementation/refactoring/test). Compares IDEAL plan vs existing tasks, categorizes KEEP/UPDATE/OBSOLETE/CREATE, applies changes in Linear and kanban."
+  },
+  "github": {
+    "owner": "levnikolaevich",
+    "repo": "claude-code-skills",
+    "ref": "master",
+    "relativePath": "ln-302-task-replanner",
+    "sourceUrl": "https://github.com/levnikolaevich/claude-code-skills/tree/master/ln-302-task-replanner"
+  }
+}

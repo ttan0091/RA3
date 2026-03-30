@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 578,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 578,
+    "id": "mastra-ai-mastra-examples-unified-workspace-docs-skills-brand-guidelines-skill-md",
+    "name": "brand-guidelines",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/docs-skills/brand-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-examples-unified-workspace-docs-skills-brand-guidelines-skill-md",
+    "updatedAt": 1769718852,
+    "description": "Applies Mastra's brand colors, typography, and writing style to documentation, code examples, or artifacts. Use when brand colors, style guidelines, visual formatting, or company design standards apply."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": "examples/unified-workspace/docs-skills/brand-guidelines",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/docs-skills/brand-guidelines"
+  }
+}

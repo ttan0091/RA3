@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 441,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 441,
+    "id": "wshobson-agents-plugins-kubernetes-operations-skills-helm-chart-scaffolding-skill-md",
+    "name": "helm-chart-scaffolding",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/helm-chart-scaffolding",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-kubernetes-operations-skills-helm-chart-scaffolding-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or implementing templated deployments."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/kubernetes-operations/skills/helm-chart-scaffolding",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/helm-chart-scaffolding"
+  }
+}

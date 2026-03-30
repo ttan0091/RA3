@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 613,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 613,
+    "id": "github-awesome-copilot-skills-snowflake-semanticview-skill-md",
+    "name": "snowflake-semanticview",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/snowflake-semanticview",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-snowflake-semanticview-skill-md",
+    "updatedAt": 1768738323,
+    "description": "Create, alter, and validate Snowflake semantic views using Snowflake CLI (snow). Use when asked to build or troubleshoot semantic views/semantic layer definitions with CREATE/ALTER SEMANTIC VIEW, to validate semantic-view DDL against Snowflake via CLI, or to guide Snowflake CLI installation and connection setup."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/snowflake-semanticview",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/snowflake-semanticview"
+  }
+}

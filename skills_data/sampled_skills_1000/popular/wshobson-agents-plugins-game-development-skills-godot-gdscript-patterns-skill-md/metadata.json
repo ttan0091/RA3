@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 429,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 429,
+    "id": "wshobson-agents-plugins-game-development-skills-godot-gdscript-patterns-skill-md",
+    "name": "godot-gdscript-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/game-development/skills/godot-gdscript-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-game-development-skills-godot-gdscript-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or learning GDScript best practices."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/game-development/skills/godot-gdscript-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/game-development/skills/godot-gdscript-patterns"
+  }
+}

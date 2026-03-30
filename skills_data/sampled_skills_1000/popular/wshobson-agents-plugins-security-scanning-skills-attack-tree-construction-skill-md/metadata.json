@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 483,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 483,
+    "id": "wshobson-agents-plugins-security-scanning-skills-attack-tree-construction-skill-md",
+    "name": "attack-tree-construction",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/attack-tree-construction",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-security-scanning-skills-attack-tree-construction-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/security-scanning/skills/attack-tree-construction",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/attack-tree-construction"
+  }
+}

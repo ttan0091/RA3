@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 539,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 539,
+    "id": "dotnet-maui-github-skills-ai-summary-comment-skill-md",
+    "name": "ai-summary-comment",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/ai-summary-comment",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-ai-summary-comment-skill-md",
+    "updatedAt": 1770418135,
+    "description": "Posts or updates automated progress comments on GitHub PRs. Use after completing any PR agent phase (pre-flight, tests, gate, fix, report). Triggers on 'post comment to PR', 'update PR progress', 'comment on PR with results', 'post pre-flight comment'. Creates single aggregated review comment with collapsible sections per commit."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/ai-summary-comment",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/ai-summary-comment"
+  }
+}

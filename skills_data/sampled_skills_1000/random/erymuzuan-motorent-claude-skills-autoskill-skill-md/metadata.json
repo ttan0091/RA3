@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 68,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 68,
+    "id": "erymuzuan-motorent-claude-skills-autoskill-skill-md",
+    "name": "autoskill",
+    "author": "erymuzuan",
+    "stars": 0,
+    "githubUrl": "https://github.com/erymuzuan/motorent/tree/master/.claude/skills/autoskill",
+    "skillUrl": "https://skillsmp.com/skills/erymuzuan-motorent-claude-skills-autoskill-skill-md",
+    "updatedAt": 1769206500,
+    "description": "Analyze coding sessions to detect corrections and preferences, then propose targeted improvements to Skills used in the session. Use this skill when the user asks to \"learn from this session\", \"update skills\", or \"remember this pattern\". Extracts durable preferences and codifies them into the appropriate skill files."
+  },
+  "github": {
+    "owner": "erymuzuan",
+    "repo": "motorent",
+    "ref": "master",
+    "relativePath": ".claude/skills/autoskill",
+    "sourceUrl": "https://github.com/erymuzuan/motorent/tree/master/.claude/skills/autoskill"
+  }
+}

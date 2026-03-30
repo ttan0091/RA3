@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 444,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 444,
+    "id": "fabioc-aloha-lithium-github-skills-code-review-skill-md",
+    "name": "code-review-skill",
+    "author": "fabioc-aloha",
+    "stars": 0,
+    "githubUrl": "https://github.com/fabioc-aloha/Lithium/tree/main/.github/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/fabioc-aloha-lithium-github-skills-code-review-skill-md",
+    "updatedAt": 1770760688,
+    "description": "Systematic review for quality and learning."
+  },
+  "github": {
+    "owner": "fabioc-aloha",
+    "repo": "Lithium",
+    "ref": "main",
+    "relativePath": ".github/skills/code-review",
+    "sourceUrl": "https://github.com/fabioc-aloha/Lithium/tree/main/.github/skills/code-review"
+  }
+}

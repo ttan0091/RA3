@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 443,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 443,
+    "id": "duc01226-easyplatform-claude-skills-code-no-test-skill-md",
+    "name": "code-no-test",
+    "author": "duc01226",
+    "stars": 3,
+    "githubUrl": "https://github.com/duc01226/EasyPlatform/tree/main/.claude/skills/code-no-test",
+    "skillUrl": "https://skillsmp.com/skills/duc01226-easyplatform-claude-skills-code-no-test-skill-md",
+    "updatedAt": 1770335808,
+    "description": "[Implementation] ⚡⚡ Start coding an existing plan (no testing)"
+  },
+  "github": {
+    "owner": "duc01226",
+    "repo": "EasyPlatform",
+    "ref": "main",
+    "relativePath": ".claude/skills/code-no-test",
+    "sourceUrl": "https://github.com/duc01226/EasyPlatform/tree/main/.claude/skills/code-no-test"
+  }
+}

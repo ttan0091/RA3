@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 852,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 852,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-code-review-checklist-skill-md",
+    "name": "code-review-checklist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/code-review-checklist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-code-review-checklist-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/code-review-checklist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/code-review-checklist"
+  }
+}

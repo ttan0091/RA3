@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 109,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 109,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-python-expert-skill-md",
+    "name": "python-expert",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/python-expert",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-python-expert-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Senior Python developer expertise for writing clean, efficient, and well-documented code.\nUse when: writing Python code, optimizing Python scripts, reviewing Python code for best practices,\ndebugging Python issues, implementing type hints, or when user mentions Python, PEP 8, or needs help\nwith Python data structures and algorithms."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/python-expert",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/python-expert"
+  }
+}

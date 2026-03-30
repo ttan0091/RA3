@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 410,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 410,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-e2e-testing-patterns-skill-md",
+    "name": "e2e-testing-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-e2e-testing-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master end-to-end testing with Playwright and Cypress to build reliable test suites that catch bugs, improve confidence, and enable fast deployment. Use when implementing E2E tests, debugging flaky tests, or establishing testing standards."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/e2e-testing-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/e2e-testing-patterns"
+  }
+}

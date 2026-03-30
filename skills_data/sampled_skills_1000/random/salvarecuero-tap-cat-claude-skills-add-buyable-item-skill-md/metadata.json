@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 127,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 127,
+    "id": "salvarecuero-tap-cat-claude-skills-add-buyable-item-skill-md",
+    "name": "add-buyable-item",
+    "author": "salvarecuero",
+    "stars": 0,
+    "githubUrl": "https://github.com/salvarecuero/tap-cat/tree/main/.claude/skills/add-buyable-item",
+    "skillUrl": "https://skillsmp.com/skills/salvarecuero-tap-cat-claude-skills-add-buyable-item-skill-md",
+    "updatedAt": 1767426153,
+    "description": "Add a new one-time shop boost (buyable item) consistent with the app’s cat-petting theme and design-concept-reference.png. Produces the boosts.json entry, icon filename/path, accessible imageDescription, and concise icon generation instructions."
+  },
+  "github": {
+    "owner": "salvarecuero",
+    "repo": "tap-cat",
+    "ref": "main",
+    "relativePath": ".claude/skills/add-buyable-item",
+    "sourceUrl": "https://github.com/salvarecuero/tap-cat/tree/main/.claude/skills/add-buyable-item"
+  }
+}

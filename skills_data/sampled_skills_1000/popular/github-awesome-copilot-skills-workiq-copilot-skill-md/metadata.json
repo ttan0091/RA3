@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 620,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 620,
+    "id": "github-awesome-copilot-skills-workiq-copilot-skill-md",
+    "name": "workiq-copilot",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/workiq-copilot",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-workiq-copilot-skill-md",
+    "updatedAt": 1769396426,
+    "description": "Guides the Copilot CLI on how to use the WorkIQ CLI/MCP server to query Microsoft 365 Copilot data (emails, meetings, docs, Teams, people) for live context, summaries, and recommendations."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/workiq-copilot",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/workiq-copilot"
+  }
+}

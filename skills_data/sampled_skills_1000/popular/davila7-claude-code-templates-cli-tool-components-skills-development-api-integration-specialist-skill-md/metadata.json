@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 829,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 829,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-api-integration-specialist-skill-md",
+    "name": "api-integration-specialist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-integration-specialist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-api-integration-specialist-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Expert in integrating third-party APIs with proper authentication, error handling, rate limiting, and retry logic. Use when integrating REST APIs, GraphQL endpoints, webhooks, or external services. Specializes in OAuth flows, API key management, request/response transformation, and building robust API clients."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/api-integration-specialist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-integration-specialist"
+  }
+}

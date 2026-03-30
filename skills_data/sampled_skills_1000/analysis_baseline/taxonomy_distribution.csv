@@ -1,0 +1,11 @@
+label,top_count,top_rate,random_count,random_rate,delta_rate_top_minus_random
+coding_dev,800,0.8,742,0.742,0.058
+data_ml_ai,340,0.34,200,0.2,0.14
+devops_infra,261,0.261,203,0.203,0.058
+documentation_writing,522,0.522,493,0.493,0.029
+domain_specific,18,0.018,49,0.049,-0.031
+integration_tools,459,0.459,399,0.399,0.06
+product_design,196,0.196,157,0.157,0.039
+research_analysis,339,0.339,253,0.253,0.086
+security,250,0.25,209,0.209,0.041
+workflow_automation,585,0.585,612,0.612,-0.027

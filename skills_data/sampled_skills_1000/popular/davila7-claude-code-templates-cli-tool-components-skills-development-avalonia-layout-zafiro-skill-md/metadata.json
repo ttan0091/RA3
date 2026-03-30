@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 832,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 832,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-avalonia-layout-zafiro-skill-md",
+    "name": "avalonia-layout-zafiro",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-layout-zafiro",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-avalonia-layout-zafiro-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/avalonia-layout-zafiro",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-layout-zafiro"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 919,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 919,
+    "id": "atilamedeiros-skills-csharp-pro-skill-md",
+    "name": "csharp-pro",
+    "author": "AtilaMedeiros",
+    "stars": 0,
+    "githubUrl": "https://github.com/AtilaMedeiros/skills/tree/main/csharp-pro",
+    "skillUrl": "https://skillsmp.com/skills/atilamedeiros-skills-csharp-pro-skill-md",
+    "updatedAt": 1770648740,
+    "description": "Write modern C# code with advanced features like records, pattern matching, and async/await. Optimizes .NET applications, implements enterprise patterns, and ensures comprehensive testing. Use PROACTIVELY for C# refactoring, performance optimization, or complex .NET solutions."
+  },
+  "github": {
+    "owner": "AtilaMedeiros",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "csharp-pro",
+    "sourceUrl": "https://github.com/AtilaMedeiros/skills/tree/main/csharp-pro"
+  }
+}

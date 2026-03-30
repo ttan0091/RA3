@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 322,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 322,
+    "id": "composiohq-awesome-claude-skills-competitive-ads-extractor-skill-md",
+    "name": "competitive-ads-extractor",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-competitive-ads-extractor-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand what messaging, problems, and creative approaches are working. Helps inspire and improve your own ad campaigns."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "competitive-ads-extractor",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/competitive-ads-extractor"
+  }
+}

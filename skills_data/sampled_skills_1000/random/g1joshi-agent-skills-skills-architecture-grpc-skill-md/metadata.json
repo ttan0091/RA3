@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 97,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 97,
+    "id": "g1joshi-agent-skills-skills-architecture-grpc-skill-md",
+    "name": "grpc",
+    "author": "G1Joshi",
+    "stars": 0,
+    "githubUrl": "https://github.com/G1Joshi/Agent-Skills/tree/main/skills/architecture/grpc",
+    "skillUrl": "https://skillsmp.com/skills/g1joshi-agent-skills-skills-architecture-grpc-skill-md",
+    "updatedAt": 1770743088,
+    "description": "gRPC high-performance RPC framework with protobuf. Use for service communication."
+  },
+  "github": {
+    "owner": "G1Joshi",
+    "repo": "Agent-Skills",
+    "ref": "main",
+    "relativePath": "skills/architecture/grpc",
+    "sourceUrl": "https://github.com/G1Joshi/Agent-Skills/tree/main/skills/architecture/grpc"
+  }
+}

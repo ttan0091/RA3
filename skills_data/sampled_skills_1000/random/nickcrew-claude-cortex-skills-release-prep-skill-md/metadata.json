@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 519,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 519,
+    "id": "nickcrew-claude-cortex-skills-release-prep-skill-md",
+    "name": "release-prep",
+    "author": "NickCrew",
+    "stars": 8,
+    "githubUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/release-prep",
+    "skillUrl": "https://skillsmp.com/skills/nickcrew-claude-cortex-skills-release-prep-skill-md",
+    "updatedAt": 1768636937,
+    "description": "Use when preparing a production release or release candidate - provides a checklist-driven workflow for validation, versioning, build optimization, documentation updates, and deployment readiness."
+  },
+  "github": {
+    "owner": "NickCrew",
+    "repo": "claude-cortex",
+    "ref": "main",
+    "relativePath": "skills/release-prep",
+    "sourceUrl": "https://github.com/NickCrew/claude-cortex/tree/main/skills/release-prep"
+  }
+}

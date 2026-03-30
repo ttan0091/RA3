@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 958,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 958,
+    "id": "duclm1x1-dive-ai-skills-library-media-streaming-overseerr-skill-md",
+    "name": "overseerr",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/media_streaming/overseerr",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-media-streaming-overseerr-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Request movies/TV and monitor request status via the Overseerr API (stable Overseerr, not the beta Seerr rewrite)."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/media_streaming/overseerr",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/media_streaming/overseerr"
+  }
+}

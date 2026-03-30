@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 147,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 147,
+    "id": "anthropics-skills-skills-pdf-skill-md",
+    "name": "pdf",
+    "author": "anthropics",
+    "stars": 67303,
+    "githubUrl": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-skills-skills-pdf-skill-md",
+    "updatedAt": 1770412772,
+    "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/pdf",
+    "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/pdf"
+  }
+}

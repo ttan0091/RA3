@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 954,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 954,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-document-processing-obsidian-bases-skill-md",
+    "name": "obsidian-bases",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/obsidian-bases",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-document-processing-obsidian-bases-skill-md",
+    "updatedAt": 1767879701,
+    "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/document-processing/obsidian-bases",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/obsidian-bases"
+  }
+}

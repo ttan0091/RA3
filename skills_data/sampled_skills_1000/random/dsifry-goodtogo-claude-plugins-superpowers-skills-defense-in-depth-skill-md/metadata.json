@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 46,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 46,
+    "id": "dsifry-goodtogo-claude-plugins-superpowers-skills-defense-in-depth-skill-md",
+    "name": "defense-in-depth",
+    "author": "dsifry",
+    "stars": 42,
+    "githubUrl": "https://github.com/dsifry/goodtogo/tree/main/.claude/plugins/superpowers/skills/defense-in-depth",
+    "skillUrl": "https://skillsmp.com/skills/dsifry-goodtogo-claude-plugins-superpowers-skills-defense-in-depth-skill-md",
+    "updatedAt": 1768501028,
+    "description": "Use when invalid data causes failures deep in execution, requiring validation at multiple system layers - validates at every layer data passes through to make bugs structurally impossible"
+  },
+  "github": {
+    "owner": "dsifry",
+    "repo": "goodtogo",
+    "ref": "main",
+    "relativePath": ".claude/plugins/superpowers/skills/defense-in-depth",
+    "sourceUrl": "https://github.com/dsifry/goodtogo/tree/main/.claude/plugins/superpowers/skills/defense-in-depth"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 45,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 45,
+    "id": "cversek-maceff-framework-skills-maceff-delegation-skill-md",
+    "name": "maceff-delegation",
+    "author": "cversek",
+    "stars": 0,
+    "githubUrl": "https://github.com/cversek/MacEff/tree/main/framework/skills/maceff-delegation",
+    "skillUrl": "https://skillsmp.com/skills/cversek-maceff-framework-skills-maceff-delegation-skill-md",
+    "updatedAt": 1767935436,
+    "description": "Use when preparing to delegate to MacEff subagents. Read policies to discover current delegation patterns through timeless questions that extract details without prescribing answers."
+  },
+  "github": {
+    "owner": "cversek",
+    "repo": "MacEff",
+    "ref": "main",
+    "relativePath": "framework/skills/maceff-delegation",
+    "sourceUrl": "https://github.com/cversek/MacEff/tree/main/framework/skills/maceff-delegation"
+  }
+}

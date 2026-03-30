@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 680,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 680,
+    "id": "fortiumpartners-ai-mesh-skills-jest-test-skill-md",
+    "name": "jest-test-framework",
+    "author": "FortiumPartners",
+    "stars": 8,
+    "githubUrl": "https://github.com/FortiumPartners/ai-mesh/tree/main/skills/jest-test",
+    "skillUrl": "https://skillsmp.com/skills/fortiumpartners-ai-mesh-skills-jest-test-skill-md",
+    "updatedAt": 1765483541,
+    "description": "Execute and generate Jest tests for JavaScript/TypeScript projects with support for unit, integration, and E2E testing"
+  },
+  "github": {
+    "owner": "FortiumPartners",
+    "repo": "ai-mesh",
+    "ref": "main",
+    "relativePath": "skills/jest-test",
+    "sourceUrl": "https://github.com/FortiumPartners/ai-mesh/tree/main/skills/jest-test"
+  }
+}

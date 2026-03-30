@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 53,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 53,
+    "id": "szeyu-vibe-study-skills-skills-problem-solver-skill-md",
+    "name": "problem-solver",
+    "author": "szeyu",
+    "stars": 5,
+    "githubUrl": "https://github.com/szeyu/vibe-study-skills/tree/main/skills/problem-solver",
+    "skillUrl": "https://skillsmp.com/skills/szeyu-vibe-study-skills-skills-problem-solver-skill-md",
+    "updatedAt": 1769674326,
+    "description": "Step-by-step problem solving with detailed explanations. Uses structured approach (Identify, Plan, Execute, Verify) for math, physics, chemistry, and CS problems. Can provide hints before solutions. Use when solving academic problems, working through practice questions, or learning problem-solving methods. Triggers - solve problem, step by step, show work, explain solution, how to solve, problem help."
+  },
+  "github": {
+    "owner": "szeyu",
+    "repo": "vibe-study-skills",
+    "ref": "main",
+    "relativePath": "skills/problem-solver",
+    "sourceUrl": "https://github.com/szeyu/vibe-study-skills/tree/main/skills/problem-solver"
+  }
+}

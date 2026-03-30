@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 319,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 319,
+    "id": "composiohq-awesome-codex-skills-meeting-notes-and-actions-skill-md",
+    "name": "meeting-notes-and-actions",
+    "author": "ComposioHQ",
+    "stars": 291,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-codex-skills/tree/master/meeting-notes-and-actions",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-codex-skills-meeting-notes-and-actions-skill-md",
+    "updatedAt": 1768454424,
+    "description": "Turn meeting transcripts or rough notes into crisp summaries with decisions, risks, and owner-tagged action items; use for Zoom/Meet/Teams transcripts, call notes, or long meeting chats to generate share-ready outputs."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-codex-skills",
+    "ref": "master",
+    "relativePath": "meeting-notes-and-actions",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-codex-skills/tree/master/meeting-notes-and-actions"
+  }
+}

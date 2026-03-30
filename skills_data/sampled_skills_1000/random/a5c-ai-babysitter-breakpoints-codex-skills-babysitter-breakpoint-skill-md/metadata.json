@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 453,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 453,
+    "id": "a5c-ai-babysitter-breakpoints-codex-skills-babysitter-breakpoint-skill-md",
+    "name": "babysitter-breakpoint",
+    "author": "a5c-ai",
+    "stars": 0,
+    "githubUrl": "https://github.com/a5c-ai/babysitter-breakpoints/tree/main/.codex/skills/babysitter-breakpoint",
+    "skillUrl": "https://skillsmp.com/skills/a5c-ai-babysitter-breakpoints-codex-skills-babysitter-breakpoint-skill-md",
+    "updatedAt": 1768654988,
+    "description": "Use the breakpoint API to communicate with users during babysitter runs (post breakpoints, poll for release, fetch feedback, and read context files). Trigger whenever a babysitter workflow needs approval, input, or status updates via breakpoints."
+  },
+  "github": {
+    "owner": "a5c-ai",
+    "repo": "babysitter-breakpoints",
+    "ref": "main",
+    "relativePath": ".codex/skills/babysitter-breakpoint",
+    "sourceUrl": "https://github.com/a5c-ai/babysitter-breakpoints/tree/main/.codex/skills/babysitter-breakpoint"
+  }
+}

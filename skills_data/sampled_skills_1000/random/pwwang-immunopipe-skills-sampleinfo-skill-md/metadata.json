@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 689,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 689,
+    "id": "pwwang-immunopipe-skills-sampleinfo-skill-md",
+    "name": "sampleinfo",
+    "author": "pwwang",
+    "stars": 20,
+    "githubUrl": "https://github.com/pwwang/immunopipe/tree/master/skills/sampleinfo",
+    "skillUrl": "https://skillsmp.com/skills/pwwang-immunopipe-skills-sampleinfo-skill-md",
+    "updatedAt": 1768951780,
+    "description": "The SampleInfo process is the pipeline entry point that reads sample metadata files, performs statistical analyses, and generates visualization reports."
+  },
+  "github": {
+    "owner": "pwwang",
+    "repo": "immunopipe",
+    "ref": "master",
+    "relativePath": "skills/sampleinfo",
+    "sourceUrl": "https://github.com/pwwang/immunopipe/tree/master/skills/sampleinfo"
+  }
+}

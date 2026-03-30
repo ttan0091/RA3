@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 721,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 721,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-caching-skill-md",
+    "name": "prompt-caching",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-caching",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-caching-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Caching strategies for LLM prompts including Anthropic prompt caching, response caching, and CAG (Cache Augmented Generation) Use when: prompt caching, cache prompt, response cache, cag, cache augmented."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-caching",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-caching"
+  }
+}

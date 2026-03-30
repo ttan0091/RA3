@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 59,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 59,
+    "id": "yogoism-youtube-obsidian-claude-skills-decomposition-skill-md",
+    "name": "decomposition",
+    "author": "yogoism",
+    "stars": 0,
+    "githubUrl": "https://github.com/yogoism/YouTube-Obsidian/tree/main/.claude/skills/decomposition",
+    "skillUrl": "https://skillsmp.com/skills/yogoism-youtube-obsidian-claude-skills-decomposition-skill-md",
+    "updatedAt": 1770031156,
+    "description": "Decompose complex tasks into detailed, actionable todos. Each todo has a rich description that is executable from the description alone."
+  },
+  "github": {
+    "owner": "yogoism",
+    "repo": "YouTube-Obsidian",
+    "ref": "main",
+    "relativePath": ".claude/skills/decomposition",
+    "sourceUrl": "https://github.com/yogoism/YouTube-Obsidian/tree/main/.claude/skills/decomposition"
+  }
+}

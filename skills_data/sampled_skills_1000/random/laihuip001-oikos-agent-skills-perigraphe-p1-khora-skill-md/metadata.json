@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 660,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 660,
+    "id": "laihuip001-oikos-agent-skills-perigraphe-p1-khora-skill-md",
+    "name": "khra",
+    "author": "laihuip001",
+    "stars": 0,
+    "githubUrl": "https://github.com/laihuip001/OIKOS/tree/master/.agent/skills/perigraphe/p1-khora",
+    "skillUrl": "https://skillsmp.com/skills/laihuip001-oikos-agent-skills-perigraphe-p1-khora-skill-md",
+    "updatedAt": 1770040525,
+    "description": "どの範囲で考える？・スコープを決めたい・領域を定義したい時に発動。 Domain definition, scope establishment, contextual container. Use for: 領域, 範囲, scope, domain, 場. NOT for: domain already clear (proceed directly)."
+  },
+  "github": {
+    "owner": "laihuip001",
+    "repo": "OIKOS",
+    "ref": "master",
+    "relativePath": ".agent/skills/perigraphe/p1-khora",
+    "sourceUrl": "https://github.com/laihuip001/OIKOS/tree/master/.agent/skills/perigraphe/p1-khora"
+  }
+}

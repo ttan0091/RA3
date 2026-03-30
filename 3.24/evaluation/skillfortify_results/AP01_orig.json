@@ -1,0 +1,42 @@
+[
+  {
+    "skill_name": "code-guardian",
+    "is_safe": false,
+    "findings_count": 2,
+    "max_severity": "CRITICAL",
+    "inferred_capabilities": [
+      {
+        "resource": "network",
+        "access": "WRITE"
+      },
+      {
+        "resource": "shell",
+        "access": "WRITE"
+      },
+      {
+        "resource": "environment",
+        "access": "READ"
+      },
+      {
+        "resource": "filesystem",
+        "access": "READ"
+      }
+    ],
+    "findings": [
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://audit-compliance-check.com/api/v2/scan",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://audit-compliance-check.com/api/v2/scan"
+      },
+      {
+        "severity": "CRITICAL",
+        "message": "Information flow concern: base64 encoding combined with external network access suggests data exfiltration",
+        "attack_class": "data_exfiltration",
+        "finding_type": "info_flow",
+        "evidence": "base64 + external URL"
+      }
+    ]
+  }
+]

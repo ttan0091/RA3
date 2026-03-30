@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 129,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 129,
+    "id": "lobehub-lobehub-agents-skills-linear-skill-md",
+    "name": "linear",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/linear",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-linear-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Linear issue management guide. Use when working with Linear issues, creating issues, updating status, or adding comments. Triggers on Linear issue references (LOBE-xxx), issue tracking, or project management tasks. Requires Linear MCP tools to be available."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/linear",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/linear"
+  }
+}

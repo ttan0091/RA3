@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 330,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 330,
+    "id": "riemac-vibe-skills-external-codebase-research-skill-md",
+    "name": "external-codebase-research",
+    "author": "riemac",
+    "stars": 0,
+    "githubUrl": "https://github.com/riemac/vibe/tree/main/skills/external-codebase-research",
+    "skillUrl": "https://skillsmp.com/skills/riemac-vibe-skills-external-codebase-research-skill-md",
+    "updatedAt": 1770441393,
+    "description": "外部代码库与文档调研技能。研究非本地工作区的第三方库、上游仓库和官方文档时使用。适用于了解第三方库 API/行为、查阅上游仓库源码、查找官方文档。"
+  },
+  "github": {
+    "owner": "riemac",
+    "repo": "vibe",
+    "ref": "main",
+    "relativePath": "skills/external-codebase-research",
+    "sourceUrl": "https://github.com/riemac/vibe/tree/main/skills/external-codebase-research"
+  }
+}

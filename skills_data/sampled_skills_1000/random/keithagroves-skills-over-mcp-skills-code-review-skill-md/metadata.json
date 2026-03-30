@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 161,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 161,
+    "id": "keithagroves-skills-over-mcp-skills-code-review-skill-md",
+    "name": "code-review",
+    "author": "keithagroves",
+    "stars": 2,
+    "githubUrl": "https://github.com/keithagroves/skills-over-mcp/tree/main/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/keithagroves-skills-over-mcp-skills-code-review-skill-md",
+    "updatedAt": 1769753442,
+    "description": "Performs thorough code reviews focusing on correctness, security, performance, and maintainability. Use when reviewing pull requests, examining code changes, or auditing existing code."
+  },
+  "github": {
+    "owner": "keithagroves",
+    "repo": "skills-over-mcp",
+    "ref": "main",
+    "relativePath": "skills/code-review",
+    "sourceUrl": "https://github.com/keithagroves/skills-over-mcp/tree/main/skills/code-review"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 995,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 995,
+    "id": "sundial-org-awesome-openclaw-skills-skills-shared-memory-skill-md",
+    "name": "shared-memory",
+    "author": "sundial-org",
+    "stars": 35,
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/shared-memory",
+    "skillUrl": "https://skillsmp.com/skills/sundial-org-awesome-openclaw-skills-skills-shared-memory-skill-md",
+    "updatedAt": 1769996135,
+    "description": "Share memories and state with other users. Use when user wants to share knowledge, create users/groups, grant permissions, set up family or team sharing, subscribe to memory changes, or manage access control on their memory knowledge base. This shared memory skill uses Ensue - a shared memory network for agents."
+  },
+  "github": {
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "ref": "main",
+    "relativePath": "skills/shared-memory",
+    "sourceUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/shared-memory"
+  }
+}

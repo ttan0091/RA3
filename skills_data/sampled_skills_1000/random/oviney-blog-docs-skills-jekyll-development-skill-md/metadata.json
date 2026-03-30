@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 101,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 101,
+    "id": "oviney-blog-docs-skills-jekyll-development-skill-md",
+    "name": "jekyll-development-workflow",
+    "author": "oviney",
+    "stars": 0,
+    "githubUrl": "https://github.com/oviney/blog/tree/main/docs/skills/jekyll-development",
+    "skillUrl": "https://skillsmp.com/skills/oviney-blog-docs-skills-jekyll-development-skill-md",
+    "updatedAt": 1767632141,
+    "description": "Complete workflow for developing, testing, and deploying Jekyll blog changes"
+  },
+  "github": {
+    "owner": "oviney",
+    "repo": "blog",
+    "ref": "main",
+    "relativePath": "docs/skills/jekyll-development",
+    "sourceUrl": "https://github.com/oviney/blog/tree/main/docs/skills/jekyll-development"
+  }
+}

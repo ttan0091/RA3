@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 465,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 465,
+    "id": "wshobson-agents-plugins-python-development-skills-python-configuration-skill-md",
+    "name": "python-configuration",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-configuration",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-configuration-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python configuration management via environment variables and typed settings. Use when externalizing config, setting up pydantic-settings, managing secrets, or implementing environment-specific behavior."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-configuration",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-configuration"
+  }
+}

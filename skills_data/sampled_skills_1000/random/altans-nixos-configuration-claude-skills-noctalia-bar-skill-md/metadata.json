@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 757,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 757,
+    "id": "altans-nixos-configuration-claude-skills-noctalia-bar-skill-md",
+    "name": "noctalia-bar",
+    "author": "AltanS",
+    "stars": 0,
+    "githubUrl": "https://github.com/AltanS/nixos-configuration/tree/main/.claude/skills/noctalia-bar",
+    "skillUrl": "https://skillsmp.com/skills/altans-nixos-configuration-claude-skills-noctalia-bar-skill-md",
+    "updatedAt": 1769611003,
+    "description": "This skill should be used when the user asks to \"move a widget\", \"add widget to bar\", \"remove widget from bar\", \"configure bar layout\", \"change bar position\", \"customize noctalia bar\", or mentions bar widgets like Launcher, Clock, SystemMonitor, Workspace."
+  },
+  "github": {
+    "owner": "AltanS",
+    "repo": "nixos-configuration",
+    "ref": "main",
+    "relativePath": ".claude/skills/noctalia-bar",
+    "sourceUrl": "https://github.com/AltanS/nixos-configuration/tree/main/.claude/skills/noctalia-bar"
+  }
+}

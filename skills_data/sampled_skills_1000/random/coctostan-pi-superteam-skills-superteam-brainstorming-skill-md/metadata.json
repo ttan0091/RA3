@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 613,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 613,
+    "id": "coctostan-pi-superteam-skills-superteam-brainstorming-skill-md",
+    "name": "superteam-brainstorming",
+    "author": "coctostan",
+    "stars": 3,
+    "githubUrl": "https://github.com/coctostan/pi-superteam/tree/main/skills/superteam-brainstorming",
+    "skillUrl": "https://skillsmp.com/skills/coctostan-pi-superteam-skills-superteam-brainstorming-skill-md",
+    "updatedAt": 1770648596,
+    "description": "Explore design options before committing to an approach"
+  },
+  "github": {
+    "owner": "coctostan",
+    "repo": "pi-superteam",
+    "ref": "main",
+    "relativePath": "skills/superteam-brainstorming",
+    "sourceUrl": "https://github.com/coctostan/pi-superteam/tree/main/skills/superteam-brainstorming"
+  }
+}

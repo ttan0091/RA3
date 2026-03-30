@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 449,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 449,
+    "id": "wshobson-agents-plugins-llm-application-dev-skills-rag-implementation-skill-md",
+    "name": "rag-implementation",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/rag-implementation",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-rag-implementation-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search. Use when implementing knowledge-grounded AI, building document Q&A systems, or integrating LLMs with external knowledge bases."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/llm-application-dev/skills/rag-implementation",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/rag-implementation"
+  }
+}

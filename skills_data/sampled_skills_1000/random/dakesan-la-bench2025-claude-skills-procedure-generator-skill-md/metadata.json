@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 717,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 717,
+    "id": "dakesan-la-bench2025-claude-skills-procedure-generator-skill-md",
+    "name": "procedure-generator",
+    "author": "dakesan",
+    "stars": 0,
+    "githubUrl": "https://github.com/dakesan/la-bench2025/tree/main/.claude/skills/procedure-generator",
+    "skillUrl": "https://skillsmp.com/skills/dakesan-la-bench2025-claude-skills-procedure-generator-skill-md",
+    "updatedAt": 1763762527,
+    "description": "Orchestrate experimental procedure generation from LA-Bench format input. This skill orchestrates file I/O and delegates procedure generation logic to experiment-procedure-generator subagent. Use this skill when you need to generate step-by-step experimental procedures with quantitative specifications and proper experimental design."
+  },
+  "github": {
+    "owner": "dakesan",
+    "repo": "la-bench2025",
+    "ref": "main",
+    "relativePath": ".claude/skills/procedure-generator",
+    "sourceUrl": "https://github.com/dakesan/la-bench2025/tree/main/.claude/skills/procedure-generator"
+  }
+}

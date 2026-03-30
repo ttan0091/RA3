@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 48,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 48,
+    "id": "openclaw-openclaw-skills-sherpa-onnx-tts-skill-md",
+    "name": "sherpa-onnx-tts",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/sherpa-onnx-tts",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-sherpa-onnx-tts-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Local text-to-speech via sherpa-onnx (offline, no cloud)"
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/sherpa-onnx-tts",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/sherpa-onnx-tts"
+  }
+}

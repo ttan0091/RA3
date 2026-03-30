@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 800,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 800,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-game-audio-skill-md",
+    "name": "game-audio",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/game-audio",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-game-audio-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Game audio principles. Sound design, music integration, adaptive audio systems."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/game-development/game-audio",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/game-audio"
+  }
+}

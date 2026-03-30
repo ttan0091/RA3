@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 49,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 49,
+    "id": "openclaw-openclaw-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-skill-creator-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Create or update AgentSkills. Use when designing, structuring, or packaging skills with scripts, references, and assets."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/skill-creator",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/skill-creator"
+  }
+}

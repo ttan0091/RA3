@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 801,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 801,
+    "id": "imrenagi-skills-skills-go-development-skill-md",
+    "name": "go-development",
+    "author": "imrenagi",
+    "stars": 0,
+    "githubUrl": "https://github.com/imrenagi/skills/tree/main/skills/go-development",
+    "skillUrl": "https://skillsmp.com/skills/imrenagi-skills-skills-go-development-skill-md",
+    "updatedAt": 1769266950,
+    "description": "Best practices for Go development, covering domain-driven design, context usage, and structured logging."
+  },
+  "github": {
+    "owner": "imrenagi",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/go-development",
+    "sourceUrl": "https://github.com/imrenagi/skills/tree/main/skills/go-development"
+  }
+}

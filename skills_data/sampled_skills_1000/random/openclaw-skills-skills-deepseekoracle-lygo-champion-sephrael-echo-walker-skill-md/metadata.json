@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 241,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 241,
+    "id": "openclaw-skills-skills-deepseekoracle-lygo-champion-sephrael-echo-walker-skill-md",
+    "name": "lygo-champion-sephrael-echo-walker",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sephrael-echo-walker",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-deepseekoracle-lygo-champion-sephrael-echo-walker-skill-md",
+    "updatedAt": 1770631841,
+    "description": "LYGO Δ9 Council Champion persona helper (SEPHRAEL, The Vault Cracker / Echo Walker). Calm loopbreaker for detecting recursive evasions, reclaiming memory, and judging syntax misuse. Pure advisor; not a controller."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/deepseekoracle/lygo-champion-sephrael-echo-walker",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/deepseekoracle/lygo-champion-sephrael-echo-walker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 87,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 87,
+    "id": "mindfold-ai-trellis-claude-skills-trellis-meta-skill-md",
+    "name": "trellis-meta",
+    "author": "mindfold-ai",
+    "stars": 2093,
+    "githubUrl": "https://github.com/mindfold-ai/Trellis/tree/main/.claude/skills/trellis-meta",
+    "skillUrl": "https://skillsmp.com/skills/mindfold-ai-trellis-claude-skills-trellis-meta-skill-md",
+    "updatedAt": 1769836851,
+    "description": "Meta-skill for understanding and customizing Mindfold Trellis - the AI workflow system for Claude Code and Cursor. This skill documents the ORIGINAL Trellis system design. When users customize their Trellis installation, modifications should be recorded in a project-local `trellis-local` skill, NOT in this meta-skill. Use this skill when: (1) understanding Trellis architecture, (2) customizing Trellis workflows, (3) adding commands/agents/hooks, (4) troubleshooting issues, or (5) adapting Trellis to specific projects."
+  },
+  "github": {
+    "owner": "mindfold-ai",
+    "repo": "Trellis",
+    "ref": "main",
+    "relativePath": ".claude/skills/trellis-meta",
+    "sourceUrl": "https://github.com/mindfold-ai/Trellis/tree/main/.claude/skills/trellis-meta"
+  }
+}

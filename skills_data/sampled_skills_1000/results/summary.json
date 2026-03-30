@@ -1,0 +1,41 @@
+{
+  "runDir": "skills_data/sampled_skills_1000/run_20260226T161504Z",
+  "metadataPath": "skills_data/skills_metadata.json",
+  "targetCount": 1000,
+  "seed": 20260226,
+  "dryRun": false,
+  "popular": {
+    "successCount": 1000,
+    "attemptedCount": 1242,
+    "batchCount": 5,
+    "groupCount": 93,
+    "contentCount": 1000
+  },
+  "random": {
+    "successCount": 1000,
+    "attemptedCount": 1218,
+    "batchCount": 5,
+    "groupCount": 1095,
+    "contentCount": 1000
+  },
+  "failureCount": 253,
+  "parseErrorCount": 0,
+  "failureCategories": {
+    "path_not_found": 206,
+    "copy_failed": 4,
+    "clone_failed": 35,
+    "sparse_checkout_failed": 8
+  },
+  "generatedAt": "2026-02-27T05:15:11.710302+00:00",
+  "successCount": 2000,
+  "postCleanup": {
+    "removedDirs": {
+      "popular": 242,
+      "random": 175
+    },
+    "keptDirs": {
+      "popular": 1000,
+      "random": 1000
+    }
+  }
+}

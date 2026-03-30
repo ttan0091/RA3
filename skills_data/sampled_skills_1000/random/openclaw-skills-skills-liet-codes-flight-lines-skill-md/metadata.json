@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 903,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 903,
+    "id": "openclaw-skills-skills-liet-codes-flight-lines-skill-md",
+    "name": "flight-lines",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/liet-codes/flight-lines",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-liet-codes-flight-lines-skill-md",
+    "updatedAt": 1769934907,
+    "description": "Navigate problems along lines of flight by composing operations from arbitrary domains. Operations are deterritorialized capacities—they don't belong to their origin domains. Mycorrhizal signaling + ham radio protocols + rare book dealer networks can compose into a single assemblage. The composer maintains parallel work-paths, constantly revising as new structure emerges."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/liet-codes/flight-lines",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/liet-codes/flight-lines"
+  }
+}

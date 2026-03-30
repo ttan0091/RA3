@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 980,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 980,
+    "id": "mineru98-webserver-expert-skills-skiils-webserver-manager-skill-md",
+    "name": "web-server-manager",
+    "author": "Mineru98",
+    "stars": 0,
+    "githubUrl": "https://github.com/Mineru98/webserver-expert-skills/tree/main/skiils/webserver-manager",
+    "skillUrl": "https://skillsmp.com/skills/mineru98-webserver-expert-skills-skiils-webserver-manager-skill-md",
+    "updatedAt": 1768526350,
+    "description": "Web server management for nginx, Apache, and IIS. Use when configuring: (1) SSL/TLS certificates, (2) Load balancing, (3) Virtual hosts and subdomains, (4) Security hardening, (5) Performance optimization, (6) HTTPS redirects, (7) HTTP/2, (8) Backup/restore, (9) Troubleshooting server issues, or any web server administration tasks."
+  },
+  "github": {
+    "owner": "Mineru98",
+    "repo": "webserver-expert-skills",
+    "ref": "main",
+    "relativePath": "skiils/webserver-manager",
+    "sourceUrl": "https://github.com/Mineru98/webserver-expert-skills/tree/main/skiils/webserver-manager"
+  }
+}

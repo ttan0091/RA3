@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 596,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 596,
+    "id": "github-awesome-copilot-skills-image-manipulation-image-magick-skill-md",
+    "name": "image-manipulation-image-magick",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/image-manipulation-image-magick",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-image-manipulation-image-magick-skill-md",
+    "updatedAt": 1769014118,
+    "description": "Process and manipulate images using ImageMagick. Supports resizing, format conversion, batch processing, and retrieving image metadata. Use when working with images, creating thumbnails, resizing wallpapers, or performing batch image operations."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/image-manipulation-image-magick",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/image-manipulation-image-magick"
+  }
+}

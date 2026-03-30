@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 335,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 335,
+    "id": "composiohq-awesome-claude-skills-langsmith-fetch-skill-md",
+    "name": "langsmith-fetch",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-langsmith-fetch-skill-md",
+    "updatedAt": 1768151408,
+    "description": "Debug LangChain and LangGraph agents by fetching execution traces from LangSmith Studio. Use when debugging agent behavior, investigating errors, analyzing tool calls, checking memory operations, or examining agent performance. Automatically fetches recent traces and analyzes execution patterns. Requires langsmith-fetch CLI installed."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "langsmith-fetch",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/langsmith-fetch"
+  }
+}

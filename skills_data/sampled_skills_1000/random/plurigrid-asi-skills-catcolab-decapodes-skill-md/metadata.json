@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 911,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 911,
+    "id": "plurigrid-asi-skills-catcolab-decapodes-skill-md",
+    "name": "catcolab-decapodes",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/catcolab-decapodes",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-catcolab-decapodes-skill-md",
+    "updatedAt": 1770457398,
+    "description": "CatColab Decapodes - Discrete Exterior Calculus for PDE modeling on meshes via Decapodes.jl integration. Model physics equations compositionally with automatic code generation."
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/catcolab-decapodes",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/catcolab-decapodes"
+  }
+}

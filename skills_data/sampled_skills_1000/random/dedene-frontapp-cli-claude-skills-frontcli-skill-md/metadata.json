@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 925,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 925,
+    "id": "dedene-frontapp-cli-claude-skills-frontcli-skill-md",
+    "name": "frontcli",
+    "author": "dedene",
+    "stars": 0,
+    "githubUrl": "https://github.com/dedene/frontapp-cli/tree/main/.claude/skills/frontcli",
+    "skillUrl": "https://skillsmp.com/skills/dedene-frontapp-cli-claude-skills-frontcli-skill-md",
+    "updatedAt": 1770398802,
+    "description": "Interact with Front customer support platform via the frontcli CLI. Use when managing conversations, messages, contacts, tags, drafts, comments, templates, inboxes, teammates, or channels in Front. Triggered by mentions of Front, frontcli, support tickets, customer conversations, or helpdesk operations."
+  },
+  "github": {
+    "owner": "dedene",
+    "repo": "frontapp-cli",
+    "ref": "main",
+    "relativePath": ".claude/skills/frontcli",
+    "sourceUrl": "https://github.com/dedene/frontapp-cli/tree/main/.claude/skills/frontcli"
+  }
+}

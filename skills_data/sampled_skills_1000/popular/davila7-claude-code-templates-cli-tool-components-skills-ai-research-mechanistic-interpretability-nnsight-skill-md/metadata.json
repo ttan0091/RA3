@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 682,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 682,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-mechanistic-interpretability-nnsight-skill-md",
+    "name": "nnsight-remote-interpretability",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-mechanistic-interpretability-nnsight-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Provides guidance for interpreting and manipulating neural network internals using nnsight with optional NDIF remote execution. Use when needing to run interpretability experiments on massive models (70B+) without local GPU resources, or when working with any PyTorch architecture."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-nnsight"
+  }
+}

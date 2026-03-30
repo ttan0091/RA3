@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 758,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 758,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-copywriting-skill-md",
+    "name": "copywriting",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/copywriting",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-copywriting-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says \"write copy for,\" \"improve this copy,\" \"rewrite this page,\" \"marketing copy,\" \"headline help,\" or \"CTA copy.\" For email copy, see email-sequence. For popup copy, see popup-cro."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/copywriting",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/copywriting"
+  }
+}

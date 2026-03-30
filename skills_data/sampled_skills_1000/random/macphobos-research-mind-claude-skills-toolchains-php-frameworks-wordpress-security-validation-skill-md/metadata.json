@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 810,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 810,
+    "id": "macphobos-research-mind-claude-skills-toolchains-php-frameworks-wordpress-security-validation-skill-md",
+    "name": "wordpress-security-validation",
+    "author": "MacPhobos",
+    "stars": 0,
+    "githubUrl": "https://github.com/MacPhobos/research-mind/tree/main/.claude/skills/toolchains-php-frameworks-wordpress-security-validation",
+    "skillUrl": "https://skillsmp.com/skills/macphobos-research-mind-claude-skills-toolchains-php-frameworks-wordpress-security-validation-skill-md",
+    "updatedAt": 1769824345,
+    "description": "Security-first WordPress development with nonces, sanitization, validation, and escaping to prevent XSS, CSRF, and SQL injection vulnerabilities."
+  },
+  "github": {
+    "owner": "MacPhobos",
+    "repo": "research-mind",
+    "ref": "main",
+    "relativePath": ".claude/skills/toolchains-php-frameworks-wordpress-security-validation",
+    "sourceUrl": "https://github.com/MacPhobos/research-mind/tree/main/.claude/skills/toolchains-php-frameworks-wordpress-security-validation"
+  }
+}

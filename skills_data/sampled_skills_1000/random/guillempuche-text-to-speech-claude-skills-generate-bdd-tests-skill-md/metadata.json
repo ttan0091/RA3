@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 57,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 57,
+    "id": "guillempuche-text-to-speech-claude-skills-generate-bdd-tests-skill-md",
+    "name": "generate-bdd-tests",
+    "author": "guillempuche",
+    "stars": 0,
+    "githubUrl": "https://github.com/guillempuche/text-to-speech/tree/main/.claude/skills/generate-bdd-tests",
+    "skillUrl": "https://skillsmp.com/skills/guillempuche-text-to-speech-claude-skills-generate-bdd-tests-skill-md",
+    "updatedAt": 1769354883,
+    "description": "Generates comprehensive BDD-style test files using pytest and pytest-mock. Use when creating tests, writing test files, generating test coverage, or when asked to test CLI commands, functions, utilities, or modules."
+  },
+  "github": {
+    "owner": "guillempuche",
+    "repo": "text-to-speech",
+    "ref": "main",
+    "relativePath": ".claude/skills/generate-bdd-tests",
+    "sourceUrl": "https://github.com/guillempuche/text-to-speech/tree/main/.claude/skills/generate-bdd-tests"
+  }
+}

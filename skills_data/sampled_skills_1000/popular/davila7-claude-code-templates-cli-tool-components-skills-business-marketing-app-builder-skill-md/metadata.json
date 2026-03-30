@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 751,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 751,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-app-builder-skill-md",
+    "name": "app-builder",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-app-builder-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Main application building orchestrator. Creates full-stack applications from natural language requests. Determines project type, selects tech stack, coordinates agents."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/app-builder",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder"
+  }
+}

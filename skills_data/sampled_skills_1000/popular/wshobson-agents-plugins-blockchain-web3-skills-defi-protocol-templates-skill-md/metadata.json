@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 380,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 380,
+    "id": "wshobson-agents-plugins-blockchain-web3-skills-defi-protocol-templates-skill-md",
+    "name": "defi-protocol-templates",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-blockchain-web3-skills-defi-protocol-templates-skill-md",
+    "updatedAt": 1760661207,
+    "description": "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/blockchain-web3/skills/defi-protocol-templates",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/defi-protocol-templates"
+  }
+}

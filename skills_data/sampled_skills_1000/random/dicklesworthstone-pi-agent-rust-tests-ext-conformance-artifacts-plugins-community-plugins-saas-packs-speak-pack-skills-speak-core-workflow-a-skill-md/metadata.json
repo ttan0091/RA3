@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 249,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 249,
+    "id": "dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-community-plugins-saas-packs-speak-pack-skills-speak-core-workflow-a-skill-md",
+    "name": "speak-core-workflow-a",
+    "author": "Dicklesworthstone",
+    "stars": 38,
+    "githubUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-community/plugins/saas-packs/speak-pack/skills/speak-core-workflow-a",
+    "skillUrl": "https://skillsmp.com/skills/dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-community-plugins-saas-packs-speak-pack-skills-speak-core-workflow-a-skill-md",
+    "updatedAt": 1770274565,
+    "description": "Execute Speak primary workflow: AI Conversation Practice with real-time feedback.\nUse when implementing conversation practice features, building AI tutor interactions,\nor core language learning dialogue systems.\nTrigger with phrases like \"speak conversation practice\",\n\"speak AI tutor\", \"speak dialogue\", \"primary speak workflow\"."
+  },
+  "github": {
+    "owner": "Dicklesworthstone",
+    "repo": "pi_agent_rust",
+    "ref": "main",
+    "relativePath": "tests/ext_conformance/artifacts/plugins-community/plugins/saas-packs/speak-pack/skills/speak-core-workflow-a",
+    "sourceUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-community/plugins/saas-packs/speak-pack/skills/speak-core-workflow-a"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 692,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 692,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-nanogpt-skill-md",
+    "name": "nanogpt",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-nanogpt",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-nanogpt-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWebText. Clean, hackable code for learning transformers. By Andrej Karpathy. Perfect for understanding GPT architecture from scratch. Train on Shakespeare (CPU) or OpenWebText (multi-GPU)."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/model-architecture-nanogpt",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-nanogpt"
+  }
+}

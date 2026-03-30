@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 276,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 276,
+    "id": "geeksblabla-stateofdev-ma-claude-skills-excuting-plans-skill-md",
+    "name": "executing-plans",
+    "author": "geeksblabla",
+    "stars": 159,
+    "githubUrl": "https://github.com/geeksblabla/stateofdev.ma/tree/master/.claude/skills/excuting-plans",
+    "skillUrl": "https://skillsmp.com/skills/geeksblabla-stateofdev-ma-claude-skills-excuting-plans-skill-md",
+    "updatedAt": 1765638718,
+    "description": "Use when partner provides a complete implementation plan to execute in controlled batches with review checkpoints - loads plan, reviews critically, executes tasks in batches, reports for review between batches"
+  },
+  "github": {
+    "owner": "geeksblabla",
+    "repo": "stateofdev.ma",
+    "ref": "master",
+    "relativePath": ".claude/skills/excuting-plans",
+    "sourceUrl": "https://github.com/geeksblabla/stateofdev.ma/tree/master/.claude/skills/excuting-plans"
+  }
+}

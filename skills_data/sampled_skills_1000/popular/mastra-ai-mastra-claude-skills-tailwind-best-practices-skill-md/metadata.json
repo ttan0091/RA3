@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 577,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 577,
+    "id": "mastra-ai-mastra-claude-skills-tailwind-best-practices-skill-md",
+    "name": "tailwind-best-practices",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/tailwind-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-claude-skills-tailwind-best-practices-skill-md",
+    "updatedAt": 1768916216,
+    "description": "Tailwind CSS styling guidelines for Mastra Playground UI. This skill should be used when writing, reviewing, or refactoring styling code in packages/playground-ui and packages/playground to ensure design system consistency. Triggers on tasks involving Tailwind classes, component styling, or design tokens."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": ".claude/skills/tailwind-best-practices",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/tailwind-best-practices"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 687,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 687,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-mlops-mlflow-skill-md",
+    "name": "mlflow",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mlops-mlflow",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-mlops-mlflow-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/mlops-mlflow",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mlops-mlflow"
+  }
+}

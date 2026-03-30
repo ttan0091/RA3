@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 648,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 648,
+    "id": "jukasdrj-bendv3-claude-skills-planning-with-files-skill-md",
+    "name": "planning-with-files",
+    "author": "jukasdrj",
+    "stars": 1,
+    "githubUrl": "https://github.com/jukasdrj/bendv3/tree/bendv3/.claude/skills/planning-with-files",
+    "skillUrl": "https://skillsmp.com/skills/jukasdrj-bendv3-claude-skills-planning-with-files-skill-md",
+    "updatedAt": 1768687465,
+    "description": "Implements Manus-style file-based planning for complex tasks. Creates task_plan.md, findings.md, and progress.md. Use when starting complex multi-step tasks, research projects, or any task requiring >5 tool calls."
+  },
+  "github": {
+    "owner": "jukasdrj",
+    "repo": "bendv3",
+    "ref": "bendv3",
+    "relativePath": ".claude/skills/planning-with-files",
+    "sourceUrl": "https://github.com/jukasdrj/bendv3/tree/bendv3/.claude/skills/planning-with-files"
+  }
+}

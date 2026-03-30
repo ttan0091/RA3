@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 820,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 820,
+    "id": "cinderzhang-driver-plugin-skills-implement-screen-skill-md",
+    "name": "implement-screen",
+    "author": "CinderZhang",
+    "stars": 2,
+    "githubUrl": "https://github.com/CinderZhang/driver-plugin/tree/main/skills/implement-screen",
+    "skillUrl": "https://skillsmp.com/skills/cinderzhang-driver-plugin-skills-implement-screen-skill-md",
+    "updatedAt": 1769320689,
+    "description": "Use when ready to build a section - builds and runs code, showing results immediately (show don't tell)"
+  },
+  "github": {
+    "owner": "CinderZhang",
+    "repo": "driver-plugin",
+    "ref": "main",
+    "relativePath": "skills/implement-screen",
+    "sourceUrl": "https://github.com/CinderZhang/driver-plugin/tree/main/skills/implement-screen"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 358,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 358,
+    "id": "leobrival-topographic-plugins-official-plugins-dev-skills-raycast-cli-skill-md",
+    "name": "raycast-cli",
+    "author": "leobrival",
+    "stars": 0,
+    "githubUrl": "https://github.com/leobrival/topographic-plugins-official/tree/main/plugins/dev/skills/raycast-cli",
+    "skillUrl": "https://skillsmp.com/skills/leobrival-topographic-plugins-official-plugins-dev-skills-raycast-cli-skill-md",
+    "updatedAt": 1769434286,
+    "description": "Raycast CLI expert for extension development. Use when users need to create, develop, test, or publish Raycast extensions."
+  },
+  "github": {
+    "owner": "leobrival",
+    "repo": "topographic-plugins-official",
+    "ref": "main",
+    "relativePath": "plugins/dev/skills/raycast-cli",
+    "sourceUrl": "https://github.com/leobrival/topographic-plugins-official/tree/main/plugins/dev/skills/raycast-cli"
+  }
+}

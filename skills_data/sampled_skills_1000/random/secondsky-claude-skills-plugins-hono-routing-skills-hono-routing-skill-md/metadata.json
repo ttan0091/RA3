@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 474,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 474,
+    "id": "secondsky-claude-skills-plugins-hono-routing-skills-hono-routing-skill-md",
+    "name": "hono-routing",
+    "author": "secondsky",
+    "stars": 44,
+    "githubUrl": "https://github.com/secondsky/claude-skills/tree/main/plugins/hono-routing/skills/hono-routing",
+    "skillUrl": "https://skillsmp.com/skills/secondsky-claude-skills-plugins-hono-routing-skills-hono-routing-skill-md",
+    "updatedAt": 1766542380,
+    "description": "Type-safe Hono APIs with routing, middleware, RPC. Use for request validation, Zod/Valibot validators, or encountering middleware type inference, validation hook, RPC errors."
+  },
+  "github": {
+    "owner": "secondsky",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "plugins/hono-routing/skills/hono-routing",
+    "sourceUrl": "https://github.com/secondsky/claude-skills/tree/main/plugins/hono-routing/skills/hono-routing"
+  }
+}

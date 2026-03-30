@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 299,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 299,
+    "id": "raine-workmux-skills-rebase-skill-md",
+    "name": "rebase",
+    "author": "raine",
+    "stars": 693,
+    "githubUrl": "https://github.com/raine/workmux/tree/main/skills/rebase",
+    "skillUrl": "https://skillsmp.com/skills/raine-workmux-skills-rebase-skill-md",
+    "updatedAt": 1770144380,
+    "description": "Rebase the current branch with smart conflict resolution."
+  },
+  "github": {
+    "owner": "raine",
+    "repo": "workmux",
+    "ref": "main",
+    "relativePath": "skills/rebase",
+    "sourceUrl": "https://github.com/raine/workmux/tree/main/skills/rebase"
+  }
+}

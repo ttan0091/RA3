@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 305,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 305,
+    "id": "bbmorten-morzer-github-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "bbmorten",
+    "stars": 0,
+    "githubUrl": "https://github.com/bbmorten/morzer/tree/main/.github/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/bbmorten-morzer-github-skills-skill-creator-skill-md",
+    "updatedAt": 1768389769,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "bbmorten",
+    "repo": "morzer",
+    "ref": "main",
+    "relativePath": ".github/skills/skill-creator",
+    "sourceUrl": "https://github.com/bbmorten/morzer/tree/main/.github/skills/skill-creator"
+  }
+}

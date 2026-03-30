@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 703,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 703,
+    "id": "tippyentertainment-skills-skills-unity-3d-game-developer-skill-md",
+    "name": "unity-3d-game-developer",
+    "author": "tippyentertainment",
+    "stars": 0,
+    "githubUrl": "https://github.com/tippyentertainment/skills/tree/main/skills/unity-3d-game-developer",
+    "skillUrl": "https://skillsmp.com/skills/tippyentertainment-skills-skills-unity-3d-game-developer-skill-md",
+    "updatedAt": 1770677475,
+    "description": "Help architect, implement, debug, and optimize 3D games and tools in Unity using C#, modern render pipelines, and best-practice workflows."
+  },
+  "github": {
+    "owner": "tippyentertainment",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/unity-3d-game-developer",
+    "sourceUrl": "https://github.com/tippyentertainment/skills/tree/main/skills/unity-3d-game-developer"
+  }
+}

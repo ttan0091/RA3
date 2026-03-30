@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 978,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 978,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-quality-manager-qmr-skill-md",
+    "name": "quality-manager-qmr",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qmr",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-quality-manager-qmr-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Senior Quality Manager Responsible Person (QMR) for HealthTech and MedTech companies. Provides overall quality system responsibility, regulatory compliance oversight, management accountability, and strategic quality leadership. Use for quality system governance, regulatory compliance oversight, management responsibility, and quality strategic planning."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/quality-manager-qmr",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qmr"
+  }
+}

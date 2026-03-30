@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 212,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 212,
+    "id": "dicklesworthstone-agent-flywheel-clawdbot-skills-and-integrations-skills-gcloud-skill-md",
+    "name": "gcloud",
+    "author": "Dicklesworthstone",
+    "stars": 43,
+    "githubUrl": "https://github.com/Dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/tree/main/skills/gcloud",
+    "skillUrl": "https://skillsmp.com/skills/dicklesworthstone-agent-flywheel-clawdbot-skills-and-integrations-skills-gcloud-skill-md",
+    "updatedAt": 1767933659,
+    "description": "Google Cloud Platform CLI - manage GCP resources including Compute Engine, Cloud Run, GKE, Cloud Functions, Storage, BigQuery, and more."
+  },
+  "github": {
+    "owner": "Dicklesworthstone",
+    "repo": "agent_flywheel_clawdbot_skills_and_integrations",
+    "ref": "main",
+    "relativePath": "skills/gcloud",
+    "sourceUrl": "https://github.com/Dicklesworthstone/agent_flywheel_clawdbot_skills_and_integrations/tree/main/skills/gcloud"
+  }
+}

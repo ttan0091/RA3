@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 947,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 947,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-web-quality-audit-skill-md",
+    "name": "web-quality-audit",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/web-quality-audit",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-web-quality-audit-skill-md",
+    "updatedAt": 1769895150,
+    "description": "Comprehensive web quality audit covering performance, accessibility, SEO, and best practices. Use when asked to \"audit my site\", \"review web quality\", \"run lighthouse audit\", \"check page quality\", or \"optimize my website\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/web-quality-audit",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/web-quality-audit"
+  }
+}

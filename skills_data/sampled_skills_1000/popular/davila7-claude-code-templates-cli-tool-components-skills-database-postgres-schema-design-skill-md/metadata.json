@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 822,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 822,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-database-postgres-schema-design-skill-md",
+    "name": "postgres-schema-design",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/postgres-schema-design",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-database-postgres-schema-design-skill-md",
+    "updatedAt": 1764170264,
+    "description": "Comprehensive PostgreSQL-specific table design reference covering data types, indexing, constraints, performance patterns, and advanced features"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/database/postgres-schema-design",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/postgres-schema-design"
+  }
+}

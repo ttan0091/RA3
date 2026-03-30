@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 585,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 585,
+    "id": "github-awesome-copilot-skills-azure-devops-cli-skill-md",
+    "name": "azure-devops-cli",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-devops-cli",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-azure-devops-cli-skill-md",
+    "updatedAt": 1769102332,
+    "description": "Manage Azure DevOps resources via CLI including projects, repos, pipelines, builds, pull requests, work items, artifacts, and service endpoints. Use when working with Azure DevOps, az commands, devops automation, CI/CD, or when user mentions Azure DevOps CLI."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/azure-devops-cli",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-devops-cli"
+  }
+}

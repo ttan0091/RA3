@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 121,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 121,
+    "id": "browser-use-browser-use-skills-browser-use-skill-md",
+    "name": "browser-use",
+    "author": "browser-use",
+    "stars": 78152,
+    "githubUrl": "https://github.com/browser-use/browser-use/tree/main/skills/browser-use",
+    "skillUrl": "https://skillsmp.com/skills/browser-use-browser-use-skills-browser-use-skill-md",
+    "updatedAt": 1770058050,
+    "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, or extract information from web pages."
+  },
+  "github": {
+    "owner": "browser-use",
+    "repo": "browser-use",
+    "ref": "main",
+    "relativePath": "skills/browser-use",
+    "sourceUrl": "https://github.com/browser-use/browser-use/tree/main/skills/browser-use"
+  }
+}

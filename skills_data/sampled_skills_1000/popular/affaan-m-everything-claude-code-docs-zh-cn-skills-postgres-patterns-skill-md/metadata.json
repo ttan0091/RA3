@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 235,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 235,
+    "id": "affaan-m-everything-claude-code-docs-zh-cn-skills-postgres-patterns-skill-md",
+    "name": "postgres-patterns",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/postgres-patterns",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-cn-skills-postgres-patterns-skill-md",
+    "updatedAt": 1770299874,
+    "description": "基于Supabase最佳实践的PostgreSQL数据库模式，用于查询优化、架构设计、索引和安全。"
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-CN/skills/postgres-patterns",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/postgres-patterns"
+  }
+}

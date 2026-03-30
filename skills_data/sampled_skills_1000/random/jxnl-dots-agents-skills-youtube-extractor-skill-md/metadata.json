@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 362,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 362,
+    "id": "jxnl-dots-agents-skills-youtube-extractor-skill-md",
+    "name": "youtube-extractor",
+    "author": "jxnl",
+    "stars": 135,
+    "githubUrl": "https://github.com/jxnl/dots/tree/master/agents/skills/youtube-extractor",
+    "skillUrl": "https://skillsmp.com/skills/jxnl-dots-agents-skills-youtube-extractor-skill-md",
+    "updatedAt": 1768664010,
+    "description": "Extract transcripts, titles, and thumbnails from YouTube videos. Use for ingesting video content, capturing captions with timestamps, or downloading video metadata."
+  },
+  "github": {
+    "owner": "jxnl",
+    "repo": "dots",
+    "ref": "master",
+    "relativePath": "agents/skills/youtube-extractor",
+    "sourceUrl": "https://github.com/jxnl/dots/tree/master/agents/skills/youtube-extractor"
+  }
+}

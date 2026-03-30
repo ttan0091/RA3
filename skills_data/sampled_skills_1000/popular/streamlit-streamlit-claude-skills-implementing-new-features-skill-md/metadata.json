@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 291,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 291,
+    "id": "streamlit-streamlit-claude-skills-implementing-new-features-skill-md",
+    "name": "implementing-new-features",
+    "author": "streamlit",
+    "stars": 43433,
+    "githubUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/implementing-new-features",
+    "skillUrl": "https://skillsmp.com/skills/streamlit-streamlit-claude-skills-implementing-new-features-skill-md",
+    "updatedAt": 1770141980,
+    "description": "Implementation guide for new Streamlit features. Use when adding new elements, widgets, or features that span backend, frontend, and protobufs."
+  },
+  "github": {
+    "owner": "streamlit",
+    "repo": "streamlit",
+    "ref": "develop",
+    "relativePath": ".claude/skills/implementing-new-features",
+    "sourceUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/implementing-new-features"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 435,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 435,
+    "id": "wshobson-agents-plugins-incident-response-skills-postmortem-writing-skill-md",
+    "name": "postmortem-writing",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/postmortem-writing",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-incident-response-skills-postmortem-writing-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Write effective blameless postmortems with root cause analysis, timelines, and action items. Use when conducting incident reviews, writing postmortem documents, or improving incident response processes."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/incident-response/skills/postmortem-writing",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/incident-response/skills/postmortem-writing"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 972,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 972,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-scientific-gene-database-skill-md",
+    "name": "gene-database",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/gene-database",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-scientific-gene-database-skill-md",
+    "updatedAt": 1766265230,
+    "description": "Query NCBI Gene via E-utilities/Datasets API. Search by symbol/ID, retrieve gene info (RefSeqs, GO, locations, phenotypes), batch lookups, for gene annotation and functional analysis."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/scientific/gene-database",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/gene-database"
+  }
+}

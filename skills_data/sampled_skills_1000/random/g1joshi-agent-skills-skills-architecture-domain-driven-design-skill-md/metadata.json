@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 854,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 854,
+    "id": "g1joshi-agent-skills-skills-architecture-domain-driven-design-skill-md",
+    "name": "domain-driven-design",
+    "author": "G1Joshi",
+    "stars": 0,
+    "githubUrl": "https://github.com/G1Joshi/Agent-Skills/tree/main/skills/architecture/domain-driven-design",
+    "skillUrl": "https://skillsmp.com/skills/g1joshi-agent-skills-skills-architecture-domain-driven-design-skill-md",
+    "updatedAt": 1770743088,
+    "description": "DDD tactical and strategic patterns. Use for complex domains."
+  },
+  "github": {
+    "owner": "G1Joshi",
+    "repo": "Agent-Skills",
+    "ref": "main",
+    "relativePath": "skills/architecture/domain-driven-design",
+    "sourceUrl": "https://github.com/G1Joshi/Agent-Skills/tree/main/skills/architecture/domain-driven-design"
+  }
+}

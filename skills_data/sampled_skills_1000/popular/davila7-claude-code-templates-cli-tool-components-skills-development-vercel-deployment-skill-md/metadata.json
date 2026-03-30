@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 946,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 946,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-vercel-deployment-skill-md",
+    "name": "vercel-deployment",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/vercel-deployment",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-vercel-deployment-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/vercel-deployment",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/vercel-deployment"
+  }
+}

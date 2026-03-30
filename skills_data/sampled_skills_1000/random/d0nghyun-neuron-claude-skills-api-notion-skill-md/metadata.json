@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 659,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 659,
+    "id": "d0nghyun-neuron-claude-skills-api-notion-skill-md",
+    "name": "api-notion",
+    "author": "d0nghyun",
+    "stars": 1,
+    "githubUrl": "https://github.com/d0nghyun/neuron/tree/main/.claude/skills/api-notion",
+    "skillUrl": "https://skillsmp.com/skills/d0nghyun-neuron-claude-skills-api-notion-skill-md",
+    "updatedAt": 1769129571,
+    "description": "Notion REST API for pages, databases, blocks. Uses internal integration token for headless/CI. Activate for Notion operations."
+  },
+  "github": {
+    "owner": "d0nghyun",
+    "repo": "neuron",
+    "ref": "main",
+    "relativePath": ".claude/skills/api-notion",
+    "sourceUrl": "https://github.com/d0nghyun/neuron/tree/main/.claude/skills/api-notion"
+  }
+}

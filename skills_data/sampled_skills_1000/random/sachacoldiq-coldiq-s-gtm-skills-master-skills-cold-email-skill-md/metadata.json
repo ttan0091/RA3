@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 456,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 456,
+    "id": "sachacoldiq-coldiq-s-gtm-skills-master-skills-cold-email-skill-md",
+    "name": "cold-email",
+    "author": "sachacoldiq",
+    "stars": 2,
+    "githubUrl": "https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills/tree/main/master-skills/cold-email",
+    "skillUrl": "https://skillsmp.com/skills/sachacoldiq-coldiq-s-gtm-skills-master-skills-cold-email-skill-md",
+    "updatedAt": 1770735638,
+    "description": "Expert cold email strategist for B2B outbound campaigns. Use when the user asks about cold email writing, email sequences, email deliverability, domain warmup, SPF/DKIM/DMARC setup, email personalization, cold email templates, email copywriting frameworks, email compliance (CAN-SPAM, GDPR), bounce management, inbox placement, email infrastructure, sequencing tools (Instantly, Smartlead, Lemlist), or cold outreach strategy. Also triggers on \"cold email\", \"email sequence\", \"deliverability\", \"warmup\", \"SPF\", \"DKIM\", \"DMARC\", \"bounce rate\", \"spam\", \"inbox placement\", \"email template\", \"follow-up email\", \"outbound email\", \"Instantly\", \"Smartlead\", \"email copy\", \"subject line\", \"personalization\". Do NOT use for marketing emails or newsletters."
+  },
+  "github": {
+    "owner": "sachacoldiq",
+    "repo": "ColdIQ-s-GTM-Skills",
+    "ref": "main",
+    "relativePath": "master-skills/cold-email",
+    "sourceUrl": "https://github.com/sachacoldiq/ColdIQ-s-GTM-Skills/tree/main/master-skills/cold-email"
+  }
+}

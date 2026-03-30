@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 153,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 153,
+    "id": "hotaritobu-musix-js-claude-skills-pr-creator-skill-md",
+    "name": "pr-creator",
+    "author": "HotariTobu",
+    "stars": 0,
+    "githubUrl": "https://github.com/HotariTobu/musix.js/tree/main/.claude/skills/pr-creator",
+    "skillUrl": "https://skillsmp.com/skills/hotaritobu-musix-js-claude-skills-pr-creator-skill-md",
+    "updatedAt": 1766361534,
+    "description": "Create pull requests with gh command after development is complete. Use when ready to open a PR."
+  },
+  "github": {
+    "owner": "HotariTobu",
+    "repo": "musix.js",
+    "ref": "main",
+    "relativePath": ".claude/skills/pr-creator",
+    "sourceUrl": "https://github.com/HotariTobu/musix.js/tree/main/.claude/skills/pr-creator"
+  }
+}

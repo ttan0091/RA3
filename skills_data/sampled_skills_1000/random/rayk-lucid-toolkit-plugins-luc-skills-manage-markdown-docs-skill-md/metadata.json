@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 168,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 168,
+    "id": "rayk-lucid-toolkit-plugins-luc-skills-manage-markdown-docs-skill-md",
+    "name": "manage-markdown-docs",
+    "author": "rayk",
+    "stars": 3,
+    "githubUrl": "https://github.com/rayk/lucid-toolkit/tree/main/plugins/luc/skills/manage-markdown-docs",
+    "skillUrl": "https://skillsmp.com/skills/rayk-lucid-toolkit-plugins-luc-skills-manage-markdown-docs-skill-md",
+    "updatedAt": 1767009968,
+    "description": "Standardize markdown document creation and updates with proper headers and footers. Use when creating OR updating any markdown file that is NOT a subagent, command, or skill definition. Ensures consistent metadata, classification, and change tracking."
+  },
+  "github": {
+    "owner": "rayk",
+    "repo": "lucid-toolkit",
+    "ref": "main",
+    "relativePath": "plugins/luc/skills/manage-markdown-docs",
+    "sourceUrl": "https://github.com/rayk/lucid-toolkit/tree/main/plugins/luc/skills/manage-markdown-docs"
+  }
+}

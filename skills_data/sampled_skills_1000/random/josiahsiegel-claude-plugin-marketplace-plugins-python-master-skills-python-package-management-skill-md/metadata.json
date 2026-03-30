@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 374,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 374,
+    "id": "josiahsiegel-claude-plugin-marketplace-plugins-python-master-skills-python-package-management-skill-md",
+    "name": "python-package-management",
+    "author": "JosiahSiegel",
+    "stars": 13,
+    "githubUrl": "https://github.com/JosiahSiegel/claude-plugin-marketplace/tree/main/plugins/python-master/skills/python-package-management",
+    "skillUrl": "https://skillsmp.com/skills/josiahsiegel-claude-plugin-marketplace-plugins-python-master-skills-python-package-management-skill-md",
+    "updatedAt": 1768573370,
+    "description": "Complete Python package management system. PROACTIVELY activate for: (1) uv package manager (10-100x faster), (2) pyproject.toml configuration, (3) Virtual environment setup, (4) Dependency management with uv.lock, (5) Ruff linting and formatting, (6) src layout project structure, (7) Publishing to PyPI, (8) pip and requirements.txt. Provides: uv commands, pyproject.toml templates, ruff config, pre-commit setup. Ensures modern Python project setup with fast tooling."
+  },
+  "github": {
+    "owner": "JosiahSiegel",
+    "repo": "claude-plugin-marketplace",
+    "ref": "main",
+    "relativePath": "plugins/python-master/skills/python-package-management",
+    "sourceUrl": "https://github.com/JosiahSiegel/claude-plugin-marketplace/tree/main/plugins/python-master/skills/python-package-management"
+  }
+}

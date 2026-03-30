@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 671,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 671,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-inference-serving-sglang-skill-md",
+    "name": "sglang",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/inference-serving-sglang",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-inference-serving-sglang-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Fast structured generation and serving for LLMs with RadixAttention prefix caching. Use for JSON/regex outputs, constrained decoding, agentic workflows with tool calls, or when you need 5× faster inference than vLLM with prefix sharing. Powers 300,000+ GPUs at xAI, AMD, NVIDIA, and LinkedIn."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/inference-serving-sglang",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/inference-serving-sglang"
+  }
+}

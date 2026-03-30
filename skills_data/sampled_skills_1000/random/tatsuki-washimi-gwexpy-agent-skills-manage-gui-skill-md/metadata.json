@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 863,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 863,
+    "id": "tatsuki-washimi-gwexpy-agent-skills-manage-gui-skill-md",
+    "name": "manage-gui",
+    "author": "tatsuki-washimi",
+    "stars": 0,
+    "githubUrl": "https://github.com/tatsuki-washimi/gwexpy/tree/main/.agent/skills/manage_gui",
+    "skillUrl": "https://skillsmp.com/skills/tatsuki-washimi-gwexpy-agent-skills-manage-gui-skill-md",
+    "updatedAt": 1769853271,
+    "description": "PyQt等のモノリシックなGUIクラスを、データパイプライン・励起・描画のマネージャークラスへ分離・リファクタリングする"
+  },
+  "github": {
+    "owner": "tatsuki-washimi",
+    "repo": "gwexpy",
+    "ref": "main",
+    "relativePath": ".agent/skills/manage_gui",
+    "sourceUrl": "https://github.com/tatsuki-washimi/gwexpy/tree/main/.agent/skills/manage_gui"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 729,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 729,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-qa-test-planner-skill-md",
+    "name": "qa-test-planner",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/qa-test-planner",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-qa-test-planner-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Generate comprehensive test plans, manual test cases, regression test suites, and bug reports for QA engineers. Includes Figma MCP integration for design validation."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/qa-test-planner",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/qa-test-planner"
+  }
+}

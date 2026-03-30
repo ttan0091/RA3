@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 165,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 165,
+    "id": "robert-chiniquy-dotfiles-claude-skills-terraform-skill-md",
+    "name": "terraform-skill",
+    "author": "robert-chiniquy",
+    "stars": 2,
+    "githubUrl": "https://github.com/robert-chiniquy/dotfiles/tree/master/.claude/skills/terraform",
+    "skillUrl": "https://skillsmp.com/skills/robert-chiniquy-dotfiles-claude-skills-terraform-skill-md",
+    "updatedAt": 1769456684,
+    "description": "Use when working with Terraform or OpenTofu - creating modules, writing tests (native test framework, Terratest), setting up CI/CD pipelines, reviewing configurations, choosing between testing approaches, debugging state issues, implementing security scanning (trivy, checkov), or making infrastructure-as-code architecture decisions"
+  },
+  "github": {
+    "owner": "robert-chiniquy",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": ".claude/skills/terraform",
+    "sourceUrl": "https://github.com/robert-chiniquy/dotfiles/tree/master/.claude/skills/terraform"
+  }
+}

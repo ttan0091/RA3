@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 365,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 365,
+    "id": "skillrecordings-support-claude-skills-tdd-red-green-refactor-skill-md",
+    "name": "tdd-red-green-refactor",
+    "author": "skillrecordings",
+    "stars": 0,
+    "githubUrl": "https://github.com/skillrecordings/support/tree/main/.claude/skills/tdd-red-green-refactor",
+    "skillUrl": "https://skillsmp.com/skills/skillrecordings-support-claude-skills-tdd-red-green-refactor-skill-md",
+    "updatedAt": 1768757986,
+    "description": "Enforce TDD workflow (red → green → refactor). Use for any code change that is testable."
+  },
+  "github": {
+    "owner": "skillrecordings",
+    "repo": "support",
+    "ref": "main",
+    "relativePath": ".claude/skills/tdd-red-green-refactor",
+    "sourceUrl": "https://github.com/skillrecordings/support/tree/main/.claude/skills/tdd-red-green-refactor"
+  }
+}

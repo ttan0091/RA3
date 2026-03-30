@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 428,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 428,
+    "id": "qenex-ai-devops-plugin-skills-monitoring-observability-skill-md",
+    "name": "monitoring-and-observability",
+    "author": "qenex-ai",
+    "stars": 0,
+    "githubUrl": "https://github.com/qenex-ai/devops-plugin/tree/main/skills/monitoring-observability",
+    "skillUrl": "https://skillsmp.com/skills/qenex-ai-devops-plugin-skills-monitoring-observability-skill-md",
+    "updatedAt": 1769168674,
+    "description": "This skill should be used when the user asks to \"set up monitoring\", \"configure alerts\", \"add logging\", \"implement observability\", \"set up Prometheus\", \"configure Grafana\", \"application monitoring\", \"infrastructure monitoring\", \"log aggregation\", \"metrics collection\", or needs help with monitoring, alerting, and observability systems."
+  },
+  "github": {
+    "owner": "qenex-ai",
+    "repo": "devops-plugin",
+    "ref": "main",
+    "relativePath": "skills/monitoring-observability",
+    "sourceUrl": "https://github.com/qenex-ai/devops-plugin/tree/main/skills/monitoring-observability"
+  }
+}

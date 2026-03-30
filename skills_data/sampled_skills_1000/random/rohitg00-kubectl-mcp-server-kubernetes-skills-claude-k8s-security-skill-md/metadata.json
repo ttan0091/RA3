@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 744,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 744,
+    "id": "rohitg00-kubectl-mcp-server-kubernetes-skills-claude-k8s-security-skill-md",
+    "name": "k8s-security",
+    "author": "rohitg00",
+    "stars": 814,
+    "githubUrl": "https://github.com/rohitg00/kubectl-mcp-server/tree/main/kubernetes-skills/claude/k8s-security",
+    "skillUrl": "https://skillsmp.com/skills/rohitg00-kubectl-mcp-server-kubernetes-skills-claude-k8s-security-skill-md",
+    "updatedAt": 1769774248,
+    "description": "Audit Kubernetes RBAC, enforce policies, and manage secrets. Use for security reviews, permission audits, policy enforcement with Kyverno/Gatekeeper, and secret management."
+  },
+  "github": {
+    "owner": "rohitg00",
+    "repo": "kubectl-mcp-server",
+    "ref": "main",
+    "relativePath": "kubernetes-skills/claude/k8s-security",
+    "sourceUrl": "https://github.com/rohitg00/kubectl-mcp-server/tree/main/kubernetes-skills/claude/k8s-security"
+  }
+}

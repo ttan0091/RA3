@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 426,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 426,
+    "id": "wshobson-agents-plugins-frontend-mobile-development-skills-react-native-architecture-skill-md",
+    "name": "react-native-architecture",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/react-native-architecture",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-frontend-mobile-development-skills-react-native-architecture-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, implementing native integrations, or architecting React Native projects."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/frontend-mobile-development/skills/react-native-architecture",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/react-native-architecture"
+  }
+}

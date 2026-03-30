@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 723,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 723,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-dspy-skill-md",
+    "name": "dspy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-dspy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-dspy-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and agents with DSPy - Stanford NLP's framework for systematic LM programming"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-engineering-dspy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-dspy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 207,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 207,
+    "id": "tengssh-cms-collection-skills-skill-md",
+    "name": "computational-materials-science-guidelines",
+    "author": "tengssh",
+    "stars": 0,
+    "githubUrl": "https://github.com/tengssh/cms-collection/tree/main/skills",
+    "skillUrl": "https://skillsmp.com/skills/tengssh-cms-collection-skills-skill-md",
+    "updatedAt": 1769815327,
+    "description": "Create, run, and analyze simulations. Manage data and utilize computing resources."
+  },
+  "github": {
+    "owner": "tengssh",
+    "repo": "cms-collection",
+    "ref": "main",
+    "relativePath": "skills",
+    "sourceUrl": "https://github.com/tengssh/cms-collection/tree/main/skills"
+  }
+}

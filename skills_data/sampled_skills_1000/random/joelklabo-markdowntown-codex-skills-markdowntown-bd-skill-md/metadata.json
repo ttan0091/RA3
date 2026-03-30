@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 266,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 266,
+    "id": "joelklabo-markdowntown-codex-skills-markdowntown-bd-skill-md",
+    "name": "markdowntown-bd",
+    "author": "joelklabo",
+    "stars": 0,
+    "githubUrl": "https://github.com/joelklabo/markdowntown/tree/main/codex/skills/markdowntown-bd",
+    "skillUrl": "https://skillsmp.com/skills/joelklabo-markdowntown-codex-skills-markdowntown-bd-skill-md",
+    "updatedAt": 1767136751,
+    "description": "Beads (bd) issue workflow and repo operations for markdowntown. Use when creating bd tasks, updating status, adding dependencies, running required tests, committing, and pushing to main."
+  },
+  "github": {
+    "owner": "joelklabo",
+    "repo": "markdowntown",
+    "ref": "main",
+    "relativePath": "codex/skills/markdowntown-bd",
+    "sourceUrl": "https://github.com/joelklabo/markdowntown/tree/main/codex/skills/markdowntown-bd"
+  }
+}

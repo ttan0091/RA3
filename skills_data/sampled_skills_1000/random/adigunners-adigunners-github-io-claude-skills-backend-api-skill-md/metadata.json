@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 160,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 160,
+    "id": "adigunners-adigunners-github-io-claude-skills-backend-api-skill-md",
+    "name": "backend-api",
+    "author": "adigunners",
+    "stars": 2,
+    "githubUrl": "https://github.com/adigunners/adigunners.github.io/tree/main/.claude/skills/backend-api",
+    "skillUrl": "https://skillsmp.com/skills/adigunners-adigunners-github-io-claude-skills-backend-api-skill-md",
+    "updatedAt": 1768456126,
+    "description": "Handle client-side API consumption and data fetching in this static website, including loading JSON data files and managing external data sources. Use this skill when working with data fetching, client-side HTTP requests, and JSON data handling."
+  },
+  "github": {
+    "owner": "adigunners",
+    "repo": "adigunners.github.io",
+    "ref": "main",
+    "relativePath": ".claude/skills/backend-api",
+    "sourceUrl": "https://github.com/adigunners/adigunners.github.io/tree/main/.claude/skills/backend-api"
+  }
+}

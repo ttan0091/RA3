@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="schema" content="https://dmccreary.github.io/intelligent-textbooks/ns/microsim/v1">
+    <title>{{TITLE}}</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>{{TITLE}}</h2>
+    <div class="subtitle">{{SUBTITLE}}</div>
+
+    <div id="map"></div>
+
+    <div class="legend-container">
+        <div class="legend-title">{{LEGEND_TITLE}}</div>
+        <div class="legend-items">
+            {{LEGEND_ITEMS}}
+        </div>
+    </div>
+
+    <div class="hover-instruction">Hover over a region for details. Click to zoom.</div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

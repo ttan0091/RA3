@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 317,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 317,
+    "id": "remotion-dev-remotion-packages-skills-skills-remotion-skill-md",
+    "name": "remotion-best-practices",
+    "author": "remotion-dev",
+    "stars": 36019,
+    "githubUrl": "https://github.com/remotion-dev/remotion/tree/main/packages/skills/skills/remotion",
+    "skillUrl": "https://skillsmp.com/skills/remotion-dev-remotion-packages-skills-skills-remotion-skill-md",
+    "updatedAt": 1770311433,
+    "description": "Best practices for Remotion - Video creation in React"
+  },
+  "github": {
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "ref": "main",
+    "relativePath": "packages/skills/skills/remotion",
+    "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/packages/skills/skills/remotion"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 191,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 191,
+    "id": "metabase-metabase-claude-skills-clojure-write-skill-md",
+    "name": "clojure-write",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/clojure-write",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-clojure-write-skill-md",
+    "updatedAt": 1765497930,
+    "description": "Guide Clojure and ClojureScript development using REPL-driven workflow, coding conventions, and best practices. Use when writing, developing, or refactoring Clojure/ClojureScript code."
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/clojure-write",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/clojure-write"
+  }
+}

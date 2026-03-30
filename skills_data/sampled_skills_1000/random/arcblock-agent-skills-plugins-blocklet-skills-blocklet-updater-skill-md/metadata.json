@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 54,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 54,
+    "id": "arcblock-agent-skills-plugins-blocklet-skills-blocklet-updater-skill-md",
+    "name": "blocklet-updater",
+    "author": "ArcBlock",
+    "stars": 5,
+    "githubUrl": "https://github.com/ArcBlock/agent-skills/tree/main/plugins/blocklet/skills/blocklet-updater",
+    "skillUrl": "https://skillsmp.com/skills/arcblock-agent-skills-plugins-blocklet-skills-blocklet-updater-skill-md",
+    "updatedAt": 1768958989,
+    "description": "Creates a new release for a blocklet project by bumping version, building, and bundling. Use when asked to \"create a new release\", \"bump and bundle\", or \"update blocklet version\"."
+  },
+  "github": {
+    "owner": "ArcBlock",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "plugins/blocklet/skills/blocklet-updater",
+    "sourceUrl": "https://github.com/ArcBlock/agent-skills/tree/main/plugins/blocklet/skills/blocklet-updater"
+  }
+}

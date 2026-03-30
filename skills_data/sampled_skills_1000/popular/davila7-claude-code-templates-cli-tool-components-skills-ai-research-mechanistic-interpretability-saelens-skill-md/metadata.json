@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 684,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 684,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-mechanistic-interpretability-saelens-skill-md",
+    "name": "sparse-autoencoder-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-saelens",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-mechanistic-interpretability-saelens-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Provides guidance for training and analyzing Sparse Autoencoders (SAEs) using SAELens to decompose neural network activations into interpretable features. Use when discovering interpretable features, analyzing superposition, or studying monosemantic representations in language models."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/mechanistic-interpretability-saelens",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-saelens"
+  }
+}

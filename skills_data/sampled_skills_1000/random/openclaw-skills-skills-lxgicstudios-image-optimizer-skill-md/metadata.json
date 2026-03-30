@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 905,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 905,
+    "id": "openclaw-skills-skills-lxgicstudios-image-optimizer-skill-md",
+    "name": "image-optimizer",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/image-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-lxgicstudios-image-optimizer-skill-md",
+    "updatedAt": 1769636362,
+    "description": "Get AI-powered image optimization suggestions. Use when images are slowing your site."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/lxgicstudios/image-optimizer",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/image-optimizer"
+  }
+}

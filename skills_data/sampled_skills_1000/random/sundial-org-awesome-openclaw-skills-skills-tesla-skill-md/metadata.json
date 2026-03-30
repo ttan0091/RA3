@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 997,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 997,
+    "id": "sundial-org-awesome-openclaw-skills-skills-tesla-skill-md",
+    "name": "tesla",
+    "author": "sundial-org",
+    "stars": 35,
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/tesla",
+    "skillUrl": "https://skillsmp.com/skills/sundial-org-awesome-openclaw-skills-skills-tesla-skill-md",
+    "updatedAt": 1769996135,
+    "description": "Control your Tesla vehicles - lock/unlock, climate, location, charge status, and more. Supports multiple vehicles."
+  },
+  "github": {
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "ref": "main",
+    "relativePath": "skills/tesla",
+    "sourceUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/tesla"
+  }
+}

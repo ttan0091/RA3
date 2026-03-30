@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 720,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 720,
+    "id": "plurigrid-asi-skills-assembly-index-skill-md",
+    "name": "assembly-index",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/assembly-index",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-assembly-index-skill-md",
+    "updatedAt": 1766639160,
+    "description": "Lee Cronin's Assembly Theory for molecular complexity measurement and life detection via assembly index computation."
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/assembly-index",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/assembly-index"
+  }
+}

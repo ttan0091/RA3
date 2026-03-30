@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 700,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 700,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-stable-diffusion-skill-md",
+    "name": "stable-diffusion-image-generation",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-stable-diffusion",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-stable-diffusion-skill-md",
+    "updatedAt": 1767882269,
+    "description": "State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating images from text prompts, performing image-to-image translation, inpainting, or building custom diffusion pipelines."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/multimodal-stable-diffusion",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-stable-diffusion"
+  }
+}

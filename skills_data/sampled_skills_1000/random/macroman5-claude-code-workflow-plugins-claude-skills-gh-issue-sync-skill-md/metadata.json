@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 360,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 360,
+    "id": "macroman5-claude-code-workflow-plugins-claude-skills-gh-issue-sync-skill-md",
+    "name": "gh-issue-sync",
+    "author": "MacroMan5",
+    "stars": 2,
+    "githubUrl": "https://github.com/MacroMan5/claude-code-workflow-plugins/tree/main/.claude/skills/gh-issue-sync",
+    "skillUrl": "https://skillsmp.com/skills/macroman5-claude-code-workflow-plugins-claude-skills-gh-issue-sync-skill-md",
+    "updatedAt": 1762775712,
+    "description": "Create or update GitHub issue for the story and sub-issues for tasks"
+  },
+  "github": {
+    "owner": "MacroMan5",
+    "repo": "claude-code-workflow-plugins",
+    "ref": "main",
+    "relativePath": ".claude/skills/gh-issue-sync",
+    "sourceUrl": "https://github.com/MacroMan5/claude-code-workflow-plugins/tree/main/.claude/skills/gh-issue-sync"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 917,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 917,
+    "id": "jh941213-my-claude-code-asset-skills-frontend-skill-md",
+    "name": "frontend",
+    "author": "jh941213",
+    "stars": 85,
+    "githubUrl": "https://github.com/jh941213/my-claude-code-asset/tree/main/skills/frontend",
+    "skillUrl": "https://skillsmp.com/skills/jh941213-my-claude-code-asset-skills-frontend-skill-md",
+    "updatedAt": 1770009476,
+    "description": "빅테크 스타일(Stripe, Vercel, Apple) UI 개발. 플래닝 → 구현까지 한 번에. \"프론트엔드\", \"UI 만들어\", \"페이지 만들어\" 키워드에 활성화."
+  },
+  "github": {
+    "owner": "jh941213",
+    "repo": "my-claude-code-asset",
+    "ref": "main",
+    "relativePath": "skills/frontend",
+    "sourceUrl": "https://github.com/jh941213/my-claude-code-asset/tree/main/skills/frontend"
+  }
+}

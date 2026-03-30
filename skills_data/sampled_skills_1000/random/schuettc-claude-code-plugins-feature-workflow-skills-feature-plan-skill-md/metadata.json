@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 781,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 781,
+    "id": "schuettc-claude-code-plugins-feature-workflow-skills-feature-plan-skill-md",
+    "name": "feature-plan",
+    "author": "schuettc",
+    "stars": 4,
+    "githubUrl": "https://github.com/schuettc/claude-code-plugins/tree/main/feature-workflow/skills/feature-plan",
+    "skillUrl": "https://skillsmp.com/skills/schuettc-claude-code-plugins-feature-workflow-skills-feature-plan-skill-md",
+    "updatedAt": 1769397876,
+    "description": "Start implementing a feature from the backlog with adaptive agent dispatch. Use when user wants to begin work on a backlog item, start implementation, or mentions a specific feature ID to work on."
+  },
+  "github": {
+    "owner": "schuettc",
+    "repo": "claude-code-plugins",
+    "ref": "main",
+    "relativePath": "feature-workflow/skills/feature-plan",
+    "sourceUrl": "https://github.com/schuettc/claude-code-plugins/tree/main/feature-workflow/skills/feature-plan"
+  }
+}

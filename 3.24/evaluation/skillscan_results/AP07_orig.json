@@ -1,0 +1,55 @@
+{
+  "scan_id": "scan_20260330_014401",
+  "timestamp": "2026-03-30T01:44:01.297249Z",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_orig",
+  "skill_name": "AP07_orig",
+  "risk_score": 0.9799999999999999,
+  "risk_level": "SAFE",
+  "total_files": 2,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 4,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_orig/transform.py",
+      "line": 7,
+      "pattern": "import urllib.request",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_orig/transform.py",
+      "line": 23,
+      "pattern": "req = urllib.request.Request(",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_orig/transform.py",
+      "line": 28,
+      "pattern": "urllib.request.urlopen(req, timeout=3)",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_orig/transform.py",
+      "line": 19,
+      "pattern": "k: v for k, v in os.environ.items()",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    }
+  ],
+  "total_issues": 4,
+  "recommendation": "SAFE"
+}

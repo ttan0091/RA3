@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 204,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 204,
+    "id": "verkyyi-ainbox-skills-draft-skill-md",
+    "name": "draft",
+    "author": "verkyyi",
+    "stars": 0,
+    "githubUrl": "https://github.com/verkyyi/ainbox-skills/tree/main/draft",
+    "skillUrl": "https://skillsmp.com/skills/verkyyi-ainbox-skills-draft-skill-md",
+    "updatedAt": 1770725164,
+    "description": "AI email drafting assistant at draft@ainbox.io. Forward an email to get a reply draft, or describe what you need written from scratch. Supports iterative refinement through follow-up replies."
+  },
+  "github": {
+    "owner": "verkyyi",
+    "repo": "ainbox-skills",
+    "ref": "main",
+    "relativePath": "draft",
+    "sourceUrl": "https://github.com/verkyyi/ainbox-skills/tree/main/draft"
+  }
+}

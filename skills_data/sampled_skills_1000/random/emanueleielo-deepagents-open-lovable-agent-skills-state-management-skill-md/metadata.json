@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 217,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 217,
+    "id": "emanueleielo-deepagents-open-lovable-agent-skills-state-management-skill-md",
+    "name": "state-management",
+    "author": "emanueleielo",
+    "stars": 72,
+    "githubUrl": "https://github.com/emanueleielo/deepagents-open-lovable/tree/main/agent/skills/state-management",
+    "skillUrl": "https://skillsmp.com/skills/emanueleielo-deepagents-open-lovable-agent-skills-state-management-skill-md",
+    "updatedAt": 1768845733,
+    "description": "State management patterns - Zustand, Jotai, Context"
+  },
+  "github": {
+    "owner": "emanueleielo",
+    "repo": "deepagents-open-lovable",
+    "ref": "main",
+    "relativePath": "agent/skills/state-management",
+    "sourceUrl": "https://github.com/emanueleielo/deepagents-open-lovable/tree/main/agent/skills/state-management"
+  }
+}

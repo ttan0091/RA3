@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 85,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 85,
+    "id": "pytorch-pytorch-claude-skills-metal-kernel-skill-md",
+    "name": "metal-kernel",
+    "author": "pytorch",
+    "stars": 97306,
+    "githubUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/metal-kernel",
+    "skillUrl": "https://skillsmp.com/skills/pytorch-pytorch-claude-skills-metal-kernel-skill-md",
+    "updatedAt": 1769475193,
+    "description": "Write Metal/MPS kernels for PyTorch operators. Use when adding MPS device support to operators, implementing Metal shaders, or porting CUDA kernels to Apple Silicon. Covers native_functions.yaml dispatch, host-side operators, and Metal kernel implementation."
+  },
+  "github": {
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "ref": "main",
+    "relativePath": ".claude/skills/metal-kernel",
+    "sourceUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/metal-kernel"
+  }
+}

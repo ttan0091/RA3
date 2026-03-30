@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 440,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 440,
+    "id": "wshobson-agents-plugins-kubernetes-operations-skills-gitops-workflow-skill-md",
+    "name": "gitops-workflow",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/gitops-workflow",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-kubernetes-operations-skills-gitops-workflow-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement GitOps workflows with ArgoCD and Flux for automated, declarative Kubernetes deployments with continuous reconciliation. Use when implementing GitOps practices, automating Kubernetes deployments, or setting up declarative infrastructure management."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/kubernetes-operations/skills/gitops-workflow",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/gitops-workflow"
+  }
+}

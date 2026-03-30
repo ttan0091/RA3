@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 174,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 174,
+    "id": "erikpr1994-jarvis-code-global-skills-idea-to-product-skill-md",
+    "name": "idea-to-product",
+    "author": "erikpr1994",
+    "stars": 0,
+    "githubUrl": "https://github.com/erikpr1994/Jarvis-Code/tree/main/global/skills/idea-to-product",
+    "skillUrl": "https://skillsmp.com/skills/erikpr1994-jarvis-code-global-skills-idea-to-product-skill-md",
+    "updatedAt": 1768731527,
+    "description": "Use when rapidly prototyping ideas into products. Covers MVP scoping, feature prioritization, tech stack selection, timeline estimation, and launch checklist."
+  },
+  "github": {
+    "owner": "erikpr1994",
+    "repo": "Jarvis-Code",
+    "ref": "main",
+    "relativePath": "global/skills/idea-to-product",
+    "sourceUrl": "https://github.com/erikpr1994/Jarvis-Code/tree/main/global/skills/idea-to-product"
+  }
+}

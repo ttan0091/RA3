@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 745,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 745,
+    "id": "sori883-certification-proflie-claude-skills-strategic-compact-skill-md",
+    "name": "strategic-compact",
+    "author": "sori883",
+    "stars": 0,
+    "githubUrl": "https://github.com/sori883/certification-proflie/tree/main/.claude/skills/strategic-compact",
+    "skillUrl": "https://skillsmp.com/skills/sori883-certification-proflie-claude-skills-strategic-compact-skill-md",
+    "updatedAt": 1770441595,
+    "description": "論理的な区切りで手動コンテキスト圧縮を提案する。任意のタイミングでの自動圧縮ではなく、タスクフェーズを通じてコンテキストを保持する。"
+  },
+  "github": {
+    "owner": "sori883",
+    "repo": "certification-proflie",
+    "ref": "main",
+    "relativePath": ".claude/skills/strategic-compact",
+    "sourceUrl": "https://github.com/sori883/certification-proflie/tree/main/.claude/skills/strategic-compact"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 162,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 162,
+    "id": "develata-deve-skills-my-skills-code-shorters-js-shorter-skill-md",
+    "name": "js-shorter",
+    "author": "Develata",
+    "stars": 0,
+    "githubUrl": "https://github.com/Develata/Deve-Skills/tree/main/My-Skills/code-shorters/js-shorter",
+    "skillUrl": "https://skillsmp.com/skills/develata-deve-skills-my-skills-code-shorters-js-shorter-skill-md",
+    "updatedAt": 1769690462,
+    "description": "JavaScript/TypeScript代码模块化工具。用于将超过130行的JS/TS代码文件拆分为符合\"130行铁律\"的模块化结构。支持按组件、按路由、按状态管理三种重构策略。保持原有代码逻辑不变。"
+  },
+  "github": {
+    "owner": "Develata",
+    "repo": "Deve-Skills",
+    "ref": "main",
+    "relativePath": "My-Skills/code-shorters/js-shorter",
+    "sourceUrl": "https://github.com/Develata/Deve-Skills/tree/main/My-Skills/code-shorters/js-shorter"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 806,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 806,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-vr-ar-skill-md",
+    "name": "vr-ar",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/vr-ar",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-vr-ar-skill-md",
+    "updatedAt": 1769353274,
+    "description": "VR/AR development principles. Comfort, interaction, performance requirements."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/game-development/vr-ar",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/vr-ar"
+  }
+}

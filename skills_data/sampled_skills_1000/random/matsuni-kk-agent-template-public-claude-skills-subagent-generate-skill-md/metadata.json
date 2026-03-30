@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 809,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 809,
+    "id": "matsuni-kk-agent-template-public-claude-skills-subagent-generate-skill-md",
+    "name": "subagent-generate",
+    "author": "matsuni-kk",
+    "stars": 9,
+    "githubUrl": "https://github.com/matsuni-kk/agent_template_public/tree/main/.claude/skills/subagent-generate",
+    "skillUrl": "https://skillsmp.com/skills/matsuni-kk-agent-template-public-claude-skills-subagent-generate-skill-md",
+    "updatedAt": 1768547515,
+    "description": "Skills群に対応するサブエージェント（.claude/agents/*.md）を設計・生成する。「サブエージェント作成」「並列処理エージェント」「専門エージェント」を依頼されたときに使用する。"
+  },
+  "github": {
+    "owner": "matsuni-kk",
+    "repo": "agent_template_public",
+    "ref": "main",
+    "relativePath": ".claude/skills/subagent-generate",
+    "sourceUrl": "https://github.com/matsuni-kk/agent_template_public/tree/main/.claude/skills/subagent-generate"
+  }
+}

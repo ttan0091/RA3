@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 369,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 369,
+    "id": "wshobson-agents-plugins-agent-teams-skills-team-composition-patterns-skill-md",
+    "name": "team-composition-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-composition-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-agent-teams-skills-team-composition-patterns-skill-md",
+    "updatedAt": 1770331350,
+    "description": "Design optimal agent team compositions with sizing heuristics, preset configurations, and agent type selection. Use this skill when deciding team size, selecting agent types, or configuring team presets for multi-agent workflows."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/agent-teams/skills/team-composition-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-composition-patterns"
+  }
+}

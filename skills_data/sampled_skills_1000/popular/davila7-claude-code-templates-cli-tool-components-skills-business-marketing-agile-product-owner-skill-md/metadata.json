@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 747,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 747,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-agile-product-owner-skill-md",
+    "name": "agile-product-owner",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/agile-product-owner",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-agile-product-owner-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Agile product ownership toolkit for Senior Product Owner including INVEST-compliant user story generation, sprint planning, backlog management, and velocity tracking. Use for story writing, sprint planning, stakeholder communication, and agile ceremonies."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/agile-product-owner",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/agile-product-owner"
+  }
+}

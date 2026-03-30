@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 391,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 391,
+    "id": "wshobson-agents-plugins-cloud-infrastructure-skills-hybrid-cloud-networking-skill-md",
+    "name": "hybrid-cloud-networking",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/hybrid-cloud-networking",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cloud-infrastructure-skills-hybrid-cloud-networking-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Configure secure, high-performance connectivity between on-premises infrastructure and cloud platforms using VPN and dedicated connections. Use when building hybrid cloud architectures, connecting data centers to cloud, or implementing secure cross-premises networking."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cloud-infrastructure/skills/hybrid-cloud-networking",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/hybrid-cloud-networking"
+  }
+}

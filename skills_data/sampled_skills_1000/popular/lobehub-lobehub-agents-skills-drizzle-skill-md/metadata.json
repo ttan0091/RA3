@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 126,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 126,
+    "id": "lobehub-lobehub-agents-skills-drizzle-skill-md",
+    "name": "drizzle",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/drizzle",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-drizzle-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Drizzle ORM schema and database guide. Use when working with database schemas (src/database/schemas/*), defining tables, creating migrations, or database model code. Triggers on Drizzle schema definition, database migrations, or ORM usage questions."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/drizzle",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/drizzle"
+  }
+}

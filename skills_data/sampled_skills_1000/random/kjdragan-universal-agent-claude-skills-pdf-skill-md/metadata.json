@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 190,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 190,
+    "id": "kjdragan-universal-agent-claude-skills-pdf-skill-md",
+    "name": "pdf",
+    "author": "Kjdragan",
+    "stars": 0,
+    "githubUrl": "https://github.com/Kjdragan/universal_agent/tree/main/.claude/skills/pdf",
+    "skillUrl": "https://skillsmp.com/skills/kjdragan-universal-agent-claude-skills-pdf-skill-md",
+    "updatedAt": 1770058551,
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale."
+  },
+  "github": {
+    "owner": "Kjdragan",
+    "repo": "universal_agent",
+    "ref": "main",
+    "relativePath": ".claude/skills/pdf",
+    "sourceUrl": "https://github.com/Kjdragan/universal_agent/tree/main/.claude/skills/pdf"
+  }
+}

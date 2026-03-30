@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 594,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 594,
+    "id": "samuelross99-designforge-claude-skills-copy-editing-skill-md",
+    "name": "copy-editing",
+    "author": "samuelross99",
+    "stars": 0,
+    "githubUrl": "https://github.com/samuelross99/designforge/tree/main/.claude/skills/copy-editing",
+    "skillUrl": "https://skillsmp.com/skills/samuelross99-designforge-claude-skills-copy-editing-skill-md",
+    "updatedAt": 1769192427,
+    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes."
+  },
+  "github": {
+    "owner": "samuelross99",
+    "repo": "designforge",
+    "ref": "main",
+    "relativePath": ".claude/skills/copy-editing",
+    "sourceUrl": "https://github.com/samuelross99/designforge/tree/main/.claude/skills/copy-editing"
+  }
+}

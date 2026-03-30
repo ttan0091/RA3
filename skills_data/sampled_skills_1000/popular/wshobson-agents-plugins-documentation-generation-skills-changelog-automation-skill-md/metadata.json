@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 418,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 418,
+    "id": "wshobson-agents-plugins-documentation-generation-skills-changelog-automation-skill-md",
+    "name": "changelog-automation",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/changelog-automation",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-documentation-generation-skills-changelog-automation-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Automate changelog generation from commits, PRs, and releases following Keep a Changelog format. Use when setting up release workflows, generating release notes, or standardizing commit conventions."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/documentation-generation/skills/changelog-automation",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/changelog-automation"
+  }
+}

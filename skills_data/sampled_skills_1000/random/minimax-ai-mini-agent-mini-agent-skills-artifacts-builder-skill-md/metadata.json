@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 783,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 783,
+    "id": "minimax-ai-mini-agent-mini-agent-skills-artifacts-builder-skill-md",
+    "name": "artifacts-builder",
+    "author": "MiniMax-AI",
+    "stars": 1493,
+    "githubUrl": "https://github.com/MiniMax-AI/Mini-Agent/tree/main/mini_agent/skills/artifacts-builder",
+    "skillUrl": "https://skillsmp.com/skills/minimax-ai-mini-agent-mini-agent-skills-artifacts-builder-skill-md",
+    "updatedAt": 1768377004,
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts."
+  },
+  "github": {
+    "owner": "MiniMax-AI",
+    "repo": "Mini-Agent",
+    "ref": "main",
+    "relativePath": "mini_agent/skills/artifacts-builder",
+    "sourceUrl": "https://github.com/MiniMax-AI/Mini-Agent/tree/main/mini_agent/skills/artifacts-builder"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 823,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 823,
+    "id": "diskd-ai-prompting-skill-md",
+    "name": "prompting",
+    "author": "diskd-ai",
+    "stars": 0,
+    "githubUrl": "https://github.com/diskd-ai/prompting",
+    "skillUrl": "https://skillsmp.com/skills/diskd-ai-prompting-skill-md",
+    "updatedAt": 1769201169,
+    "description": "Prompt engineering guidance for writing and improving LLM prompts. Use when asked to (1) write a prompt for a specific task, (2) review or improve an existing prompt, (3) design system prompts for AI assistants, (4) structure prompts for specific output formats (JSON, XML, markdown), or (5) apply prompt engineering techniques like few-shot, chain-of-thought, or role prompting."
+  },
+  "github": {
+    "owner": "diskd-ai",
+    "repo": "prompting",
+    "ref": null,
+    "relativePath": "",
+    "sourceUrl": "https://github.com/diskd-ai/prompting"
+  }
+}

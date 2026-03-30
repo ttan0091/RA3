@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 764,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 764,
+    "id": "breakerofstems-claude-skills-skills-github-clone-skill-md",
+    "name": "github-clone",
+    "author": "BreakerOfStems",
+    "stars": 0,
+    "githubUrl": "https://github.com/BreakerOfStems/claude-skills/tree/main/skills/github-clone",
+    "skillUrl": "https://skillsmp.com/skills/breakerofstems-claude-skills-skills-github-clone-skill-md",
+    "updatedAt": 1768708388,
+    "description": "Clone repositories and set up local workspace"
+  },
+  "github": {
+    "owner": "BreakerOfStems",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "skills/github-clone",
+    "sourceUrl": "https://github.com/BreakerOfStems/claude-skills/tree/main/skills/github-clone"
+  }
+}

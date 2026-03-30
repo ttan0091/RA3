@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 604,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 604,
+    "id": "jordinodejs-github-config-github-skills-sonarqube-best-practices-skill-md",
+    "name": "sonarqube-best-practices",
+    "author": "JordiNodeJS",
+    "stars": 0,
+    "githubUrl": "https://github.com/JordiNodeJS/.github-config/tree/main/.github/skills/sonarqube-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/jordinodejs-github-config-github-skills-sonarqube-best-practices-skill-md",
+    "updatedAt": 1769867235,
+    "description": "SonarLint best practices for Next.js 16 applications. Covers pre-merge quality checks, issue severity prioritization, common fixes for TypeScript/Next.js, and when to defer minor issues. Use when performing code quality analysis, fixing SonarLint warnings, or setting up quality gates."
+  },
+  "github": {
+    "owner": "JordiNodeJS",
+    "repo": ".github-config",
+    "ref": "main",
+    "relativePath": ".github/skills/sonarqube-best-practices",
+    "sourceUrl": "https://github.com/JordiNodeJS/.github-config/tree/main/.github/skills/sonarqube-best-practices"
+  }
+}

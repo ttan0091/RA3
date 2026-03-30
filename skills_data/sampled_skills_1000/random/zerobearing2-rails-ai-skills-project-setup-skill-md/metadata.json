@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 435,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 435,
+    "id": "zerobearing2-rails-ai-skills-project-setup-skill-md",
+    "name": "rails-aiproject-setup",
+    "author": "zerobearing2",
+    "stars": 23,
+    "githubUrl": "https://github.com/zerobearing2/rails-ai/tree/master/skills/project-setup",
+    "skillUrl": "https://skillsmp.com/skills/zerobearing2-rails-ai-skills-project-setup-skill-md",
+    "updatedAt": 1764449328,
+    "description": "Setting up and configuring Rails 8+ projects - Gemfile dependencies, environment config, credentials, initializers, Docker, RuboCop, project validation"
+  },
+  "github": {
+    "owner": "zerobearing2",
+    "repo": "rails-ai",
+    "ref": "master",
+    "relativePath": "skills/project-setup",
+    "sourceUrl": "https://github.com/zerobearing2/rails-ai/tree/master/skills/project-setup"
+  }
+}

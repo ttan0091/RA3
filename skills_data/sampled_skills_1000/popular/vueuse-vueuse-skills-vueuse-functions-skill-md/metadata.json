@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 557,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 557,
+    "id": "vueuse-vueuse-skills-vueuse-functions-skill-md",
+    "name": "vueuse-functions",
+    "author": "vueuse",
+    "stars": 22070,
+    "githubUrl": "https://github.com/vueuse/vueuse/tree/main/skills/vueuse-functions",
+    "skillUrl": "https://skillsmp.com/skills/vueuse-vueuse-skills-vueuse-functions-skill-md",
+    "updatedAt": 1770694355,
+    "description": "Apply VueUse composables where appropriate to build concise, maintainable Vue.js / Nuxt features."
+  },
+  "github": {
+    "owner": "vueuse",
+    "repo": "vueuse",
+    "ref": "main",
+    "relativePath": "skills/vueuse-functions",
+    "sourceUrl": "https://github.com/vueuse/vueuse/tree/main/skills/vueuse-functions"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 400,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 400,
+    "id": "cowwoc-cat-plugin-skills-git-commit-skill-md",
+    "name": "git-commit",
+    "author": "cowwoc",
+    "stars": 31,
+    "githubUrl": "https://github.com/cowwoc/cat/tree/main/plugin/skills/git-commit",
+    "skillUrl": "https://skillsmp.com/skills/cowwoc-cat-plugin-skills-git-commit-skill-md",
+    "updatedAt": 1769396843,
+    "description": "Guide for writing clear, descriptive commit messages"
+  },
+  "github": {
+    "owner": "cowwoc",
+    "repo": "cat",
+    "ref": "main",
+    "relativePath": "plugin/skills/git-commit",
+    "sourceUrl": "https://github.com/cowwoc/cat/tree/main/plugin/skills/git-commit"
+  }
+}

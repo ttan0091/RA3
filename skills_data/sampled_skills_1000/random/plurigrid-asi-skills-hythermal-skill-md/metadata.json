@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 342,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 342,
+    "id": "plurigrid-asi-skills-hythermal-skill-md",
+    "name": "hythermal",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/hythermal",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-hythermal-skill-md",
+    "updatedAt": 1769557287,
+    "description": "HyThermal Skill"
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/hythermal",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/hythermal"
+  }
+}

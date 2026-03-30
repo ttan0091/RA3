@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 92,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 92,
+    "id": "timothyfroehlich-pinpoint-agent-skills-pinpoint-security-skill-md",
+    "name": "pinpoint-security",
+    "author": "timothyfroehlich",
+    "stars": 1,
+    "githubUrl": "https://github.com/timothyfroehlich/PinPoint/tree/main/.agent/skills/pinpoint-security",
+    "skillUrl": "https://skillsmp.com/skills/timothyfroehlich-pinpoint-agent-skills-pinpoint-security-skill-md",
+    "updatedAt": 1769281378,
+    "description": "Security patterns, CSP nonces, input validation, auth checks, Supabase SSR patterns. Use when implementing authentication, forms, security features, or when user mentions security/validation/auth."
+  },
+  "github": {
+    "owner": "timothyfroehlich",
+    "repo": "PinPoint",
+    "ref": "main",
+    "relativePath": ".agent/skills/pinpoint-security",
+    "sourceUrl": "https://github.com/timothyfroehlich/PinPoint/tree/main/.agent/skills/pinpoint-security"
+  }
+}

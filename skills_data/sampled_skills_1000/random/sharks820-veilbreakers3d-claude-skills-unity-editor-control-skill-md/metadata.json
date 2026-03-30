@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 363,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 363,
+    "id": "sharks820-veilbreakers3d-claude-skills-unity-editor-control-skill-md",
+    "name": "unity-editor-control",
+    "author": "Sharks820",
+    "stars": 0,
+    "githubUrl": "https://github.com/Sharks820/VeilBreakers3D/tree/master/.claude/skills/unity-editor-control",
+    "skillUrl": "https://skillsmp.com/skills/sharks820-veilbreakers3d-claude-skills-unity-editor-control-skill-md",
+    "updatedAt": 1770606343,
+    "description": "Use when you need to interact with Unity Editor - run builds, get debug output, manipulate scenes, or check for compile errors."
+  },
+  "github": {
+    "owner": "Sharks820",
+    "repo": "VeilBreakers3D",
+    "ref": "master",
+    "relativePath": ".claude/skills/unity-editor-control",
+    "sourceUrl": "https://github.com/Sharks820/VeilBreakers3D/tree/master/.claude/skills/unity-editor-control"
+  }
+}

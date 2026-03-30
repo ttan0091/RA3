@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 724,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 724,
+    "id": "xenitv1-antigravity-workflows-skills-clean-code-skill-md",
+    "name": "clean-code",
+    "author": "xenitV1",
+    "stars": 114,
+    "githubUrl": "https://github.com/xenitV1/Antigravity-Workflows/tree/main/skills/clean-code",
+    "skillUrl": "https://skillsmp.com/skills/xenitv1-antigravity-workflows-skills-clean-code-skill-md",
+    "updatedAt": 1768417310,
+    "description": "Pragmatic coding standards - concise, direct, no over-engineering, no unnecessary comments"
+  },
+  "github": {
+    "owner": "xenitV1",
+    "repo": "Antigravity-Workflows",
+    "ref": "main",
+    "relativePath": "skills/clean-code",
+    "sourceUrl": "https://github.com/xenitV1/Antigravity-Workflows/tree/main/skills/clean-code"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 974,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 974,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-mdr-745-specialist-skill-md",
+    "name": "mdr-745-specialist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/mdr-745-specialist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-mdr-745-specialist-skill-md",
+    "updatedAt": 1766196856,
+    "description": "EU MDR 2017/745 regulation specialist and consultant for medical device requirement management. Provides comprehensive MDR compliance expertise, gap analysis, technical documentation guidance, clinical evidence requirements, and post-market surveillance implementation. Use for MDR compliance assessment, classification decisions, technical file preparation, and regulatory requirement interpretation."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/mdr-745-specialist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/mdr-745-specialist"
+  }
+}

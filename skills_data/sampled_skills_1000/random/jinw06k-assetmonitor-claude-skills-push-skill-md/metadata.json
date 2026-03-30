@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 285,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 285,
+    "id": "jinw06k-assetmonitor-claude-skills-push-skill-md",
+    "name": "push",
+    "author": "jinw06k",
+    "stars": 0,
+    "githubUrl": "https://github.com/jinw06k/AssetMonitor/tree/main/.claude/skills/push",
+    "skillUrl": "https://skillsmp.com/skills/jinw06k-assetmonitor-claude-skills-push-skill-md",
+    "updatedAt": 1770353368,
+    "description": "Review unpushed commits and push to remote"
+  },
+  "github": {
+    "owner": "jinw06k",
+    "repo": "AssetMonitor",
+    "ref": "main",
+    "relativePath": ".claude/skills/push",
+    "sourceUrl": "https://github.com/jinw06k/AssetMonitor/tree/main/.claude/skills/push"
+  }
+}

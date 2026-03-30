@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 376,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 376,
+    "id": "gerstep-cybos-claude-skills-telegram-skill-md",
+    "name": "telegram",
+    "author": "Gerstep",
+    "stars": 39,
+    "githubUrl": "https://github.com/Gerstep/cybos/tree/main/.claude/skills/Telegram",
+    "skillUrl": "https://skillsmp.com/skills/gerstep-cybos-claude-skills-telegram-skill-md",
+    "updatedAt": 1769013123,
+    "description": "Process Telegram messages via GramJS MTProto client. Read messages, generate AI drafts, save drafts, and create intro groups. Use when handling Telegram conversations or facilitating introductions."
+  },
+  "github": {
+    "owner": "Gerstep",
+    "repo": "cybos",
+    "ref": "main",
+    "relativePath": ".claude/skills/Telegram",
+    "sourceUrl": "https://github.com/Gerstep/cybos/tree/main/.claude/skills/Telegram"
+  }
+}

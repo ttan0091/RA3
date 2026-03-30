@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 439,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 439,
+    "id": "majesticlabs-dev-majestic-marketplace-plugins-majestic-marketing-skills-newsletter-skill-md",
+    "name": "newsletter",
+    "author": "majesticlabs-dev",
+    "stars": 21,
+    "githubUrl": "https://github.com/majesticlabs-dev/majestic-marketplace/tree/master/plugins/majestic-marketing/skills/newsletter",
+    "skillUrl": "https://skillsmp.com/skills/majesticlabs-dev-majestic-marketplace-plugins-majestic-marketing-skills-newsletter-skill-md",
+    "updatedAt": 1766273650,
+    "description": "Create engaging newsletter editions with proven structures, subject lines, and content formats. Supports curator, educator, and thought leader archetypes for ongoing audience communication."
+  },
+  "github": {
+    "owner": "majesticlabs-dev",
+    "repo": "majestic-marketplace",
+    "ref": "master",
+    "relativePath": "plugins/majestic-marketing/skills/newsletter",
+    "sourceUrl": "https://github.com/majesticlabs-dev/majestic-marketplace/tree/master/plugins/majestic-marketing/skills/newsletter"
+  }
+}

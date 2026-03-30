@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 448,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 448,
+    "id": "ricable-cli-skills-builder-claude-skills-ruv-fann-skill-md",
+    "name": "ruv-fann",
+    "author": "ricable",
+    "stars": 0,
+    "githubUrl": "https://github.com/ricable/cli-skills-builder/tree/main/.claude/skills/ruv-fann",
+    "skillUrl": "https://skillsmp.com/skills/ricable-cli-skills-builder-claude-skills-ruv-fann-skill-md",
+    "updatedAt": 1770577579,
+    "description": "Fast Artificial Neural Network Library - FANN bindings for Node.js with network creation, training, and inference. Use when building neural networks with FANN, training models with backpropagation, running inference on trained networks, or integrating native FANN into Node.js pipelines."
+  },
+  "github": {
+    "owner": "ricable",
+    "repo": "cli-skills-builder",
+    "ref": "main",
+    "relativePath": ".claude/skills/ruv-fann",
+    "sourceUrl": "https://github.com/ricable/cli-skills-builder/tree/main/.claude/skills/ruv-fann"
+  }
+}

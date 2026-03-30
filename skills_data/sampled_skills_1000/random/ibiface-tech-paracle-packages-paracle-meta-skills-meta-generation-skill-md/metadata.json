@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 811,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 811,
+    "id": "ibiface-tech-paracle-packages-paracle-meta-skills-meta-generation-skill-md",
+    "name": "meta-generation",
+    "author": "IbIFACE-Tech",
+    "stars": 0,
+    "githubUrl": "https://github.com/IbIFACE-Tech/paracle/tree/main/packages/paracle_meta/skills/meta-generation",
+    "skillUrl": "https://skillsmp.com/skills/ibiface-tech-paracle-packages-paracle-meta-skills-meta-generation-skill-md",
+    "updatedAt": 1767916726,
+    "description": "AI-powered generation of Paracle artifacts (agents, workflows, skills, policies) from natural language descriptions. Use when you need to create new framework components programmatically."
+  },
+  "github": {
+    "owner": "IbIFACE-Tech",
+    "repo": "paracle",
+    "ref": "main",
+    "relativePath": "packages/paracle_meta/skills/meta-generation",
+    "sourceUrl": "https://github.com/IbIFACE-Tech/paracle/tree/main/packages/paracle_meta/skills/meta-generation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 675,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 675,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-infrastructure-modal-skill-md",
+    "name": "modal-serverless-gpu",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-modal",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-infrastructure-modal-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Serverless GPU cloud platform for running ML workloads. Use when you need on-demand GPU access without infrastructure management, deploying ML models as APIs, or running batch jobs with automatic scaling."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/infrastructure-modal",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-modal"
+  }
+}

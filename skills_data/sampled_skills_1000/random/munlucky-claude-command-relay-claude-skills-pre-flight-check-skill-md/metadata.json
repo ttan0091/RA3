@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 655,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 655,
+    "id": "munlucky-claude-command-relay-claude-skills-pre-flight-check-skill-md",
+    "name": "pre-flight-check",
+    "author": "munlucky",
+    "stars": 0,
+    "githubUrl": "https://github.com/munlucky/claude-command-relay/tree/master/.claude/skills/pre-flight-check",
+    "skillUrl": "https://skillsmp.com/skills/munlucky-claude-command-relay-claude-skills-pre-flight-check-skill-md",
+    "updatedAt": 1767516142,
+    "description": "Perform pre-flight checks for required info, project state, and missing context. Use before starting work to avoid gaps."
+  },
+  "github": {
+    "owner": "munlucky",
+    "repo": "claude-command-relay",
+    "ref": "master",
+    "relativePath": ".claude/skills/pre-flight-check",
+    "sourceUrl": "https://github.com/munlucky/claude-command-relay/tree/master/.claude/skills/pre-flight-check"
+  }
+}

@@ -1,0 +1,113 @@
+{
+    "$schema": "../shared/microsim-metadata-schema.json",
+    "microsim": {
+        "dublinCore": {
+            "title": "{{TITLE}}",
+            "creator": ["{{CREATOR}}"],
+            "subject": ["{{SUBJECT_1}}", "{{SUBJECT_2}}", "{{SUBJECT_3}}"],
+            "description": "{{DESCRIPTION}}",
+            "publisher": "{{PUBLISHER}}",
+            "date": "{{DATE}}",
+            "type": "Educational MicroSim",
+            "format": "text/html",
+            "language": "en",
+            "rights": "CC BY-NC-SA 4.0"
+        },
+        "search": {
+            "tags": ["{{TAG_1}}", "{{TAG_2}}", "{{TAG_3}}"],
+            "searchKeywords": ["{{KEYWORD_1}}", "{{KEYWORD_2}}", "plotly", "interactive plot"],
+            "visualizationType": ["line-chart", "function-plot", "scatter-plot"],
+            "interactionLevel": "moderate",
+            "complexity": 3,
+            "relatedConcepts": ["{{CONCEPT_1}}", "{{CONCEPT_2}}"],
+            "applicationDomains": ["education", "mathematics", "science"]
+        },
+        "educational": {
+            "gradeLevel": ["{{GRADE_LEVEL}}"],
+            "subjectArea": ["{{SUBJECT_AREA}}"],
+            "topic": ["{{TOPIC_1}}", "{{TOPIC_2}}"],
+            "learningObjectives": [
+                "{{LEARNING_OBJECTIVE_1}}",
+                "{{LEARNING_OBJECTIVE_2}}"
+            ],
+            "bloomsTaxonomy": ["Understand", "Apply", "Analyze"],
+            "prerequisites": [],
+            "duration": {
+                "typical": 10,
+                "range": {"min": 5, "max": 20}
+            },
+            "difficulty": "Intermediate"
+        },
+        "technical": {
+            "framework": "plotly-js",
+            "version": "1.0.0",
+            "canvasDimensions": {
+                "width": 800,
+                "height": 500,
+                "responsive": true
+            },
+            "dependencies": [
+                "plotly.js@2.27.0"
+            ],
+            "browserCompatibility": ["Chrome 90+", "Firefox 88+", "Safari 14+", "Edge 90+"],
+            "performance": {
+                "memoryUsage": "medium",
+                "loadTime": 800
+            },
+            "deviceRequirements": {
+                "minScreenWidth": 320,
+                "touchSupport": true,
+                "keyboardRequired": false,
+                "mouseRequired": false,
+                "networkRequired": true
+            },
+            "accessibility": {
+                "screenReader": false,
+                "keyboardNavigation": true,
+                "colorContrast": true,
+                "altText": false
+            }
+        },
+        "userInterface": {
+            "layoutType": "responsive-width",
+            "layoutPattern": "plot-with-controls",
+            "colorScheme": {
+                "drawingArea": "white",
+                "controlArea": "white",
+                "background": "aliceblue",
+                "primary": "#007bff",
+                "accent": "#dc3545",
+                "text": "#333"
+            },
+            "controls": [
+                {
+                    "id": "x-slider",
+                    "type": "range",
+                    "label": "{{SLIDER_LABEL}}",
+                    "description": "{{SLIDER_DESCRIPTION}}",
+                    "min": "{{SLIDER_MIN}}",
+                    "max": "{{SLIDER_MAX}}",
+                    "step": "{{SLIDER_STEP}}",
+                    "default": "{{INITIAL_VALUE}}"
+                }
+            ],
+            "visualElements": [
+                {
+                    "type": "line-plot",
+                    "description": "Function curve rendered with Plotly.js",
+                    "interactive": true
+                },
+                {
+                    "type": "marker",
+                    "description": "Interactive point that follows the curve",
+                    "interactive": true
+                },
+                {
+                    "type": "text-display",
+                    "description": "Current value display",
+                    "interactive": false
+                }
+            ]
+        }
+    }
+}

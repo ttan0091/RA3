@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 231,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 231,
+    "id": "danstrem2-clawdbot-skill-master-pack-skills-yahoo-finance-cli-skill-md",
+    "name": "yahoo-finance",
+    "author": "danstrem2",
+    "stars": 0,
+    "githubUrl": "https://github.com/danstrem2/clawdbot-skill-master-pack/tree/main/skills/yahoo-finance-cli",
+    "skillUrl": "https://skillsmp.com/skills/danstrem2-clawdbot-skill-master-pack-skills-yahoo-finance-cli-skill-md",
+    "updatedAt": 1769876650,
+    "description": "This skill should be used when the user asks to \"get stock prices\", \"check stock quotes\", \"look up earnings\", \"get financial data\", \"find trending stocks\", or needs stock market data from Yahoo Finance."
+  },
+  "github": {
+    "owner": "danstrem2",
+    "repo": "clawdbot-skill-master-pack",
+    "ref": "main",
+    "relativePath": "skills/yahoo-finance-cli",
+    "sourceUrl": "https://github.com/danstrem2/clawdbot-skill-master-pack/tree/main/skills/yahoo-finance-cli"
+  }
+}

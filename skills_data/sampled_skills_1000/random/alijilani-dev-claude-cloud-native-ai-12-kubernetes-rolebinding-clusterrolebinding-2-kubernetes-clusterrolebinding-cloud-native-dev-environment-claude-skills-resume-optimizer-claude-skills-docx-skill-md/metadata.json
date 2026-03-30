@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 817,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 817,
+    "id": "alijilani-dev-claude-cloud-native-ai-12-kubernetes-rolebinding-clusterrolebinding-2-kubernetes-clusterrolebinding-cloud-native-dev-environment-claude-skills-resume-optimizer-claude-skills-docx-skill-md",
+    "name": "docx",
+    "author": "alijilani-dev",
+    "stars": 0,
+    "githubUrl": "https://github.com/alijilani-dev/Claude/tree/main/cloud-native_ai/12-kubernetes-rolebinding-clusterrolebinding/2-kubernetes-clusterrolebinding/Cloud-Native-Dev-Environment/.claude/skills/resume_optimizer/.claude/skills/docx",
+    "skillUrl": "https://skillsmp.com/skills/alijilani-dev-claude-cloud-native-ai-12-kubernetes-rolebinding-clusterrolebinding-2-kubernetes-clusterrolebinding-cloud-native-dev-environment-claude-skills-resume-optimizer-claude-skills-docx-skill-md",
+    "updatedAt": 1770533938,
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks"
+  },
+  "github": {
+    "owner": "alijilani-dev",
+    "repo": "Claude",
+    "ref": "main",
+    "relativePath": "cloud-native_ai/12-kubernetes-rolebinding-clusterrolebinding/2-kubernetes-clusterrolebinding/Cloud-Native-Dev-Environment/.claude/skills/resume_optimizer/.claude/skills/docx",
+    "sourceUrl": "https://github.com/alijilani-dev/Claude/tree/main/cloud-native_ai/12-kubernetes-rolebinding-clusterrolebinding/2-kubernetes-clusterrolebinding/Cloud-Native-Dev-Environment/.claude/skills/resume_optimizer/.claude/skills/docx"
+  }
+}

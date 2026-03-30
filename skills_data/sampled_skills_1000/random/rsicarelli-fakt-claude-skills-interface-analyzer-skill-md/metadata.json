@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 573,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 573,
+    "id": "rsicarelli-fakt-claude-skills-interface-analyzer-skill-md",
+    "name": "interface-analyzer",
+    "author": "rsicarelli",
+    "stars": 17,
+    "githubUrl": "https://github.com/rsicarelli/fakt/tree/main/.claude/skills/interface-analyzer",
+    "skillUrl": "https://skillsmp.com/skills/rsicarelli-fakt-claude-skills-interface-analyzer-skill-md",
+    "updatedAt": 1770114988,
+    "description": "Deep structural analysis of @Fake annotated interfaces examining method signatures, property definitions, generic type parameters, suspend functions, complexity assessment, and generation strategy recommendations. Use when analyzing interface structure, examining method signatures, checking generic patterns, assessing generation complexity, or when user mentions \"analyze interface\", \"interface structure\", \"check methods\", \"assess complexity\", interface names, or \"generation strategy\"."
+  },
+  "github": {
+    "owner": "rsicarelli",
+    "repo": "fakt",
+    "ref": "main",
+    "relativePath": ".claude/skills/interface-analyzer",
+    "sourceUrl": "https://github.com/rsicarelli/fakt/tree/main/.claude/skills/interface-analyzer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 979,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 979,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-quality-manager-qms-iso13485-skill-md",
+    "name": "quality-manager-qms-iso13485",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qms-iso13485",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-quality-manager-qms-iso13485-skill-md",
+    "updatedAt": 1766196856,
+    "description": "ISO 13485 Quality Management System specialist for medical device companies. Provides QMS implementation, maintenance, process optimization, and compliance expertise. Use for QMS design, documentation control, management review, internal auditing, corrective actions, and ISO 13485 certification activities."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/quality-manager-qms-iso13485",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-manager-qms-iso13485"
+  }
+}

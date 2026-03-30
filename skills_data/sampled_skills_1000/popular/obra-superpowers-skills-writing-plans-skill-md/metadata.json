@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 186,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 186,
+    "id": "obra-superpowers-skills-writing-plans-skill-md",
+    "name": "writing-plans",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-plans",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-writing-plans-skill-md",
+    "updatedAt": 1766018692,
+    "description": "Use when you have a spec or requirements for a multi-step task, before touching code"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/writing-plans",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-plans"
+  }
+}

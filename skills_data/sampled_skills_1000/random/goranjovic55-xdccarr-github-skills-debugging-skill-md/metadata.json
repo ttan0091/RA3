@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 746,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 746,
+    "id": "goranjovic55-xdccarr-github-skills-debugging-skill-md",
+    "name": "debugging",
+    "author": "goranjovic55",
+    "stars": 0,
+    "githubUrl": "https://github.com/goranjovic55/xdccarr/tree/main/.github/skills/debugging",
+    "skillUrl": "https://skillsmp.com/skills/goranjovic55-xdccarr-github-skills-debugging-skill-md",
+    "updatedAt": 1770548150,
+    "description": "Load when encountering errors, tracebacks, or investigating bugs. Provides systematic debugging patterns and common gotchas from 141 workflow logs."
+  },
+  "github": {
+    "owner": "goranjovic55",
+    "repo": "xdccarr",
+    "ref": "main",
+    "relativePath": ".github/skills/debugging",
+    "sourceUrl": "https://github.com/goranjovic55/xdccarr/tree/main/.github/skills/debugging"
+  }
+}

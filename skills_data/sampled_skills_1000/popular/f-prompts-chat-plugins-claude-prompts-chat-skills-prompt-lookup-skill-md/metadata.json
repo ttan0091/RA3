@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 66,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 66,
+    "id": "f-prompts-chat-plugins-claude-prompts-chat-skills-prompt-lookup-skill-md",
+    "name": "prompt-lookup",
+    "author": "f",
+    "stars": 145000,
+    "githubUrl": "https://github.com/f/prompts.chat/tree/main/plugins/claude/prompts.chat/skills/prompt-lookup",
+    "skillUrl": "https://skillsmp.com/skills/f-prompts-chat-plugins-claude-prompts-chat-skills-prompt-lookup-skill-md",
+    "updatedAt": 1768513117,
+    "description": "Activates when the user asks about AI prompts, needs prompt templates, wants to search for prompts, or mentions prompts.chat. Use for discovering, retrieving, and improving prompts."
+  },
+  "github": {
+    "owner": "f",
+    "repo": "prompts.chat",
+    "ref": "main",
+    "relativePath": "plugins/claude/prompts.chat/skills/prompt-lookup",
+    "sourceUrl": "https://github.com/f/prompts.chat/tree/main/plugins/claude/prompts.chat/skills/prompt-lookup"
+  }
+}

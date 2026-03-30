@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 965,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 965,
+    "id": "amnadtaowsoam-cerebraskills-50-enterprise-integrations-enterprise-rbac-models-skill-md",
+    "name": "enterprise-rbac-models",
+    "author": "AmnadTaowsoam",
+    "stars": 1,
+    "githubUrl": "https://github.com/AmnadTaowsoam/CerebraSkills/tree/main/50-enterprise-integrations/enterprise-rbac-models",
+    "skillUrl": "https://skillsmp.com/skills/amnadtaowsoam-cerebraskills-50-enterprise-integrations-enterprise-rbac-models-skill-md",
+    "updatedAt": 1769246725,
+    "description": "Comprehensive guide to implementing Role-Based Access Control for enterprise applications with hierarchical roles, custom permissions, and multi-level access"
+  },
+  "github": {
+    "owner": "AmnadTaowsoam",
+    "repo": "CerebraSkills",
+    "ref": "main",
+    "relativePath": "50-enterprise-integrations/enterprise-rbac-models",
+    "sourceUrl": "https://github.com/AmnadTaowsoam/CerebraSkills/tree/main/50-enterprise-integrations/enterprise-rbac-models"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 752,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 752,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-app-builder-templates-skill-md",
+    "name": "templates",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-app-builder-templates-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Project scaffolding templates for new applications. Use when creating new projects from scratch. Contains 12 templates for various tech stacks."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/app-builder/templates",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-builder/templates"
+  }
+}

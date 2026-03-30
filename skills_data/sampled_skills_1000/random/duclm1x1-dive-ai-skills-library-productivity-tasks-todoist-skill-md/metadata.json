@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 959,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 959,
+    "id": "duclm1x1-dive-ai-skills-library-productivity-tasks-todoist-skill-md",
+    "name": "todoist",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/productivity_tasks/todoist",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-productivity-tasks-todoist-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Manage tasks and projects in Todoist. Use when user asks about tasks, to-dos, reminders, or productivity."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/productivity_tasks/todoist",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/productivity_tasks/todoist"
+  }
+}

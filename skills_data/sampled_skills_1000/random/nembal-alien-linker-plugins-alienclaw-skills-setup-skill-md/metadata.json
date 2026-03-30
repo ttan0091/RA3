@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 332,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 332,
+    "id": "nembal-alien-linker-plugins-alienclaw-skills-setup-skill-md",
+    "name": "setup",
+    "author": "nembal",
+    "stars": 0,
+    "githubUrl": "https://github.com/nembal/alien_linker/tree/main/plugins/alienclaw/skills/setup",
+    "skillUrl": "https://skillsmp.com/skills/nembal-alien-linker-plugins-alienclaw-skills-setup-skill-md",
+    "updatedAt": 1770597885,
+    "description": "Set up AlienClaw identity linking on an agent. Installs the identity SDK from GitHub, wires up initIdentity(), and displays a 6-digit claim code for linking to an Alien account. Use when the user wants to link their agent to their Alien identity."
+  },
+  "github": {
+    "owner": "nembal",
+    "repo": "alien_linker",
+    "ref": "main",
+    "relativePath": "plugins/alienclaw/skills/setup",
+    "sourceUrl": "https://github.com/nembal/alien_linker/tree/main/plugins/alienclaw/skills/setup"
+  }
+}

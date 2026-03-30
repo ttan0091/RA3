@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 40,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 40,
+    "id": "openclaw-openclaw-skills-openai-whisper-api-skill-md",
+    "name": "openai-whisper-api",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-openai-whisper-api-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Transcribe audio via OpenAI Audio Transcriptions API (Whisper)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/openai-whisper-api",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper-api"
+  }
+}

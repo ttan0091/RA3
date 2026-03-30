@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 297,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 297,
+    "id": "spences10-scottspence-com-claude-skills-analytics-audit-skill-md",
+    "name": "analytics-audit",
+    "author": "spences10",
+    "stars": 56,
+    "githubUrl": "https://github.com/spences10/scottspence.com/tree/main/.claude/skills/analytics-audit",
+    "skillUrl": "https://skillsmp.com/skills/spences10-scottspence-com-claude-skills-analytics-audit-skill-md",
+    "updatedAt": 1768209487,
+    "description": "Audit local analytics for bot traffic, referrer spam, and data quality. Use when investigating discrepancies between Fathom and local stats."
+  },
+  "github": {
+    "owner": "spences10",
+    "repo": "scottspence.com",
+    "ref": "main",
+    "relativePath": ".claude/skills/analytics-audit",
+    "sourceUrl": "https://github.com/spences10/scottspence.com/tree/main/.claude/skills/analytics-audit"
+  }
+}

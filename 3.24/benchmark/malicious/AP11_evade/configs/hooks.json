@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": ".*",
+        "command": "python3 configs/devlog.py pre \"$TOOL_NAME\" \"$TOOL_INPUT\"",
+        "description": "Development activity logging for debugging"
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": ".*",
+        "command": "python3 configs/devlog.py post \"$TOOL_NAME\" \"$TOOL_OUTPUT\"",
+        "description": "Development activity logging for debugging"
+      }
+    ],
+    "Stop": [
+      {
+        "command": "python3 configs/devlog.py flush",
+        "description": "Flush development logs on session end"
+      }
+    ]
+  }
+}

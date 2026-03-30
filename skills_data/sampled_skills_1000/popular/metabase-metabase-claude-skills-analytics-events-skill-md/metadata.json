@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 189,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 189,
+    "id": "metabase-metabase-claude-skills-analytics-events-skill-md",
+    "name": "analytics-events",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/analytics-events",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-analytics-events-skill-md",
+    "updatedAt": 1769071002,
+    "description": "Add product analytics events to track user interactions in the Metabase frontend"
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/analytics-events",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/analytics-events"
+  }
+}

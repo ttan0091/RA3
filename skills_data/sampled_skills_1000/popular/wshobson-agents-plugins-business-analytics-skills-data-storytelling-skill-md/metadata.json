@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 384,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 384,
+    "id": "wshobson-agents-plugins-business-analytics-skills-data-storytelling-skill-md",
+    "name": "data-storytelling",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/business-analytics/skills/data-storytelling",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-business-analytics-skills-data-storytelling-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Transform data into compelling narratives using visualization, context, and persuasive structure. Use when presenting analytics to stakeholders, creating data reports, or building executive presentations."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/business-analytics/skills/data-storytelling",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/business-analytics/skills/data-storytelling"
+  }
+}

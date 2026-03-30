@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 876,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 876,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-git-pushing-skill-md",
+    "name": "git-pushing",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/git-pushing",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-git-pushing-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Stage, commit, and push git changes with conventional commit messages. Use when user wants to commit and push changes, mentions pushing to remote, or asks to save and push their work. Also activates when user says \"push changes\", \"commit and push\", \"push this\", \"push to github\", or similar git workflow requests."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/git-pushing",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/git-pushing"
+  }
+}

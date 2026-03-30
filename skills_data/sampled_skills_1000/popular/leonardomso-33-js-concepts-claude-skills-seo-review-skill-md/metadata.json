@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 158,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 158,
+    "id": "leonardomso-33-js-concepts-claude-skills-seo-review-skill-md",
+    "name": "seo-review",
+    "author": "leonardomso",
+    "stars": 66250,
+    "githubUrl": "https://github.com/leonardomso/33-js-concepts/tree/master/.claude/skills/seo-review",
+    "skillUrl": "https://skillsmp.com/skills/leonardomso-33-js-concepts-claude-skills-seo-review-skill-md",
+    "updatedAt": 1769191334,
+    "description": "Perform a focused SEO audit on JavaScript concept pages to maximize search visibility, featured snippet optimization, and ranking potential"
+  },
+  "github": {
+    "owner": "leonardomso",
+    "repo": "33-js-concepts",
+    "ref": "master",
+    "relativePath": ".claude/skills/seo-review",
+    "sourceUrl": "https://github.com/leonardomso/33-js-concepts/tree/master/.claude/skills/seo-review"
+  }
+}

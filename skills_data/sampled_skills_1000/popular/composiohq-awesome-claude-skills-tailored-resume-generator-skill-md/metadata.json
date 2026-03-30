@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 343,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 343,
+    "id": "composiohq-awesome-claude-skills-tailored-resume-generator-skill-md",
+    "name": "tailored-resume-generator",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-tailored-resume-generator-skill-md",
+    "updatedAt": 1768122574,
+    "description": "Analyzes job descriptions and generates tailored resumes that highlight relevant experience, skills, and achievements to maximize interview chances"
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "tailored-resume-generator",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator"
+  }
+}

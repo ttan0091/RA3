@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 156,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 156,
+    "id": "ap3x-dev-ag3nt-skills-daily-briefing-skill-md",
+    "name": "daily-briefing",
+    "author": "AP3X-Dev",
+    "stars": 2,
+    "githubUrl": "https://github.com/AP3X-Dev/AG3NT/tree/master/skills/daily-briefing",
+    "skillUrl": "https://skillsmp.com/skills/ap3x-dev-ag3nt-skills-daily-briefing-skill-md",
+    "updatedAt": 1769836044,
+    "description": "Generate a daily briefing summary for the user"
+  },
+  "github": {
+    "owner": "AP3X-Dev",
+    "repo": "AG3NT",
+    "ref": "master",
+    "relativePath": "skills/daily-briefing",
+    "sourceUrl": "https://github.com/AP3X-Dev/AG3NT/tree/master/skills/daily-briefing"
+  }
+}

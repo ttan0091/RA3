@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 103,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 103,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-editor-skill-md",
+    "name": "editor",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/editor",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-editor-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Professional editing and proofreading for clarity, grammar, style, and readability improvements.\nUse when: editing text, proofreading documents, improving clarity, fixing grammar, refining style,\nor when user asks to \"edit\", \"proofread\", \"improve\", \"revise\", or mentions grammar and readability."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/editor",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/editor"
+  }
+}

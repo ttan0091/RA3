@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 123,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 123,
+    "id": "lobehub-lobehub-agents-skills-add-setting-env-skill-md",
+    "name": "add-setting-env",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/add-setting-env",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-add-setting-env-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Guide for adding environment variables to configure user settings. Use when implementing server-side environment variables that control default values for user settings. Triggers on env var configuration or setting default value tasks."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/add-setting-env",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/add-setting-env"
+  }
+}

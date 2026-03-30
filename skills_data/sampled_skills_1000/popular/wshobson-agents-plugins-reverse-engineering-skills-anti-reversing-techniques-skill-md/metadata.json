@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 479,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 479,
+    "id": "wshobson-agents-plugins-reverse-engineering-skills-anti-reversing-techniques-skill-md",
+    "name": "anti-reversing-techniques",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/anti-reversing-techniques",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-reverse-engineering-skills-anti-reversing-techniques-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use when analyzing protected binaries, bypassing anti-debugging for authorized analysis, or understanding software protection mechanisms."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/reverse-engineering/skills/anti-reversing-techniques",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/anti-reversing-techniques"
+  }
+}

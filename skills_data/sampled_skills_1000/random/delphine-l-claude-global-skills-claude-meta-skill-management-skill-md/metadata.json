@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 423,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 423,
+    "id": "delphine-l-claude-global-skills-claude-meta-skill-management-skill-md",
+    "name": "claude-skill-management",
+    "author": "Delphine-L",
+    "stars": 0,
+    "githubUrl": "https://github.com/Delphine-L/claude_global/tree/main/skills/claude-meta/skill-management",
+    "skillUrl": "https://skillsmp.com/skills/delphine-l-claude-global-skills-claude-meta-skill-management-skill-md",
+    "updatedAt": 1769223820,
+    "description": "Expert guide for managing Claude Code global skills and commands. Use when creating new skills, symlinking to projects, updating existing skills, or organizing the centralized skill repository."
+  },
+  "github": {
+    "owner": "Delphine-L",
+    "repo": "claude_global",
+    "ref": "main",
+    "relativePath": "skills/claude-meta/skill-management",
+    "sourceUrl": "https://github.com/Delphine-L/claude_global/tree/main/skills/claude-meta/skill-management"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 741,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 741,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-subagent-driven-development-skill-md",
+    "name": "subagent-driven-development",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/subagent-driven-development",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-subagent-driven-development-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Use when executing implementation plans with independent tasks in the current session"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/subagent-driven-development",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/subagent-driven-development"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 542,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 542,
+    "id": "dotnet-maui-github-skills-learn-from-pr-skill-md",
+    "name": "learn-from-pr",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/learn-from-pr",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-learn-from-pr-skill-md",
+    "updatedAt": 1769366275,
+    "description": "Analyzes a completed PR to extract lessons learned from agent behavior. Use after any PR with agent involvement - whether the agent failed, succeeded slowly, or succeeded quickly. Identifies patterns to reinforce or fix, and generates actionable recommendations for instruction files, skills, and documentation."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/learn-from-pr",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/learn-from-pr"
+  }
+}

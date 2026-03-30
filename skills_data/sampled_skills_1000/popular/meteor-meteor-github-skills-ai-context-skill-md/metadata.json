@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 212,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 212,
+    "id": "meteor-meteor-github-skills-ai-context-skill-md",
+    "name": "ai-context",
+    "author": "meteor",
+    "stars": 44774,
+    "githubUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/ai-context",
+    "skillUrl": "https://skillsmp.com/skills/meteor-meteor-github-skills-ai-context-skill-md",
+    "updatedAt": 1770385373,
+    "description": "Use when creating, updating, or maintaining AI documentation files (AGENTS.md, CLAUDE.md, skills). Covers file structure, conventions, and guidelines for evolving AI context."
+  },
+  "github": {
+    "owner": "meteor",
+    "repo": "meteor",
+    "ref": "devel",
+    "relativePath": ".github/skills/ai-context",
+    "sourceUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/ai-context"
+  }
+}

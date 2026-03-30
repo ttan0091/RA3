@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 746,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 746,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-ab-test-setup-skill-md",
+    "name": "ab-test-setup",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ab-test-setup",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-ab-test-setup-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to plan, design, or implement an A/B test or experiment. Also use when the user mentions \"A/B test,\" \"split test,\" \"experiment,\" \"test this change,\" \"variant copy,\" \"multivariate test,\" or \"hypothesis.\" For tracking implementation, see analytics-tracking."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/ab-test-setup",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/ab-test-setup"
+  }
+}

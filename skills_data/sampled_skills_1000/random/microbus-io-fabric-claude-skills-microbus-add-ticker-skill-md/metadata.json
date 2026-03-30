@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 548,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 548,
+    "id": "microbus-io-fabric-claude-skills-microbus-add-ticker-skill-md",
+    "name": "adding-a-ticker",
+    "author": "microbus-io",
+    "stars": 169,
+    "githubUrl": "https://github.com/microbus-io/fabric/tree/main/.claude/skills/microbus/add-ticker",
+    "skillUrl": "https://skillsmp.com/skills/microbus-io-fabric-claude-skills-microbus-add-ticker-skill-md",
+    "updatedAt": 1770492872,
+    "description": "Creates or modify a ticker of a microservice. Use when explicitly asked by the user to create or modify a ticker or a recurring operation for a microservice."
+  },
+  "github": {
+    "owner": "microbus-io",
+    "repo": "fabric",
+    "ref": "main",
+    "relativePath": ".claude/skills/microbus/add-ticker",
+    "sourceUrl": "https://github.com/microbus-io/fabric/tree/main/.claude/skills/microbus/add-ticker"
+  }
+}

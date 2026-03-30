@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 586,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 586,
+    "id": "alunadev-ald-skills-skills-codebase-documenter-skill-md",
+    "name": "codebase-documenter",
+    "author": "alunadev",
+    "stars": 1,
+    "githubUrl": "https://github.com/alunadev/ald_skills/tree/main/skills/codebase-documenter",
+    "skillUrl": "https://skillsmp.com/skills/alunadev-ald-skills-skills-codebase-documenter-skill-md",
+    "updatedAt": 1770498663,
+    "description": "Create comprehensive, beginner-friendly documentation for codebases. Use when writing READMEs, architecture guides, code comments, or API documentation."
+  },
+  "github": {
+    "owner": "alunadev",
+    "repo": "ald_skills",
+    "ref": "main",
+    "relativePath": "skills/codebase-documenter",
+    "sourceUrl": "https://github.com/alunadev/ald_skills/tree/main/skills/codebase-documenter"
+  }
+}

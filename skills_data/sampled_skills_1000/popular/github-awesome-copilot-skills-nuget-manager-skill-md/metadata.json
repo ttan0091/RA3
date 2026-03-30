@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 606,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 606,
+    "id": "github-awesome-copilot-skills-nuget-manager-skill-md",
+    "name": "nuget-manager",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/nuget-manager",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-nuget-manager-skill-md",
+    "updatedAt": 1767731741,
+    "description": "Manage NuGet packages in .NET projects/solutions. Use this skill when adding, removing, or updating NuGet package versions. It enforces using `dotnet` CLI for package management and provides strict procedures for direct file edits only when updating versions."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/nuget-manager",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/nuget-manager"
+  }
+}

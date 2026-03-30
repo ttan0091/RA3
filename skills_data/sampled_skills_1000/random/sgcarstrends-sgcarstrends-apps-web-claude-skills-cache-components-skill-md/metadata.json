@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 402,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 402,
+    "id": "sgcarstrends-sgcarstrends-apps-web-claude-skills-cache-components-skill-md",
+    "name": "cache-components",
+    "author": "sgcarstrends",
+    "stars": 17,
+    "githubUrl": "https://github.com/sgcarstrends/sgcarstrends/tree/main/apps/web/.claude/skills/cache-components",
+    "skillUrl": "https://skillsmp.com/skills/sgcarstrends-sgcarstrends-apps-web-claude-skills-cache-components-skill-md",
+    "updatedAt": 1764406715,
+    "description": "Ensure 'use cache' is used strategically to minimize CPU usage and ISR writes. Use when creating/modifying queries to verify caching decisions align with data update patterns and cost optimization."
+  },
+  "github": {
+    "owner": "sgcarstrends",
+    "repo": "sgcarstrends",
+    "ref": "main",
+    "relativePath": "apps/web/.claude/skills/cache-components",
+    "sourceUrl": "https://github.com/sgcarstrends/sgcarstrends/tree/main/apps/web/.claude/skills/cache-components"
+  }
+}

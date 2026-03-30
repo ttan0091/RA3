@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 467,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 467,
+    "id": "lkb-99-manus-auto-skills-invoice-generator-skill-md",
+    "name": "invoice-generator",
+    "author": "LKB-99",
+    "stars": 0,
+    "githubUrl": "https://github.com/LKB-99/manus-auto-skills/tree/master/invoice-generator",
+    "skillUrl": "https://skillsmp.com/skills/lkb-99-manus-auto-skills-invoice-generator-skill-md",
+    "updatedAt": 1770066319,
+    "description": "Create professional invoices and receipts with automatic calculations. Use this skill when users want to generate, create, or manage invoices, receipts, or bills. Triggers: invoice, receipt, bill, billing, generate invoice, criar fatura, nota fiscal, recibo."
+  },
+  "github": {
+    "owner": "LKB-99",
+    "repo": "manus-auto-skills",
+    "ref": "master",
+    "relativePath": "invoice-generator",
+    "sourceUrl": "https://github.com/LKB-99/manus-auto-skills/tree/master/invoice-generator"
+  }
+}

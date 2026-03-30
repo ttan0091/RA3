@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 32,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 32,
+    "id": "sraloff-gravityboots-agent-skills-project-init-skill-md",
+    "name": "project-initialization-bootstrap",
+    "author": "sraloff",
+    "stars": 1,
+    "githubUrl": "https://github.com/sraloff/gravityboots/tree/main/.agent/skills/project-init",
+    "skillUrl": "https://skillsmp.com/skills/sraloff-gravityboots-agent-skills-project-init-skill-md",
+    "updatedAt": 1769217617,
+    "description": "Bootstraps a new project with standard folder structure, git init, basic files, planning doc skeletons, and initial memory.json. Triggers on new project creation keywords. CRITICAL for first-time setup."
+  },
+  "github": {
+    "owner": "sraloff",
+    "repo": "gravityboots",
+    "ref": "main",
+    "relativePath": ".agent/skills/project-init",
+    "sourceUrl": "https://github.com/sraloff/gravityboots/tree/main/.agent/skills/project-init"
+  }
+}

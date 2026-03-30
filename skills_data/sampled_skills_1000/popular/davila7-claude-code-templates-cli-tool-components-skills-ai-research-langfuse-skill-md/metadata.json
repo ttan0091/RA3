@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 678,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 678,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-langfuse-skill-md",
+    "name": "langfuse",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langfuse",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-langfuse-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in Langfuse - the open-source LLM observability platform. Covers tracing, prompt management, evaluation, datasets, and integration with LangChain, LlamaIndex, and OpenAI. Essential for debugging, monitoring, and improving LLM applications in production. Use when: langfuse, llm observability, llm tracing, prompt management, llm evaluation."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/langfuse",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langfuse"
+  }
+}

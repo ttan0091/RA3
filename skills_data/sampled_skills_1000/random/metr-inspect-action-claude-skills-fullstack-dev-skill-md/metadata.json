@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 794,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 794,
+    "id": "metr-inspect-action-claude-skills-fullstack-dev-skill-md",
+    "name": "full-stack-dev",
+    "author": "METR",
+    "stars": 16,
+    "githubUrl": "https://github.com/METR/inspect-action/tree/main/.claude/skills/fullstack-dev",
+    "skillUrl": "https://skillsmp.com/skills/metr-inspect-action-claude-skills-fullstack-dev-skill-md",
+    "updatedAt": 1770759622,
+    "description": "How to develop the frontend and backend together. When you want to make changes to the UI, use this."
+  },
+  "github": {
+    "owner": "METR",
+    "repo": "inspect-action",
+    "ref": "main",
+    "relativePath": ".claude/skills/fullstack-dev",
+    "sourceUrl": "https://github.com/METR/inspect-action/tree/main/.claude/skills/fullstack-dev"
+  }
+}

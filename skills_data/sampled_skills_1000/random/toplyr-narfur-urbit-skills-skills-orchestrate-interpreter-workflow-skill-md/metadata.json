@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 469,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 469,
+    "id": "toplyr-narfur-urbit-skills-skills-orchestrate-interpreter-workflow-skill-md",
+    "name": "orchestrate-interpreter-workflow",
+    "author": "toplyr-narfur",
+    "stars": 1,
+    "githubUrl": "https://github.com/toplyr-narfur/urbit-skills/tree/main/skills/orchestrate-interpreter-workflow",
+    "skillUrl": "https://skillsmp.com/skills/toplyr-narfur-urbit-skills-skills-orchestrate-interpreter-workflow-skill-md",
+    "updatedAt": 1770405984,
+    "description": "Intelligent orchestration for Nock interpreter development, optimization, and learning workflows. Dynamically coordinates education, implementation, profiling, and production-grade optimization."
+  },
+  "github": {
+    "owner": "toplyr-narfur",
+    "repo": "urbit-skills",
+    "ref": "main",
+    "relativePath": "skills/orchestrate-interpreter-workflow",
+    "sourceUrl": "https://github.com/toplyr-narfur/urbit-skills/tree/main/skills/orchestrate-interpreter-workflow"
+  }
+}

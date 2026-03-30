@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 853,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 853,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-code-reviewer-skill-md",
+    "name": "code-reviewer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/code-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-code-reviewer-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Comprehensive code review skill for TypeScript, JavaScript, Python, Swift, Kotlin, Go. Includes automated code analysis, best practice checking, security scanning, and review checklist generation. Use when reviewing pull requests, providing code feedback, identifying issues, or ensuring code quality standards."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/code-reviewer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/code-reviewer"
+  }
+}

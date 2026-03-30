@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 634,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 634,
+    "id": "christowles-blog-claude-skills-blog-04-image-prompt-skill-md",
+    "name": "blog-04-image-prompt",
+    "author": "ChrisTowles",
+    "stars": 4,
+    "githubUrl": "https://github.com/ChrisTowles/blog/tree/main/.claude/skills/blog-04-image-prompt",
+    "skillUrl": "https://skillsmp.com/skills/christowles-blog-claude-skills-blog-04-image-prompt-skill-md",
+    "updatedAt": 1769304115,
+    "description": "Generate optimized AI image prompts for blog post hero images"
+  },
+  "github": {
+    "owner": "ChrisTowles",
+    "repo": "blog",
+    "ref": "main",
+    "relativePath": ".claude/skills/blog-04-image-prompt",
+    "sourceUrl": "https://github.com/ChrisTowles/blog/tree/main/.claude/skills/blog-04-image-prompt"
+  }
+}

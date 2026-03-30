@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 987,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 987,
+    "id": "philsquare-permissions-skills-permissions-usage-skill-md",
+    "name": "philsquare-permissions",
+    "author": "philsquare",
+    "stars": 0,
+    "githubUrl": "https://github.com/philsquare/permissions/tree/production/skills/permissions-usage",
+    "skillUrl": "https://skillsmp.com/skills/philsquare-permissions-skills-permissions-usage-skill-md",
+    "updatedAt": 1765576643,
+    "description": "This skill should be used when the user asks to \"add permissions to a policy\", \"create a policy with roles\", \"set up role permissions\", \"configure rolePermissions\", \"use BasePolicy\", or when working with Laravel policies that need role-based permission management. Also activate when creating or modifying policies in a project using philsquare/permissions."
+  },
+  "github": {
+    "owner": "philsquare",
+    "repo": "permissions",
+    "ref": "production",
+    "relativePath": "skills/permissions-usage",
+    "sourceUrl": "https://github.com/philsquare/permissions/tree/production/skills/permissions-usage"
+  }
+}

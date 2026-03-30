@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 779,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 779,
+    "id": "thebushidocollective-han-plugins-frameworks-django-skills-django-orm-patterns-skill-md",
+    "name": "django-orm-patterns",
+    "author": "TheBushidoCollective",
+    "stars": 84,
+    "githubUrl": "https://github.com/TheBushidoCollective/han/tree/main/plugins/frameworks/django/skills/django-orm-patterns",
+    "skillUrl": "https://skillsmp.com/skills/thebushidocollective-han-plugins-frameworks-django-skills-django-orm-patterns-skill-md",
+    "updatedAt": 1770154324,
+    "description": "Use when Django ORM patterns with models, queries, and relationships. Use when building database-driven Django applications."
+  },
+  "github": {
+    "owner": "TheBushidoCollective",
+    "repo": "han",
+    "ref": "main",
+    "relativePath": "plugins/frameworks/django/skills/django-orm-patterns",
+    "sourceUrl": "https://github.com/TheBushidoCollective/han/tree/main/plugins/frameworks/django/skills/django-orm-patterns"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 668,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 668,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-gemini-skill-md",
+    "name": "gemini",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/gemini",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-gemini-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Use when the user asks to run Gemini CLI for code review, plan review, or big context (>200k) processing. Ideal for comprehensive analysis requiring large context windows. Uses Gemini 3 Pro by default for state-of-the-art reasoning and coding."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/gemini",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/gemini"
+  }
+}

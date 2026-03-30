@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 788,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 788,
+    "id": "undoio-addons-skills-debugging-with-undo-skill-md",
+    "name": "debugging-with-undo",
+    "author": "undoio",
+    "stars": 1,
+    "githubUrl": "https://github.com/undoio/addons/tree/master/skills/debugging-with-undo",
+    "skillUrl": "https://skillsmp.com/skills/undoio-addons-skills-debugging-with-undo-skill-md",
+    "updatedAt": 1768996527,
+    "description": "Debug programs using Undo time travel debugging. Record flaky tests, intermittent failures, race conditions, or bugs that don't reproduce reliably. Analyze recordings by traveling backwards through execution history. Use when the user mentions debugging, flaky tests, intermittent bugs, race conditions, `.undo` files (Undo recordings), or asks why something happened in an actual run. This can provide similar results as adding logging statements, but without modifying the code or needing to re-run the program multiple times."
+  },
+  "github": {
+    "owner": "undoio",
+    "repo": "addons",
+    "ref": "master",
+    "relativePath": "skills/debugging-with-undo",
+    "sourceUrl": "https://github.com/undoio/addons/tree/master/skills/debugging-with-undo"
+  }
+}

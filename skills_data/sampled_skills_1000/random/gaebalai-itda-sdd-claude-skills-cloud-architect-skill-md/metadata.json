@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 564,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 564,
+    "id": "gaebalai-itda-sdd-claude-skills-cloud-architect-skill-md",
+    "name": "cloud-architect",
+    "author": "gaebalai",
+    "stars": 3,
+    "githubUrl": "https://github.com/gaebalai/itda-sdd/tree/main/.claude/skills/cloud-architect",
+    "skillUrl": "https://skillsmp.com/skills/gaebalai-itda-sdd-claude-skills-cloud-architect-skill-md",
+    "updatedAt": 1768406096,
+    "description": "Copilot agent for cloud architecture design, AWS/Azure/GCP configuration, IaC code generation (Terraform/Bicep), and cost optimization\n\nTrigger terms: cloud architecture, AWS, Azure, GCP, cloud infrastructure, IaC, Terraform, CloudFormation, cloud design, serverless, cloud migration\n\nUse when: User requests involve cloud architect tasks."
+  },
+  "github": {
+    "owner": "gaebalai",
+    "repo": "itda-sdd",
+    "ref": "main",
+    "relativePath": ".claude/skills/cloud-architect",
+    "sourceUrl": "https://github.com/gaebalai/itda-sdd/tree/main/.claude/skills/cloud-architect"
+  }
+}

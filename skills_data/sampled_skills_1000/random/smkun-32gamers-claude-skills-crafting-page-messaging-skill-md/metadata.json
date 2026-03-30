@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 462,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 462,
+    "id": "smkun-32gamers-claude-skills-crafting-page-messaging-skill-md",
+    "name": "crafting-page-messaging",
+    "author": "smkun",
+    "stars": 1,
+    "githubUrl": "https://github.com/smkun/32Gamers/tree/main/.claude/skills/crafting-page-messaging",
+    "skillUrl": "https://skillsmp.com/skills/smkun-32gamers-claude-skills-crafting-page-messaging-skill-md",
+    "updatedAt": 1770242062,
+    "description": "Writes conversion-focused messaging for pages and key CTAs in the 32Gamers portal.\nUse when: writing headlines, CTAs, loading states, error messages, empty states, form labels, page titles, or any user-facing copy."
+  },
+  "github": {
+    "owner": "smkun",
+    "repo": "32Gamers",
+    "ref": "main",
+    "relativePath": ".claude/skills/crafting-page-messaging",
+    "sourceUrl": "https://github.com/smkun/32Gamers/tree/main/.claude/skills/crafting-page-messaging"
+  }
+}

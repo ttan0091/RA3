@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 800,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 800,
+    "id": "amano-call-center-agent-skills-business-tools-biz-growth-skill-md",
+    "name": "biz-growth",
+    "author": "amano--",
+    "stars": 0,
+    "githubUrl": "https://github.com/amano--/call-center/tree/main/.agent/skills/business-tools/biz-growth",
+    "skillUrl": "https://skillsmp.com/skills/amano-call-center-agent-skills-business-tools-biz-growth-skill-md",
+    "updatedAt": 1769219238,
+    "description": "High-performance business writing, content creation, and strategic growth constraints."
+  },
+  "github": {
+    "owner": "amano--",
+    "repo": "call-center",
+    "ref": "main",
+    "relativePath": ".agent/skills/business-tools/biz-growth",
+    "sourceUrl": "https://github.com/amano--/call-center/tree/main/.agent/skills/business-tools/biz-growth"
+  }
+}

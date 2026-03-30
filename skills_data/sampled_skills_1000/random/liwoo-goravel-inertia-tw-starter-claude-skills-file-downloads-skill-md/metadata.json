@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 942,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 942,
+    "id": "liwoo-goravel-inertia-tw-starter-claude-skills-file-downloads-skill-md",
+    "name": "file-downloads",
+    "author": "liwoo",
+    "stars": 9,
+    "githubUrl": "https://github.com/liwoo/goravel-inertia-tw-starter/tree/develop/.claude/skills/file-downloads",
+    "skillUrl": "https://skillsmp.com/skills/liwoo-goravel-inertia-tw-starter-claude-skills-file-downloads-skill-md",
+    "updatedAt": 1770481173,
+    "description": "Add file download and export functionality (CSV, Excel, PDF, JSON) to a Goravel entity page using the existing client-side export system. Also covers chart PNG capture."
+  },
+  "github": {
+    "owner": "liwoo",
+    "repo": "goravel-inertia-tw-starter",
+    "ref": "develop",
+    "relativePath": ".claude/skills/file-downloads",
+    "sourceUrl": "https://github.com/liwoo/goravel-inertia-tw-starter/tree/develop/.claude/skills/file-downloads"
+  }
+}

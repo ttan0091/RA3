@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 39,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 39,
+    "id": "openclaw-openclaw-skills-openai-image-gen-skill-md",
+    "name": "openai-image-gen",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-image-gen",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-openai-image-gen-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/openai-image-gen",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-image-gen"
+  }
+}

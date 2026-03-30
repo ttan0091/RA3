@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 565,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 565,
+    "id": "vercel-ai-skills-capture-api-response-test-fixture-skill-md",
+    "name": "capture-api-response-test-fixture",
+    "author": "vercel",
+    "stars": 21656,
+    "githubUrl": "https://github.com/vercel/ai/tree/main/skills/capture-api-response-test-fixture",
+    "skillUrl": "https://skillsmp.com/skills/vercel-ai-skills-capture-api-response-test-fixture-skill-md",
+    "updatedAt": 1769474497,
+    "description": "Capture API response test fixture."
+  },
+  "github": {
+    "owner": "vercel",
+    "repo": "ai",
+    "ref": "main",
+    "relativePath": "skills/capture-api-response-test-fixture",
+    "sourceUrl": "https://github.com/vercel/ai/tree/main/skills/capture-api-response-test-fixture"
+  }
+}

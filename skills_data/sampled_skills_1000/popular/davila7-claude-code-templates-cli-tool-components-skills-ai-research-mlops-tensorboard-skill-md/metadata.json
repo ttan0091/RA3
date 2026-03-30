@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 688,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 688,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-mlops-tensorboard-skill-md",
+    "name": "tensorboard",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mlops-tensorboard",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-mlops-tensorboard-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Visualize training metrics, debug models with histograms, compare experiments, visualize model graphs, and profile performance with TensorBoard - Google's ML visualization toolkit"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/mlops-tensorboard",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mlops-tensorboard"
+  }
+}

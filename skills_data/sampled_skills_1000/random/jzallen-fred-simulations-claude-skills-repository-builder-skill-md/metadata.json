@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 349,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 349,
+    "id": "jzallen-fred-simulations-claude-skills-repository-builder-skill-md",
+    "name": "repository-builder",
+    "author": "jzallen",
+    "stars": 1,
+    "githubUrl": "https://github.com/jzallen/fred_simulations/tree/main/.claude/skills/repository-builder",
+    "skillUrl": "https://skillsmp.com/skills/jzallen-fred-simulations-claude-skills-repository-builder-skill-md",
+    "updatedAt": 1763014123,
+    "description": "Create repository classes implementing the repository pattern with Protocol interfaces, ORM separation, and mapper integration for clean data access."
+  },
+  "github": {
+    "owner": "jzallen",
+    "repo": "fred_simulations",
+    "ref": "main",
+    "relativePath": ".claude/skills/repository-builder",
+    "sourceUrl": "https://github.com/jzallen/fred_simulations/tree/main/.claude/skills/repository-builder"
+  }
+}

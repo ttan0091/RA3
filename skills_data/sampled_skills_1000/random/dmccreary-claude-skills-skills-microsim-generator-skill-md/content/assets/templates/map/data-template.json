@@ -1,0 +1,56 @@
+{
+    "metadata": {
+        "title": "{{TITLE}}",
+        "description": "{{DESCRIPTION}}",
+        "dataSource": "{{DATA_SOURCE}}",
+        "lastUpdated": "{{DATE}}"
+    },
+    "config": {
+        "mapCenter": [39.5, -98.5],
+        "zoom": 4,
+        "minZoom": 2,
+        "maxZoom": 18,
+        "geoJsonUrl": "https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json"
+    },
+    "colorScale": {
+        "high": "#1a5e1a",
+        "medHigh": "#4CAF50",
+        "medium": "#FFC107",
+        "medLow": "#FF9800",
+        "low": "#8B0000"
+    },
+    "thresholds": {
+        "high": 80,
+        "medHigh": 60,
+        "medium": 40,
+        "medLow": 20
+    },
+    "features": {
+        "Alabama": {
+            "value": 45,
+            "label": "Alabama",
+            "metric1": "Sample metric 1",
+            "metric2": "Sample metric 2"
+        },
+        "Alaska": {
+            "value": 72,
+            "label": "Alaska",
+            "metric1": "Sample metric 1",
+            "metric2": "Sample metric 2"
+        }
+    },
+    "markers": [
+        {
+            "lat": 40.7128,
+            "lng": -74.0060,
+            "name": "New York City",
+            "description": "Largest city in the US"
+        },
+        {
+            "lat": 34.0522,
+            "lng": -118.2437,
+            "name": "Los Angeles",
+            "description": "Second largest city in the US"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 677,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 677,
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-business-sales-skills-apollo-prospecting-skill-md",
+    "name": "apollo-prospecting",
+    "author": "a5c-ai",
+    "stars": 81,
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/business/sales/skills/apollo-prospecting",
+    "skillUrl": "https://skillsmp.com/skills/a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-business-sales-skills-apollo-prospecting-skill-md",
+    "updatedAt": 1769282476,
+    "description": "Apollo.io prospecting and engagement data integration"
+  },
+  "github": {
+    "owner": "a5c-ai",
+    "repo": "babysitter",
+    "ref": "main",
+    "relativePath": "plugins/babysitter/skills/babysit/process/specializations/domains/business/sales/skills/apollo-prospecting",
+    "sourceUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/business/sales/skills/apollo-prospecting"
+  }
+}

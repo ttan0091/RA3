@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 621,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 621,
+    "id": "hnabyz-bot-gate-drv-claude-skills-moai-lang-ruby-skill-md",
+    "name": "moai-lang-ruby",
+    "author": "hnabyz-bot",
+    "stars": 0,
+    "githubUrl": "https://github.com/hnabyz-bot/gate_drv/tree/master/.claude/skills/moai-lang-ruby",
+    "skillUrl": "https://skillsmp.com/skills/hnabyz-bot-gate-drv-claude-skills-moai-lang-ruby-skill-md",
+    "updatedAt": 1769244144,
+    "description": "Ruby 3.3+ development specialist covering Rails 7.2, ActiveRecord, Hotwire/Turbo, and modern Ruby patterns. Use when developing Ruby APIs, web applications, or Rails projects."
+  },
+  "github": {
+    "owner": "hnabyz-bot",
+    "repo": "gate_drv",
+    "ref": "master",
+    "relativePath": ".claude/skills/moai-lang-ruby",
+    "sourceUrl": "https://github.com/hnabyz-bot/gate_drv/tree/master/.claude/skills/moai-lang-ruby"
+  }
+}

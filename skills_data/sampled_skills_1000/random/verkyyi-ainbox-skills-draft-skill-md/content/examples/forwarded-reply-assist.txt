@@ -1,0 +1,32 @@
+--- Input ---
+From: user@example.com
+To: draft@ainbox.io
+Subject: Fwd: Can you join our team offsite next week?
+
+Help me decline politely — I have a conflict.
+
+---------- Forwarded message ----------
+From: sarah@company.com
+Date: Mon, 10 Feb 2026 10:00:00 +0000
+Subject: Can you join our team offsite next week?
+To: user@example.com
+
+Hey!
+
+We're planning a team offsite next Thursday (Feb 19) at the downtown office from 9am-4pm. We'll cover Q1 planning, team goals, and a working lunch.
+
+Would love to have you there. Let me know if you can make it!
+
+Sarah
+
+
+--- Expected output ---
+Subject: Re: Can you join our team offsite next week?
+
+Hi Sarah,
+
+Thanks for the invite — the Q1 planning session sounds great. Unfortunately I have a conflict on Feb 19 and won't be able to make it.
+
+Would it be possible to get the notes or a quick recap afterward? Happy to contribute async if there's anything I can weigh in on before the session.
+
+[Your Name]

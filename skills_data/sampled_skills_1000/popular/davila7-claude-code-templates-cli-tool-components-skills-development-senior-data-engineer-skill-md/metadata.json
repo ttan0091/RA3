@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 922,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 922,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-data-engineer-skill-md",
+    "name": "senior-data-engineer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-data-engineer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-data-engineer-skill-md",
+    "updatedAt": 1766196856,
+    "description": "World-class data engineering skill for building scalable data pipelines, ETL/ELT systems, and data infrastructure. Expertise in Python, SQL, Spark, Airflow, dbt, Kafka, and modern data stack. Includes data modeling, pipeline orchestration, data quality, and DataOps. Use when designing data architectures, building data pipelines, optimizing data workflows, or implementing data governance."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-data-engineer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-data-engineer"
+  }
+}

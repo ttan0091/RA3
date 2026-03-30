@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 320,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 320,
+    "id": "composiohq-awesome-claude-skills-artifacts-builder-skill-md",
+    "name": "artifacts-builder",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-artifacts-builder-skill-md",
+    "updatedAt": 1761135276,
+    "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "artifacts-builder",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder"
+  }
+}

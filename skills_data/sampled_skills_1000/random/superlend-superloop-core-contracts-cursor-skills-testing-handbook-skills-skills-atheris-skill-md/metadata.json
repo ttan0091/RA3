@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 562,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 562,
+    "id": "superlend-superloop-core-contracts-cursor-skills-testing-handbook-skills-skills-atheris-skill-md",
+    "name": "atheris",
+    "author": "Superlend",
+    "stars": 0,
+    "githubUrl": "https://github.com/Superlend/superloop-core-contracts/tree/main/.cursor/skills/testing-handbook-skills/skills/atheris",
+    "skillUrl": "https://skillsmp.com/skills/superlend-superloop-core-contracts-cursor-skills-testing-handbook-skills-skills-atheris-skill-md",
+    "updatedAt": 1770033946,
+    "description": "Atheris is a coverage-guided Python fuzzer based on libFuzzer. Use for fuzzing pure Python code and Python C extensions."
+  },
+  "github": {
+    "owner": "Superlend",
+    "repo": "superloop-core-contracts",
+    "ref": "main",
+    "relativePath": ".cursor/skills/testing-handbook-skills/skills/atheris",
+    "sourceUrl": "https://github.com/Superlend/superloop-core-contracts/tree/main/.cursor/skills/testing-handbook-skills/skills/atheris"
+  }
+}

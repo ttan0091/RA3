@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 623,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 623,
+    "id": "airbytehq-airbyte-claude-skills-my-prs-skill-md",
+    "name": "my-prs",
+    "author": "airbytehq",
+    "stars": 20677,
+    "githubUrl": "https://github.com/airbytehq/airbyte/tree/master/.claude/skills/my-prs",
+    "skillUrl": "https://skillsmp.com/skills/airbytehq-airbyte-claude-skills-my-prs-skill-md",
+    "updatedAt": 1769462626,
+    "description": "List PRs opened today that are assigned to me or the move-destinations team, excluding external contributors"
+  },
+  "github": {
+    "owner": "airbytehq",
+    "repo": "airbyte",
+    "ref": "master",
+    "relativePath": ".claude/skills/my-prs",
+    "sourceUrl": "https://github.com/airbytehq/airbyte/tree/master/.claude/skills/my-prs"
+  }
+}

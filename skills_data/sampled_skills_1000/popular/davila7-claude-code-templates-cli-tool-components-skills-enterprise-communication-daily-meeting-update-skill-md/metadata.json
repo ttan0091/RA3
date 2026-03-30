@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 961,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 961,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-daily-meeting-update-skill-md",
+    "name": "daily-meeting-update",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/daily-meeting-update",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-daily-meeting-update-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Interactive daily standup/meeting update generator. Use when user says 'daily', 'standup', 'scrum update', 'status update', 'what did I do yesterday', 'prepare for meeting', 'morning update', or 'team sync'. Pulls activity from GitHub, Jira, and Claude Code session history. Conducts 4-question interview (yesterday, today, blockers, discussion topics) and generates formatted Markdown update."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/daily-meeting-update",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/daily-meeting-update"
+  }
+}

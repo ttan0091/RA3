@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 816,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 816,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-tailwind-patterns-skill-md",
+    "name": "tailwind-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/tailwind-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-tailwind-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/tailwind-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/tailwind-patterns"
+  }
+}

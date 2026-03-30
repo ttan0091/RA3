@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 956,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 956,
+    "id": "duclm1x1-dive-ai-skills-library-security-passwords-clawdstrike-test-skill-md",
+    "name": "clawstrike",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/security_passwords/clawdstrike-test",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-security-passwords-clawdstrike-test-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Security audit and threat model for OpenClaw gateway hosts. Use to verify OpenClaw configuration, exposure, skills/plugins, filesystem hygiene, and to produce an OK/VULNERABLE report with evidence and fixes."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/security_passwords/clawdstrike-test",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/security_passwords/clawdstrike-test"
+  }
+}

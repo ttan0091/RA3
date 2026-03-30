@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 875,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 875,
+    "id": "ldmrepo-michael-claude-skills-using-python-lsp-skill-md",
+    "name": "using-python-lsp",
+    "author": "ldmrepo",
+    "stars": 1,
+    "githubUrl": "https://github.com/ldmrepo/michael/tree/main/.claude/skills/using-python-lsp",
+    "skillUrl": "https://skillsmp.com/skills/ldmrepo-michael-claude-skills-using-python-lsp-skill-md",
+    "updatedAt": 1769965417,
+    "description": "Use when working with Python code and pyright-lsp plugin is enabled - for finding references, checking types, navigating definitions, or verifying type correctness"
+  },
+  "github": {
+    "owner": "ldmrepo",
+    "repo": "michael",
+    "ref": "main",
+    "relativePath": ".claude/skills/using-python-lsp",
+    "sourceUrl": "https://github.com/ldmrepo/michael/tree/main/.claude/skills/using-python-lsp"
+  }
+}

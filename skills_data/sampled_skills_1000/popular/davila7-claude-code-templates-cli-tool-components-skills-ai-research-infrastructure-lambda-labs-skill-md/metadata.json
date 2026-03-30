@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 674,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 674,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-infrastructure-lambda-labs-skill-md",
+    "name": "lambda-labs-gpu-cloud",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-lambda-labs",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-infrastructure-lambda-labs-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances with simple SSH access, persistent filesystems, or high-performance multi-node clusters for large-scale training."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/infrastructure-lambda-labs",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/infrastructure-lambda-labs"
+  }
+}

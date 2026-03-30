@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 625,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 625,
+    "id": "apache-shardingsphere-codex-skills-gen-ut-skill-md",
+    "name": "gen-ut",
+    "author": "apache",
+    "stars": 20673,
+    "githubUrl": "https://github.com/apache/shardingsphere/tree/master/.codex/skills/gen-ut",
+    "skillUrl": "https://skillsmp.com/skills/apache-shardingsphere-codex-skills-gen-ut-skill-md",
+    "updatedAt": 1770744373,
+    "description": "Generate standard unit tests for one or more target classes in Apache ShardingSphere; by default, target 100% class/line/branch coverage and pass quality gates; perform explicit merge analysis, suitability filtering, and refactor optimization for parameterized tests."
+  },
+  "github": {
+    "owner": "apache",
+    "repo": "shardingsphere",
+    "ref": "master",
+    "relativePath": ".codex/skills/gen-ut",
+    "sourceUrl": "https://github.com/apache/shardingsphere/tree/master/.codex/skills/gen-ut"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 437,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 437,
+    "id": "arustydev-ai-context-context-legacy-skills-confidence-check-skill-md",
+    "name": "confidence-check",
+    "author": "aRustyDev",
+    "stars": 4,
+    "githubUrl": "https://github.com/aRustyDev/ai/tree/main/context/.context/legacy/skills/confidence-check",
+    "skillUrl": "https://skillsmp.com/skills/arustydev-ai-context-context-legacy-skills-confidence-check-skill-md",
+    "updatedAt": 1769840482,
+    "description": "Pre-implementation confidence assessment (≥90% required). Use before starting any implementation to verify readiness with duplicate check, architecture compliance, official docs verification, OSS references, and root cause identification."
+  },
+  "github": {
+    "owner": "aRustyDev",
+    "repo": "ai",
+    "ref": "main",
+    "relativePath": "context/.context/legacy/skills/confidence-check",
+    "sourceUrl": "https://github.com/aRustyDev/ai/tree/main/context/.context/legacy/skills/confidence-check"
+  }
+}

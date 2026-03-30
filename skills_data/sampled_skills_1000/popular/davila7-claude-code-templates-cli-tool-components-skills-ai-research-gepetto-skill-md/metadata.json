@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 669,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 669,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-gepetto-skill-md",
+    "name": "gepetto",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/gepetto",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-gepetto-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Creates detailed, sectionized implementation plans through research, stakeholder interviews, and multi-LLM review. Use when planning features that need thorough pre-implementation analysis."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/gepetto",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/gepetto"
+  }
+}

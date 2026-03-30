@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 645,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 645,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-crewai-skill-md",
+    "name": "crewai",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/crewai",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-crewai-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies. Covers agent design with roles and goals, task definition, crew orchestration, process types (sequential, hierarchical, parallel), memory systems, and flows for complex workflows. Essential for building collaborative AI agent teams. Use when: crewai, multi-agent team, agent roles, crew of agents, role-based agents."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/crewai",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/crewai"
+  }
+}

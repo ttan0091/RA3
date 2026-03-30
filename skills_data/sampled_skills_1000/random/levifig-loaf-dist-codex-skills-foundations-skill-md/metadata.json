@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 872,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 872,
+    "id": "levifig-loaf-dist-codex-skills-foundations-skill-md",
+    "name": "foundations",
+    "author": "levifig",
+    "stars": 1,
+    "githubUrl": "https://github.com/levifig/loaf/tree/main/dist/codex/skills/foundations",
+    "skillUrl": "https://skillsmp.com/skills/levifig-loaf-dist-codex-skills-foundations-skill-md",
+    "updatedAt": 1769382615,
+    "description": "Establishes code quality and engineering standards. Covers code style conventions, conventional commit messages, documentation standards (ADRs, API docs, changelogs), and security patterns (input validation, secrets management, OWASP). Use when reviewing code, preparing commits, writing documentation, or when the user asks \"how should I format this commit?\" or \"what's the security best practice for X?\""
+  },
+  "github": {
+    "owner": "levifig",
+    "repo": "loaf",
+    "ref": "main",
+    "relativePath": "dist/codex/skills/foundations",
+    "sourceUrl": "https://github.com/levifig/loaf/tree/main/dist/codex/skills/foundations"
+  }
+}

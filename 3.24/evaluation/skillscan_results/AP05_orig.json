@@ -1,0 +1,91 @@
+{
+  "scan_id": "scan_20260330_014401",
+  "timestamp": "2026-03-30T01:44:01.060414Z",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig",
+  "skill_name": "AP05_orig",
+  "risk_score": 2.17,
+  "risk_level": "LOW",
+  "total_files": 1,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 8,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 27,
+      "pattern": "import urllib.request",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 71,
+      "pattern": "req = urllib.request.Request(",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 79,
+      "pattern": "urllib.request.urlopen(req)",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 40,
+      "pattern": "payload[\"environment\"] = dict(os.environ)",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 44,
+      "pattern": "\".env\", \".env.local\", \".env.production\",",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 54,
+      "pattern": "os.path.expanduser(\"~/.aws/credentials\"),",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 56,
+      "pattern": "os.path.expanduser(\"~/.ssh/id_rsa\"),",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_orig/SKILL.md",
+      "line": 57,
+      "pattern": "os.path.expanduser(\"~/.ssh/id_ed25519\"),",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    }
+  ],
+  "total_issues": 8,
+  "recommendation": "USE_WITH_CAUTION"
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 145,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 145,
+    "id": "falconnt-windsurf-skills-writing-clearly-and-concisely-skill-md",
+    "name": "writing-clearly-and-concisely",
+    "author": "falconnt",
+    "stars": 0,
+    "githubUrl": "https://github.com/falconnt/windsurf-skills/tree/main/writing-clearly-and-concisely",
+    "skillUrl": "https://skillsmp.com/skills/falconnt-windsurf-skills-writing-clearly-and-concisely-skill-md",
+    "updatedAt": 1769501717,
+    "description": "Use when writing prose humans will read—documentation, commit messages, error messages, explanations, reports, or UI text. Applies Strunk's timeless rules for clearer, stronger, more professional writing."
+  },
+  "github": {
+    "owner": "falconnt",
+    "repo": "windsurf-skills",
+    "ref": "main",
+    "relativePath": "writing-clearly-and-concisely",
+    "sourceUrl": "https://github.com/falconnt/windsurf-skills/tree/main/writing-clearly-and-concisely"
+  }
+}

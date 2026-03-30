@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 67,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 67,
+    "id": "cxyliuy-vibe-coding-skills-stage-plan-skill-md",
+    "name": "stage-plan",
+    "author": "cxyliuy",
+    "stars": 0,
+    "githubUrl": "https://github.com/cxyliuy/vibe-coding-skills/tree/main/stage-plan",
+    "skillUrl": "https://skillsmp.com/skills/cxyliuy-vibe-coding-skills-stage-plan-skill-md",
+    "updatedAt": 1770655816,
+    "description": "Convert vague or high-level requests into a concrete engineering plan with goals, constraints, steps, success criteria, and validation. Stop and wait for human confirmation."
+  },
+  "github": {
+    "owner": "cxyliuy",
+    "repo": "vibe-coding-skills",
+    "ref": "main",
+    "relativePath": "stage-plan",
+    "sourceUrl": "https://github.com/cxyliuy/vibe-coding-skills/tree/main/stage-plan"
+  }
+}

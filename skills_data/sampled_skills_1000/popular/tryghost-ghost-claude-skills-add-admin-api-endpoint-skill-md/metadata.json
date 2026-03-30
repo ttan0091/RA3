@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 171,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 171,
+    "id": "tryghost-ghost-claude-skills-add-admin-api-endpoint-skill-md",
+    "name": "add-admin-api-endpoint",
+    "author": "TryGhost",
+    "stars": 51791,
+    "githubUrl": "https://github.com/TryGhost/Ghost/tree/main/.claude/skills/add-admin-api-endpoint",
+    "skillUrl": "https://skillsmp.com/skills/tryghost-ghost-claude-skills-add-admin-api-endpoint-skill-md",
+    "updatedAt": 1764792575,
+    "description": "Add a new endpoint or endpoints to Ghost's Admin API at `ghost/api/admin/**`."
+  },
+  "github": {
+    "owner": "TryGhost",
+    "repo": "Ghost",
+    "ref": "main",
+    "relativePath": ".claude/skills/add-admin-api-endpoint",
+    "sourceUrl": "https://github.com/TryGhost/Ghost/tree/main/.claude/skills/add-admin-api-endpoint"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 347,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 347,
+    "id": "brmbobo-web2podcast-claude-agents-enterprise-frontend-design-agents-saas-packs-ideogram-pack-skills-ideogram-upgrade-migration-skill-md",
+    "name": "ideogram-upgrade-migration",
+    "author": "Brmbobo",
+    "stars": 0,
+    "githubUrl": "https://github.com/Brmbobo/Web2podcast/tree/master/.claude/agents/enterprise-frontend-design/agents/saas-packs/ideogram-pack/skills/ideogram-upgrade-migration",
+    "skillUrl": "https://skillsmp.com/skills/brmbobo-web2podcast-claude-agents-enterprise-frontend-design-agents-saas-packs-ideogram-pack-skills-ideogram-upgrade-migration-skill-md",
+    "updatedAt": 1769386690,
+    "description": "Analyze, plan, and execute Ideogram SDK upgrades with breaking change detection.\nUse when upgrading Ideogram SDK versions, detecting deprecations,\nor migrating to new API versions.\nTrigger with phrases like \"upgrade ideogram\", \"ideogram migration\",\n\"ideogram breaking changes\", \"update ideogram SDK\", \"analyze ideogram version\"."
+  },
+  "github": {
+    "owner": "Brmbobo",
+    "repo": "Web2podcast",
+    "ref": "master",
+    "relativePath": ".claude/agents/enterprise-frontend-design/agents/saas-packs/ideogram-pack/skills/ideogram-upgrade-migration",
+    "sourceUrl": "https://github.com/Brmbobo/Web2podcast/tree/master/.claude/agents/enterprise-frontend-design/agents/saas-packs/ideogram-pack/skills/ideogram-upgrade-migration"
+  }
+}

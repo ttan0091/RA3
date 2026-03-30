@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 388,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 388,
+    "id": "wshobson-agents-plugins-cicd-automation-skills-gitlab-ci-patterns-skill-md",
+    "name": "gitlab-ci-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/gitlab-ci-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cicd-automation-skills-gitlab-ci-patterns-skill-md",
+    "updatedAt": 1760661207,
+    "description": "Build GitLab CI/CD pipelines with multi-stage workflows, caching, and distributed runners for scalable automation. Use when implementing GitLab CI/CD, optimizing pipeline performance, or setting up automated testing and deployment."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cicd-automation/skills/gitlab-ci-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cicd-automation/skills/gitlab-ci-patterns"
+  }
+}

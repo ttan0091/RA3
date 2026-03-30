@@ -1,0 +1,20 @@
+{
+    "labels": ["{{LABEL_1}}", "{{LABEL_2}}", "{{LABEL_3}}", "{{LABEL_4}}"],
+    "values": [0, 0, 0, 0],
+    "colors": [
+        "rgba(74, 144, 226, 0.85)",
+        "rgba(80, 200, 120, 0.85)",
+        "rgba(255, 193, 7, 0.85)",
+        "rgba(220, 53, 69, 0.85)"
+    ],
+    "borderColors": [
+        "rgba(74, 144, 226, 1)",
+        "rgba(80, 200, 120, 1)",
+        "rgba(255, 193, 7, 1)",
+        "rgba(220, 53, 69, 1)"
+    ],
+    "categoryLabel": "{{CATEGORY_LABEL}}",
+    "valueLabel": "{{VALUE_LABEL}}",
+    "valueUnit": "%",
+    "showTotal": true
+}

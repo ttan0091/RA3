@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 628,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 628,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-agent-manager-skill-skill-md",
+    "name": "agent-manager-skill",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-manager-skill",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-agent-manager-skill-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/agent-manager-skill",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-manager-skill"
+  }
+}

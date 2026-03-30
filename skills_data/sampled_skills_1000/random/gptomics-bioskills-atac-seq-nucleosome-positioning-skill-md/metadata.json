@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 945,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 945,
+    "id": "gptomics-bioskills-atac-seq-nucleosome-positioning-skill-md",
+    "name": "bio-atac-seq-nucleosome-positioning",
+    "author": "GPTomics",
+    "stars": 226,
+    "githubUrl": "https://github.com/GPTomics/bioSkills/tree/main/atac-seq/nucleosome-positioning",
+    "skillUrl": "https://skillsmp.com/skills/gptomics-bioskills-atac-seq-nucleosome-positioning-skill-md",
+    "updatedAt": 1769215621,
+    "description": "Extract nucleosome positions from ATAC-seq data using NucleoATAC, ATACseqQC, and fragment analysis. Use when analyzing chromatin organization, identifying nucleosome-free regions at promoters, or characterizing nucleosome occupancy patterns from ATAC-seq fragment size distributions."
+  },
+  "github": {
+    "owner": "GPTomics",
+    "repo": "bioSkills",
+    "ref": "main",
+    "relativePath": "atac-seq/nucleosome-positioning",
+    "sourceUrl": "https://github.com/GPTomics/bioSkills/tree/main/atac-seq/nucleosome-positioning"
+  }
+}

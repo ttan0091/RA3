@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 501,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 501,
+    "id": "helixdevelopment-helixagent-skills-plugins-saas-packs-skill-databases-windsurf-release-automation-skill-md",
+    "name": "windsurf-release-automation",
+    "author": "HelixDevelopment",
+    "stars": 0,
+    "githubUrl": "https://github.com/HelixDevelopment/HelixAgent/tree/main/skills/plugins/saas-packs/skill-databases/windsurf-release-automation",
+    "skillUrl": "https://skillsmp.com/skills/helixdevelopment-helixagent-skills-plugins-saas-packs-skill-databases-windsurf-release-automation-skill-md",
+    "updatedAt": 1768511300,
+    "description": "Execute automate release processes with semantic versioning. Activate when users mention\n\"release automation\", \"version bump\", \"changelog generation\", \"semantic release\",\nor \"publish release\". Handles release engineering automation. Use when working with windsurf release automation functionality. Trigger with phrases like \"windsurf release automation\", \"windsurf automation\", \"windsurf\"."
+  },
+  "github": {
+    "owner": "HelixDevelopment",
+    "repo": "HelixAgent",
+    "ref": "main",
+    "relativePath": "skills/plugins/saas-packs/skill-databases/windsurf-release-automation",
+    "sourceUrl": "https://github.com/HelixDevelopment/HelixAgent/tree/main/skills/plugins/saas-packs/skill-databases/windsurf-release-automation"
+  }
+}

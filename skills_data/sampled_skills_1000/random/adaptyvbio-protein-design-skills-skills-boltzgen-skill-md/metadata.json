@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 343,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 343,
+    "id": "adaptyvbio-protein-design-skills-skills-boltzgen-skill-md",
+    "name": "boltzgen",
+    "author": "adaptyvbio",
+    "stars": 94,
+    "githubUrl": "https://github.com/adaptyvbio/protein-design-skills/tree/main/skills/boltzgen",
+    "skillUrl": "https://skillsmp.com/skills/adaptyvbio-protein-design-skills-skills-boltzgen-skill-md",
+    "updatedAt": 1768594416,
+    "description": "All-atom protein design using BoltzGen diffusion model. Use this skill when: (1) Need side-chain aware design from the start, (2) Designing around small molecules or ligands, (3) Want all-atom diffusion (not just backbone), (4) Require precise binding geometries, (5) Using YAML-based configuration.\nFor backbone-only generation, use rfdiffusion. For sequence-only design, use proteinmpnn. For structure validation, use boltz."
+  },
+  "github": {
+    "owner": "adaptyvbio",
+    "repo": "protein-design-skills",
+    "ref": "main",
+    "relativePath": "skills/boltzgen",
+    "sourceUrl": "https://github.com/adaptyvbio/protein-design-skills/tree/main/skills/boltzgen"
+  }
+}

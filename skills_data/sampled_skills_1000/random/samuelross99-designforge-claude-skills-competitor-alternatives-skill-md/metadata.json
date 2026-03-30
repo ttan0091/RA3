@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 595,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 595,
+    "id": "samuelross99-designforge-claude-skills-competitor-alternatives-skill-md",
+    "name": "competitor-alternatives",
+    "author": "samuelross99",
+    "stars": 0,
+    "githubUrl": "https://github.com/samuelross99/designforge/tree/main/.claude/skills/competitor-alternatives",
+    "skillUrl": "https://skillsmp.com/skills/samuelross99-designforge-claude-skills-competitor-alternatives-skill-md",
+    "updatedAt": 1769192427,
+    "description": "When the user wants to create competitor comparison or alternative pages for SEO and sales enablement. Also use when the user mentions 'alternative page,' 'vs page,' 'competitor comparison,' 'comparison page,' '[Product] vs [Product],' '[Product] alternative,' or 'competitive landing pages.' Covers four formats: singular alternative, plural alternatives, you vs competitor, and competitor vs competitor. Emphasizes deep research, modular content architecture, and varied section types beyond feature tables."
+  },
+  "github": {
+    "owner": "samuelross99",
+    "repo": "designforge",
+    "ref": "main",
+    "relativePath": ".claude/skills/competitor-alternatives",
+    "sourceUrl": "https://github.com/samuelross99/designforge/tree/main/.claude/skills/competitor-alternatives"
+  }
+}

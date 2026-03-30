@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 510,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 510,
+    "id": "panaversity-agentfactory-docs-skills-archive-seo-seo-review-skill-md",
+    "name": "seo-review",
+    "author": "panaversity",
+    "stars": 127,
+    "githubUrl": "https://github.com/panaversity/agentfactory/tree/main/docs/_skills_archive/seo/seo-review",
+    "skillUrl": "https://skillsmp.com/skills/panaversity-agentfactory-docs-skills-archive-seo-seo-review-skill-md",
+    "updatedAt": 1769712175,
+    "description": "Perform a focused SEO audit on JavaScript concept pages to maximize search visibility, featured snippet optimization, and ranking potential"
+  },
+  "github": {
+    "owner": "panaversity",
+    "repo": "agentfactory",
+    "ref": "main",
+    "relativePath": "docs/_skills_archive/seo/seo-review",
+    "sourceUrl": "https://github.com/panaversity/agentfactory/tree/main/docs/_skills_archive/seo/seo-review"
+  }
+}

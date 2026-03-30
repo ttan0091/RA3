@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 663,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 663,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-evaluation-nemo-evaluator-skill-md",
+    "name": "nemo-evaluator-sdk",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/evaluation-nemo-evaluator",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-evaluation-nemo-evaluator-skill-md",
+    "updatedAt": 1769665019,
+    "description": "Evaluates LLMs across 100+ benchmarks from 18+ harnesses (MMLU, HumanEval, GSM8K, safety, VLM) with multi-backend execution. Use when needing scalable evaluation on local Docker, Slurm HPC, or cloud platforms. NVIDIA's enterprise-grade platform with container-first architecture for reproducible benchmarking."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/evaluation-nemo-evaluator",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/evaluation-nemo-evaluator"
+  }
+}

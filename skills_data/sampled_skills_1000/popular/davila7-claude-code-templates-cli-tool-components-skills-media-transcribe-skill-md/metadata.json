@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 990,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 990,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-media-transcribe-skill-md",
+    "name": "transcribe",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/transcribe",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-media-transcribe-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Transcribe audio files to text with optional diarization and known-speaker hints. Use when a user asks to transcribe speech from audio/video, extract text from recordings, or label speakers in interviews or meetings."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/media/transcribe",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/transcribe"
+  }
+}

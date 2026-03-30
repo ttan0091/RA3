@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 574,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 574,
+    "id": "dennislee928-smart-zone-claude-skills-google-gemini-file-search-skill-md",
+    "name": "google-gemini-file-search",
+    "author": "dennislee928",
+    "stars": 2,
+    "githubUrl": "https://github.com/dennislee928/Smart_Zone/tree/main/.claude/skills/google-gemini-file-search",
+    "skillUrl": "https://skillsmp.com/skills/dennislee928-smart-zone-claude-skills-google-gemini-file-search-skill-md",
+    "updatedAt": 1769242859,
+    "description": "Build document Q&A with Gemini File Search - fully managed RAG with automatic chunking, embeddings, and citations. Upload 100+ file formats, query with natural language.\n\nUse when: document Q&A, searchable knowledge bases, semantic search. Troubleshoot: document immutability, storage quota (3x), chunking config, metadata limits (20 max), polling timeouts, displayName dropped (Blob uploads), grounding lost (JSON mode), tool conflicts (googleSearch + fileSearch)."
+  },
+  "github": {
+    "owner": "dennislee928",
+    "repo": "Smart_Zone",
+    "ref": "main",
+    "relativePath": ".claude/skills/google-gemini-file-search",
+    "sourceUrl": "https://github.com/dennislee928/Smart_Zone/tree/main/.claude/skills/google-gemini-file-search"
+  }
+}

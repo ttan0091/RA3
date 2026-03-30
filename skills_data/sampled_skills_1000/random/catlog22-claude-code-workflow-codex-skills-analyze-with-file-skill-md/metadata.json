@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 830,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 830,
+    "id": "catlog22-claude-code-workflow-codex-skills-analyze-with-file-skill-md",
+    "name": "analyze-with-file",
+    "author": "catlog22",
+    "stars": 1276,
+    "githubUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.codex/skills/analyze-with-file",
+    "skillUrl": "https://skillsmp.com/skills/catlog22-claude-code-workflow-codex-skills-analyze-with-file-skill-md",
+    "updatedAt": 1770617272,
+    "description": "Interactive collaborative analysis with documented discussions, inline exploration, and evolving understanding. Serial execution with no agent delegation."
+  },
+  "github": {
+    "owner": "catlog22",
+    "repo": "Claude-Code-Workflow",
+    "ref": "main",
+    "relativePath": ".codex/skills/analyze-with-file",
+    "sourceUrl": "https://github.com/catlog22/Claude-Code-Workflow/tree/main/.codex/skills/analyze-with-file"
+  }
+}

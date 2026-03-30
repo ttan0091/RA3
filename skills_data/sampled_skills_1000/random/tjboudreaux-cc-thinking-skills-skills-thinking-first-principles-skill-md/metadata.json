@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 623,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 623,
+    "id": "tjboudreaux-cc-thinking-skills-skills-thinking-first-principles-skill-md",
+    "name": "thinking-first-principles",
+    "author": "tjboudreaux",
+    "stars": 4,
+    "githubUrl": "https://github.com/tjboudreaux/cc-thinking-skills/tree/main/skills/thinking-first-principles",
+    "skillUrl": "https://skillsmp.com/skills/tjboudreaux-cc-thinking-skills-skills-thinking-first-principles-skill-md",
+    "updatedAt": 1770285324,
+    "description": "Break complex problems into fundamental truths by questioning assumptions and rebuilding from irreducible components. Use for innovation, challenging status quo, or when conventional solutions fail."
+  },
+  "github": {
+    "owner": "tjboudreaux",
+    "repo": "cc-thinking-skills",
+    "ref": "main",
+    "relativePath": "skills/thinking-first-principles",
+    "sourceUrl": "https://github.com/tjboudreaux/cc-thinking-skills/tree/main/skills/thinking-first-principles"
+  }
+}

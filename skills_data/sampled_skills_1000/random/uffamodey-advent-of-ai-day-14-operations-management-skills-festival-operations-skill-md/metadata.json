@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 108,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 108,
+    "id": "uffamodey-advent-of-ai-day-14-operations-management-skills-festival-operations-skill-md",
+    "name": "festival-operations",
+    "author": "UffaModey",
+    "stars": 1,
+    "githubUrl": "https://github.com/UffaModey/advent_of_ai/tree/main/day_14_operations_management/skills/festival-operations",
+    "skillUrl": "https://skillsmp.com/skills/uffamodey-advent-of-ai-day-14-operations-management-skills-festival-operations-skill-md",
+    "updatedAt": 1766220037,
+    "description": "🎪 Comprehensive festival planning and operations management skill for organizing events, coordinating logistics, managing vendors, and ensuring smooth execution of festivals and large-scale events."
+  },
+  "github": {
+    "owner": "UffaModey",
+    "repo": "advent_of_ai",
+    "ref": "main",
+    "relativePath": "day_14_operations_management/skills/festival-operations",
+    "sourceUrl": "https://github.com/UffaModey/advent_of_ai/tree/main/day_14_operations_management/skills/festival-operations"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 984,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 984,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-telegram-bot-builder-skill-md",
+    "name": "telegram-bot-builder",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/telegram-bot-builder",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-telegram-bot-builder-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in building Telegram bots that solve real problems - from simple automation to complex AI-powered bots. Covers bot architecture, the Telegram Bot API, user experience, monetization strategies, and scaling bots to thousands of users. Use when: telegram bot, bot api, telegram automation, chat bot telegram, tg bot."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/telegram-bot-builder",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/telegram-bot-builder"
+  }
+}

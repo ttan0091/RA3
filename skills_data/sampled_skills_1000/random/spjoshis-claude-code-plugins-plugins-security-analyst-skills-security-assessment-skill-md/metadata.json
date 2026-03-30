@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 927,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 927,
+    "id": "spjoshis-claude-code-plugins-plugins-security-analyst-skills-security-assessment-skill-md",
+    "name": "security-assessment",
+    "author": "spjoshis",
+    "stars": 2,
+    "githubUrl": "https://github.com/spjoshis/claude-code-plugins/tree/main/plugins/security-analyst/skills/security-assessment",
+    "skillUrl": "https://skillsmp.com/skills/spjoshis-claude-code-plugins-plugins-security-analyst-skills-security-assessment-skill-md",
+    "updatedAt": 1767074083,
+    "description": "Master security assessments with vulnerability scanning, penetration testing, security testing, and security audits."
+  },
+  "github": {
+    "owner": "spjoshis",
+    "repo": "claude-code-plugins",
+    "ref": "main",
+    "relativePath": "plugins/security-analyst/skills/security-assessment",
+    "sourceUrl": "https://github.com/spjoshis/claude-code-plugins/tree/main/plugins/security-analyst/skills/security-assessment"
+  }
+}

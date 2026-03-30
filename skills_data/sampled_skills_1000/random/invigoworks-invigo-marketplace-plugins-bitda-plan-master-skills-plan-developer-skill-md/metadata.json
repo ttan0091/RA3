@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 893,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 893,
+    "id": "invigoworks-invigo-marketplace-plugins-bitda-plan-master-skills-plan-developer-skill-md",
+    "name": "plan-developer",
+    "author": "invigoworks",
+    "stars": 0,
+    "githubUrl": "https://github.com/invigoworks/invigo-marketplace/tree/main/plugins/bitda-plan-master/skills/plan-developer",
+    "skillUrl": "https://skillsmp.com/skills/invigoworks-invigo-marketplace-plugins-bitda-plan-master-skills-plan-developer-skill-md",
+    "updatedAt": 1770746553,
+    "description": "This skill automates feature planning and specification development with Notion DB integration. Supports five modes - 신규 기능 개발, 재설계 개발, 기존 기획 업데이트, 기획 변경, and **페이지별 기획**. Creates detailed specs per page (하위 메뉴), ensuring clarity for FE/BE developers with AC (Given-When-Then + 기술상세), 화면 흐름, 권한 체계. Triggers on \"기획해줘\", \"페이지별 기획해줘\", \"상세 기획서 작성해줘\", \"[Notion URL] 수정해줘\". CRITICAL: Always access Notion pages via Notion MCP tools only - NEVER use WebFetch or Playwright."
+  },
+  "github": {
+    "owner": "invigoworks",
+    "repo": "invigo-marketplace",
+    "ref": "main",
+    "relativePath": "plugins/bitda-plan-master/skills/plan-developer",
+    "sourceUrl": "https://github.com/invigoworks/invigo-marketplace/tree/main/plugins/bitda-plan-master/skills/plan-developer"
+  }
+}

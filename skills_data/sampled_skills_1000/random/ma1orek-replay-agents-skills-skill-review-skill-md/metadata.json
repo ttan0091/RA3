@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 344,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 344,
+    "id": "ma1orek-replay-agents-skills-skill-review-skill-md",
+    "name": "skill-review",
+    "author": "ma1orek",
+    "stars": 0,
+    "githubUrl": "https://github.com/ma1orek/replay/tree/main/.agents/skills/skill-review",
+    "skillUrl": "https://skillsmp.com/skills/ma1orek-replay-agents-skills-skill-review-skill-md",
+    "updatedAt": 1769729709,
+    "description": "Audit claude-skills with systematic 9-phase review: standards compliance, official docs verification, code accuracy, cross-file consistency, and version drift detection.\n\nUse when investigating skill issues, major updates detected, skill not verified >90 days, or before marketplace submission."
+  },
+  "github": {
+    "owner": "ma1orek",
+    "repo": "replay",
+    "ref": "main",
+    "relativePath": ".agents/skills/skill-review",
+    "sourceUrl": "https://github.com/ma1orek/replay/tree/main/.agents/skills/skill-review"
+  }
+}

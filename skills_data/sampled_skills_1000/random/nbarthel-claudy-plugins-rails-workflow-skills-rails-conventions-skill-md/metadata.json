@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 203,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 203,
+    "id": "nbarthel-claudy-plugins-rails-workflow-skills-rails-conventions-skill-md",
+    "name": "rails-conventions",
+    "author": "nbarthel",
+    "stars": 1,
+    "githubUrl": "https://github.com/nbarthel/claudy/tree/main/plugins/rails-workflow/skills/rails-conventions",
+    "skillUrl": "https://skillsmp.com/skills/nbarthel-claudy-plugins-rails-workflow-skills-rails-conventions-skill-md",
+    "updatedAt": 1764118898,
+    "description": "Automatically enforces Rails naming conventions, MVC separation, and RESTful patterns"
+  },
+  "github": {
+    "owner": "nbarthel",
+    "repo": "claudy",
+    "ref": "main",
+    "relativePath": "plugins/rails-workflow/skills/rails-conventions",
+    "sourceUrl": "https://github.com/nbarthel/claudy/tree/main/plugins/rails-workflow/skills/rails-conventions"
+  }
+}

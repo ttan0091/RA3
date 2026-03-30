@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 490,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 490,
+    "id": "wshobson-agents-plugins-shell-scripting-skills-shellcheck-configuration-skill-md",
+    "name": "shellcheck-configuration",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/shellcheck-configuration",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-shell-scripting-skills-shellcheck-configuration-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/shell-scripting/skills/shellcheck-configuration",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/shell-scripting/skills/shellcheck-configuration"
+  }
+}

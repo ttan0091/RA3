@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 93,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 93,
+    "id": "raintree-technology-claude-starter-claude-skills-supabase-skill-md",
+    "name": "supabase-expert",
+    "author": "raintree-technology",
+    "stars": 43,
+    "githubUrl": "https://github.com/raintree-technology/claude-starter/tree/main/.claude/skills/supabase",
+    "skillUrl": "https://skillsmp.com/skills/raintree-technology-claude-starter-claude-skills-supabase-skill-md",
+    "updatedAt": 1769017495,
+    "description": "Comprehensive Supabase expert with access to 2,616 official documentation files covering PostgreSQL database, authentication, real-time subscriptions, storage, edge functions, vector embeddings, and all platform features. Invoke when user mentions Supabase, PostgreSQL, database, auth, real-time, storage, edge functions, backend-as-a-service, or pgvector."
+  },
+  "github": {
+    "owner": "raintree-technology",
+    "repo": "claude-starter",
+    "ref": "main",
+    "relativePath": ".claude/skills/supabase",
+    "sourceUrl": "https://github.com/raintree-technology/claude-starter/tree/main/.claude/skills/supabase"
+  }
+}

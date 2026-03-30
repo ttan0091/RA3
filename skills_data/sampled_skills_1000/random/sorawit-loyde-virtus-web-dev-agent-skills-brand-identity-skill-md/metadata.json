@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 216,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 216,
+    "id": "sorawit-loyde-virtus-web-dev-agent-skills-brand-identity-skill-md",
+    "name": "brand-identity",
+    "author": "Sorawit-loyde",
+    "stars": 0,
+    "githubUrl": "https://github.com/Sorawit-loyde/virtus_web_dev/tree/main/.agent/skills/brand-identity",
+    "skillUrl": "https://skillsmp.com/skills/sorawit-loyde-virtus-web-dev-agent-skills-brand-identity-skill-md",
+    "updatedAt": 1770266900,
+    "description": "Provides the single source of truth for brand guidelines, design tokens, technology choices, and voice/tone. Use this skill whenever generating UI components, styling applications, writing copy, or creating user-facing assets to ensure brand consistency."
+  },
+  "github": {
+    "owner": "Sorawit-loyde",
+    "repo": "virtus_web_dev",
+    "ref": "main",
+    "relativePath": ".agent/skills/brand-identity",
+    "sourceUrl": "https://github.com/Sorawit-loyde/virtus_web_dev/tree/main/.agent/skills/brand-identity"
+  }
+}

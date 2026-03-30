@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 947,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 947,
+    "id": "gptomics-bioskills-genome-annotation-functional-annotation-skill-md",
+    "name": "bio-genome-annotation-functional-annotation",
+    "author": "GPTomics",
+    "stars": 226,
+    "githubUrl": "https://github.com/GPTomics/bioSkills/tree/main/genome-annotation/functional-annotation",
+    "skillUrl": "https://skillsmp.com/skills/gptomics-bioskills-genome-annotation-functional-annotation-skill-md",
+    "updatedAt": 1770344394,
+    "description": "Assign GO terms, KEGG orthologs, Pfam domains, and EC numbers to predicted proteins using eggNOG-mapper and InterProScan. Produces functional summaries for downstream pathway and enrichment analysis. Use when adding functional annotation to predicted genes or characterizing protein functions in a new genome."
+  },
+  "github": {
+    "owner": "GPTomics",
+    "repo": "bioSkills",
+    "ref": "main",
+    "relativePath": "genome-annotation/functional-annotation",
+    "sourceUrl": "https://github.com/GPTomics/bioSkills/tree/main/genome-annotation/functional-annotation"
+  }
+}

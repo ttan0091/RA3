@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 733,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 733,
+    "id": "c0ntr0lledcha0s-logseq-template-graph-claude-skills-module-health-skill-md",
+    "name": "module-health",
+    "author": "C0ntr0lledCha0s",
+    "stars": 4,
+    "githubUrl": "https://github.com/C0ntr0lledCha0s/logseq-template-graph/tree/main/.claude/skills/module-health",
+    "skillUrl": "https://skillsmp.com/skills/c0ntr0lledcha0s-logseq-template-graph-claude-skills-module-health-skill-md",
+    "updatedAt": 1762858497,
+    "description": "Modular architecture health assessor for Logseq Template Graph. Analyzes module balance, cohesion, size distribution, and dependencies. Calculates health scores and suggests reorganization. Use when checking module structure, assessing architecture quality, or planning refactoring."
+  },
+  "github": {
+    "owner": "C0ntr0lledCha0s",
+    "repo": "logseq-template-graph",
+    "ref": "main",
+    "relativePath": ".claude/skills/module-health",
+    "sourceUrl": "https://github.com/C0ntr0lledCha0s/logseq-template-graph/tree/main/.claude/skills/module-health"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 701,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 701,
+    "id": "openclaw-skills-skills-claudiusaipro-claudius-skill-md",
+    "name": "claudius",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/claudiusaipro/claudius",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-claudiusaipro-claudius-skill-md",
+    "updatedAt": 1769878979,
+    "description": "Crypto intelligence powered by Claudius. Get technical analysis, prices, and insights."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/claudiusaipro/claudius",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/claudiusaipro/claudius"
+  }
+}

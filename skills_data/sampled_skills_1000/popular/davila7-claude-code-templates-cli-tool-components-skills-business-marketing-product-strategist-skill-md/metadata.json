@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 777,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 777,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-product-strategist-skill-md",
+    "name": "product-strategist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/product-strategist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-product-strategist-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Strategic product leadership toolkit for Head of Product including OKR cascade generation, market analysis, vision setting, and team scaling. Use for strategic planning, goal alignment, competitive analysis, and organizational design."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/product-strategist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/product-strategist"
+  }
+}

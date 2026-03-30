@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 719,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 719,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-trl-fine-tuning-skill-md",
+    "name": "fine-tuning-with-trl",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-trl-fine-tuning",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-trl-fine-tuning-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Fine-tune LLMs using reinforcement learning with TRL - SFT for instruction tuning, DPO for preference alignment, PPO/GRPO for reward optimization, and reward model training. Use when need RLHF, align model with preferences, or train from human feedback. Works with HuggingFace Transformers."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/post-training-trl-fine-tuning",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-trl-fine-tuning"
+  }
+}

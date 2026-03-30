@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 46,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 46,
+    "id": "openclaw-openclaw-skills-sag-skill-md",
+    "name": "sag",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/sag",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-sag-skill-md",
+    "updatedAt": 1769862085,
+    "description": "ElevenLabs text-to-speech with mac-style say UX."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/sag",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/sag"
+  }
+}

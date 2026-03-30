@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 553,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 553,
+    "id": "jlowin-fastmcp-claude-skills-code-review-skill-md",
+    "name": "reviewing-code",
+    "author": "jlowin",
+    "stars": 22746,
+    "githubUrl": "https://github.com/jlowin/fastmcp/tree/main/.claude/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/jlowin-fastmcp-claude-skills-code-review-skill-md",
+    "updatedAt": 1768235079,
+    "description": "Review code for quality, maintainability, and correctness. Use when reviewing pull requests, evaluating code changes, or providing feedback on implementations. Focuses on API design, patterns, and actionable feedback."
+  },
+  "github": {
+    "owner": "jlowin",
+    "repo": "fastmcp",
+    "ref": "main",
+    "relativePath": ".claude/skills/code-review",
+    "sourceUrl": "https://github.com/jlowin/fastmcp/tree/main/.claude/skills/code-review"
+  }
+}

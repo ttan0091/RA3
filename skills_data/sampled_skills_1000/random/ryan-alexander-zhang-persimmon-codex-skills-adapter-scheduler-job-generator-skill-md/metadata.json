@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 992,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 992,
+    "id": "ryan-alexander-zhang-persimmon-codex-skills-adapter-scheduler-job-generator-skill-md",
+    "name": "adapter-scheduler-job-generator",
+    "author": "ryan-alexander-zhang",
+    "stars": 0,
+    "githubUrl": "https://github.com/ryan-alexander-zhang/persimmon/tree/main/.codex/skills/adapter-scheduler-job-generator",
+    "skillUrl": "https://skillsmp.com/skills/ryan-alexander-zhang-persimmon-codex-skills-adapter-scheduler-job-generator-skill-md",
+    "updatedAt": 1770345404,
+    "description": "Generates scheduler jobs in adapter layer with consistent packaging, batch configs, and safe retry behavior."
+  },
+  "github": {
+    "owner": "ryan-alexander-zhang",
+    "repo": "persimmon",
+    "ref": "main",
+    "relativePath": ".codex/skills/adapter-scheduler-job-generator",
+    "sourceUrl": "https://github.com/ryan-alexander-zhang/persimmon/tree/main/.codex/skills/adapter-scheduler-job-generator"
+  }
+}

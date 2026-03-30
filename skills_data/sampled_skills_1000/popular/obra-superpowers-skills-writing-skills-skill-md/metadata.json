@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 187,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 187,
+    "id": "obra-superpowers-skills-writing-skills-skill-md",
+    "name": "writing-skills",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-skills",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-writing-skills-skill-md",
+    "updatedAt": 1770340885,
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/writing-skills",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/writing-skills"
+  }
+}

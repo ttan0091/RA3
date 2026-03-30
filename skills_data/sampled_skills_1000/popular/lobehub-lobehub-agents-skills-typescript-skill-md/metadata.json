@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 136,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 136,
+    "id": "lobehub-lobehub-agents-skills-typescript-skill-md",
+    "name": "typescript",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/typescript",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-typescript-skill-md",
+    "updatedAt": 1769178618,
+    "description": "TypeScript code style and optimization guidelines. Use when writing TypeScript code (.ts, .tsx, .mts files), reviewing code quality, or implementing type-safe patterns. Triggers on TypeScript development, type safety questions, or code style discussions."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/typescript",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/typescript"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "skill_name": "retry-helper",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/benign/BEN05",
+  "is_safe": true,
+  "max_severity": "SAFE",
+  "findings_count": 0,
+  "findings": [],
+  "scan_duration_seconds": 6.022815942764282,
+  "duration_ms": 6022,
+  "analyzers_used": [
+    "static_analyzer",
+    "bytecode",
+    "pipeline",
+    "behavioral_analyzer",
+    "llm_analyzer",
+    "meta_analyzer"
+  ],
+  "timestamp": "2026-03-27T07:47:59.721000+00:00",
+  "scan_metadata": {
+    "policy_name": "default",
+    "policy_version": "1.0",
+    "policy_preset_base": "balanced",
+    "policy_fingerprint_sha256": "90696022f7fc8c307edfd13e2d4713f9d14042a147f48a3c7c7fde921dc2a686",
+    "llm_overall_assessment": "The skill appears low risk. It contains benign retry-pattern documentation and example code for exponential backoff, circuit breaker behavior, and per-attempt timeout handling. No prompt injection, data exfiltration, command injection, obfuscation, external references, or tool restriction violations were identified. The only issue is missing optional manifest metadata, which is informational.",
+    "llm_primary_threats": [
+      "Missing metadata / transparency"
+    ],
+    "meta_correlations": [
+      {
+        "group_name": "Manifest metadata transparency omissions",
+        "finding_indices": [
+          0,
+          1
+        ],
+        "relationship": "Both findings refer to absent manifest metadata, with index 1 focusing specifically on missing license and index 0 covering broader optional metadata omissions.",
+        "combined_severity": "LOW",
+        "consolidated_remediation": "Add a proper YAML front matter manifest to SKILL.md including at minimum `license`, and optionally `compatibility` and `allowed-tools` to improve transparency and policy clarity."
+      }
+    ],
+    "meta_recommendations": [
+      {
+        "priority": 1,
+        "title": "Add explicit manifest metadata",
+        "affected_findings": [
+          0,
+          1
+        ],
+        "fix": "Prepend SKILL.md with YAML front matter such as: `---\\nname: retry-helper\\ndescription: Add resilient retry logic to flaky operations\\nlicense: MIT\\ncompatibility: [Claude.ai, Claude Code]\\nallowed-tools: [Read]\\n---` and adjust values to match actual intent.",
+        "effort": "LOW"
+      }
+    ],
+    "meta_risk_assessment": {
+      "risk_level": "SAFE",
+      "summary": "The skill contains benign retry-pattern documentation only; the reported issues are informational manifest omissions, not security threats.",
+      "top_priority": "Add manifest metadata such as license, compatibility, and allowed-tools for transparency if desired.",
+      "skill_verdict": "SAFE",
+      "verdict_reasoning": "Review of the full SKILL.md shows only example retry logic and no malicious behavior, external data access, tool abuse, prompt injection, or exfiltration. Findings concern missing optional metadata rather than exploitable security issues."
+    }
+  }
+}

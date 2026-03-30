@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 933,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 933,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-server-management-skill-md",
+    "name": "server-management",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/server-management",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-server-management-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/server-management",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/server-management"
+  }
+}

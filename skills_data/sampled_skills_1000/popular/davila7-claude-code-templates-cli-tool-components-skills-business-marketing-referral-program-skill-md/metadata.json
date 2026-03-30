@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 779,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 779,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-referral-program-skill-md",
+    "name": "referral-program",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/referral-program",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-referral-program-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of mouth,' 'viral loop,' 'refer a friend,' or 'partner program.' This skill covers program design, incentive structure, and growth optimization."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/referral-program",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/referral-program"
+  }
+}

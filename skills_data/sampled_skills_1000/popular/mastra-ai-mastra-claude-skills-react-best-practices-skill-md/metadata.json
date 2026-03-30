@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 575,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 575,
+    "id": "mastra-ai-mastra-claude-skills-react-best-practices-skill-md",
+    "name": "react-best-practices",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/react-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-claude-skills-react-best-practices-skill-md",
+    "updatedAt": 1768916216,
+    "description": "React performance optimization guidelines from Mastra Engineering. This skill should be used when writing, reviewing, or refactoring React code to ensure optimal performance patterns. Triggers on tasks involving React components, data fetching, bundle optimization, or performance improvements."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": ".claude/skills/react-best-practices",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/react-best-practices"
+  }
+}

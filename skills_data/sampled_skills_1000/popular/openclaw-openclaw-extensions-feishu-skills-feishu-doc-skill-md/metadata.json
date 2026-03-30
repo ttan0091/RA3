@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 8,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 8,
+    "id": "openclaw-openclaw-extensions-feishu-skills-feishu-doc-skill-md",
+    "name": "feishu-doc",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-doc",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-extensions-feishu-skills-feishu-doc-skill-md",
+    "updatedAt": 1770337930,
+    "description": "Feishu document read/write operations. Activate when user mentions Feishu docs, cloud docs, or docx links."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "extensions/feishu/skills/feishu-doc",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-doc"
+  }
+}

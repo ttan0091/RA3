@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 827,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 827,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-algolia-search-skill-md",
+    "name": "algolia-search",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/algolia-search",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-algolia-search-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/algolia-search",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/algolia-search"
+  }
+}

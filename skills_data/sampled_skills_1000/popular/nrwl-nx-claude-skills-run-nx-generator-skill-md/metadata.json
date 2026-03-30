@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 519,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 519,
+    "id": "nrwl-nx-claude-skills-run-nx-generator-skill-md",
+    "name": "run-nx-generator",
+    "author": "nrwl",
+    "stars": 28111,
+    "githubUrl": "https://github.com/nrwl/nx/tree/master/.claude/skills/run-nx-generator",
+    "skillUrl": "https://skillsmp.com/skills/nrwl-nx-claude-skills-run-nx-generator-skill-md",
+    "updatedAt": 1762538856,
+    "description": "Run Nx generators with prioritization for workspace-plugin generators. Use this when generating code, scaffolding new features, or automating repetitive tasks in the monorepo."
+  },
+  "github": {
+    "owner": "nrwl",
+    "repo": "nx",
+    "ref": "master",
+    "relativePath": ".claude/skills/run-nx-generator",
+    "sourceUrl": "https://github.com/nrwl/nx/tree/master/.claude/skills/run-nx-generator"
+  }
+}

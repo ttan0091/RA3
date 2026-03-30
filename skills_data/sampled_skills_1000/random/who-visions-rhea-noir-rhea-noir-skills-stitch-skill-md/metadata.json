@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 201,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 201,
+    "id": "who-visions-rhea-noir-rhea-noir-skills-stitch-skill-md",
+    "name": "stitch",
+    "author": "Who-Visions",
+    "stars": 1,
+    "githubUrl": "https://github.com/Who-Visions/Rhea-Noir/tree/main/rhea_noir/skills/stitch",
+    "skillUrl": "https://skillsmp.com/skills/who-visions-rhea-noir-rhea-noir-skills-stitch-skill-md",
+    "updatedAt": 1769055938,
+    "description": "AI-powered UI and image generation using Gemini 3 (Nano Banana Pro)"
+  },
+  "github": {
+    "owner": "Who-Visions",
+    "repo": "Rhea-Noir",
+    "ref": "main",
+    "relativePath": "rhea_noir/skills/stitch",
+    "sourceUrl": "https://github.com/Who-Visions/Rhea-Noir/tree/main/rhea_noir/skills/stitch"
+  }
+}

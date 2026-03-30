@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 785,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 785,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-social-content-skill-md",
+    "name": "social-content",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/social-content",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-social-content-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn post,' 'Twitter thread,' 'social media,' 'content calendar,' 'social scheduling,' 'engagement,' or 'viral content.' This skill covers content creation, repurposing, and platform-specific strategies."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/social-content",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/social-content"
+  }
+}

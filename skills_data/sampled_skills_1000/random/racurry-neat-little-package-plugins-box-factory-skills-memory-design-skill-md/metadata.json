@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 468,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 468,
+    "id": "racurry-neat-little-package-plugins-box-factory-skills-memory-design-skill-md",
+    "name": "memory-design",
+    "author": "racurry",
+    "stars": 0,
+    "githubUrl": "https://github.com/racurry/neat-little-package/tree/main/plugins/box-factory/skills/memory-design",
+    "skillUrl": "https://skillsmp.com/skills/racurry-neat-little-package-plugins-box-factory-skills-memory-design-skill-md",
+    "updatedAt": 1766804884,
+    "description": "Interpretive guidance for Claude Code memory management system. Helps choose between memory locations, organize modular rules, use path-specific rules, and avoid common pitfalls. Use when setting up CLAUDE.md files, organizing .claude/rules/ directories, or deciding where to put project instructions."
+  },
+  "github": {
+    "owner": "racurry",
+    "repo": "neat-little-package",
+    "ref": "main",
+    "relativePath": "plugins/box-factory/skills/memory-design",
+    "sourceUrl": "https://github.com/racurry/neat-little-package/tree/main/plugins/box-factory/skills/memory-design"
+  }
+}

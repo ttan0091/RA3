@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 939,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 939,
+    "id": "dmccreary-claude-skills-skills-microsim-generator-skill-md",
+    "name": "microsim-generator",
+    "author": "dmccreary",
+    "stars": 16,
+    "githubUrl": "https://github.com/dmccreary/claude-skills/tree/main/skills/microsim-generator",
+    "skillUrl": "https://skillsmp.com/skills/dmccreary-claude-skills-skills-microsim-generator-skill-md",
+    "updatedAt": 1770755766,
+    "description": "Creates interactive educational MicroSims using the best-matched JavaScript library (p5.js, Chart.js, Plotly, Mermaid, vis-network, vis-timeline, Leaflet, Venn.js). Analyzes user requirements to route to the appropriate visualization type and generates complete MicroSim packages with HTML, JavaScript, CSS, documentation, and metadata."
+  },
+  "github": {
+    "owner": "dmccreary",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "skills/microsim-generator",
+    "sourceUrl": "https://github.com/dmccreary/claude-skills/tree/main/skills/microsim-generator"
+  }
+}

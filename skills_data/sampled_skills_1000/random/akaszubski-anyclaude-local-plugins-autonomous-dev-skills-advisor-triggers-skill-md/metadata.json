@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 805,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 805,
+    "id": "akaszubski-anyclaude-local-plugins-autonomous-dev-skills-advisor-triggers-skill-md",
+    "name": "advisor-triggers",
+    "author": "akaszubski",
+    "stars": 3,
+    "githubUrl": "https://github.com/akaszubski/anyclaude-local/tree/main/plugins/autonomous-dev/skills/advisor-triggers",
+    "skillUrl": "https://skillsmp.com/skills/akaszubski-anyclaude-local-plugins-autonomous-dev-skills-advisor-triggers-skill-md",
+    "updatedAt": 1767418734,
+    "description": "Detects when user requests warrant critical analysis via /advise command"
+  },
+  "github": {
+    "owner": "akaszubski",
+    "repo": "anyclaude-local",
+    "ref": "main",
+    "relativePath": "plugins/autonomous-dev/skills/advisor-triggers",
+    "sourceUrl": "https://github.com/akaszubski/anyclaude-local/tree/main/plugins/autonomous-dev/skills/advisor-triggers"
+  }
+}

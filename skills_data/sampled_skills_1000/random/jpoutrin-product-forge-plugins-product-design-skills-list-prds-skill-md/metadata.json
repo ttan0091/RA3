@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 200,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 200,
+    "id": "jpoutrin-product-forge-plugins-product-design-skills-list-prds-skill-md",
+    "name": "list-prds",
+    "author": "jpoutrin",
+    "stars": 6,
+    "githubUrl": "https://github.com/jpoutrin/product-forge/tree/main/plugins/product-design/skills/list-prds",
+    "skillUrl": "https://skillsmp.com/skills/jpoutrin-product-forge-plugins-product-design-skills-list-prds-skill-md",
+    "updatedAt": 1770222047,
+    "description": "List all PRDs with status, progress, and metadata"
+  },
+  "github": {
+    "owner": "jpoutrin",
+    "repo": "product-forge",
+    "ref": "main",
+    "relativePath": "plugins/product-design/skills/list-prds",
+    "sourceUrl": "https://github.com/jpoutrin/product-forge/tree/main/plugins/product-design/skills/list-prds"
+  }
+}

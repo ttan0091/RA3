@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 977,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 977,
+    "id": "cuioss-plan-marshall-marketplace-bundles-pm-dev-java-cui-skills-cui-testing-http-skill-md",
+    "name": "cui-testing-http",
+    "author": "cuioss",
+    "stars": 1,
+    "githubUrl": "https://github.com/cuioss/plan-marshall/tree/main/marketplace/bundles/pm-dev-java-cui/skills/cui-testing-http",
+    "skillUrl": "https://skillsmp.com/skills/cuioss-plan-marshall-marketplace-bundles-pm-dev-java-cui-skills-cui-testing-http-skill-md",
+    "updatedAt": 1768757963,
+    "description": "CUI MockWebServer standards for HTTP client testing with JUnit 5 integration"
+  },
+  "github": {
+    "owner": "cuioss",
+    "repo": "plan-marshall",
+    "ref": "main",
+    "relativePath": "marketplace/bundles/pm-dev-java-cui/skills/cui-testing-http",
+    "sourceUrl": "https://github.com/cuioss/plan-marshall/tree/main/marketplace/bundles/pm-dev-java-cui/skills/cui-testing-http"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 906,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 906,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-powershell-windows-skill-md",
+    "name": "powershell-windows",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/powershell-windows",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-powershell-windows-skill-md",
+    "updatedAt": 1769353274,
+    "description": "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/powershell-windows",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/powershell-windows"
+  }
+}

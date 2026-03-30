@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 205,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 205,
+    "id": "johnson1662-johnson-obsidian-notes-content-claude-skills-archive-skill-md",
+    "name": "archive",
+    "author": "Johnson1662",
+    "stars": 0,
+    "githubUrl": "https://github.com/Johnson1662/johnson-obsidian-notes/tree/main/content/.claude/skills/archive",
+    "skillUrl": "https://skillsmp.com/skills/johnson1662-johnson-obsidian-notes-content-claude-skills-archive-skill-md",
+    "updatedAt": 1770202576,
+    "description": "Archive completed projects and processed inbox items"
+  },
+  "github": {
+    "owner": "Johnson1662",
+    "repo": "johnson-obsidian-notes",
+    "ref": "main",
+    "relativePath": "content/.claude/skills/archive",
+    "sourceUrl": "https://github.com/Johnson1662/johnson-obsidian-notes/tree/main/content/.claude/skills/archive"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 706,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 706,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-bitsandbytes-skill-md",
+    "name": "quantizing-models-bitsandbytes",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-bitsandbytes",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-bitsandbytes-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Quantizes LLMs to 8-bit or 4-bit for 50-75% memory reduction with minimal accuracy loss. Use when GPU memory is limited, need to fit larger models, or want faster inference. Supports INT8, NF4, FP4 formats, QLoRA training, and 8-bit optimizers. Works with HuggingFace Transformers."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/optimization-bitsandbytes",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-bitsandbytes"
+  }
+}

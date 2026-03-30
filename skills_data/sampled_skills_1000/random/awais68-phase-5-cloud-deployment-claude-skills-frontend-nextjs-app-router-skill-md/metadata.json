@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 799,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 799,
+    "id": "awais68-phase-5-cloud-deployment-claude-skills-frontend-nextjs-app-router-skill-md",
+    "name": "frontend-nextjs-app-router",
+    "author": "Awais68",
+    "stars": 0,
+    "githubUrl": "https://github.com/Awais68/phase-5-cloud-deployment/tree/main/.claude/skills/frontend-nextjs-app-router",
+    "skillUrl": "https://skillsmp.com/skills/awais68-phase-5-cloud-deployment-claude-skills-frontend-nextjs-app-router-skill-md",
+    "updatedAt": 1770524457,
+    "description": "Use when working with Next.js App Router tasks - creating pages in /app/, setting up dynamic routes ([id]/page.tsx), implementing nested layouts/templates (layout.tsx), optimizing Server/Client components, or building ERP role-based pages (admin/teacher/student dashboards). Auto-use for all /app/ directory operations, dynamic routing, and App Router-specific features."
+  },
+  "github": {
+    "owner": "Awais68",
+    "repo": "phase-5-cloud-deployment",
+    "ref": "main",
+    "relativePath": ".claude/skills/frontend-nextjs-app-router",
+    "sourceUrl": "https://github.com/Awais68/phase-5-cloud-deployment/tree/main/.claude/skills/frontend-nextjs-app-router"
+  }
+}

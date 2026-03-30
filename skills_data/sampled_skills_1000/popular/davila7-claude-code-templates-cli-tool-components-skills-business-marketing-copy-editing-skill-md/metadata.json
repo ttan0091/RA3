@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 757,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 757,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-copy-editing-skill-md",
+    "name": "copy-editing",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/copy-editing",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-copy-editing-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to edit, review, or improve existing marketing copy. Also use when the user mentions 'edit this copy,' 'review my copy,' 'copy feedback,' 'proofread,' 'polish this,' 'make this better,' or 'copy sweep.' This skill provides a systematic approach to editing marketing copy through multiple focused passes."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/copy-editing",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/copy-editing"
+  }
+}

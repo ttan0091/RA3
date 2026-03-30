@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 590,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 590,
+    "id": "dnyoussef-ai-chrome-extension-claude-skills-sandbox-configurator-skill-md",
+    "name": "sandbox-configurator",
+    "author": "DNYoussef",
+    "stars": 2,
+    "githubUrl": "https://github.com/DNYoussef/ai-chrome-extension/tree/main/.claude/skills/sandbox-configurator",
+    "skillUrl": "https://skillsmp.com/skills/dnyoussef-ai-chrome-extension-claude-skills-sandbox-configurator-skill-md",
+    "updatedAt": 1761928201,
+    "description": "Configure Claude Code sandbox security with file system and network isolation boundaries"
+  },
+  "github": {
+    "owner": "DNYoussef",
+    "repo": "ai-chrome-extension",
+    "ref": "main",
+    "relativePath": ".claude/skills/sandbox-configurator",
+    "sourceUrl": "https://github.com/DNYoussef/ai-chrome-extension/tree/main/.claude/skills/sandbox-configurator"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 533,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 533,
+    "id": "mlflow-mlflow-claude-skills-copilot-skill-md",
+    "name": "copilot",
+    "author": "mlflow",
+    "stars": 24079,
+    "githubUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/copilot",
+    "skillUrl": "https://skillsmp.com/skills/mlflow-mlflow-claude-skills-copilot-skill-md",
+    "updatedAt": 1768411638,
+    "description": "Hand off a task to GitHub Copilot."
+  },
+  "github": {
+    "owner": "mlflow",
+    "repo": "mlflow",
+    "ref": "master",
+    "relativePath": ".claude/skills/copilot",
+    "sourceUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/copilot"
+  }
+}

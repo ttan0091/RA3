@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 233,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 233,
+    "id": "aegntic-claudeism-claude-skills-testing-automation-skill-md",
+    "name": "testing-automation",
+    "author": "aegntic",
+    "stars": 2,
+    "githubUrl": "https://github.com/aegntic/claudeism/tree/main/.claude/skills/testing-automation",
+    "skillUrl": "https://skillsmp.com/skills/aegntic-claudeism-claude-skills-testing-automation-skill-md",
+    "updatedAt": 1761716019,
+    "description": "Automated testing workflow that orchestrates unit, integration, and E2E tests with CI/CD integration"
+  },
+  "github": {
+    "owner": "aegntic",
+    "repo": "claudeism",
+    "ref": "main",
+    "relativePath": ".claude/skills/testing-automation",
+    "sourceUrl": "https://github.com/aegntic/claudeism/tree/main/.claude/skills/testing-automation"
+  }
+}

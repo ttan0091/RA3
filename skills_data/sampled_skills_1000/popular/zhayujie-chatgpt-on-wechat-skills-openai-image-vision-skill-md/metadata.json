@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 294,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 294,
+    "id": "zhayujie-chatgpt-on-wechat-skills-openai-image-vision-skill-md",
+    "name": "openai-image-vision",
+    "author": "zhayujie",
+    "stars": 41220,
+    "githubUrl": "https://github.com/zhayujie/chatgpt-on-wechat/tree/master/skills/openai-image-vision",
+    "skillUrl": "https://skillsmp.com/skills/zhayujie-chatgpt-on-wechat-skills-openai-image-vision-skill-md",
+    "updatedAt": 1770042130,
+    "description": "Analyze images using OpenAI's Vision API. Use bash command to execute the vision script like 'bash <base_dir>/scripts/vision.sh <image> <question>'. Can understand image content, objects, text, colors, and answer questions about images."
+  },
+  "github": {
+    "owner": "zhayujie",
+    "repo": "chatgpt-on-wechat",
+    "ref": "master",
+    "relativePath": "skills/openai-image-vision",
+    "sourceUrl": "https://github.com/zhayujie/chatgpt-on-wechat/tree/master/skills/openai-image-vision"
+  }
+}

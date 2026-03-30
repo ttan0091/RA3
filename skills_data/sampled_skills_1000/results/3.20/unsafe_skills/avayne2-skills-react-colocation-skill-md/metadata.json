@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 973,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 973,
+    "id": "avayne2-skills-react-colocation-skill-md",
+    "name": "react-colocation",
+    "author": "AvaYnE2",
+    "stars": 0,
+    "githubUrl": "https://github.com/AvaYnE2/skills/tree/main/react-colocation",
+    "skillUrl": "https://skillsmp.com/skills/avayne2-skills-react-colocation-skill-md",
+    "updatedAt": 1769284068,
+    "description": "Guide for organizing React and React Native projects using the Colocation pattern (Feature-based Architecture). Use this skill when creating new React/React Native components, structuring project folders, refactoring existing codebases to feature-based architecture, or when the user asks about component organization, folder structure, or mentions colocation, feature folders, or component folder patterns."
+  },
+  "github": {
+    "owner": "AvaYnE2",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "react-colocation",
+    "sourceUrl": "https://github.com/AvaYnE2/skills/tree/main/react-colocation"
+  }
+}

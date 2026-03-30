@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 601,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 601,
+    "id": "github-awesome-copilot-skills-mcp-cli-skill-md",
+    "name": "mcp-cli",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/mcp-cli",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-mcp-cli-skill-md",
+    "updatedAt": 1769102332,
+    "description": "Interface for MCP (Model Context Protocol) servers via CLI. Use when you need to interact with external tools, APIs, or data sources through MCP servers, list available MCP servers/tools, or call MCP tools from command line."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/mcp-cli",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/mcp-cli"
+  }
+}

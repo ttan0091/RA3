@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 368,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 368,
+    "id": "wshobson-agents-plugins-agent-teams-skills-team-communication-protocols-skill-md",
+    "name": "team-communication-protocols",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-communication-protocols",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-agent-teams-skills-team-communication-protocols-skill-md",
+    "updatedAt": 1770331350,
+    "description": "Structured messaging protocols for agent team communication including message type selection, plan approval, shutdown procedures, and anti-patterns to avoid. Use this skill when establishing team communication norms, handling plan approvals, or managing team shutdown."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/agent-teams/skills/team-communication-protocols",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/team-communication-protocols"
+  }
+}

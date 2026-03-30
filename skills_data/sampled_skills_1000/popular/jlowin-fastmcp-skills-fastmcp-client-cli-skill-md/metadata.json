@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 555,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 555,
+    "id": "jlowin-fastmcp-skills-fastmcp-client-cli-skill-md",
+    "name": "fastmcp-client-cli",
+    "author": "jlowin",
+    "stars": 22746,
+    "githubUrl": "https://github.com/jlowin/fastmcp/tree/main/skills/fastmcp-client-cli",
+    "skillUrl": "https://skillsmp.com/skills/jlowin-fastmcp-skills-fastmcp-client-cli-skill-md",
+    "updatedAt": 1769999242,
+    "description": "Query and invoke tools on MCP servers using fastmcp list and fastmcp call. Use when you need to discover what tools a server offers, call tools, or integrate MCP servers into workflows."
+  },
+  "github": {
+    "owner": "jlowin",
+    "repo": "fastmcp",
+    "ref": "main",
+    "relativePath": "skills/fastmcp-client-cli",
+    "sourceUrl": "https://github.com/jlowin/fastmcp/tree/main/skills/fastmcp-client-cli"
+  }
+}

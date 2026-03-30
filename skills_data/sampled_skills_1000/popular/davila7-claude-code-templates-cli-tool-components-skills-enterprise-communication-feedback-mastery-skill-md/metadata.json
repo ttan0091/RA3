@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 968,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 968,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-feedback-mastery-skill-md",
+    "name": "feedback-mastery",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/feedback-mastery",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-feedback-mastery-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Navigate difficult conversations and deliver constructive feedback using structured frameworks. Covers the Preparation-Delivery-Follow-up model and Situation-Behavior-Impact (SBI) feedback technique. Use when preparing for difficult conversations, giving feedback, or managing conflicts."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/feedback-mastery",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/feedback-mastery"
+  }
+}

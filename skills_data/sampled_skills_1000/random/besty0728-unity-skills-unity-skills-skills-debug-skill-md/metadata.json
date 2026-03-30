@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 786,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 786,
+    "id": "besty0728-unity-skills-unity-skills-skills-debug-skill-md",
+    "name": "unity-debug",
+    "author": "Besty0728",
+    "stars": 105,
+    "githubUrl": "https://github.com/Besty0728/Unity-Skills/tree/main/unity-skills/skills/debug",
+    "skillUrl": "https://skillsmp.com/skills/besty0728-unity-skills-unity-skills-skills-debug-skill-md",
+    "updatedAt": 1770652470,
+    "description": "Debug and diagnostics. Use when users want to check compilation errors, get system info, or debug issues. Triggers: debug, error, compilation, recompile, system info, diagnostics."
+  },
+  "github": {
+    "owner": "Besty0728",
+    "repo": "Unity-Skills",
+    "ref": "main",
+    "relativePath": "unity-skills/skills/debug",
+    "sourceUrl": "https://github.com/Besty0728/Unity-Skills/tree/main/unity-skills/skills/debug"
+  }
+}

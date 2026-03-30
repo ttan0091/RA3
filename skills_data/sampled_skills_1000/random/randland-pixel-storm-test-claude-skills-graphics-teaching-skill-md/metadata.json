@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 219,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 219,
+    "id": "randland-pixel-storm-test-claude-skills-graphics-teaching-skill-md",
+    "name": "graphics-teaching",
+    "author": "randland",
+    "stars": 1,
+    "githubUrl": "https://github.com/randland/pixel_storm_test/tree/main/.claude/skills/graphics-teaching",
+    "skillUrl": "https://skillsmp.com/skills/randland-pixel-storm-test-claude-skills-graphics-teaching-skill-md",
+    "updatedAt": 1769542536,
+    "description": "Three.js and WebGPU teaching patterns for Vue 3 graphics education"
+  },
+  "github": {
+    "owner": "randland",
+    "repo": "pixel_storm_test",
+    "ref": "main",
+    "relativePath": ".claude/skills/graphics-teaching",
+    "sourceUrl": "https://github.com/randland/pixel_storm_test/tree/main/.claude/skills/graphics-teaching"
+  }
+}

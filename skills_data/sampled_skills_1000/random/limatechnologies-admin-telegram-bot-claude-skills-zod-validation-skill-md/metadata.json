@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 24,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 24,
+    "id": "limatechnologies-admin-telegram-bot-claude-skills-zod-validation-skill-md",
+    "name": "zod-validation",
+    "author": "LimaTechnologies",
+    "stars": 0,
+    "githubUrl": "https://github.com/LimaTechnologies/admin-telegram-bot/tree/main/.claude/skills/zod-validation",
+    "skillUrl": "https://skillsmp.com/skills/limatechnologies-admin-telegram-bot-claude-skills-zod-validation-skill-md",
+    "updatedAt": 1769472805,
+    "description": "Zod schema validation patterns. Input validation, type inference, transformations, error handling. Use when creating validation schemas or handling user input."
+  },
+  "github": {
+    "owner": "LimaTechnologies",
+    "repo": "admin-telegram-bot",
+    "ref": "main",
+    "relativePath": ".claude/skills/zod-validation",
+    "sourceUrl": "https://github.com/LimaTechnologies/admin-telegram-bot/tree/main/.claude/skills/zod-validation"
+  }
+}

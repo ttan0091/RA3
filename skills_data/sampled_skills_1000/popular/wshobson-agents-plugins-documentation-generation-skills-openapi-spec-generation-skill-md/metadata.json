@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 419,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 419,
+    "id": "wshobson-agents-plugins-documentation-generation-skills-openapi-spec-generation-skill-md",
+    "name": "openapi-spec-generation",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/openapi-spec-generation",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-documentation-generation-skills-openapi-spec-generation-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Generate and maintain OpenAPI 3.1 specifications from code, design-first specs, and validation patterns. Use when creating API documentation, generating SDKs, or ensuring API contract compliance."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/documentation-generation/skills/openapi-spec-generation",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/openapi-spec-generation"
+  }
+}

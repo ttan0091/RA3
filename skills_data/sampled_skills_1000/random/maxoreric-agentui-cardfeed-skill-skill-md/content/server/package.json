@@ -1,0 +1,16 @@
+{
+  "name": "cardfeed-server",
+  "version": "1.0.0",
+  "description": "CardFeed WebSocket Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.19.0"
+  }
+}

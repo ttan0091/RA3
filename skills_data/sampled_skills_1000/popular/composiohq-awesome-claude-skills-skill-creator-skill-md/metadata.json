@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 340,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 340,
+    "id": "composiohq-awesome-claude-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-skill-creator-skill-md",
+    "updatedAt": 1761135276,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "skill-creator",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/skill-creator"
+  }
+}

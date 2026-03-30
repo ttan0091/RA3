@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 730,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 730,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-chroma-skill-md",
+    "name": "chroma",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-chroma",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-chroma-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Open-source embedding database for AI applications. Store embeddings and metadata, perform vector and full-text search, filter by metadata. Simple 4-function API. Scales from notebooks to production clusters. Use for semantic search, RAG applications, or document retrieval. Best for local development and open-source projects."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/rag-chroma",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-chroma"
+  }
+}

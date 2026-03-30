@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 680,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 680,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-llm-app-patterns-skill-md",
+    "name": "llm-app-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/llm-app-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-llm-app-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Production-ready patterns for building LLM applications. Covers RAG pipelines, agent architectures, prompt IDEs, and LLMOps monitoring. Use when designing AI applications, implementing RAG, building agents, or setting up LLM observability."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/llm-app-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/llm-app-patterns"
+  }
+}

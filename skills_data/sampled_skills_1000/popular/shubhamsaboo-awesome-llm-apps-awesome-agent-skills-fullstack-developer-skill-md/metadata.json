@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 106,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 106,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-fullstack-developer-skill-md",
+    "name": "fullstack-developer",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fullstack-developer",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-fullstack-developer-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Modern web development expertise covering React, Node.js, databases, and full-stack architecture.\nUse when: building web applications, developing APIs, creating frontends, setting up databases,\ndeploying web apps, or when user mentions React, Next.js, Express, REST API, GraphQL, MongoDB,\nPostgreSQL, or full-stack development."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/fullstack-developer",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fullstack-developer"
+  }
+}

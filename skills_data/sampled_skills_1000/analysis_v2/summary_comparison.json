@@ -1,0 +1,261 @@
+{
+  "popular_count": 1000,
+  "random_count": 1000,
+  "popular_content_percentiles": {
+    "min": 212,
+    "p10": 2024,
+    "p25": 3441,
+    "p50": 7428,
+    "p75": 12353,
+    "p90": 17253,
+    "max": 159219
+  },
+  "random_content_percentiles": {
+    "min": 0,
+    "p10": 1128,
+    "p25": 2081,
+    "p50": 4489,
+    "p75": 8845,
+    "p90": 14969,
+    "max": 65522
+  },
+  "popular_stars_percentiles": {
+    "min": 20041,
+    "p10": 20041,
+    "p25": 20041,
+    "p50": 28328,
+    "p75": 43586,
+    "p90": 93574,
+    "max": 242927
+  },
+  "random_stars_percentiles": {
+    "min": 0,
+    "p10": 0,
+    "p25": 0,
+    "p50": 1,
+    "p75": 12,
+    "p90": 135,
+    "max": 20041
+  },
+  "popular_types": {
+    "testing": 636,
+    "security": 257,
+    "code-quality": 30,
+    "documentation": 20,
+    "code-review": 16,
+    "devops": 11,
+    "api-development": 9,
+    "git-workflow": 8,
+    "frontend": 6,
+    "other": 3,
+    "database": 1,
+    "architecture": 1,
+    "ai-ml": 1,
+    "refactoring": 1
+  },
+  "random_types": {
+    "testing": 572,
+    "security": 236,
+    "code-quality": 67,
+    "frontend": 23,
+    "documentation": 23,
+    "code-review": 21,
+    "git-workflow": 13,
+    "devops": 13,
+    "api-development": 11,
+    "other": 10,
+    "ai-ml": 6,
+    "refactoring": 4,
+    "project-setup": 1
+  },
+  "popular_invocation": {
+    "slash-command": 397,
+    "explicit-trigger": 346,
+    "implicit/auto": 257
+  },
+  "random_invocation": {
+    "slash-command": 434,
+    "implicit/auto": 346,
+    "explicit-trigger": 220
+  },
+  "popular_unique_authors": 73,
+  "random_unique_authors": 788,
+  "popular_top10_authors": [
+    [
+      "davila7",
+      374
+    ],
+    [
+      "wshobson",
+      146
+    ],
+    [
+      "affaan-m",
+      68
+    ],
+    [
+      "openclaw",
+      54
+    ],
+    [
+      "github",
+      39
+    ],
+    [
+      "anthropics",
+      30
+    ],
+    [
+      "ComposioHQ",
+      26
+    ],
+    [
+      "Shubhamsaboo",
+      18
+    ],
+    [
+      "lobehub",
+      17
+    ],
+    [
+      "obra",
+      14
+    ]
+  ],
+  "random_top10_authors": [
+    [
+      "openclaw",
+      37
+    ],
+    [
+      "duclm1x1",
+      22
+    ],
+    [
+      "a5c-ai",
+      10
+    ],
+    [
+      "agentuity",
+      9
+    ],
+    [
+      "Dicklesworthstone",
+      9
+    ],
+    [
+      "plurigrid",
+      8
+    ],
+    [
+      "sundial-org",
+      8
+    ],
+    [
+      "AtilaMedeiros",
+      6
+    ],
+    [
+      "GPTomics",
+      6
+    ],
+    [
+      "HelixDevelopment",
+      6
+    ]
+  ],
+  "popular_project_specific_pct": 17.8,
+  "random_project_specific_pct": 17.7,
+  "popular_cjk_pct": 4.4,
+  "random_cjk_pct": 9.7,
+  "structure_comparison": {
+    "has_yaml": {
+      "popular_pct": 100.0,
+      "random_pct": 99.2
+    },
+    "has_tables": {
+      "popular_pct": 50.5,
+      "random_pct": 46.2
+    },
+    "has_checkboxes": {
+      "popular_pct": 18.6,
+      "random_pct": 19.6
+    },
+    "has_scripts": {
+      "popular_pct": 13.9,
+      "random_pct": 16.1
+    },
+    "has_error_handling": {
+      "popular_pct": 64.7,
+      "random_pct": 59.2
+    },
+    "has_examples": {
+      "popular_pct": 70.2,
+      "random_pct": 66.1
+    },
+    "has_constraints": {
+      "popular_pct": 68.1,
+      "random_pct": 56.7
+    },
+    "has_triggers": {
+      "popular_pct": 79.3,
+      "random_pct": 66.9
+    },
+    "has_output_format": {
+      "popular_pct": 22.1,
+      "random_pct": 23.9
+    },
+    "has_prerequisites": {
+      "popular_pct": 51.6,
+      "random_pct": 45.2
+    },
+    "is_project_specific": {
+      "popular_pct": 17.8,
+      "random_pct": 17.7
+    }
+  },
+  "numeric_comparison": {
+    "yaml_field_count": {
+      "popular_median": 2.0,
+      "random_median": 3.0,
+      "popular_mean": 3.52,
+      "random_mean": 3.7
+    },
+    "header_count": {
+      "popular_median": 23.0,
+      "random_median": 16.0,
+      "popular_mean": 29.92,
+      "random_mean": 23.12
+    },
+    "code_block_count": {
+      "popular_median": 7.0,
+      "random_median": 4.0,
+      "popular_mean": 9.74,
+      "random_mean": 7.76
+    },
+    "step_count": {
+      "popular_median": 5.0,
+      "random_median": 5.0,
+      "popular_mean": 7.8,
+      "random_mean": 7.58
+    },
+    "bullet_count": {
+      "popular_median": 21.0,
+      "random_median": 15.0,
+      "popular_mean": 34.26,
+      "random_mean": 25.3
+    },
+    "total_files": {
+      "popular_median": 1.0,
+      "random_median": 1.0,
+      "popular_mean": 5.29,
+      "random_mean": 9.93
+    },
+    "script_count": {
+      "popular_median": 0.0,
+      "random_median": 0.0,
+      "popular_mean": 0.73,
+      "random_mean": 4.03
+    }
+  }
+}

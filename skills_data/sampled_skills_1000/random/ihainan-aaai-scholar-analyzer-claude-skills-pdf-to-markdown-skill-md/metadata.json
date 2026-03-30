@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 55,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 55,
+    "id": "ihainan-aaai-scholar-analyzer-claude-skills-pdf-to-markdown-skill-md",
+    "name": "pdf-to-markdown",
+    "author": "ihainan",
+    "stars": 1,
+    "githubUrl": "https://github.com/ihainan/AAAI-Scholar-Analyzer/tree/main/.claude/skills/pdf-to-markdown",
+    "skillUrl": "https://skillsmp.com/skills/ihainan-aaai-scholar-analyzer-claude-skills-pdf-to-markdown-skill-md",
+    "updatedAt": 1768543933,
+    "description": "Convert PDF files to Markdown using MinerU API. Use when user wants to convert a PDF (from URL or local path) to Markdown format. Supports both remote URLs and local file paths."
+  },
+  "github": {
+    "owner": "ihainan",
+    "repo": "AAAI-Scholar-Analyzer",
+    "ref": "main",
+    "relativePath": ".claude/skills/pdf-to-markdown",
+    "sourceUrl": "https://github.com/ihainan/AAAI-Scholar-Analyzer/tree/main/.claude/skills/pdf-to-markdown"
+  }
+}

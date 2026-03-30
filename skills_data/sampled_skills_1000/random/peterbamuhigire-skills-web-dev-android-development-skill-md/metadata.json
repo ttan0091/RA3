@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 181,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 181,
+    "id": "peterbamuhigire-skills-web-dev-android-development-skill-md",
+    "name": "android-development",
+    "author": "peterbamuhigire",
+    "stars": 2,
+    "githubUrl": "https://github.com/peterbamuhigire/skills-web-dev/tree/main/android-development",
+    "skillUrl": "https://skillsmp.com/skills/peterbamuhigire-skills-web-dev-android-development-skill-md",
+    "updatedAt": 1770642603,
+    "description": "Android development standards for AI agent implementation. Kotlin-first, Jetpack Compose UI, MVVM + Clean Architecture, Hilt DI, comprehensive security, testing, and performance patterns. Use when building or reviewing Android applications, generating Kotlin code, or setting up Android project structure."
+  },
+  "github": {
+    "owner": "peterbamuhigire",
+    "repo": "skills-web-dev",
+    "ref": "main",
+    "relativePath": "android-development",
+    "sourceUrl": "https://github.com/peterbamuhigire/skills-web-dev/tree/main/android-development"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 583,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 583,
+    "id": "moushudyx-working-skills-packages-link-ui-skills-link-button-skill-md",
+    "name": "link-button",
+    "author": "Moushudyx",
+    "stars": 0,
+    "githubUrl": "https://github.com/Moushudyx/working-skills/tree/master/packages/link-ui/skills/link-button",
+    "skillUrl": "https://skillsmp.com/skills/moushudyx-working-skills-packages-link-ui-skills-link-button-skill-md",
+    "updatedAt": 1770541812,
+    "description": "link 中的按钮相关功能"
+  },
+  "github": {
+    "owner": "Moushudyx",
+    "repo": "working-skills",
+    "ref": "master",
+    "relativePath": "packages/link-ui/skills/link-button",
+    "sourceUrl": "https://github.com/Moushudyx/working-skills/tree/master/packages/link-ui/skills/link-button"
+  }
+}

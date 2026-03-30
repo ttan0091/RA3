@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 667,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 667,
+    "id": "duclm1x1-dive-ai-skills-library-gaming-kradleverse-observe-skill-md",
+    "name": "kradleverseobserve",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/gaming/kradleverse-observe",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-gaming-kradleverse-observe-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Get observations from a Kradleverse game"
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/gaming/kradleverse-observe",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/gaming/kradleverse-observe"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 263,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 263,
+    "id": "affaan-m-everything-claude-code-skills-continuous-learning-skill-md",
+    "name": "continuous-learning",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/continuous-learning",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-skills-continuous-learning-skill-md",
+    "updatedAt": 1769394087,
+    "description": "Automatically extract reusable patterns from Claude Code sessions and save them as learned skills for future use."
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "skills/continuous-learning",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/continuous-learning"
+  }
+}

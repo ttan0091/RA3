@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 255,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 255,
+    "id": "mgreenly-ikigai-claude-library-security-memory-safety-skill-md",
+    "name": "securitymemory-safety",
+    "author": "mgreenly",
+    "stars": 1,
+    "githubUrl": "https://github.com/mgreenly/ikigai/tree/main/.claude/library/security/memory-safety",
+    "skillUrl": "https://skillsmp.com/skills/mgreenly-ikigai-claude-library-security-memory-safety-skill-md",
+    "updatedAt": 1767470440,
+    "description": "Memory Safety security skill"
+  },
+  "github": {
+    "owner": "mgreenly",
+    "repo": "ikigai",
+    "ref": "main",
+    "relativePath": ".claude/library/security/memory-safety",
+    "sourceUrl": "https://github.com/mgreenly/ikigai/tree/main/.claude/library/security/memory-safety"
+  }
+}

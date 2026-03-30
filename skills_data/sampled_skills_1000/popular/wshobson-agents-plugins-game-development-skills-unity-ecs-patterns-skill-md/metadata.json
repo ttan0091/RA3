@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 430,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 430,
+    "id": "wshobson-agents-plugins-game-development-skills-unity-ecs-patterns-skill-md",
+    "name": "unity-ecs-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/game-development/skills/unity-ecs-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-game-development-skills-unity-ecs-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master Unity ECS (Entity Component System) with DOTS, Jobs, and Burst for high-performance game development. Use when building data-oriented games, optimizing performance, or working with large entity counts."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/game-development/skills/unity-ecs-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/game-development/skills/unity-ecs-patterns"
+  }
+}

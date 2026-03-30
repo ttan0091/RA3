@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 775,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 775,
+    "id": "youngleadersdottech-young-leaders-tech-marketplace-plugins-skills-toolkit-skills-shared-product-context-template-skill-md",
+    "name": "product-context-template",
+    "author": "YoungLeadersDotTech",
+    "stars": 7,
+    "githubUrl": "https://github.com/YoungLeadersDotTech/young-leaders-tech-marketplace/tree/master/plugins/skills-toolkit/skills/shared/product-context-template",
+    "skillUrl": "https://skillsmp.com/skills/youngleadersdottech-young-leaders-tech-marketplace-plugins-skills-toolkit-skills-shared-product-context-template-skill-md",
+    "updatedAt": 1760957429,
+    "description": "Generic product context template for creating product vision, goals, and constraints skills. Auto-invoke when user requests product skill creation, product context framework, or strategic alignment templates. Do NOT load during actual product work (use project-specific skills instead)."
+  },
+  "github": {
+    "owner": "YoungLeadersDotTech",
+    "repo": "young-leaders-tech-marketplace",
+    "ref": "master",
+    "relativePath": "plugins/skills-toolkit/skills/shared/product-context-template",
+    "sourceUrl": "https://github.com/YoungLeadersDotTech/young-leaders-tech-marketplace/tree/master/plugins/skills-toolkit/skills/shared/product-context-template"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 80,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 80,
+    "id": "supabase-supabase-claude-skills-e2e-studio-tests-skill-md",
+    "name": "e2e-studio-tests",
+    "author": "supabase",
+    "stars": 97457,
+    "githubUrl": "https://github.com/supabase/supabase/tree/master/.claude/skills/e2e-studio-tests",
+    "skillUrl": "https://skillsmp.com/skills/supabase-supabase-claude-skills-e2e-studio-tests-skill-md",
+    "updatedAt": 1769777864,
+    "description": "Run e2e tests in the Studio app. Use when asked to run e2e tests, run studio tests, playwright tests, or test the feature."
+  },
+  "github": {
+    "owner": "supabase",
+    "repo": "supabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/e2e-studio-tests",
+    "sourceUrl": "https://github.com/supabase/supabase/tree/master/.claude/skills/e2e-studio-tests"
+  }
+}

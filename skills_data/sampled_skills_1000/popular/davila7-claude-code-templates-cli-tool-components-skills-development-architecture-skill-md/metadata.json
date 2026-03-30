@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 831,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 831,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-architecture-skill-md",
+    "name": "architecture",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/architecture",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-architecture-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Architectural decision-making framework. Requirements analysis, trade-off evaluation, ADR documentation. Use when making architecture decisions or analyzing system design."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/architecture",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/architecture"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 23,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 23,
+    "id": "omermachluf-vscode-copilot-chat-github-skills-copilot-tool-design-skill-md",
+    "name": "copilot-tool-design",
+    "author": "OmerMachluf",
+    "stars": 0,
+    "githubUrl": "https://github.com/OmerMachluf/vscode-copilot-chat/tree/main/.github/skills/copilot-tool-design",
+    "skillUrl": "https://skillsmp.com/skills/omermachluf-vscode-copilot-chat-github-skills-copilot-tool-design-skill-md",
+    "updatedAt": 1767120281,
+    "description": "Guide to designing and implementing tools for the vscode-copilot-chat extension, including patterns, testing, and best practices"
+  },
+  "github": {
+    "owner": "OmerMachluf",
+    "repo": "vscode-copilot-chat",
+    "ref": "main",
+    "relativePath": ".github/skills/copilot-tool-design",
+    "sourceUrl": "https://github.com/OmerMachluf/vscode-copilot-chat/tree/main/.github/skills/copilot-tool-design"
+  }
+}

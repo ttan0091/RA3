@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 252,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 252,
+    "id": "agentuity-discord-help-agent-agents-skills-agentuity-cli-cloud-env-get-skill-md",
+    "name": "agentuity-cli-cloud-env-get",
+    "author": "agentuity",
+    "stars": 1,
+    "githubUrl": "https://github.com/agentuity/discord-help-agent/tree/main/.agents/skills/agentuity-cli-cloud-env-get",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-discord-help-agent-agents-skills-agentuity-cli-cloud-env-get-skill-md",
+    "updatedAt": 1767561823,
+    "description": "Get an environment variable value. Requires authentication. Use for Agentuity cloud platform operations"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "discord-help-agent",
+    "ref": "main",
+    "relativePath": ".agents/skills/agentuity-cli-cloud-env-get",
+    "sourceUrl": "https://github.com/agentuity/discord-help-agent/tree/main/.agents/skills/agentuity-cli-cloud-env-get"
+  }
+}

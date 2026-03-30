@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 964,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 964,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-discord-bot-architect-skill-md",
+    "name": "discord-bot-architect",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/discord-bot-architect",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-discord-bot-architect-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Specialized skill for building production-ready Discord bots. Covers Discord.js (JavaScript) and Pycord (Python), gateway intents, slash commands, interactive components, rate limiting, and sharding."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/discord-bot-architect",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/discord-bot-architect"
+  }
+}

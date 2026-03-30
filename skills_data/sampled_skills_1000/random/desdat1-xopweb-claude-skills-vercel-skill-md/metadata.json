@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 859,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 859,
+    "id": "desdat1-xopweb-claude-skills-vercel-skill-md",
+    "name": "vercel",
+    "author": "desdat1",
+    "stars": 0,
+    "githubUrl": "https://github.com/desdat1/xopweb/tree/main/.claude/skills/vercel",
+    "skillUrl": "https://skillsmp.com/skills/desdat1-xopweb-claude-skills-vercel-skill-md",
+    "updatedAt": 1769480506,
+    "description": "Manages Vercel deployment, edge functions, and serverless hosting configuration for Next.js applications.\nUse when: deploying to Vercel, configuring serverless functions, setting up environment variables, debugging deployment issues, or configuring redirects/rewrites/headers."
+  },
+  "github": {
+    "owner": "desdat1",
+    "repo": "xopweb",
+    "ref": "main",
+    "relativePath": ".claude/skills/vercel",
+    "sourceUrl": "https://github.com/desdat1/xopweb/tree/main/.claude/skills/vercel"
+  }
+}

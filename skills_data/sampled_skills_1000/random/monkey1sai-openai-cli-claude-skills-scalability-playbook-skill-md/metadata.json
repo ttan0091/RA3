@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 929,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 929,
+    "id": "monkey1sai-openai-cli-claude-skills-scalability-playbook-skill-md",
+    "name": "scalability-playbook",
+    "author": "monkey1sai",
+    "stars": 1,
+    "githubUrl": "https://github.com/monkey1sai/openai-cli/tree/main/.claude/skills/scalability-playbook",
+    "skillUrl": "https://skillsmp.com/skills/monkey1sai-openai-cli-claude-skills-scalability-playbook-skill-md",
+    "updatedAt": 1770002647,
+    "description": "Identifies performance bottlenecks and provides ordered scaling strategies with triggers, phased plans, and cost implications. Use for \"scalability planning\", \"performance bottlenecks\", \"capacity planning\", or \"growth strategy\"."
+  },
+  "github": {
+    "owner": "monkey1sai",
+    "repo": "openai-cli",
+    "ref": "main",
+    "relativePath": ".claude/skills/scalability-playbook",
+    "sourceUrl": "https://github.com/monkey1sai/openai-cli/tree/main/.claude/skills/scalability-playbook"
+  }
+}

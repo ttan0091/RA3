@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 74,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 74,
+    "id": "langgenius-dify-agents-skills-orpc-contract-first-skill-md",
+    "name": "orpc-contract-first",
+    "author": "langgenius",
+    "stars": 129325,
+    "githubUrl": "https://github.com/langgenius/dify/tree/main/.agents/skills/orpc-contract-first",
+    "skillUrl": "https://skillsmp.com/skills/langgenius-dify-agents-skills-orpc-contract-first-skill-md",
+    "updatedAt": 1768978138,
+    "description": "Guide for implementing oRPC contract-first API patterns in Dify frontend. Triggers when creating new API contracts, adding service endpoints, integrating TanStack Query with typed contracts, or migrating legacy service calls to oRPC. Use for all API layer work in web/contract and web/service directories."
+  },
+  "github": {
+    "owner": "langgenius",
+    "repo": "dify",
+    "ref": "main",
+    "relativePath": ".agents/skills/orpc-contract-first",
+    "sourceUrl": "https://github.com/langgenius/dify/tree/main/.agents/skills/orpc-contract-first"
+  }
+}

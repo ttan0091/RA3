@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 900,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 900,
+    "id": "lannieyoo-gangwon-business-portal-agent-skills-legal-rental-contract-skill-md",
+    "name": "legal-rental-contract",
+    "author": "LannieYoo",
+    "stars": 0,
+    "githubUrl": "https://github.com/LannieYoo/gangwon-business-portal/tree/main/.agent/skills/legal-rental_contract",
+    "skillUrl": "https://skillsmp.com/skills/lannieyoo-gangwon-business-portal-agent-skills-legal-rental-contract-skill-md",
+    "updatedAt": 1770017539,
+    "description": "专业的租房合同(Rental Contract)顾问助手，帮助您了解租房合同条款和权益。当用户询问以下问题时使用：(1) 基础咨询 (2) 流程指导 (3) 问题解答 (4) 资源推荐 (5) 注意事项"
+  },
+  "github": {
+    "owner": "LannieYoo",
+    "repo": "gangwon-business-portal",
+    "ref": "main",
+    "relativePath": ".agent/skills/legal-rental_contract",
+    "sourceUrl": "https://github.com/LannieYoo/gangwon-business-portal/tree/main/.agent/skills/legal-rental_contract"
+  }
+}

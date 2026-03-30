@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 316,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 316,
+    "id": "jamie-bitflight-claude-skills-plugins-plugin-creator-skills-implement-refactor-skill-md",
+    "name": "implement-refactor",
+    "author": "Jamie-BitFlight",
+    "stars": 16,
+    "githubUrl": "https://github.com/Jamie-BitFlight/claude_skills/tree/main/plugins/plugin-creator/skills/implement-refactor",
+    "skillUrl": "https://skillsmp.com/skills/jamie-bitflight-claude-skills-plugins-plugin-creator-skills-implement-refactor-skill-md",
+    "updatedAt": 1769653953,
+    "description": "Execute refactoring tasks from a task file with parallel agent orchestration"
+  },
+  "github": {
+    "owner": "Jamie-BitFlight",
+    "repo": "claude_skills",
+    "ref": "main",
+    "relativePath": "plugins/plugin-creator/skills/implement-refactor",
+    "sourceUrl": "https://github.com/Jamie-BitFlight/claude_skills/tree/main/plugins/plugin-creator/skills/implement-refactor"
+  }
+}

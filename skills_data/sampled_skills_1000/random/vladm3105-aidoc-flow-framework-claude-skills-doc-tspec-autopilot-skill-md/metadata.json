@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 191,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 191,
+    "id": "vladm3105-aidoc-flow-framework-claude-skills-doc-tspec-autopilot-skill-md",
+    "name": "doc-tspec-autopilot",
+    "author": "vladm3105",
+    "stars": 5,
+    "githubUrl": "https://github.com/vladm3105/aidoc-flow-framework/tree/main/.claude/skills/doc-tspec-autopilot",
+    "skillUrl": "https://skillsmp.com/skills/vladm3105-aidoc-flow-framework-claude-skills-doc-tspec-autopilot-skill-md",
+    "updatedAt": 1770756635,
+    "description": "Automated TSPEC generation from SPEC - generates test specifications for UTEST, ITEST, STEST, FTEST with TASKS-Ready scoring"
+  },
+  "github": {
+    "owner": "vladm3105",
+    "repo": "aidoc-flow-framework",
+    "ref": "main",
+    "relativePath": ".claude/skills/doc-tspec-autopilot",
+    "sourceUrl": "https://github.com/vladm3105/aidoc-flow-framework/tree/main/.claude/skills/doc-tspec-autopilot"
+  }
+}

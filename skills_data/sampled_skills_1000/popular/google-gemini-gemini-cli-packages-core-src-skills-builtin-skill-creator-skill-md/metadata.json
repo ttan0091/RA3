@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 95,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 95,
+    "id": "google-gemini-gemini-cli-packages-core-src-skills-builtin-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "google-gemini",
+    "stars": 94166,
+    "githubUrl": "https://github.com/google-gemini/gemini-cli/tree/main/packages/core/src/skills/builtin/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/google-gemini-gemini-cli-packages-core-src-skills-builtin-skill-creator-skill-md",
+    "updatedAt": 1770662176,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Gemini CLI's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "ref": "main",
+    "relativePath": "packages/core/src/skills/builtin/skill-creator",
+    "sourceUrl": "https://github.com/google-gemini/gemini-cli/tree/main/packages/core/src/skills/builtin/skill-creator"
+  }
+}

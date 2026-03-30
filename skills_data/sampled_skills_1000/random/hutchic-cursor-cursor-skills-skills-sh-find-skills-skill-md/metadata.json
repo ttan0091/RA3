@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 912,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 912,
+    "id": "hutchic-cursor-cursor-skills-skills-sh-find-skills-skill-md",
+    "name": "find-skills",
+    "author": "hutchic",
+    "stars": 0,
+    "githubUrl": "https://github.com/hutchic/.cursor/tree/main/.cursor/skills/skills-sh/find-skills",
+    "skillUrl": "https://skillsmp.com/skills/hutchic-cursor-cursor-skills-skills-sh-find-skills-skill-md",
+    "updatedAt": 1770244603,
+    "description": "Helps users discover and install agent skills when they ask questions like \"how do I do X\", \"find a skill for X\", \"is there a skill that can...\", or express interest in extending capabilities. This skill should be used when the user is looking for functionality that might exist as an installable skill."
+  },
+  "github": {
+    "owner": "hutchic",
+    "repo": ".cursor",
+    "ref": "main",
+    "relativePath": ".cursor/skills/skills-sh/find-skills",
+    "sourceUrl": "https://github.com/hutchic/.cursor/tree/main/.cursor/skills/skills-sh/find-skills"
+  }
+}

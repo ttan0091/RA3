@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 994,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 994,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-concise-planning-skill-md",
+    "name": "concise-planning",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/concise-planning",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-concise-planning-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Use when a user asks for a plan for a coding task, to generate a clear, actionable, and atomic checklist."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/concise-planning",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/concise-planning"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 18,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 18,
+    "id": "evanmccormick-interactive-music-theory-claude-skills-adding-scales-chords-skill-md",
+    "name": "adding-scales-chords",
+    "author": "EvanMcCormick",
+    "stars": 0,
+    "githubUrl": "https://github.com/EvanMcCormick/Interactive-Music-Theory/tree/main/.claude/skills/adding-scales-chords",
+    "skillUrl": "https://skillsmp.com/skills/evanmccormick-interactive-music-theory-claude-skills-adding-scales-chords-skill-md",
+    "updatedAt": 1768874311,
+    "description": "Use when adding new scales, modes, or chord types to MusicTheory - ensures correct interval math, proper categorization, and sharp/flat preferences based on music theory conventions"
+  },
+  "github": {
+    "owner": "EvanMcCormick",
+    "repo": "Interactive-Music-Theory",
+    "ref": "main",
+    "relativePath": ".claude/skills/adding-scales-chords",
+    "sourceUrl": "https://github.com/EvanMcCormick/Interactive-Music-Theory/tree/main/.claude/skills/adding-scales-chords"
+  }
+}

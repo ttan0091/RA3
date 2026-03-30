@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 365,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 365,
+    "id": "wshobson-agents-plugins-agent-teams-skills-parallel-debugging-skill-md",
+    "name": "parallel-debugging",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-debugging",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-agent-teams-skills-parallel-debugging-skill-md",
+    "updatedAt": 1770331350,
+    "description": "Debug complex issues using competing hypotheses with parallel investigation, evidence collection, and root cause arbitration. Use this skill when debugging bugs with multiple potential causes, performing root cause analysis, or organizing parallel investigation workflows."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/agent-teams/skills/parallel-debugging",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-debugging"
+  }
+}

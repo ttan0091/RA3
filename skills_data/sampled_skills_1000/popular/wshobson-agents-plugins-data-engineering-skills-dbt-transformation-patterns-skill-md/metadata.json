@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 403,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 403,
+    "id": "wshobson-agents-plugins-data-engineering-skills-dbt-transformation-patterns-skill-md",
+    "name": "dbt-transformation-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/dbt-transformation-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-data-engineering-skills-dbt-transformation-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data transformations, creating data models, or implementing analytics engineering best practices."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/data-engineering/skills/dbt-transformation-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/dbt-transformation-patterns"
+  }
+}

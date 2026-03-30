@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 398,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 398,
+    "id": "wshobson-agents-plugins-conductor-skills-context-driven-development-skill-md",
+    "name": "context-driven-development",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/context-driven-development",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-conductor-skills-context-driven-development-skill-md",
+    "updatedAt": 1768527297,
+    "description": "Use this skill when working with Conductor's context-driven development methodology, managing project context artifacts, or understanding the relationship between product.md, tech-stack.md, and workflow.md files."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/conductor/skills/context-driven-development",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/context-driven-development"
+  }
+}

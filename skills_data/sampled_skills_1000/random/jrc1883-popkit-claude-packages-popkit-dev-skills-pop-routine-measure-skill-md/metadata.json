@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 323,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 323,
+    "id": "jrc1883-popkit-claude-packages-popkit-dev-skills-pop-routine-measure-skill-md",
+    "name": "pop-routine-measure",
+    "author": "jrc1883",
+    "stars": 4,
+    "githubUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-routine-measure",
+    "skillUrl": "https://skillsmp.com/skills/jrc1883-popkit-claude-packages-popkit-dev-skills-pop-routine-measure-skill-md",
+    "updatedAt": 1770619682,
+    "description": "Display routine measurement dashboard with metrics, costs, trends, and visualization"
+  },
+  "github": {
+    "owner": "jrc1883",
+    "repo": "popkit-claude",
+    "ref": "main",
+    "relativePath": "packages/popkit-dev/skills/pop-routine-measure",
+    "sourceUrl": "https://github.com/jrc1883/popkit-claude/tree/main/packages/popkit-dev/skills/pop-routine-measure"
+  }
+}

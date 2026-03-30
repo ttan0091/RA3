@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 518,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 518,
+    "id": "heroui-inc-heroui-skills-heroui-react-skill-md",
+    "name": "heroui-react",
+    "author": "heroui-inc",
+    "stars": 28124,
+    "githubUrl": "https://github.com/heroui-inc/heroui/tree/v3/skills/heroui-react",
+    "skillUrl": "https://skillsmp.com/skills/heroui-inc-heroui-skills-heroui-react-skill-md",
+    "updatedAt": 1769519434,
+    "description": "HeroUI v3 React component library (Tailwind CSS v4 + React Aria). Use when working with HeroUI components, installing HeroUI, customizing HeroUI themes, or accessing HeroUI component documentation. Keywords: HeroUI, Hero UI, heroui, @heroui/react, @heroui/styles."
+  },
+  "github": {
+    "owner": "heroui-inc",
+    "repo": "heroui",
+    "ref": "v3",
+    "relativePath": "skills/heroui-react",
+    "sourceUrl": "https://github.com/heroui-inc/heroui/tree/v3/skills/heroui-react"
+  }
+}

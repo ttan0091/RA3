@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 26,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 26,
+    "id": "openclaw-openclaw-skills-gifgrep-skill-md",
+    "name": "gifgrep",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gifgrep",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-gifgrep-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Search GIF providers with CLI/TUI, download results, and extract stills/sheets."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/gifgrep",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gifgrep"
+  }
+}

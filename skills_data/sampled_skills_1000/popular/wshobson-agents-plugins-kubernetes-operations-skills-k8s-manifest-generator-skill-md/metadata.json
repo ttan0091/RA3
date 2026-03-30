@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 442,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 442,
+    "id": "wshobson-agents-plugins-kubernetes-operations-skills-k8s-manifest-generator-skill-md",
+    "name": "k8s-manifest-generator",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-manifest-generator",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-kubernetes-operations-skills-k8s-manifest-generator-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Create production-ready Kubernetes manifests for Deployments, Services, ConfigMaps, and Secrets following best practices and security standards. Use when generating Kubernetes YAML manifests, creating K8s resources, or implementing production-grade Kubernetes configurations."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/kubernetes-operations/skills/k8s-manifest-generator",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-manifest-generator"
+  }
+}

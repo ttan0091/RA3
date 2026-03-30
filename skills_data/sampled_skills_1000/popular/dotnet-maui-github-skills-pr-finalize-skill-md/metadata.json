@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 544,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 544,
+    "id": "dotnet-maui-github-skills-pr-finalize-skill-md",
+    "name": "pr-finalize",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/pr-finalize",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-pr-finalize-skill-md",
+    "updatedAt": 1770242917,
+    "description": "Finalizes any PR for merge by verifying title/description match implementation AND performing code review for best practices. Use when asked to \"finalize PR\", \"check PR description\", \"review commit message\", before merging any PR, or when PR implementation changed during review. Do NOT use for extracting lessons (use learn-from-pr), writing tests (use write-tests-agent), or investigating build failures (use pr-build-status)."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/pr-finalize",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/pr-finalize"
+  }
+}

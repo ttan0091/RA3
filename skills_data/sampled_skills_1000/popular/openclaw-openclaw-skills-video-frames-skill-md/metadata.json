@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 58,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 58,
+    "id": "openclaw-openclaw-skills-video-frames-skill-md",
+    "name": "video-frames",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/video-frames",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-video-frames-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Extract frames or short clips from videos using ffmpeg."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/video-frames",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/video-frames"
+  }
+}

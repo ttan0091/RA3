@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 387,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 387,
+    "id": "davidyang013-tmd-agents-skills-image-crop-skill-md",
+    "name": "image-crop",
+    "author": "davidyang013",
+    "stars": 0,
+    "githubUrl": "https://github.com/davidyang013/tmd/tree/main/.agents/skills/image-crop",
+    "skillUrl": "https://skillsmp.com/skills/davidyang013-tmd-agents-skills-image-crop-skill-md",
+    "updatedAt": 1769217999,
+    "description": "Crops images from center or specified regions. Supports extracting specific areas, creating fixed-size thumbnails, standardizing image dimensions, and removing edges. Use when cropping images, extracting regions, adjusting aspect ratios, or creating thumbnails from images."
+  },
+  "github": {
+    "owner": "davidyang013",
+    "repo": "tmd",
+    "ref": "main",
+    "relativePath": ".agents/skills/image-crop",
+    "sourceUrl": "https://github.com/davidyang013/tmd/tree/main/.agents/skills/image-crop"
+  }
+}

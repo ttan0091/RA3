@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 357,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 357,
+    "id": "duclm1x1-dive-ai-skills-library-self-hosted-automation-cron-retry-skill-md",
+    "name": "cron-retry",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/self_hosted_automation/cron-retry",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-self-hosted-automation-cron-retry-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Auto-retry failed cron jobs on connection recovery. Use when cron jobs fail due to network errors and should be retried when connectivity is restored. Integrates with heartbeat to detect failed jobs and re-run them automatically."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/self_hosted_automation/cron-retry",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/self_hosted_automation/cron-retry"
+  }
+}

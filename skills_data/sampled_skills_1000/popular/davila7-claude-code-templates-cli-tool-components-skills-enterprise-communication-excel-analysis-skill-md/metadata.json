@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 966,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 966,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-excel-analysis-skill-md",
+    "name": "excel-analysis",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/excel-analysis",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-excel-analysis-skill-md",
+    "updatedAt": 1760736454,
+    "description": "Analyze Excel spreadsheets, create pivot tables, generate charts, and perform data analysis. Use when analyzing Excel files, spreadsheets, tabular data, or .xlsx files."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/excel-analysis",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/excel-analysis"
+  }
+}

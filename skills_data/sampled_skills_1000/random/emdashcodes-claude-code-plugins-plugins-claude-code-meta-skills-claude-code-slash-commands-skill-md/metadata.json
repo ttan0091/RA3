@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 690,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 690,
+    "id": "emdashcodes-claude-code-plugins-plugins-claude-code-meta-skills-claude-code-slash-commands-skill-md",
+    "name": "claude-code-slash-commands",
+    "author": "emdashcodes",
+    "stars": 10,
+    "githubUrl": "https://github.com/emdashcodes/claude-code-plugins/tree/trunk/plugins/claude-code-meta/skills/claude-code-slash-commands",
+    "skillUrl": "https://skillsmp.com/skills/emdashcodes-claude-code-plugins-plugins-claude-code-meta-skills-claude-code-slash-commands-skill-md",
+    "updatedAt": 1767900271,
+    "description": "This skill should be used when creating, configuring, or working with Claude Code slash commands. Use when users ask to create custom slash commands, set up command features like arguments or bash execution, or need guidance on slash command structure and best practices."
+  },
+  "github": {
+    "owner": "emdashcodes",
+    "repo": "claude-code-plugins",
+    "ref": "trunk",
+    "relativePath": "plugins/claude-code-meta/skills/claude-code-slash-commands",
+    "sourceUrl": "https://github.com/emdashcodes/claude-code-plugins/tree/trunk/plugins/claude-code-meta/skills/claude-code-slash-commands"
+  }
+}

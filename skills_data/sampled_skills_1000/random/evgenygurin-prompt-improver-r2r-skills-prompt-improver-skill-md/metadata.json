@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 628,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 628,
+    "id": "evgenygurin-prompt-improver-r2r-skills-prompt-improver-skill-md",
+    "name": "prompt-improver",
+    "author": "evgenygurin",
+    "stars": 0,
+    "githubUrl": "https://github.com/evgenygurin/prompt-improver-r2r/tree/main/skills/prompt-improver",
+    "skillUrl": "https://skillsmp.com/skills/evgenygurin-prompt-improver-r2r-skills-prompt-improver-skill-md",
+    "updatedAt": 1764728287,
+    "description": "This skill enriches vague prompts with targeted research and clarification before execution. Should be used when a prompt is determined to be vague and requires systematic research, question generation, and execution guidance."
+  },
+  "github": {
+    "owner": "evgenygurin",
+    "repo": "prompt-improver-r2r",
+    "ref": "main",
+    "relativePath": "skills/prompt-improver",
+    "sourceUrl": "https://github.com/evgenygurin/prompt-improver-r2r/tree/main/skills/prompt-improver"
+  }
+}

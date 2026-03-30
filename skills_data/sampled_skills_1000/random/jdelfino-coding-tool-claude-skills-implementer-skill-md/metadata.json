@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 372,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 372,
+    "id": "jdelfino-coding-tool-claude-skills-implementer-skill-md",
+    "name": "implementer",
+    "author": "jdelfino",
+    "stars": 0,
+    "githubUrl": "https://github.com/jdelfino/coding-tool/tree/main/.claude/skills/implementer",
+    "skillUrl": "https://skillsmp.com/skills/jdelfino-coding-tool-claude-skills-implementer-skill-md",
+    "updatedAt": 1769821221,
+    "description": "Pure development workflow with test-first development and coverage review. Used by coordinator directly or as a subagent. Never manages beads issues or commits."
+  },
+  "github": {
+    "owner": "jdelfino",
+    "repo": "coding-tool",
+    "ref": "main",
+    "relativePath": ".claude/skills/implementer",
+    "sourceUrl": "https://github.com/jdelfino/coding-tool/tree/main/.claude/skills/implementer"
+  }
+}

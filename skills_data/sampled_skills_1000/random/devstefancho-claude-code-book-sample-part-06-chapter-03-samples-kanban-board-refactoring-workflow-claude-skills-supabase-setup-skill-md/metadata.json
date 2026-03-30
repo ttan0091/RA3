@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 555,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 555,
+    "id": "devstefancho-claude-code-book-sample-part-06-chapter-03-samples-kanban-board-refactoring-workflow-claude-skills-supabase-setup-skill-md",
+    "name": "supabase-setup",
+    "author": "devstefancho",
+    "stars": 0,
+    "githubUrl": "https://github.com/devstefancho/claude-code-book-sample/tree/main/part-06/chapter-03/samples/kanban-board-refactoring-workflow/.claude/skills/supabase-setup",
+    "skillUrl": "https://skillsmp.com/skills/devstefancho-claude-code-book-sample-part-06-chapter-03-samples-kanban-board-refactoring-workflow-claude-skills-supabase-setup-skill-md",
+    "updatedAt": 1768762098,
+    "description": "Supabase 프로젝트 초기 설정. 테이블 생성, RLS 정책, 환경변수 설정, 타입 생성. \"Supabase 설정\", \"DB 셋업\" 요청 시 사용."
+  },
+  "github": {
+    "owner": "devstefancho",
+    "repo": "claude-code-book-sample",
+    "ref": "main",
+    "relativePath": "part-06/chapter-03/samples/kanban-board-refactoring-workflow/.claude/skills/supabase-setup",
+    "sourceUrl": "https://github.com/devstefancho/claude-code-book-sample/tree/main/part-06/chapter-03/samples/kanban-board-refactoring-workflow/.claude/skills/supabase-setup"
+  }
+}

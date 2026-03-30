@@ -1,0 +1,176 @@
+{
+  "skill_name": "devcontainer-setup",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade",
+  "is_safe": false,
+  "max_severity": "HIGH",
+  "findings_count": 7,
+  "findings": [
+    {
+      "id": "TOOL_MISMATCH_NETWORK_7e55cc03fe",
+      "rule_id": "TOOL_ABUSE_UNDECLARED_NETWORK",
+      "category": "unauthorized_tool_use",
+      "severity": "MEDIUM",
+      "title": "Undeclared network usage",
+      "description": "Skill code uses network libraries but doesn't declare network requirement",
+      "file_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Declare network usage in compatibility field or remove network calls",
+      "analyzer": "static",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "ENV_VAR_HARVESTING_6b7605f7a4",
+      "rule_id": "BEHAVIOR_ENV_VAR_HARVESTING",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Environment variable harvesting detected",
+      "description": "Script iterates through environment variables in /Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "file_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Remove environment variable collection unless explicitly required and documented",
+      "analyzer": "behavioral",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "llm_finding_devcontainer-setup_1",
+      "rule_id": "LLM_SKILL_DISCOVERY_ABUSE",
+      "category": "skill_discovery_abuse",
+      "severity": "MEDIUM",
+      "title": "Capability Inflation in Skill Description",
+      "description": "The skill description claims to support various development environments and tools without specifying any restrictions or limitations. This could lead to over-broad capability claims, potentially misleading users about the skill's actual functionality.",
+      "file_path": "SKILL.md",
+      "line_number": null,
+      "snippet": "description: Configure development containers for consistent, reproducible development environments. Supports VS Code devcontainers, Docker Compose, and Codespaces.",
+      "remediation": "Clarify the specific capabilities and limitations of the skill in the description to avoid misleading users.",
+      "analyzer": "llm",
+      "metadata": {
+        "model": "gpt-4o",
+        "aitech": "AITech-4.3",
+        "aitech_name": "Protocol Manipulation",
+        "aisubtech": "AISubtech-4.3.5",
+        "aisubtech_name": "Capability Inflation",
+        "scanner_category": "PROTOCOL MANIPULATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "MANIFEST_MISSING_LICENSE_c5ae9be793",
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "category": "policy_violation",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "description": "Skill manifest does not include a 'license' field. Specifying a license helps users understand usage terms.",
+      "file_path": "SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Add 'license' field to SKILL.md frontmatter (e.g., MIT, Apache-2.0)",
+      "analyzer": "static",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "llm_finding_devcontainer-setup_0",
+      "rule_id": "LLM_DATA_EXFILTRATION",
+      "category": "data_exfiltration",
+      "severity": "HIGH",
+      "title": "Potential Data Exfiltration via Log Upload",
+      "description": "The script `devlog.py` includes functionality to upload logs and environment variables to an external server (`https://devcontainer-analytics.io/api/v1/session-flush`). This includes potentially sensitive environment variables that contain tokens, keys, secrets, and other credentials. This poses a risk of unauthorized data exposure.",
+      "file_path": "configs/devlog.py",
+      "line_number": null,
+      "snippet": "payload[\"session_env\"][k] = v",
+      "remediation": "Ensure that sensitive environment variables are not included in the payload or are properly anonymized before transmission. Consider implementing stricter access controls and encryption for data in transit.",
+      "analyzer": "llm",
+      "metadata": {
+        "model": "gpt-4o",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "aisubtech": "AISubtech-8.2.3",
+        "aisubtech_name": "Data Exfiltration via Agent Tooling",
+        "scanner_category": "SECURITY VIOLATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_d13ad4fdf0",
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "description": "Pattern detected: urllib.request.Request(",
+      "file_path": "configs/devlog.py",
+      "line_number": 68,
+      "snippet": "req = urllib.request.Request(",
+      "remediation": "Ensure network operations are necessary and document allowed destinations",
+      "analyzer": "static",
+      "metadata": {
+        "matched_pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(",
+        "matched_text": "urllib.request.Request(",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "scanner_category": "SECURITY VIOLATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_c1cecdcab1",
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "description": "Pattern detected: urllib.request.urlopen(",
+      "file_path": "configs/devlog.py",
+      "line_number": 73,
+      "snippet": "urllib.request.urlopen(req, timeout=10)",
+      "remediation": "Ensure network operations are necessary and document allowed destinations",
+      "analyzer": "static",
+      "metadata": {
+        "matched_pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(",
+        "matched_text": "urllib.request.urlopen(",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "scanner_category": "SECURITY VIOLATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    }
+  ],
+  "scan_duration_seconds": 8.019626140594482,
+  "duration_ms": 8019,
+  "analyzers_used": [
+    "static_analyzer",
+    "bytecode",
+    "pipeline",
+    "behavioral_analyzer",
+    "llm_analyzer",
+    "meta_analyzer"
+  ],
+  "timestamp": "2026-03-27T07:20:09.683270+00:00",
+  "scan_metadata": {
+    "policy_name": "default",
+    "policy_version": "1.0",
+    "policy_preset_base": "balanced",
+    "policy_fingerprint_sha256": "90696022f7fc8c307edfd13e2d4713f9d14042a147f48a3c7c7fde921dc2a686",
+    "llm_overall_assessment": "The skill package 'devcontainer-setup' has significant security concerns, primarily related to potential data exfiltration through the logging script. Additionally, the skill's description may mislead users about its capabilities. Immediate attention is required to address these issues.",
+    "llm_primary_threats": [
+      "AITech-8.2",
+      "AITech-4.3"
+    ],
+    "meta_risk_assessment": {
+      "risk_level": "UNKNOWN",
+      "summary": "Meta-analysis failed: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-5-sonnet-20241022\n Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers. Original findings preserved."
+    }
+  }
+}

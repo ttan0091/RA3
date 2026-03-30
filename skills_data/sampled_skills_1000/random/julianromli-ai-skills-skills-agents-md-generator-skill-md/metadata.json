@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 176,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 176,
+    "id": "julianromli-ai-skills-skills-agents-md-generator-skill-md",
+    "name": "agents-md-generator",
+    "author": "julianromli",
+    "stars": 135,
+    "githubUrl": "https://github.com/julianromli/ai-skills/tree/main/skills/agents-md-generator",
+    "skillUrl": "https://skillsmp.com/skills/julianromli-ai-skills-skills-agents-md-generator-skill-md",
+    "updatedAt": 1766041656,
+    "description": "Generate hierarchical AGENTS.md structures for codebases. Use when user asks to create AGENTS.md files, analyze codebase for AI agent documentation, set up AI-friendly project documentation, or generate context files for AI coding assistants. Triggers on \"create AGENTS.md\", \"generate agents\", \"analyze codebase for AI\", \"AI documentation setup\", \"hierarchical agents\"."
+  },
+  "github": {
+    "owner": "julianromli",
+    "repo": "ai-skills",
+    "ref": "main",
+    "relativePath": "skills/agents-md-generator",
+    "sourceUrl": "https://github.com/julianromli/ai-skills/tree/main/skills/agents-md-generator"
+  }
+}

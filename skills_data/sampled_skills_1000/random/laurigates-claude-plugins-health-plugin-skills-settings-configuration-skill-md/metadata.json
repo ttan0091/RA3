@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 760,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 760,
+    "id": "laurigates-claude-plugins-health-plugin-skills-settings-configuration-skill-md",
+    "name": "settings-configuration",
+    "author": "laurigates",
+    "stars": 7,
+    "githubUrl": "https://github.com/laurigates/claude-plugins/tree/main/health-plugin/skills/settings-configuration",
+    "skillUrl": "https://skillsmp.com/skills/laurigates-claude-plugins-health-plugin-skills-settings-configuration-skill-md",
+    "updatedAt": 1770548775,
+    "description": "Claude Code settings file hierarchy, permission wildcards, and configuration\npatterns. Use when setting up project permissions, debugging settings issues,\nor understanding why certain tools are allowed or blocked."
+  },
+  "github": {
+    "owner": "laurigates",
+    "repo": "claude-plugins",
+    "ref": "main",
+    "relativePath": "health-plugin/skills/settings-configuration",
+    "sourceUrl": "https://github.com/laurigates/claude-plugins/tree/main/health-plugin/skills/settings-configuration"
+  }
+}

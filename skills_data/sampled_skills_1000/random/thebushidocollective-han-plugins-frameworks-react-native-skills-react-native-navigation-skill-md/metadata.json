@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 778,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 778,
+    "id": "thebushidocollective-han-plugins-frameworks-react-native-skills-react-native-navigation-skill-md",
+    "name": "jutsu-react-nativereact-native-navigation",
+    "author": "TheBushidoCollective",
+    "stars": 84,
+    "githubUrl": "https://github.com/TheBushidoCollective/han/tree/main/plugins/frameworks/react-native/skills/react-native-navigation",
+    "skillUrl": "https://skillsmp.com/skills/thebushidocollective-han-plugins-frameworks-react-native-skills-react-native-navigation-skill-md",
+    "updatedAt": 1770154324,
+    "description": "Use when implementing navigation in React Native apps with React Navigation. Covers stack, tab, drawer navigation, deep linking, and navigation patterns."
+  },
+  "github": {
+    "owner": "TheBushidoCollective",
+    "repo": "han",
+    "ref": "main",
+    "relativePath": "plugins/frameworks/react-native/skills/react-native-navigation",
+    "sourceUrl": "https://github.com/TheBushidoCollective/han/tree/main/plugins/frameworks/react-native/skills/react-native-navigation"
+  }
+}

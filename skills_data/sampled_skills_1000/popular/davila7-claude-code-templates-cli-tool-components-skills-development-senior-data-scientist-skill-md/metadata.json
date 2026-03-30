@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 923,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 923,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-data-scientist-skill-md",
+    "name": "senior-data-scientist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-data-scientist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-data-scientist-skill-md",
+    "updatedAt": 1766196856,
+    "description": "World-class data science skill for statistical modeling, experimentation, causal inference, and advanced analytics. Expertise in Python (NumPy, Pandas, Scikit-learn), R, SQL, statistical methods, A/B testing, time series, and business intelligence. Includes experiment design, feature engineering, model evaluation, and stakeholder communication. Use when designing experiments, building predictive models, performing causal analysis, or driving data-driven decisions."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-data-scientist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-data-scientist"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 602,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 602,
+    "id": "manojlds-adk-skills-examples-skills-hello-world-skill-md",
+    "name": "hello-world",
+    "author": "manojlds",
+    "stars": 8,
+    "githubUrl": "https://github.com/manojlds/adk-skills/tree/main/examples/skills/hello-world",
+    "skillUrl": "https://skillsmp.com/skills/manojlds-adk-skills-examples-skills-hello-world-skill-md",
+    "updatedAt": 1767782400,
+    "description": "A minimal example skill that demonstrates the basic skill structure"
+  },
+  "github": {
+    "owner": "manojlds",
+    "repo": "adk-skills",
+    "ref": "main",
+    "relativePath": "examples/skills/hello-world",
+    "sourceUrl": "https://github.com/manojlds/adk-skills/tree/main/examples/skills/hello-world"
+  }
+}

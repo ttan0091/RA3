@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 624,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 624,
+    "id": "alibaba-opc-starter-qoder-skills-design-system-ui-skill-md",
+    "name": "design-system-ui",
+    "author": "alibaba",
+    "stars": 3,
+    "githubUrl": "https://github.com/alibaba/opc-starter/tree/main/.qoder/skills/design-system-ui",
+    "skillUrl": "https://skillsmp.com/skills/alibaba-opc-starter-qoder-skills-design-system-ui-skill-md",
+    "updatedAt": 1770090225,
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality using Mobile First strategy. Analyzes design systems from screenshots, generates Tailwind CSS + Shadcn UI configurations, and retrofits existing projects. Optimized for Claude Opus 4.5 with structured decision trees and self-verification checkpoints."
+  },
+  "github": {
+    "owner": "alibaba",
+    "repo": "opc-starter",
+    "ref": "main",
+    "relativePath": ".qoder/skills/design-system-ui",
+    "sourceUrl": "https://github.com/alibaba/opc-starter/tree/main/.qoder/skills/design-system-ui"
+  }
+}

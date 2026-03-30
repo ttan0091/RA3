@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 498,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 498,
+    "id": "faintghost-skills-chezmoi-config-skill-md",
+    "name": "chezmoi-config",
+    "author": "FaintGhost",
+    "stars": 0,
+    "githubUrl": "https://github.com/FaintGhost/skills/tree/main/chezmoi-config",
+    "skillUrl": "https://skillsmp.com/skills/faintghost-skills-chezmoi-config-skill-md",
+    "updatedAt": 1769659007,
+    "description": "Comprehensive chezmoi dotfile management skill for creating, modifying, and maintaining dotfile templates, configuration files, scripts, and external resources. Use when working with chezmoi for creating new dotfile templates (.tmpl files) with Go template syntax, managing .chezmoi.toml.tmpl configuration and .chezmoidata, configuring .chezmoiexternal files for external resources, writing run_once/run_onchange/run_before/run_after scripts, integrating password managers for secrets, managing cross-platform configurations, and handling conditional logic based on OS/architecture/hostname. This skill includes comprehensive reference documentation for all chezmoi features and can consult the latest chezmoi documentation via Context7."
+  },
+  "github": {
+    "owner": "FaintGhost",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "chezmoi-config",
+    "sourceUrl": "https://github.com/FaintGhost/skills/tree/main/chezmoi-config"
+  }
+}

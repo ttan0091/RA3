@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 493,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 493,
+    "id": "ldaehi0205-claude-post-demo-claude-skills-review-code-skill-md",
+    "name": "review-code",
+    "author": "ldaehi0205",
+    "stars": 0,
+    "githubUrl": "https://github.com/ldaehi0205/claude-post-demo/tree/main/.claude/skills/review-code",
+    "skillUrl": "https://skillsmp.com/skills/ldaehi0205-claude-post-demo-claude-skills-review-code-skill-md",
+    "updatedAt": 1770174738,
+    "description": "TypeScript와 Tailwind CSS 코드의 품질, 타입 안정성, 성능을 검토합니다. 게시판 프로젝트 규칙 준수를 확인합니다."
+  },
+  "github": {
+    "owner": "ldaehi0205",
+    "repo": "claude-post-demo",
+    "ref": "main",
+    "relativePath": ".claude/skills/review-code",
+    "sourceUrl": "https://github.com/ldaehi0205/claude-post-demo/tree/main/.claude/skills/review-code"
+  }
+}

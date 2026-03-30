@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 197,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 197,
+    "id": "clickhouse-clickhouse-claude-skills-build-skill-md",
+    "name": "build",
+    "author": "ClickHouse",
+    "stars": 45784,
+    "githubUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/build",
+    "skillUrl": "https://skillsmp.com/skills/clickhouse-clickhouse-claude-skills-build-skill-md",
+    "updatedAt": 1770369918,
+    "description": "Build ClickHouse with various configurations (Release, Debug, ASAN, TSAN, etc.). Use when the user wants to compile ClickHouse."
+  },
+  "github": {
+    "owner": "ClickHouse",
+    "repo": "ClickHouse",
+    "ref": "master",
+    "relativePath": ".claude/skills/build",
+    "sourceUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/build"
+  }
+}

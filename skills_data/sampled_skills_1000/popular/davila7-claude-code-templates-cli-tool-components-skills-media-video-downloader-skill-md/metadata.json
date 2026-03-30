@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 991,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 991,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-media-video-downloader-skill-md",
+    "name": "video-downloader",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/video-downloader",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-media-video-downloader-skill-md",
+    "updatedAt": 1764952495,
+    "description": "Downloads videos from YouTube and other platforms for offline viewing, editing, or archival. Handles various formats and quality options."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/media/video-downloader",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/video-downloader"
+  }
+}

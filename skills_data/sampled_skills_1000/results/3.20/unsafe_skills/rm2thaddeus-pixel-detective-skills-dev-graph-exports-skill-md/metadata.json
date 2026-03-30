@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 683,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 683,
+    "id": "rm2thaddeus-pixel-detective-skills-dev-graph-exports-skill-md",
+    "name": "dev-graph-exports",
+    "author": "rm2thaddeus",
+    "stars": 15,
+    "githubUrl": "https://github.com/rm2thaddeus/Pixel_Detective/tree/main/skills/dev-graph-exports",
+    "skillUrl": "https://skillsmp.com/skills/rm2thaddeus-pixel-detective-skills-dev-graph-exports-skill-md",
+    "updatedAt": 1768487935,
+    "description": "Export Dev Graph UI assets and dashboard data. Use when the user asks for structure SVG exports, timeline SVG/MP4 exports, per-commit SVGs, sprint-linked visuals, or dashboard/analytics JSON from the Dev Graph API."
+  },
+  "github": {
+    "owner": "rm2thaddeus",
+    "repo": "Pixel_Detective",
+    "ref": "main",
+    "relativePath": "skills/dev-graph-exports",
+    "sourceUrl": "https://github.com/rm2thaddeus/Pixel_Detective/tree/main/skills/dev-graph-exports"
+  }
+}

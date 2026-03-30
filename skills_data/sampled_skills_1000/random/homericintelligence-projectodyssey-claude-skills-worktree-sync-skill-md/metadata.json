@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 388,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 388,
+    "id": "homericintelligence-projectodyssey-claude-skills-worktree-sync-skill-md",
+    "name": "worktree-sync",
+    "author": "HomericIntelligence",
+    "stars": 13,
+    "githubUrl": "https://github.com/HomericIntelligence/ProjectOdyssey/tree/main/.claude/skills/worktree-sync",
+    "skillUrl": "https://skillsmp.com/skills/homericintelligence-projectodyssey-claude-skills-worktree-sync-skill-md",
+    "updatedAt": 1766305469,
+    "description": "Sync git worktrees with remote and main branch changes. Use to keep long-running feature branches up-to-date."
+  },
+  "github": {
+    "owner": "HomericIntelligence",
+    "repo": "ProjectOdyssey",
+    "ref": "main",
+    "relativePath": ".claude/skills/worktree-sync",
+    "sourceUrl": "https://github.com/HomericIntelligence/ProjectOdyssey/tree/main/.claude/skills/worktree-sync"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 24,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 24,
+    "id": "openclaw-openclaw-skills-eightctl-skill-md",
+    "name": "eightctl",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/eightctl",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-eightctl-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Control Eight Sleep pods (status, temperature, alarms, schedules)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/eightctl",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/eightctl"
+  }
+}

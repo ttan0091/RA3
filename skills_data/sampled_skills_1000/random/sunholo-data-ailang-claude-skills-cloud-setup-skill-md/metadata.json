@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 21,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 21,
+    "id": "sunholo-data-ailang-claude-skills-cloud-setup-skill-md",
+    "name": "cloud-environment-setup",
+    "author": "sunholo-data",
+    "stars": 20,
+    "githubUrl": "https://github.com/sunholo-data/ailang/tree/dev/.claude/skills/cloud-setup",
+    "skillUrl": "https://skillsmp.com/skills/sunholo-data-ailang-claude-skills-cloud-setup-skill-md",
+    "updatedAt": 1766579409,
+    "description": "Set up Claude Code cloud/mobile environments for AILANG development. Use when starting a new cloud session, when tools are missing (Go, make, gh), or when user says \"setup cloud\", \"setup environment\", or mentions mobile Claude Code."
+  },
+  "github": {
+    "owner": "sunholo-data",
+    "repo": "ailang",
+    "ref": "dev",
+    "relativePath": ".claude/skills/cloud-setup",
+    "sourceUrl": "https://github.com/sunholo-data/ailang/tree/dev/.claude/skills/cloud-setup"
+  }
+}

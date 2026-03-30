@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 816,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 816,
+    "id": "hgriff0n-velopitt-agent-skills-context-health-monitor-skill-md",
+    "name": "context-health-monitor",
+    "author": "hGriff0n",
+    "stars": 0,
+    "githubUrl": "https://github.com/hGriff0n/velopitt/tree/main/.agent/skills/context-health-monitor",
+    "skillUrl": "https://skillsmp.com/skills/hgriff0n-velopitt-agent-skills-context-health-monitor-skill-md",
+    "updatedAt": 1770209025,
+    "description": "Monitors context complexity and triggers state dumps before quality degrades"
+  },
+  "github": {
+    "owner": "hGriff0n",
+    "repo": "velopitt",
+    "ref": "main",
+    "relativePath": ".agent/skills/context-health-monitor",
+    "sourceUrl": "https://github.com/hGriff0n/velopitt/tree/main/.agent/skills/context-health-monitor"
+  }
+}

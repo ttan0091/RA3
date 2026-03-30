@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 304,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 304,
+    "id": "payloadcms-payload-tools-claude-plugin-skills-payload-skill-md",
+    "name": "payload",
+    "author": "payloadcms",
+    "stars": 40485,
+    "githubUrl": "https://github.com/payloadcms/payload/tree/main/tools/claude-plugin/skills/payload",
+    "skillUrl": "https://skillsmp.com/skills/payloadcms-payload-tools-claude-plugin-skills-payload-skill-md",
+    "updatedAt": 1767123298,
+    "description": "Use when working with Payload CMS projects (payload.config.ts, collections, fields, hooks, access control, Payload API). Use when debugging validation errors, security issues, relationship queries, transactions, or hook behavior."
+  },
+  "github": {
+    "owner": "payloadcms",
+    "repo": "payload",
+    "ref": "main",
+    "relativePath": "tools/claude-plugin/skills/payload",
+    "sourceUrl": "https://github.com/payloadcms/payload/tree/main/tools/claude-plugin/skills/payload"
+  }
+}

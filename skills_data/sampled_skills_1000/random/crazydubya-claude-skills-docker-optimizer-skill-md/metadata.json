@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 732,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 732,
+    "id": "crazydubya-claude-skills-docker-optimizer-skill-md",
+    "name": "docker-optimizer",
+    "author": "CrazyDubya",
+    "stars": 0,
+    "githubUrl": "https://github.com/CrazyDubya/claude-skills/tree/main/docker-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/crazydubya-claude-skills-docker-optimizer-skill-md",
+    "updatedAt": 1761531032,
+    "description": "Reviews Dockerfiles for best practices, security issues, and image size optimizations including multi-stage builds and layer caching. Use when working with Docker, containers, or deployment."
+  },
+  "github": {
+    "owner": "CrazyDubya",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "docker-optimizer",
+    "sourceUrl": "https://github.com/CrazyDubya/claude-skills/tree/main/docker-optimizer"
+  }
+}

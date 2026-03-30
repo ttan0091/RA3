@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 607,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 607,
+    "id": "yu-iskw-coding-agent-skills-cursor-skills-lint-and-fix-skill-md",
+    "name": "lint-and-fix",
+    "author": "yu-iskw",
+    "stars": 1,
+    "githubUrl": "https://github.com/yu-iskw/coding-agent-skills/tree/main/.cursor/skills/lint-and-fix",
+    "skillUrl": "https://skillsmp.com/skills/yu-iskw-coding-agent-skills-cursor-skills-lint-and-fix-skill-md",
+    "updatedAt": 1769874871,
+    "description": "Run make format and make lint, then fix linter violations. Use when formatting code or fixing trunk/lint issues."
+  },
+  "github": {
+    "owner": "yu-iskw",
+    "repo": "coding-agent-skills",
+    "ref": "main",
+    "relativePath": ".cursor/skills/lint-and-fix",
+    "sourceUrl": "https://github.com/yu-iskw/coding-agent-skills/tree/main/.cursor/skills/lint-and-fix"
+  }
+}

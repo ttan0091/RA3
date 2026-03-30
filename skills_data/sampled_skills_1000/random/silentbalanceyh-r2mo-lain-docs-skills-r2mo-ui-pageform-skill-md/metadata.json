@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 105,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 105,
+    "id": "silentbalanceyh-r2mo-lain-docs-skills-r2mo-ui-pageform-skill-md",
+    "name": "r2mo-ui-pageform",
+    "author": "silentbalanceyh",
+    "stars": 0,
+    "githubUrl": "https://github.com/silentbalanceyh/r2mo-lain/tree/master/docs/skills/r2mo-ui-pageform",
+    "skillUrl": "https://skillsmp.com/skills/silentbalanceyh-r2mo-lain-docs-skills-r2mo-ui-pageform-skill-md",
+    "updatedAt": 1770379314,
+    "description": "Frontend: Forms, validation, and submission flows from R2MO specs."
+  },
+  "github": {
+    "owner": "silentbalanceyh",
+    "repo": "r2mo-lain",
+    "ref": "master",
+    "relativePath": "docs/skills/r2mo-ui-pageform",
+    "sourceUrl": "https://github.com/silentbalanceyh/r2mo-lain/tree/master/docs/skills/r2mo-ui-pageform"
+  }
+}

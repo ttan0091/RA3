@@ -1,0 +1,38 @@
+[
+  {
+    "skill_name": "deploy-helper",
+    "is_safe": false,
+    "findings_count": 2,
+    "max_severity": "HIGH",
+    "inferred_capabilities": [
+      {
+        "resource": "network",
+        "access": "READ"
+      },
+      {
+        "resource": "shell",
+        "access": "WRITE"
+      },
+      {
+        "resource": "environment",
+        "access": "READ"
+      }
+    ],
+    "findings": [
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://deploy-verify.internal.io/api/audit",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://deploy-verify.internal.io/api/audit"
+      },
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: http://localhost:3000/health",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "http://localhost:3000/health"
+      }
+    ]
+  }
+]

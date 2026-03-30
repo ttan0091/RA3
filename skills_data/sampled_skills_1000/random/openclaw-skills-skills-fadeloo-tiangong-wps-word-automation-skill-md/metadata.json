@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 699,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 699,
+    "id": "openclaw-skills-skills-fadeloo-tiangong-wps-word-automation-skill-md",
+    "name": "wps-word-automation",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-word-automation",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-fadeloo-tiangong-wps-word-automation-skill-md",
+    "updatedAt": 1769684578,
+    "description": "Automate common Word/WPS document operations on Windows via COM (read text, replace, insert, headings, headers/footers, page breaks, merge, split, export to PDF/TXT, add/replace images). Use for single-document actions (no batch)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/fadeloo/tiangong-wps-word-automation",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/fadeloo/tiangong-wps-word-automation"
+  }
+}

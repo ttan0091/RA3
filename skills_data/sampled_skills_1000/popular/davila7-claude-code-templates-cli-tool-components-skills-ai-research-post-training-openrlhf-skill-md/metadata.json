@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 715,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 715,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-openrlhf-skill-md",
+    "name": "openrlhf-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-openrlhf",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-openrlhf-skill-md",
+    "updatedAt": 1767882269,
+    "description": "High-performance RLHF framework with Ray+vLLM acceleration. Use for PPO, GRPO, RLOO, DPO training of large models (7B-70B+). Built on Ray, vLLM, ZeRO-3. 2× faster than DeepSpeedChat with distributed architecture and GPU resource sharing."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/post-training-openrlhf",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-openrlhf"
+  }
+}

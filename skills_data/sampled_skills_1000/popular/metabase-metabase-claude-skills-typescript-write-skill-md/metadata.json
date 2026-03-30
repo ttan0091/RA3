@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 196,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 196,
+    "id": "metabase-metabase-claude-skills-typescript-write-skill-md",
+    "name": "typescript-write",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/typescript-write",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-typescript-write-skill-md",
+    "updatedAt": 1763571245,
+    "description": "Write TypeScript and JavaScript code following Metabase coding standards and best practices. Use when developing or refactoring TypeScript/JavaScript code."
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/typescript-write",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/typescript-write"
+  }
+}

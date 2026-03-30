@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 962,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 962,
+    "id": "agentuity-docs-doc-agents-agents-skills-agentuity-cli-profile-create-skill-md",
+    "name": "agentuity-cli-profile-create",
+    "author": "agentuity",
+    "stars": 4,
+    "githubUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-profile-create",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-docs-doc-agents-agents-skills-agentuity-cli-profile-create-skill-md",
+    "updatedAt": 1768878393,
+    "description": "Create a new configuration profile"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "docs",
+    "ref": "main",
+    "relativePath": "doc-agents/.agents/skills/agentuity-cli-profile-create",
+    "sourceUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-profile-create"
+  }
+}

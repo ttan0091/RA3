@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 90,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 90,
+    "id": "nimrodfisher-data-analytics-skills-05-stakeholder-communication-stakeholder-requirements-gathering-skill-md",
+    "name": "stakeholder-requirements-gathering",
+    "author": "nimrodfisher",
+    "stars": 0,
+    "githubUrl": "https://github.com/nimrodfisher/data-analytics-skills/tree/main/05-stakeholder-communication/stakeholder-requirements-gathering",
+    "skillUrl": "https://skillsmp.com/skills/nimrodfisher-data-analytics-skills-05-stakeholder-communication-stakeholder-requirements-gathering-skill-md",
+    "updatedAt": 1768360725,
+    "description": "Structured requirements elicitation for analysis requests. Use when scoping new analysis projects, clarifying ambiguous business questions, or documenting analysis acceptance criteria with stakeholders."
+  },
+  "github": {
+    "owner": "nimrodfisher",
+    "repo": "data-analytics-skills",
+    "ref": "main",
+    "relativePath": "05-stakeholder-communication/stakeholder-requirements-gathering",
+    "sourceUrl": "https://github.com/nimrodfisher/data-analytics-skills/tree/main/05-stakeholder-communication/stakeholder-requirements-gathering"
+  }
+}

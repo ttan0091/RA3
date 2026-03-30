@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 440,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 440,
+    "id": "lyndonkl-claude-skills-constraint-based-creativity-skill-md",
+    "name": "constraint-based-creativity",
+    "author": "lyndonkl",
+    "stars": 21,
+    "githubUrl": "https://github.com/lyndonkl/claude/tree/main/skills/constraint-based-creativity",
+    "skillUrl": "https://skillsmp.com/skills/lyndonkl-claude-skills-constraint-based-creativity-skill-md",
+    "updatedAt": 1765858200,
+    "description": "Use when brainstorming feels stuck or generates obvious ideas, need to break creative patterns, working with limited resources (budget/time/tools/materials), want unconventional solutions, designing with specific limitations, user mentions \"think outside the box\", \"we're stuck\", \"same old ideas\", \"tight constraints\", \"limited budget/time\", or seeking innovation through limitation rather than abundance."
+  },
+  "github": {
+    "owner": "lyndonkl",
+    "repo": "claude",
+    "ref": "main",
+    "relativePath": "skills/constraint-based-creativity",
+    "sourceUrl": "https://github.com/lyndonkl/claude/tree/main/skills/constraint-based-creativity"
+  }
+}

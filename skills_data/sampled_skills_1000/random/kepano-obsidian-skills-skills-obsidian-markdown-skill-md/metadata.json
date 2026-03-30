@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 189,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 189,
+    "id": "kepano-obsidian-skills-skills-obsidian-markdown-skill-md",
+    "name": "obsidian-markdown",
+    "author": "kepano",
+    "stars": 9524,
+    "githubUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-markdown",
+    "skillUrl": "https://skillsmp.com/skills/kepano-obsidian-skills-skills-obsidian-markdown-skill-md",
+    "updatedAt": 1768162385,
+    "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes."
+  },
+  "github": {
+    "owner": "kepano",
+    "repo": "obsidian-skills",
+    "ref": "main",
+    "relativePath": "skills/obsidian-markdown",
+    "sourceUrl": "https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-markdown"
+  }
+}

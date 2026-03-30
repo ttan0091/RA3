@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 898,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 898,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-nosql-expert-skill-md",
+    "name": "nosql-expert",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nosql-expert",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-nosql-expert-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/nosql-expert",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nosql-expert"
+  }
+}

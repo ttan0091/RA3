@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 136,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 136,
+    "id": "netresearch-extension-assessment-skill-skills-extension-assessment-assets-skill-template-skill-md",
+    "name": "my-skill-name",
+    "author": "netresearch",
+    "stars": 1,
+    "githubUrl": "https://github.com/netresearch/extension-assessment-skill/tree/main/skills/extension-assessment/assets/skill-template",
+    "skillUrl": "https://skillsmp.com/skills/netresearch-extension-assessment-skill-skills-extension-assessment-assets-skill-template-skill-md",
+    "updatedAt": 1769802164,
+    "description": "Brief description of what this skill does"
+  },
+  "github": {
+    "owner": "netresearch",
+    "repo": "extension-assessment-skill",
+    "ref": "main",
+    "relativePath": "skills/extension-assessment/assets/skill-template",
+    "sourceUrl": "https://github.com/netresearch/extension-assessment-skill/tree/main/skills/extension-assessment/assets/skill-template"
+  }
+}

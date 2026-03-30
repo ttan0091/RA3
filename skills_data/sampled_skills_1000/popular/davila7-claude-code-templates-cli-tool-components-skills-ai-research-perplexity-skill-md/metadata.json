@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 712,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 712,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-perplexity-skill-md",
+    "name": "perplexity",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/perplexity",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-perplexity-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Web search and research using Perplexity AI. Use when user says \"search\", \"find\", \"look up\", \"ask\", \"research\", or \"what's the latest\" for generic queries. NOT for library/framework docs (use Context7) or workspace questions."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/perplexity",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/perplexity"
+  }
+}

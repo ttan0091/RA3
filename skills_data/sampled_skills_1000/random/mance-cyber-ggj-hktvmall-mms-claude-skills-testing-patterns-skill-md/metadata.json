@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 924,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 924,
+    "id": "mance-cyber-ggj-hktvmall-mms-claude-skills-testing-patterns-skill-md",
+    "name": "testing-patterns",
+    "author": "mance-cyber",
+    "stars": 0,
+    "githubUrl": "https://github.com/mance-cyber/GGJ_hktvmall_mms/tree/main/.claude/skills/testing-patterns",
+    "skillUrl": "https://skillsmp.com/skills/mance-cyber-ggj-hktvmall-mms-claude-skills-testing-patterns-skill-md",
+    "updatedAt": 1768021501,
+    "description": "Testing patterns for GoGoJap project. Use when writing tests, creating mocks, or following TDD workflow."
+  },
+  "github": {
+    "owner": "mance-cyber",
+    "repo": "GGJ_hktvmall_mms",
+    "ref": "main",
+    "relativePath": ".claude/skills/testing-patterns",
+    "sourceUrl": "https://github.com/mance-cyber/GGJ_hktvmall_mms/tree/main/.claude/skills/testing-patterns"
+  }
+}

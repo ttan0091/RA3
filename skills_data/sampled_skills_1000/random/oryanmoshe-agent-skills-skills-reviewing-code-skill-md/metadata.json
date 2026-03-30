@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 787,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 787,
+    "id": "oryanmoshe-agent-skills-skills-reviewing-code-skill-md",
+    "name": "reviewing-code",
+    "author": "oryanmoshe",
+    "stars": 2,
+    "githubUrl": "https://github.com/oryanmoshe/agent-skills/tree/main/skills/reviewing-code",
+    "skillUrl": "https://skillsmp.com/skills/oryanmoshe-agent-skills-skills-reviewing-code-skill-md",
+    "updatedAt": 1769724791,
+    "description": "Reviews code changes for bugs, performance issues, security problems, and best practice violations. Use when reviewing PRs, before committing, after making code changes, or when user asks to review, check, or look over code. Catches N+1 queries, missing error handling, React hooks issues, test coverage gaps, and security vulnerabilities."
+  },
+  "github": {
+    "owner": "oryanmoshe",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "skills/reviewing-code",
+    "sourceUrl": "https://github.com/oryanmoshe/agent-skills/tree/main/skills/reviewing-code"
+  }
+}

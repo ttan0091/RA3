@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 656,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 656,
+    "id": "popstas-mcp-sheet-filler-claude-skills-fill-sheet-skill-md",
+    "name": "fill-sheet",
+    "author": "popstas",
+    "stars": 0,
+    "githubUrl": "https://github.com/popstas/mcp-sheet-filler/tree/master/.claude/skills/fill-sheet",
+    "skillUrl": "https://skillsmp.com/skills/popstas-mcp-sheet-filler-claude-skills-fill-sheet-skill-md",
+    "updatedAt": 1770755768,
+    "description": "Use the sheet-filler MCP server to safely auto-fill tabular data."
+  },
+  "github": {
+    "owner": "popstas",
+    "repo": "mcp-sheet-filler",
+    "ref": "master",
+    "relativePath": ".claude/skills/fill-sheet",
+    "sourceUrl": "https://github.com/popstas/mcp-sheet-filler/tree/master/.claude/skills/fill-sheet"
+  }
+}

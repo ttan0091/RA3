@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 326,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 326,
+    "id": "sundial-org-awesome-openclaw-skills-skills-granola-skill-md",
+    "name": "granola",
+    "author": "sundial-org",
+    "stars": 35,
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/granola",
+    "skillUrl": "https://skillsmp.com/skills/sundial-org-awesome-openclaw-skills-skills-granola-skill-md",
+    "updatedAt": 1769996135,
+    "description": "Access Granola meeting transcripts and notes."
+  },
+  "github": {
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "ref": "main",
+    "relativePath": "skills/granola",
+    "sourceUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/granola"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 773,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 773,
+    "id": "findinfinitelabs-chuuk-claude-skills-react-typescript-frontend-skill-md",
+    "name": "react-typescript-frontend",
+    "author": "findinfinitelabs",
+    "stars": 0,
+    "githubUrl": "https://github.com/findinfinitelabs/chuuk/tree/main/.claude/skills/react-typescript-frontend",
+    "skillUrl": "https://skillsmp.com/skills/findinfinitelabs-chuuk-claude-skills-react-typescript-frontend-skill-md",
+    "updatedAt": 1769305331,
+    "description": "Build React TypeScript frontends with Mantine UI v8, Vite, and type-safe API integrations. Use when creating or modifying the Chuuk Dictionary frontend, building React components, or working with TypeScript in the frontend."
+  },
+  "github": {
+    "owner": "findinfinitelabs",
+    "repo": "chuuk",
+    "ref": "main",
+    "relativePath": ".claude/skills/react-typescript-frontend",
+    "sourceUrl": "https://github.com/findinfinitelabs/chuuk/tree/main/.claude/skills/react-typescript-frontend"
+  }
+}

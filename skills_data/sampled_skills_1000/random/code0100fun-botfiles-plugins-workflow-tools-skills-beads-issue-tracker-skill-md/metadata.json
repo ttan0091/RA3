@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 295,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 295,
+    "id": "code0100fun-botfiles-plugins-workflow-tools-skills-beads-issue-tracker-skill-md",
+    "name": "beads-issue-tracker",
+    "author": "code0100fun",
+    "stars": 0,
+    "githubUrl": "https://github.com/code0100fun/botfiles/tree/main/plugins/workflow-tools/skills/beads-issue-tracker",
+    "skillUrl": "https://skillsmp.com/skills/code0100fun-botfiles-plugins-workflow-tools-skills-beads-issue-tracker-skill-md",
+    "updatedAt": 1770583972,
+    "description": "Guide for using Beads (bd/beads), a local-first issue tracker that stores issues as plain text files. Use when managing project issues, tracking work across sessions, or following issue-tracking workflows."
+  },
+  "github": {
+    "owner": "code0100fun",
+    "repo": "botfiles",
+    "ref": "main",
+    "relativePath": "plugins/workflow-tools/skills/beads-issue-tracker",
+    "sourceUrl": "https://github.com/code0100fun/botfiles/tree/main/plugins/workflow-tools/skills/beads-issue-tracker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 727,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 727,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-skill-md",
+    "name": "prompt-engineering",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-engineering",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering"
+  }
+}

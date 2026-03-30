@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 526,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 526,
+    "id": "thedotmack-claude-mem-plugin-skills-mem-search-skill-md",
+    "name": "mem-search",
+    "author": "thedotmack",
+    "stars": 26831,
+    "githubUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/mem-search",
+    "skillUrl": "https://skillsmp.com/skills/thedotmack-claude-mem-plugin-skills-mem-search-skill-md",
+    "updatedAt": 1770448724,
+    "description": "Search claude-mem's persistent cross-session memory database. Use when user asks \"did we already solve this?\", \"how did we do X last time?\", or needs work from previous sessions."
+  },
+  "github": {
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "ref": "main",
+    "relativePath": "plugin/skills/mem-search",
+    "sourceUrl": "https://github.com/thedotmack/claude-mem/tree/main/plugin/skills/mem-search"
+  }
+}

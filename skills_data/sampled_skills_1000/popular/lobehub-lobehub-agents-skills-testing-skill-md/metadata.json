@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 135,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 135,
+    "id": "lobehub-lobehub-agents-skills-testing-skill-md",
+    "name": "testing",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/testing",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-testing-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Testing guide using Vitest. Use when writing tests (.test.ts, .test.tsx), fixing failing tests, improving test coverage, or debugging test issues. Triggers on test creation, test debugging, mock setup, or test-related questions."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/testing",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/testing"
+  }
+}

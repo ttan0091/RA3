@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 314,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 314,
+    "id": "wildcard-caro-claude-skills-ai-prompt-engineer-skill-md",
+    "name": "ai-prompt-engineer",
+    "author": "wildcard",
+    "stars": 26,
+    "githubUrl": "https://github.com/wildcard/caro/tree/main/.claude/skills/ai-prompt-engineer",
+    "skillUrl": "https://skillsmp.com/skills/wildcard-caro-claude-skills-ai-prompt-engineer-skill-md",
+    "updatedAt": 1769270127,
+    "description": "AI engineering skill for prompt optimization, context inference, and intelligent command routing across different models and use cases"
+  },
+  "github": {
+    "owner": "wildcard",
+    "repo": "caro",
+    "ref": "main",
+    "relativePath": ".claude/skills/ai-prompt-engineer",
+    "sourceUrl": "https://github.com/wildcard/caro/tree/main/.claude/skills/ai-prompt-engineer"
+  }
+}

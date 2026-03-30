@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 451,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 451,
+    "id": "azure99-skill-creator-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "Azure99",
+    "stars": 1,
+    "githubUrl": "https://github.com/Azure99/skill-creator/tree/main/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/azure99-skill-creator-skills-skill-creator-skill-md",
+    "updatedAt": 1769447122,
+    "description": "Guide for creating effective skills that extend Agent with specialized knowledge, workflows, or tool integrations. Use when a user wants to create a new skill, update an existing skill, or needs guidance on skill structure, resources, or packaging."
+  },
+  "github": {
+    "owner": "Azure99",
+    "repo": "skill-creator",
+    "ref": "main",
+    "relativePath": "skills/skill-creator",
+    "sourceUrl": "https://github.com/Azure99/skill-creator/tree/main/skills/skill-creator"
+  }
+}

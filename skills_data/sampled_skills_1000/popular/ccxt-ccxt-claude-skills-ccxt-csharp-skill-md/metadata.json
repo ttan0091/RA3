@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 297,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 297,
+    "id": "ccxt-ccxt-claude-skills-ccxt-csharp-skill-md",
+    "name": "ccxt-csharp",
+    "author": "ccxt",
+    "stars": 40891,
+    "githubUrl": "https://github.com/ccxt/ccxt/tree/master/.claude/skills/ccxt-csharp",
+    "skillUrl": "https://skillsmp.com/skills/ccxt-ccxt-claude-skills-ccxt-csharp-skill-md",
+    "updatedAt": 1770028077,
+    "description": "CCXT cryptocurrency exchange library for C# and .NET developers. Covers both REST API (standard) and WebSocket API (real-time). Helps install CCXT, connect to exchanges, fetch market data, place orders, stream live tickers/orderbooks, handle authentication, and manage errors in .NET projects. Use when working with crypto exchanges in C# applications, trading systems, or financial software. Supports .NET Standard 2.0+."
+  },
+  "github": {
+    "owner": "ccxt",
+    "repo": "ccxt",
+    "ref": "master",
+    "relativePath": ".claude/skills/ccxt-csharp",
+    "sourceUrl": "https://github.com/ccxt/ccxt/tree/master/.claude/skills/ccxt-csharp"
+  }
+}

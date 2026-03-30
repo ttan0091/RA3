@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 568,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 568,
+    "id": "travisjneuman-claude-skills-vue-development-skill-md",
+    "name": "vue-development",
+    "author": "travisjneuman",
+    "stars": 8,
+    "githubUrl": "https://github.com/travisjneuman/.claude/tree/master/skills/vue-development",
+    "skillUrl": "https://skillsmp.com/skills/travisjneuman-claude-skills-vue-development-skill-md",
+    "updatedAt": 1768318082,
+    "description": "Vue.js 3 development with Composition API, TypeScript, Pinia state management, and Nuxt 3 full-stack. Use when building Vue applications, implementing reactive patterns, creating composables, or working with the Vue ecosystem."
+  },
+  "github": {
+    "owner": "travisjneuman",
+    "repo": ".claude",
+    "ref": "master",
+    "relativePath": "skills/vue-development",
+    "sourceUrl": "https://github.com/travisjneuman/.claude/tree/master/skills/vue-development"
+  }
+}

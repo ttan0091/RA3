@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 403,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 403,
+    "id": "adaptationio-skrillz-claude-skills-ac-state-tracker-skill-md",
+    "name": "ac-state-tracker",
+    "author": "adaptationio",
+    "stars": 3,
+    "githubUrl": "https://github.com/adaptationio/Skrillz/tree/main/.claude/skills/ac-state-tracker",
+    "skillUrl": "https://skillsmp.com/skills/adaptationio-skrillz-claude-skills-ac-state-tracker-skill-md",
+    "updatedAt": 1768523976,
+    "description": "State persistence for autonomous coding. Use when saving progress, loading state, tracking features, managing checkpoints, or persisting data across sessions."
+  },
+  "github": {
+    "owner": "adaptationio",
+    "repo": "Skrillz",
+    "ref": "main",
+    "relativePath": ".claude/skills/ac-state-tracker",
+    "sourceUrl": "https://github.com/adaptationio/Skrillz/tree/main/.claude/skills/ac-state-tracker"
+  }
+}

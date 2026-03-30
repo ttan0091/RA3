@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 253,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 253,
+    "id": "diey-codex-agent-skills-pull-request-format-skill-md",
+    "name": "pull-request-format",
+    "author": "diey",
+    "stars": 0,
+    "githubUrl": "https://github.com/diey/codex-agent-skills/tree/main/pull-request-format",
+    "skillUrl": "https://skillsmp.com/skills/diey-codex-agent-skills-pull-request-format-skill-md",
+    "updatedAt": 1767769669,
+    "description": "Validate pull request source/target rules and draft standardised PR titles and Markdown descriptions that match repository GitHub Actions enforcement."
+  },
+  "github": {
+    "owner": "diey",
+    "repo": "codex-agent-skills",
+    "ref": "main",
+    "relativePath": "pull-request-format",
+    "sourceUrl": "https://github.com/diey/codex-agent-skills/tree/main/pull-request-format"
+  }
+}

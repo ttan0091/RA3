@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 846,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 846,
+    "id": "fajshah-hackhathone-2-phase-5-skills-kubernetes-deployment-skill-md",
+    "name": "kubernetes-deployment",
+    "author": "fajshah",
+    "stars": 0,
+    "githubUrl": "https://github.com/fajshah/hackhathone-2-phase-5/tree/main/skills/kubernetes-deployment",
+    "skillUrl": "https://skillsmp.com/skills/fajshah-hackhathone-2-phase-5-skills-kubernetes-deployment-skill-md",
+    "updatedAt": 1770542210,
+    "description": "Deploy and scale containerized applications on Kubernetes from hello world to production. Use when deploying containers to Kubernetes, creating Deployments/Services/Ingress, scaling applications, configuring health checks, managing configuration with ConfigMaps/Secrets, setting up storage, or preparing production-ready deployments. Covers kubectl operations, YAML manifests, HPA autoscaling, and security best practices. Includes AI-assisted manifest generation, iterative refinement workflows, critical evaluation checklists, and production readiness validation."
+  },
+  "github": {
+    "owner": "fajshah",
+    "repo": "hackhathone-2-phase-5",
+    "ref": "main",
+    "relativePath": "skills/kubernetes-deployment",
+    "sourceUrl": "https://github.com/fajshah/hackhathone-2-phase-5/tree/main/skills/kubernetes-deployment"
+  }
+}

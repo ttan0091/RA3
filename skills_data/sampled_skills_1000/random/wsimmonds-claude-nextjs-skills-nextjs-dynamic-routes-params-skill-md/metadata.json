@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 951,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 951,
+    "id": "wsimmonds-claude-nextjs-skills-nextjs-dynamic-routes-params-skill-md",
+    "name": "nextjs-dynamic-routes-params",
+    "author": "wsimmonds",
+    "stars": 64,
+    "githubUrl": "https://github.com/wsimmonds/claude-nextjs-skills/tree/main/nextjs-dynamic-routes-params",
+    "skillUrl": "https://skillsmp.com/skills/wsimmonds-claude-nextjs-skills-nextjs-dynamic-routes-params-skill-md",
+    "updatedAt": 1761303939,
+    "description": "Guide for Next.js App Router dynamic routes and pathname parameters. Use when building pages that depend on URL segments (IDs, slugs, nested paths), accessing the `params` prop, or fetching resources by identifier. Helps avoid over-nesting by defaulting to the simplest route structure (e.g., `app/[id]` instead of `app/products/[id]` unless the URL calls for it)."
+  },
+  "github": {
+    "owner": "wsimmonds",
+    "repo": "claude-nextjs-skills",
+    "ref": "main",
+    "relativePath": "nextjs-dynamic-routes-params",
+    "sourceUrl": "https://github.com/wsimmonds/claude-nextjs-skills/tree/main/nextjs-dynamic-routes-params"
+  }
+}

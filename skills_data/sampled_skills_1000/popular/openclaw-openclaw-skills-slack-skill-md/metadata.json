@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 50,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 50,
+    "id": "openclaw-openclaw-skills-slack-skill-md",
+    "name": "slack",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/slack",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-slack-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Use when you need to control Slack from OpenClaw via the slack tool, including reacting to messages or pinning/unpinning items in Slack channels or DMs."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/slack",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/slack"
+  }
+}

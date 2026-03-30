@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 696,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 696,
+    "id": "openclaw-skills-skills-gumadeiras-pet-skill-md",
+    "name": "pet",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/pet",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-gumadeiras-pet-skill-md",
+    "updatedAt": 1768937552,
+    "description": "Simple command-line snippet manager. Use it to save and reuse complex commands."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/gumadeiras/pet",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/gumadeiras/pet"
+  }
+}

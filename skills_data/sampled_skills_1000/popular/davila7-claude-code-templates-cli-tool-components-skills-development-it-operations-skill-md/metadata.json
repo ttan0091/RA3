@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 883,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 883,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-it-operations-skill-md",
+    "name": "it-operations",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/it-operations",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-it-operations-skill-md",
+    "updatedAt": 1766259071,
+    "description": "Manages IT infrastructure, monitoring, incident response, and service reliability. Provides frameworks for ITIL service management, observability strategies, automation, backup/recovery, capacity planning, and operational excellence practices."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/it-operations",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/it-operations"
+  }
+}

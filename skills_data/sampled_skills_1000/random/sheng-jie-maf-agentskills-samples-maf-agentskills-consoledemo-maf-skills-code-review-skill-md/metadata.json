@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 447,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 447,
+    "id": "sheng-jie-maf-agentskills-samples-maf-agentskills-consoledemo-maf-skills-code-review-skill-md",
+    "name": "code-review",
+    "author": "sheng-jie",
+    "stars": 30,
+    "githubUrl": "https://github.com/sheng-jie/Maf.AgentSkills/tree/main/samples/Maf.AgentSkills.ConsoleDemo/.maf/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/sheng-jie-maf-agentskills-samples-maf-agentskills-consoledemo-maf-skills-code-review-skill-md",
+    "updatedAt": 1767842591,
+    "description": "A skill for conducting thorough code reviews, identifying issues, suggesting improvements, and ensuring code quality standards are met."
+  },
+  "github": {
+    "owner": "sheng-jie",
+    "repo": "Maf.AgentSkills",
+    "ref": "main",
+    "relativePath": "samples/Maf.AgentSkills.ConsoleDemo/.maf/skills/code-review",
+    "sourceUrl": "https://github.com/sheng-jie/Maf.AgentSkills/tree/main/samples/Maf.AgentSkills.ConsoleDemo/.maf/skills/code-review"
+  }
+}

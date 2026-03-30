@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 31,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 31,
+    "id": "openclaw-openclaw-skills-himalaya-skill-md",
+    "name": "himalaya",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/himalaya",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-himalaya-skill-md",
+    "updatedAt": 1769862085,
+    "description": "CLI to manage emails via IMAP/SMTP. Use `himalaya` to list, read, write, reply, forward, search, and organize emails from the terminal. Supports multiple accounts and message composition with MML (MIME Meta Language)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/himalaya",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/himalaya"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 349,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 349,
+    "id": "anthropics-claude-cookbooks-skills-custom-skills-creating-financial-models-skill-md",
+    "name": "creating-financial-models",
+    "author": "anthropics",
+    "stars": 32748,
+    "githubUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/skills/custom_skills/creating-financial-models",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-claude-cookbooks-skills-custom-skills-creating-financial-models-skill-md",
+    "updatedAt": 1764312299,
+    "description": "This skill provides an advanced financial modeling suite with DCF analysis, sensitivity testing, Monte Carlo simulations, and scenario planning for investment decisions"
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "claude-cookbooks",
+    "ref": "main",
+    "relativePath": "skills/custom_skills/creating-financial-models",
+    "sourceUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/skills/custom_skills/creating-financial-models"
+  }
+}

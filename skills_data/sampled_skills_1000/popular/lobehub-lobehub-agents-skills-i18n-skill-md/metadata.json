@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 128,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 128,
+    "id": "lobehub-lobehub-agents-skills-i18n-skill-md",
+    "name": "i18n",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/i18n",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-i18n-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Internationalization guide using react-i18next. Use when adding translations, creating i18n keys, or working with localized text in React components (.tsx files). Triggers on translation tasks, locale management, or i18n implementation."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/i18n",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/i18n"
+  }
+}

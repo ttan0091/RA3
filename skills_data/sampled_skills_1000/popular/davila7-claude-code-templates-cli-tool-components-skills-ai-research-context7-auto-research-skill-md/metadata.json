@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 643,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 643,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-context7-auto-research-skill-md",
+    "name": "context7-auto-research",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/context7-auto-research",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-context7-auto-research-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Automatically fetch latest library/framework documentation for Claude Code via Context7 API"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/context7-auto-research",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/context7-auto-research"
+  }
+}

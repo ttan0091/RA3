@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 70,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 70,
+    "id": "hoodini-ai-agents-skills-skills-copilot-sdk-skill-md",
+    "name": "copilot-sdk",
+    "author": "hoodini",
+    "stars": 87,
+    "githubUrl": "https://github.com/hoodini/ai-agents-skills/tree/master/skills/copilot-sdk",
+    "skillUrl": "https://skillsmp.com/skills/hoodini-ai-agents-skills-skills-copilot-sdk-skill-md",
+    "updatedAt": 1769352397,
+    "description": "Build agentic applications with GitHub Copilot SDK. Use when embedding AI agents in apps, creating custom tools, implementing streaming responses, managing sessions, connecting to MCP servers, or creating custom agents. Triggers on Copilot SDK, GitHub SDK, agentic app, embed Copilot, programmable agent, MCP server, custom agent."
+  },
+  "github": {
+    "owner": "hoodini",
+    "repo": "ai-agents-skills",
+    "ref": "master",
+    "relativePath": "skills/copilot-sdk",
+    "sourceUrl": "https://github.com/hoodini/ai-agents-skills/tree/master/skills/copilot-sdk"
+  }
+}

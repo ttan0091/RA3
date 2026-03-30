@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 750,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 750,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-analytics-tracking-skill-md",
+    "name": "analytics-tracking",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/analytics-tracking",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-analytics-tracking-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to set up, improve, or audit analytics tracking and measurement. Also use when the user mentions \"set up tracking,\" \"GA4,\" \"Google Analytics,\" \"conversion tracking,\" \"event tracking,\" \"UTM parameters,\" \"tag manager,\" \"GTM,\" \"analytics implementation,\" or \"tracking plan.\" For A/B test measurement, see ab-test-setup."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/analytics-tracking",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/analytics-tracking"
+  }
+}

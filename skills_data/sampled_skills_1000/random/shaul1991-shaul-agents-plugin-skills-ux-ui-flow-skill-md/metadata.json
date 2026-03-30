@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 441,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 441,
+    "id": "shaul1991-shaul-agents-plugin-skills-ux-ui-flow-skill-md",
+    "name": "ux-ui-flow",
+    "author": "shaul1991",
+    "stars": 0,
+    "githubUrl": "https://github.com/shaul1991/shaul-agents-plugin/tree/main/skills/ux-ui-flow",
+    "skillUrl": "https://skillsmp.com/skills/shaul1991-shaul-agents-plugin-skills-ux-ui-flow-skill-md",
+    "updatedAt": 1768530760,
+    "description": "사용자 플로우 분석 에이전트. 사용자 여정과 인터랙션 플로우를 설계합니다."
+  },
+  "github": {
+    "owner": "shaul1991",
+    "repo": "shaul-agents-plugin",
+    "ref": "main",
+    "relativePath": "skills/ux-ui-flow",
+    "sourceUrl": "https://github.com/shaul1991/shaul-agents-plugin/tree/main/skills/ux-ui-flow"
+  }
+}

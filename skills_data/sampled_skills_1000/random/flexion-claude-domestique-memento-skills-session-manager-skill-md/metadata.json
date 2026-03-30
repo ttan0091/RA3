@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 378,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 378,
+    "id": "flexion-claude-domestique-memento-skills-session-manager-skill-md",
+    "name": "session-manager",
+    "author": "flexion",
+    "stars": 0,
+    "githubUrl": "https://github.com/flexion/claude-domestique/tree/main/memento/skills/session-manager",
+    "skillUrl": "https://skillsmp.com/skills/flexion-claude-domestique-memento-skills-session-manager-skill-md",
+    "updatedAt": 1768433870,
+    "description": "Manage Claude Code sessions for the current branch. Use this skill when:\n- User asks \"what's next?\" or \"where was I?\"\n- User starts work on a new branch without a session\n- Before committing (to update session log)\n- When resuming work after a break"
+  },
+  "github": {
+    "owner": "flexion",
+    "repo": "claude-domestique",
+    "ref": "main",
+    "relativePath": "memento/skills/session-manager",
+    "sourceUrl": "https://github.com/flexion/claude-domestique/tree/main/memento/skills/session-manager"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 209,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 209,
+    "id": "plurigrid-asi-skills-fix-review-skill-md",
+    "name": "fix-review",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/fix-review",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-fix-review-skill-md",
+    "updatedAt": 1769557287,
+    "description": "Review security fixes and patches for completeness and correctness."
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/fix-review",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/fix-review"
+  }
+}

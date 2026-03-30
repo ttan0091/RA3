@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 738,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 738,
+    "id": "peerjakobsen-smartspender-skills-subscription-detection-skill-md",
+    "name": "subscription-detection",
+    "author": "peerjakobsen",
+    "stars": 0,
+    "githubUrl": "https://github.com/peerjakobsen/smartspender/tree/main/skills/subscription-detection",
+    "skillUrl": "https://skillsmp.com/skills/peerjakobsen-smartspender-skills-subscription-detection-skill-md",
+    "updatedAt": 1770137439,
+    "description": "Rules for detecting recurring charges and subscriptions from transaction history. Reference this when identifying services the user pays for regularly."
+  },
+  "github": {
+    "owner": "peerjakobsen",
+    "repo": "smartspender",
+    "ref": "main",
+    "relativePath": "skills/subscription-detection",
+    "sourceUrl": "https://github.com/peerjakobsen/smartspender/tree/main/skills/subscription-detection"
+  }
+}

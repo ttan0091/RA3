@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 969,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 969,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-frontend-to-backend-requirements-skill-md",
+    "name": "frontend-to-backend-requirements",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/frontend-to-backend-requirements",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-frontend-to-backend-requirements-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Document frontend data needs for backend developers. Use when frontend needs to communicate API requirements to backend, or user says 'backend requirements', 'what data do I need', 'API requirements', or is describing data needs for a UI."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/frontend-to-backend-requirements",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/frontend-to-backend-requirements"
+  }
+}

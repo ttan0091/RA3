@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 841,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 841,
+    "id": "phrazzld-codex-config-skills-check-docs-skill-md",
+    "name": "check-docs",
+    "author": "phrazzld",
+    "stars": 1,
+    "githubUrl": "https://github.com/phrazzld/codex-config/tree/master/skills/check-docs",
+    "skillUrl": "https://skillsmp.com/skills/phrazzld-codex-config-skills-check-docs-skill-md",
+    "updatedAt": 1770327595,
+    "description": "Audit documentation: README, architecture, API docs, .env.example.\nOutputs structured findings. Use log-doc-issues to create issues.\nInvoke for: documentation audit, gap analysis, staleness check."
+  },
+  "github": {
+    "owner": "phrazzld",
+    "repo": "codex-config",
+    "ref": "master",
+    "relativePath": "skills/check-docs",
+    "sourceUrl": "https://github.com/phrazzld/codex-config/tree/master/skills/check-docs"
+  }
+}

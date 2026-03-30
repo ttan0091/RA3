@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 742,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 742,
+    "id": "hummbl-dev-hummbl-agent-skills-re-recursion-re7-self-referential-logic-skill-md",
+    "name": "re7-self-referential-logic",
+    "author": "hummbl-dev",
+    "stars": 1,
+    "githubUrl": "https://github.com/hummbl-dev/hummbl-agent/tree/main/skills/RE-recursion/re7-self-referential-logic",
+    "skillUrl": "https://skillsmp.com/skills/hummbl-dev-hummbl-agent-skills-re-recursion-re7-self-referential-logic-skill-md",
+    "updatedAt": 1769821127,
+    "description": "Apply RE7 Self-Referential Logic to create systems that monitor, measure, or modify themselves."
+  },
+  "github": {
+    "owner": "hummbl-dev",
+    "repo": "hummbl-agent",
+    "ref": "main",
+    "relativePath": "skills/RE-recursion/re7-self-referential-logic",
+    "sourceUrl": "https://github.com/hummbl-dev/hummbl-agent/tree/main/skills/RE-recursion/re7-self-referential-logic"
+  }
+}

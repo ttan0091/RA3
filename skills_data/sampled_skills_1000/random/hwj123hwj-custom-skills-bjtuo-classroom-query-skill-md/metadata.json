@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 600,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 600,
+    "id": "hwj123hwj-custom-skills-bjtuo-classroom-query-skill-md",
+    "name": "bjtuo-classroom-query",
+    "author": "hwj123hwj",
+    "stars": 0,
+    "githubUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/bjtuo-classroom-query",
+    "skillUrl": "https://skillsmp.com/skills/hwj123hwj-custom-skills-bjtuo-classroom-query-skill-md",
+    "updatedAt": 1770558282,
+    "description": "北京交通大学（BJTU）教室课表查询自动化。支持 AI 验证码识别登录、按周次、教学楼、房号查询占用情况。"
+  },
+  "github": {
+    "owner": "hwj123hwj",
+    "repo": "custom-skills",
+    "ref": "main",
+    "relativePath": "bjtuo-classroom-query",
+    "sourceUrl": "https://github.com/hwj123hwj/custom-skills/tree/main/bjtuo-classroom-query"
+  }
+}

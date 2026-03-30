@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 246,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 246,
+    "id": "macro-inc-macro-claude-skills-qc-skill-md",
+    "name": "qc",
+    "author": "macro-inc",
+    "stars": 39,
+    "githubUrl": "https://github.com/macro-inc/macro/tree/main/.claude/skills/qc",
+    "skillUrl": "https://skillsmp.com/skills/macro-inc-macro-claude-skills-qc-skill-md",
+    "updatedAt": 1768940758,
+    "description": "Quality gate. 5 parallel agents review changes. All must pass."
+  },
+  "github": {
+    "owner": "macro-inc",
+    "repo": "macro",
+    "ref": "main",
+    "relativePath": ".claude/skills/qc",
+    "sourceUrl": "https://github.com/macro-inc/macro/tree/main/.claude/skills/qc"
+  }
+}

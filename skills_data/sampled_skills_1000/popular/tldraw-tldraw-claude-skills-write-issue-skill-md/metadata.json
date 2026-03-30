@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 207,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 207,
+    "id": "tldraw-tldraw-claude-skills-write-issue-skill-md",
+    "name": "write-issue",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-issue",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-issue-skill-md",
+    "updatedAt": 1767696822,
+    "description": "Writing and maintaining GitHub issues for the tldraw repository. Use when creating new issues, editing issue titles/bodies, triaging issues, or cleaning up issue metadata (types, labels)."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-issue",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-issue"
+  }
+}

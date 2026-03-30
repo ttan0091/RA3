@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 618,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 618,
+    "id": "dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-ariff-verification-before-completion-skills-verification-before-completion-skill-md",
+    "name": "verification-before-completion",
+    "author": "Dicklesworthstone",
+    "stars": 38,
+    "githubUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-ariff/verification-before-completion/skills/verification-before-completion",
+    "skillUrl": "https://skillsmp.com/skills/dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-ariff-verification-before-completion-skills-verification-before-completion-skill-md",
+    "updatedAt": 1770274565,
+    "description": "Never claim completion without fresh verification evidence"
+  },
+  "github": {
+    "owner": "Dicklesworthstone",
+    "repo": "pi_agent_rust",
+    "ref": "main",
+    "relativePath": "tests/ext_conformance/artifacts/plugins-ariff/verification-before-completion/skills/verification-before-completion",
+    "sourceUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-ariff/verification-before-completion/skills/verification-before-completion"
+  }
+}

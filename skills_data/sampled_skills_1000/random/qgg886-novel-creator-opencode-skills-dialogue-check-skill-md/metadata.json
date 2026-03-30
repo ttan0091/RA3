@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 103,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 103,
+    "id": "qgg886-novel-creator-opencode-skills-dialogue-check-skill-md",
+    "name": "dialogue-check",
+    "author": "QGG886",
+    "stars": 0,
+    "githubUrl": "https://github.com/QGG886/novel_creator/tree/main/.opencode/skills/dialogue_check",
+    "skillUrl": "https://skillsmp.com/skills/qgg886-novel-creator-opencode-skills-dialogue-check-skill-md",
+    "updatedAt": 1769882716,
+    "description": "检查对话自然度，包括口语化表达、句式变化、角色个性、情境匹配等，发现问题并提供具体修改方案"
+  },
+  "github": {
+    "owner": "QGG886",
+    "repo": "novel_creator",
+    "ref": "main",
+    "relativePath": ".opencode/skills/dialogue_check",
+    "sourceUrl": "https://github.com/QGG886/novel_creator/tree/main/.opencode/skills/dialogue_check"
+  }
+}

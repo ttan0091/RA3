@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 408,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 408,
+    "id": "partme-ai-full-stack-skills-skills-uniappx-project-skill-md",
+    "name": "uniappx-project",
+    "author": "partme-ai",
+    "stars": 67,
+    "githubUrl": "https://github.com/partme-ai/full-stack-skills/tree/main/skills/uniappx-project",
+    "skillUrl": "https://skillsmp.com/skills/partme-ai-full-stack-skills-skills-uniappx-project-skill-md",
+    "updatedAt": 1770378863,
+    "description": "Provides comprehensive uni-app-x component and API integration guidance. Use when the user needs official uni-app-x components or APIs, wants per-component or per-API examples, or needs cross-platform compatibility details for uni-app-x."
+  },
+  "github": {
+    "owner": "partme-ai",
+    "repo": "full-stack-skills",
+    "ref": "main",
+    "relativePath": "skills/uniappx-project",
+    "sourceUrl": "https://github.com/partme-ai/full-stack-skills/tree/main/skills/uniappx-project"
+  }
+}

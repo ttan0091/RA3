@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 838,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 838,
+    "id": "dredd-us-seashells-claude-skills-vibe-coding-yaml-skill-md",
+    "name": "vibe-coding-yaml",
+    "author": "dredd-us",
+    "stars": 0,
+    "githubUrl": "https://github.com/dredd-us/seashells/tree/trunk/.claude/skills/vibe-coding-yaml",
+    "skillUrl": "https://skillsmp.com/skills/dredd-us-seashells-claude-skills-vibe-coding-yaml-skill-md",
+    "updatedAt": 1767918060,
+    "description": "AI outputs YAML descriptors instead of code, CLI executes deterministically for 100% auditable behavior with zero slop. Use when auditability is critical, generated code review needed, or deterministic execution required. YAML serves as intermediate representation. Triggers on \"auditable generation\", \"YAML output\", \"deterministic execution\", \"code review\", \"vibe coding\"."
+  },
+  "github": {
+    "owner": "dredd-us",
+    "repo": "seashells",
+    "ref": "trunk",
+    "relativePath": ".claude/skills/vibe-coding-yaml",
+    "sourceUrl": "https://github.com/dredd-us/seashells/tree/trunk/.claude/skills/vibe-coding-yaml"
+  }
+}

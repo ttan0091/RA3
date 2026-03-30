@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 13,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 13,
+    "id": "openclaw-openclaw-skills-1password-skill-md",
+    "name": "1password",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/1password",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-1password-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration, signing in (single or multi-account), or reading/injecting/running secrets via op."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/1password",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/1password"
+  }
+}

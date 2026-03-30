@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 235,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 235,
+    "id": "agentuity-docs-doc-agents-agents-skills-agentuity-cli-auth-ssh-list-skill-md",
+    "name": "agentuity-cli-auth-ssh-list",
+    "author": "agentuity",
+    "stars": 4,
+    "githubUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-auth-ssh-list",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-docs-doc-agents-agents-skills-agentuity-cli-auth-ssh-list-skill-md",
+    "updatedAt": 1769137511,
+    "description": "List all SSH keys on your account. Requires authentication. Use for managing authentication credentials"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "docs",
+    "ref": "main",
+    "relativePath": "doc-agents/.agents/skills/agentuity-cli-auth-ssh-list",
+    "sourceUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-auth-ssh-list"
+  }
+}

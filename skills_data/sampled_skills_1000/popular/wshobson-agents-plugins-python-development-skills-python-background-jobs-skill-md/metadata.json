@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 463,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 463,
+    "id": "wshobson-agents-plugins-python-development-skills-python-background-jobs-skill-md",
+    "name": "python-background-jobs",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-background-jobs",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-background-jobs-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python background job patterns including task queues, workers, and event-driven architecture. Use when implementing async task processing, job queues, long-running operations, or decoupling work from request/response cycles."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-background-jobs",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-background-jobs"
+  }
+}

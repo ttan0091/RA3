@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 122,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 122,
+    "id": "lobehub-lobehub-agents-skills-add-provider-doc-skill-md",
+    "name": "add-provider-doc",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/add-provider-doc",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-add-provider-doc-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Guide for adding new AI provider documentation. Use when adding documentation for a new AI provider (like OpenAI, Anthropic, etc.), including usage docs, environment variables, Docker config, and image resources. Triggers on provider documentation tasks."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/add-provider-doc",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/add-provider-doc"
+  }
+}

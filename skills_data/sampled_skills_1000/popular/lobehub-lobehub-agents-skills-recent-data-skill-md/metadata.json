@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 134,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 134,
+    "id": "lobehub-lobehub-agents-skills-recent-data-skill-md",
+    "name": "recent-data",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/recent-data",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-recent-data-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Guide for using Recent Data (topics, resources, pages). Use when working with recently accessed items, implementing recent lists, or accessing session store recent data. Triggers on recent data usage or implementation tasks."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/recent-data",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/recent-data"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 586,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 586,
+    "id": "github-awesome-copilot-skills-azure-resource-visualizer-skill-md",
+    "name": "azure-resource-visualizer",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-resource-visualizer",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-azure-resource-visualizer-skill-md",
+    "updatedAt": 1768240409,
+    "description": "Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the relationships between individual resources. Use this skill when the user asks for a diagram of their Azure resources or help in understanding how the resources relate to each other."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/azure-resource-visualizer",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-resource-visualizer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 218,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 218,
+    "id": "hieutrtr-ai1-skills-skills-react-testing-patterns-skill-md",
+    "name": "react-testing-patterns",
+    "author": "hieutrtr",
+    "stars": 8,
+    "githubUrl": "https://github.com/hieutrtr/ai1-skills/tree/main/skills/react-testing-patterns",
+    "skillUrl": "https://skillsmp.com/skills/hieutrtr-ai1-skills-skills-react-testing-patterns-skill-md",
+    "updatedAt": 1770242550,
+    "description": "React component and hook testing patterns with Testing Library and Vitest. Use when writing tests for React components, custom hooks, or data fetching logic. Covers component rendering tests, user interaction simulation, async state testing, MSW for API mocking, hook testing with renderHook, accessibility assertions, and snapshot testing guidelines. Does NOT cover E2E tests (use e2e-testing) or TDD workflow enforcement (use tdd-workflow)."
+  },
+  "github": {
+    "owner": "hieutrtr",
+    "repo": "ai1-skills",
+    "ref": "main",
+    "relativePath": "skills/react-testing-patterns",
+    "sourceUrl": "https://github.com/hieutrtr/ai1-skills/tree/main/skills/react-testing-patterns"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 144,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 144,
+    "id": "mrwogu-promptscript-claude-skills-documenting-skill-md",
+    "name": "documenting",
+    "author": "mrwogu",
+    "stars": 0,
+    "githubUrl": "https://github.com/mrwogu/promptscript/tree/main/.claude/skills/documenting",
+    "skillUrl": "https://skillsmp.com/skills/mrwogu-promptscript-claude-skills-documenting-skill-md",
+    "updatedAt": 1769519062,
+    "description": "Creates clear, maintainable documentation for code and APIs. Use when writing README files, API docs, code comments, or when asked to document code."
+  },
+  "github": {
+    "owner": "mrwogu",
+    "repo": "promptscript",
+    "ref": "main",
+    "relativePath": ".claude/skills/documenting",
+    "sourceUrl": "https://github.com/mrwogu/promptscript/tree/main/.claude/skills/documenting"
+  }
+}

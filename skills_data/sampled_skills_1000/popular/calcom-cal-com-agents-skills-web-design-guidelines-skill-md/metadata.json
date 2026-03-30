@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 307,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 307,
+    "id": "calcom-cal-com-agents-skills-web-design-guidelines-skill-md",
+    "name": "web-design-guidelines",
+    "author": "calcom",
+    "stars": 40127,
+    "githubUrl": "https://github.com/calcom/cal.com/tree/main/agents/skills/web-design-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/calcom-cal-com-agents-skills-web-design-guidelines-skill-md",
+    "updatedAt": 1770124481,
+    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\"."
+  },
+  "github": {
+    "owner": "calcom",
+    "repo": "cal.com",
+    "ref": "main",
+    "relativePath": "agents/skills/web-design-guidelines",
+    "sourceUrl": "https://github.com/calcom/cal.com/tree/main/agents/skills/web-design-guidelines"
+  }
+}

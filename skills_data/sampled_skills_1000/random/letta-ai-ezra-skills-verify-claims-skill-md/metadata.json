@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 132,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 132,
+    "id": "letta-ai-ezra-skills-verify-claims-skill-md",
+    "name": "verify-claims",
+    "author": "letta-ai",
+    "stars": 1,
+    "githubUrl": "https://github.com/letta-ai/ezra/tree/main/.skills/verify-claims",
+    "skillUrl": "https://skillsmp.com/skills/letta-ai-ezra-skills-verify-claims-skill-md",
+    "updatedAt": 1770503956,
+    "description": "Verify factual claims before adding them to agent memory blocks. Use this skill when proposing FAQ entries, documentation updates, or any factual statements about Letta features, APIs, or behavior. Prevents confident-but-wrong assertions."
+  },
+  "github": {
+    "owner": "letta-ai",
+    "repo": "ezra",
+    "ref": "main",
+    "relativePath": ".skills/verify-claims",
+    "sourceUrl": "https://github.com/letta-ai/ezra/tree/main/.skills/verify-claims"
+  }
+}

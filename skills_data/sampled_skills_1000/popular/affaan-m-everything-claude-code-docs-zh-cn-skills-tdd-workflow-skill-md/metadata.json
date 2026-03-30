@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 244,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 244,
+    "id": "affaan-m-everything-claude-code-docs-zh-cn-skills-tdd-workflow-skill-md",
+    "name": "tdd-workflow",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/tdd-workflow",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-cn-skills-tdd-workflow-skill-md",
+    "updatedAt": 1770299874,
+    "description": "在编写新功能、修复错误或重构代码时使用此技能。强制执行测试驱动开发，包含单元测试、集成测试和端到端测试，覆盖率超过80%。"
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-CN/skills/tdd-workflow",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/tdd-workflow"
+  }
+}

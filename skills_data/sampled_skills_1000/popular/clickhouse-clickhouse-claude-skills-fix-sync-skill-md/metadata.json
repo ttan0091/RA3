@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 198,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 198,
+    "id": "clickhouse-clickhouse-claude-skills-fix-sync-skill-md",
+    "name": "fix-sync",
+    "author": "ClickHouse",
+    "stars": 45784,
+    "githubUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/fix-sync",
+    "skillUrl": "https://skillsmp.com/skills/clickhouse-clickhouse-claude-skills-fix-sync-skill-md",
+    "updatedAt": 1770412536,
+    "description": "Fix the \"CH Inc sync\" job in a pull request by resolving conflicts in the corresponding clickhouse-private sync PR."
+  },
+  "github": {
+    "owner": "ClickHouse",
+    "repo": "ClickHouse",
+    "ref": "master",
+    "relativePath": ".claude/skills/fix-sync",
+    "sourceUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/fix-sync"
+  }
+}

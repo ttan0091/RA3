@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 473,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 473,
+    "id": "ki2pixel-render-signal-server-windsurf-skills-webhook-dashboard-ux-maintainer-skill-md",
+    "name": "webhook-dashboard-ux-maintainer",
+    "author": "ki2pixel",
+    "stars": 0,
+    "githubUrl": "https://github.com/ki2pixel/render_signal_server/tree/main/.windsurf/skills/webhook-dashboard-ux-maintainer",
+    "skillUrl": "https://skillsmp.com/skills/ki2pixel-render-signal-server-windsurf-skills-webhook-dashboard-ux-maintainer-skill-md",
+    "updatedAt": 1770514438,
+    "description": "Preserve and extend the modern dashboard (dashboard.html + static modules) with WCAG-compliant UX, autosave flows, and modular ES6 patterns."
+  },
+  "github": {
+    "owner": "ki2pixel",
+    "repo": "render_signal_server",
+    "ref": "main",
+    "relativePath": ".windsurf/skills/webhook-dashboard-ux-maintainer",
+    "sourceUrl": "https://github.com/ki2pixel/render_signal_server/tree/main/.windsurf/skills/webhook-dashboard-ux-maintainer"
+  }
+}

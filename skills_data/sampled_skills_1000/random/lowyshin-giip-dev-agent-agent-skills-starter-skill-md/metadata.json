@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 86,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 86,
+    "id": "lowyshin-giip-dev-agent-agent-skills-starter-skill-md",
+    "name": "starter",
+    "author": "LowyShin",
+    "stars": 22,
+    "githubUrl": "https://github.com/LowyShin/giip-dev-agent/tree/main/.agent/skills/starter",
+    "skillUrl": "https://skillsmp.com/skills/lowyshin-giip-dev-agent-agent-skills-starter-skill-md",
+    "updatedAt": 1769775380,
+    "description": "Static web development skill for beginners and non-developers.\nCovers HTML/CSS/JavaScript and Next.js App Router basics.\n\nProject initialization with \"init starter\" or \"starter init\".\n\nUse proactively when user is a beginner or wants a simple static website.\n\nTriggers: static website, portfolio, landing page, HTML CSS, beginner, first website,\nsimple web, personal site, init starter, starter init,\n정적 웹, 포트폴리오, 랜딩페이지, 초보자, 첫 웹사이트, 간단한 웹,\n静的サイト, ポートフォリオ, 初心者, 静态网站, 个人网站, 初学者,\nsitio web estático, portafolio, página de inicio, principiante, primer sitio web,\nsite web statique, portfolio, page d'accueil, débutant, premier site web,\nstatische Website, Portfolio, Landingpage, Anfänger, erste Website,\nsito web statico, portfolio, pagina di destinazione, principiante, primo sito web\n\nDo NOT use for: fullstack apps with backend, authentication features, or database needs."
+  },
+  "github": {
+    "owner": "LowyShin",
+    "repo": "giip-dev-agent",
+    "ref": "main",
+    "relativePath": ".agent/skills/starter",
+    "sourceUrl": "https://github.com/LowyShin/giip-dev-agent/tree/main/.agent/skills/starter"
+  }
+}

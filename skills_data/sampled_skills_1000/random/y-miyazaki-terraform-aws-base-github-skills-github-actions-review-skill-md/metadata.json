@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 963,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 963,
+    "id": "y-miyazaki-terraform-aws-base-github-skills-github-actions-review-skill-md",
+    "name": "github-actions-review",
+    "author": "y-miyazaki",
+    "stars": 15,
+    "githubUrl": "https://github.com/y-miyazaki/terraform-aws-base/tree/main/.github/skills/github-actions-review",
+    "skillUrl": "https://skillsmp.com/skills/y-miyazaki-terraform-aws-base-github-skills-github-actions-review-skill-md",
+    "updatedAt": 1770201310,
+    "description": "GitHub Actions Workflow code review for correctness, security, and best practices. Use for manual review of workflow files checking design decisions and security patterns requiring human judgment. For detailed category-specific checks, see reference/."
+  },
+  "github": {
+    "owner": "y-miyazaki",
+    "repo": "terraform-aws-base",
+    "ref": "main",
+    "relativePath": ".github/skills/github-actions-review",
+    "sourceUrl": "https://github.com/y-miyazaki/terraform-aws-base/tree/main/.github/skills/github-actions-review"
+  }
+}

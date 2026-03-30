@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 357,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 357,
+    "id": "code-yeongyu-oh-my-opencode-src-features-builtin-skills-agent-browser-skill-md",
+    "name": "agent-browser",
+    "author": "code-yeongyu",
+    "stars": 30231,
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/agent-browser",
+    "skillUrl": "https://skillsmp.com/skills/code-yeongyu-oh-my-opencode-src-features-builtin-skills-agent-browser-skill-md",
+    "updatedAt": 1769321552,
+    "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages."
+  },
+  "github": {
+    "owner": "code-yeongyu",
+    "repo": "oh-my-opencode",
+    "ref": "dev",
+    "relativePath": "src/features/builtin-skills/agent-browser",
+    "sourceUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/agent-browser"
+  }
+}

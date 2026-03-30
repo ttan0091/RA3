@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 589,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 589,
+    "id": "github-awesome-copilot-skills-chrome-devtools-skill-md",
+    "name": "chrome-devtools",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/chrome-devtools",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-chrome-devtools-skill-md",
+    "updatedAt": 1769102332,
+    "description": "Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots, analyzing network traffic, and profiling performance."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/chrome-devtools",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/chrome-devtools"
+  }
+}

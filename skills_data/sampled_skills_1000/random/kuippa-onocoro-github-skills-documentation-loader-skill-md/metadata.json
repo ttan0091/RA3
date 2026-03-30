@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 652,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 652,
+    "id": "kuippa-onocoro-github-skills-documentation-loader-skill-md",
+    "name": "documentation-loader",
+    "author": "kuippa",
+    "stars": 0,
+    "githubUrl": "https://github.com/kuippa/OnoCoro/tree/main/.github/skills/documentation-loader",
+    "skillUrl": "https://skillsmp.com/skills/kuippa-onocoro-github-skills-documentation-loader-skill-md",
+    "updatedAt": 1768920988,
+    "description": "Automatically load and cache OnoCoro mandatory documentation (AGENTS.md, coding-standards.md, etc.) for AI agents. Supports manual triggers via /readmd command and auto-load on session start. Prevents context gaps when sessions reset or new agents are spawned."
+  },
+  "github": {
+    "owner": "kuippa",
+    "repo": "OnoCoro",
+    "ref": "main",
+    "relativePath": ".github/skills/documentation-loader",
+    "sourceUrl": "https://github.com/kuippa/OnoCoro/tree/main/.github/skills/documentation-loader"
+  }
+}

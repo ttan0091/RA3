@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 504,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 504,
+    "id": "gregbaron-metabase-mysandbox-claude-skills-docs-review-skill-md",
+    "name": "docs-review",
+    "author": "GregBaron",
+    "stars": 0,
+    "githubUrl": "https://github.com/GregBaron/metabase-mysandbox/tree/master/.claude/skills/docs-review",
+    "skillUrl": "https://skillsmp.com/skills/gregbaron-metabase-mysandbox-claude-skills-docs-review-skill-md",
+    "updatedAt": 1769028572,
+    "description": "Review documentation changes for compliance with the Metabase writing style guide. Use when reviewing pull requests, files, or diffs containing documentation markdown files."
+  },
+  "github": {
+    "owner": "GregBaron",
+    "repo": "metabase-mysandbox",
+    "ref": "master",
+    "relativePath": ".claude/skills/docs-review",
+    "sourceUrl": "https://github.com/GregBaron/metabase-mysandbox/tree/master/.claude/skills/docs-review"
+  }
+}

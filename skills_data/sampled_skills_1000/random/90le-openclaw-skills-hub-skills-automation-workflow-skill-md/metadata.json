@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 822,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 822,
+    "id": "90le-openclaw-skills-hub-skills-automation-workflow-skill-md",
+    "name": "workflow",
+    "author": "90le",
+    "stars": 0,
+    "githubUrl": "https://github.com/90le/openclaw-skills-hub/tree/main/skills/automation/workflow",
+    "skillUrl": "https://skillsmp.com/skills/90le-openclaw-skills-hub-skills-automation-workflow-skill-md",
+    "updatedAt": 1770373058,
+    "description": "工作流执行器 - 执行预定义的工作流，自动化复杂任务序列"
+  },
+  "github": {
+    "owner": "90le",
+    "repo": "openclaw-skills-hub",
+    "ref": "main",
+    "relativePath": "skills/automation/workflow",
+    "sourceUrl": "https://github.com/90le/openclaw-skills-hub/tree/main/skills/automation/workflow"
+  }
+}

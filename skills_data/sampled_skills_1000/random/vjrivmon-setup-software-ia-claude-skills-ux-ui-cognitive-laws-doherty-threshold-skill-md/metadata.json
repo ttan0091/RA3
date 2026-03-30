@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 774,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 774,
+    "id": "vjrivmon-setup-software-ia-claude-skills-ux-ui-cognitive-laws-doherty-threshold-skill-md",
+    "name": "doherty-threshold",
+    "author": "vjrivmon",
+    "stars": 1,
+    "githubUrl": "https://github.com/vjrivmon/Setup-Software-IA/tree/main/.claude/skills/ux-ui/cognitive-laws/doherty-threshold",
+    "skillUrl": "https://skillsmp.com/skills/vjrivmon-setup-software-ia-claude-skills-ux-ui-cognitive-laws-doherty-threshold-skill-md",
+    "updatedAt": 1767809166,
+    "description": "Mantén tiempos de respuesta bajo 400ms para mantener la atención del usuario. Use cuando optimice performance, diseñe feedback de carga, o evalúe latencia percibida."
+  },
+  "github": {
+    "owner": "vjrivmon",
+    "repo": "Setup-Software-IA",
+    "ref": "main",
+    "relativePath": ".claude/skills/ux-ui/cognitive-laws/doherty-threshold",
+    "sourceUrl": "https://github.com/vjrivmon/Setup-Software-IA/tree/main/.claude/skills/ux-ui/cognitive-laws/doherty-threshold"
+  }
+}

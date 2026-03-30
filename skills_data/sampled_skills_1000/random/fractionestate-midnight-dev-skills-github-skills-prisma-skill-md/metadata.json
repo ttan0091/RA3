@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 450,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 450,
+    "id": "fractionestate-midnight-dev-skills-github-skills-prisma-skill-md",
+    "name": "prisma",
+    "author": "FractionEstate",
+    "stars": 0,
+    "githubUrl": "https://github.com/FractionEstate/midnight-dev-skills/tree/main/.github/skills/prisma",
+    "skillUrl": "https://skillsmp.com/skills/fractionestate-midnight-dev-skills-github-skills-prisma-skill-md",
+    "updatedAt": 1767603268,
+    "description": "Type-safe database access with Prisma ORM for Node.js and TypeScript. Use when designing schemas, writing queries, running migrations, or optimizing database operations. Triggers on Prisma, database, ORM, migration, or SQL questions."
+  },
+  "github": {
+    "owner": "FractionEstate",
+    "repo": "midnight-dev-skills",
+    "ref": "main",
+    "relativePath": ".github/skills/prisma",
+    "sourceUrl": "https://github.com/FractionEstate/midnight-dev-skills/tree/main/.github/skills/prisma"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 113,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 113,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-visualization-expert-skill-md",
+    "name": "visualization-expert",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/visualization-expert",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-visualization-expert-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Chart selection and data visualization guidance for effective data communication.\nUse when: creating visualizations, choosing chart types, designing dashboards, or when user\nmentions data visualization, charts, graphs, or needs help presenting data visually."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/visualization-expert",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/visualization-expert"
+  }
+}

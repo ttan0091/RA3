@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 831,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 831,
+    "id": "ammonsd-activitytracking-skills-aws-deployment-skill-md",
+    "name": "aws-deployment",
+    "author": "ammonsd",
+    "stars": 0,
+    "githubUrl": "https://github.com/ammonsd/ActivityTracking/tree/main/skills/aws-deployment",
+    "skillUrl": "https://skillsmp.com/skills/ammonsd-activitytracking-skills-aws-deployment-skill-md",
+    "updatedAt": 1768847098,
+    "description": "Guides AWS ECS deployment workflows including CloudFormation stack management, ECS service updates, RDS configuration, S3 setup, and SES email configuration"
+  },
+  "github": {
+    "owner": "ammonsd",
+    "repo": "ActivityTracking",
+    "ref": "main",
+    "relativePath": "skills/aws-deployment",
+    "sourceUrl": "https://github.com/ammonsd/ActivityTracking/tree/main/skills/aws-deployment"
+  }
+}

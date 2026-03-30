@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 976,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 976,
+    "id": "ghabs95-agents-wlbl-agents-agent-skills-cloud-arch-skill-md",
+    "name": "cloudarch",
+    "author": "Ghabs95",
+    "stars": 0,
+    "githubUrl": "https://github.com/Ghabs95/agents/tree/main/wlbl-agents/.agent/skills/cloud_arch",
+    "skillUrl": "https://skillsmp.com/skills/ghabs95-agents-wlbl-agents-agent-skills-cloud-arch-skill-md",
+    "updatedAt": 1770679478,
+    "description": "Chief Infrastructure Architect. Builds and maintains the IaC (Infrastructure as Code) for the entire ecosystem."
+  },
+  "github": {
+    "owner": "Ghabs95",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "wlbl-agents/.agent/skills/cloud_arch",
+    "sourceUrl": "https://github.com/Ghabs95/agents/tree/main/wlbl-agents/.agent/skills/cloud_arch"
+  }
+}

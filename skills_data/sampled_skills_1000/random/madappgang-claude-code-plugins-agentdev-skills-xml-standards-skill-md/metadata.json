@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 849,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 849,
+    "id": "madappgang-claude-code-plugins-agentdev-skills-xml-standards-skill-md",
+    "name": "xml-standards",
+    "author": "MadAppGang",
+    "stars": 225,
+    "githubUrl": "https://github.com/MadAppGang/claude-code/tree/main/plugins/agentdev/skills/xml-standards",
+    "skillUrl": "https://skillsmp.com/skills/madappgang-claude-code-plugins-agentdev-skills-xml-standards-skill-md",
+    "updatedAt": 1769828931,
+    "description": "XML tag structure patterns for Claude Code agents and commands. Use when designing or implementing agents to ensure proper XML structure following Anthropic best practices."
+  },
+  "github": {
+    "owner": "MadAppGang",
+    "repo": "claude-code",
+    "ref": "main",
+    "relativePath": "plugins/agentdev/skills/xml-standards",
+    "sourceUrl": "https://github.com/MadAppGang/claude-code/tree/main/plugins/agentdev/skills/xml-standards"
+  }
+}

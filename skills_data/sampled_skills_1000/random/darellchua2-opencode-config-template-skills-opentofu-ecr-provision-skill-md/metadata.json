@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 481,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 481,
+    "id": "darellchua2-opencode-config-template-skills-opentofu-ecr-provision-skill-md",
+    "name": "opentofu-ecr-provision",
+    "author": "darellchua2",
+    "stars": 2,
+    "githubUrl": "https://github.com/darellchua2/opencode-config-template/tree/main/skills/opentofu-ecr-provision",
+    "skillUrl": "https://skillsmp.com/skills/darellchua2-opencode-config-template-skills-opentofu-ecr-provision-skill-md",
+    "updatedAt": 1769430996,
+    "description": "Provision AWS Elastic Container Registry (ECR) repositories with GitHub OIDC integration following BETEKK standards"
+  },
+  "github": {
+    "owner": "darellchua2",
+    "repo": "opencode-config-template",
+    "ref": "main",
+    "relativePath": "skills/opentofu-ecr-provision",
+    "sourceUrl": "https://github.com/darellchua2/opencode-config-template/tree/main/skills/opentofu-ecr-provision"
+  }
+}

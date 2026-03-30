@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 597,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 597,
+    "id": "mattbillock-drumswarminternational-swarm-kit-skills-dci-agent-skill-md",
+    "name": "dci-agent",
+    "author": "MattBillock",
+    "stars": 0,
+    "githubUrl": "https://github.com/MattBillock/DrumSwarmInternational/tree/main/swarm-kit/skills/dci-agent",
+    "skillUrl": "https://skillsmp.com/skills/mattbillock-drumswarminternational-swarm-kit-skills-dci-agent-skill-md",
+    "updatedAt": 1769990081,
+    "description": "Use when the user asks to build a feature, fix a bug, or do any implementation work in a project that has a running DCI swarm — all implementation is done by the swarm, never by you directly"
+  },
+  "github": {
+    "owner": "MattBillock",
+    "repo": "DrumSwarmInternational",
+    "ref": "main",
+    "relativePath": "swarm-kit/skills/dci-agent",
+    "sourceUrl": "https://github.com/MattBillock/DrumSwarmInternational/tree/main/swarm-kit/skills/dci-agent"
+  }
+}

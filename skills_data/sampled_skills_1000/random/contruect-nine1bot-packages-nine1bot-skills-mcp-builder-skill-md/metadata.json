@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 646,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 646,
+    "id": "contruect-nine1bot-packages-nine1bot-skills-mcp-builder-skill-md",
+    "name": "mcp-builder",
+    "author": "contrueCT",
+    "stars": 5,
+    "githubUrl": "https://github.com/contrueCT/nine1bot/tree/main/packages/nine1bot/skills/mcp-builder",
+    "skillUrl": "https://skillsmp.com/skills/contruect-nine1bot-packages-nine1bot-skills-mcp-builder-skill-md",
+    "updatedAt": 1769786128,
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+  },
+  "github": {
+    "owner": "contrueCT",
+    "repo": "nine1bot",
+    "ref": "main",
+    "relativePath": "packages/nine1bot/skills/mcp-builder",
+    "sourceUrl": "https://github.com/contrueCT/nine1bot/tree/main/packages/nine1bot/skills/mcp-builder"
+  }
+}

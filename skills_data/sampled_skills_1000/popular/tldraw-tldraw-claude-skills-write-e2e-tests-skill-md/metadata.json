@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 205,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 205,
+    "id": "tldraw-tldraw-claude-skills-write-e2e-tests-skill-md",
+    "name": "write-e2e-tests",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-e2e-tests",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-e2e-tests-skill-md",
+    "updatedAt": 1767696822,
+    "description": "Writing Playwright E2E tests for tldraw. Use when creating browser tests, testing UI interactions, or adding E2E coverage in apps/examples/e2e or apps/dotcom/client/e2e."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-e2e-tests",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-e2e-tests"
+  }
+}

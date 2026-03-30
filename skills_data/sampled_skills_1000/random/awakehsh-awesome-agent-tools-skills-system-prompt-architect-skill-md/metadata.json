@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 702,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 702,
+    "id": "awakehsh-awesome-agent-tools-skills-system-prompt-architect-skill-md",
+    "name": "system-prompt-architect",
+    "author": "Awakehsh",
+    "stars": 2,
+    "githubUrl": "https://github.com/Awakehsh/awesome-agent-tools/tree/main/skills/system-prompt-architect",
+    "skillUrl": "https://skillsmp.com/skills/awakehsh-awesome-agent-tools-skills-system-prompt-architect-skill-md",
+    "updatedAt": 1769275032,
+    "description": "System prompt engineering tool for building single and multi-agent systems. Use when developers need to design agent system prompts, especially for complex multi-agent orchestration. Guides through modular prompt construction with built-in patterns and dynamic research."
+  },
+  "github": {
+    "owner": "Awakehsh",
+    "repo": "awesome-agent-tools",
+    "ref": "main",
+    "relativePath": "skills/system-prompt-architect",
+    "sourceUrl": "https://github.com/Awakehsh/awesome-agent-tools/tree/main/skills/system-prompt-architect"
+  }
+}

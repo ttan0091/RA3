@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 232,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 232,
+    "id": "abdullahbokl-boklo-wallet-agent-skills-architecture-guard-skill-md",
+    "name": "architecture-guard",
+    "author": "abdullahbokl",
+    "stars": 0,
+    "githubUrl": "https://github.com/abdullahbokl/Boklo-Wallet/tree/main/.agent/skills/architecture-guard",
+    "skillUrl": "https://skillsmp.com/skills/abdullahbokl-boklo-wallet-agent-skills-architecture-guard-skill-md",
+    "updatedAt": 1769095460,
+    "description": "Enforces Boklo Wallet’s backend-authoritative, event-driven FinTech architecture. Rejects any suggestion that violates the Source of Truth."
+  },
+  "github": {
+    "owner": "abdullahbokl",
+    "repo": "Boklo-Wallet",
+    "ref": "main",
+    "relativePath": ".agent/skills/architecture-guard",
+    "sourceUrl": "https://github.com/abdullahbokl/Boklo-Wallet/tree/main/.agent/skills/architecture-guard"
+  }
+}

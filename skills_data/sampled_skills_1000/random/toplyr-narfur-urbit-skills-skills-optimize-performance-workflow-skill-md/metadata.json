@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 355,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 355,
+    "id": "toplyr-narfur-urbit-skills-skills-optimize-performance-workflow-skill-md",
+    "name": "optimize-performance-workflow",
+    "author": "toplyr-narfur",
+    "stars": 1,
+    "githubUrl": "https://github.com/toplyr-narfur/urbit-skills/tree/main/skills/optimize-performance-workflow",
+    "skillUrl": "https://skillsmp.com/skills/toplyr-narfur-urbit-skills-skills-optimize-performance-workflow-skill-md",
+    "updatedAt": 1770405984,
+    "description": "Automated performance optimization workflow for Urbit ships including profiling, bottleneck identification, and systematic tuning"
+  },
+  "github": {
+    "owner": "toplyr-narfur",
+    "repo": "urbit-skills",
+    "ref": "main",
+    "relativePath": "skills/optimize-performance-workflow",
+    "sourceUrl": "https://github.com/toplyr-narfur/urbit-skills/tree/main/skills/optimize-performance-workflow"
+  }
+}

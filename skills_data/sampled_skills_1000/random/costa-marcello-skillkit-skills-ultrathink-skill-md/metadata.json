@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 100,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 100,
+    "id": "costa-marcello-skillkit-skills-ultrathink-skill-md",
+    "name": "ultrathink",
+    "author": "costa-marcello",
+    "stars": 1,
+    "githubUrl": "https://github.com/costa-marcello/skillkit/tree/main/skills/ultrathink",
+    "skillUrl": "https://skillsmp.com/skills/costa-marcello-skillkit-skills-ultrathink-skill-md",
+    "updatedAt": 1770673799,
+    "description": "Performs exhaustive multi-lens analysis through human, structural, inclusivity, and sustainability perspectives with domain-specific augmentation. Use when the user says \"ULTRATHINK\" (case-insensitive), uses /ultrathink, or faces complex decisions requiring maximum reasoning depth."
+  },
+  "github": {
+    "owner": "costa-marcello",
+    "repo": "skillkit",
+    "ref": "main",
+    "relativePath": "skills/ultrathink",
+    "sourceUrl": "https://github.com/costa-marcello/skillkit/tree/main/skills/ultrathink"
+  }
+}

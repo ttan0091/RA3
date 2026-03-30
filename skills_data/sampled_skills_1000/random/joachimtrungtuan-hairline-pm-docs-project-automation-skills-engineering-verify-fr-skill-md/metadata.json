@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 857,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 857,
+    "id": "joachimtrungtuan-hairline-pm-docs-project-automation-skills-engineering-verify-fr-skill-md",
+    "name": "verify-fr",
+    "author": "joachimtrungtuan",
+    "stars": 0,
+    "githubUrl": "https://github.com/joachimtrungtuan/hairline-pm-docs/tree/main/project-automation/skills-engineering/verify-fr",
+    "skillUrl": "https://skillsmp.com/skills/joachimtrungtuan-hairline-pm-docs-project-automation-skills-engineering-verify-fr-skill-md",
+    "updatedAt": 1770660485,
+    "description": "Verify functional requirement documents against constitution principles, system PRD consistency, client transcription intent, and dependency integrity. Supports single FR or multiple interconnected FRs from the same product with cross-FR consistency analysis. Use when asked to review FR specifications for gaps, contradictions, quality issues, or cross-FR consistency and return a concise issue report."
+  },
+  "github": {
+    "owner": "joachimtrungtuan",
+    "repo": "hairline-pm-docs",
+    "ref": "main",
+    "relativePath": "project-automation/skills-engineering/verify-fr",
+    "sourceUrl": "https://github.com/joachimtrungtuan/hairline-pm-docs/tree/main/project-automation/skills-engineering/verify-fr"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 652,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 652,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-pytorch-fsdp-skill-md",
+    "name": "pytorch-fsdp",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-fsdp",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-pytorch-fsdp-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Expert guidance for Fully Sharded Data Parallel training with PyTorch FSDP - parameter sharding, mixed precision, CPU offloading, FSDP2"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/distributed-training-pytorch-fsdp",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-pytorch-fsdp"
+  }
+}

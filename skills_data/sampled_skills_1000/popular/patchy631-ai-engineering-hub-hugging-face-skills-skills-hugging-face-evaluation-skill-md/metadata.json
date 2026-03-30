@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 511,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 511,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-evaluation-skill-md",
+    "name": "hugging-face-evaluation",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-evaluation",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-evaluation-skill-md",
+    "updatedAt": 1769769658,
+    "description": "Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom model evaluations with vLLM/lighteval. Works with the model-index metadata format."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-evaluation",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-evaluation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 885,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 885,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-jupyter-notebook-skill-md",
+    "name": "jupyter-notebook",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/jupyter-notebook",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-jupyter-notebook-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use when the user asks to create, scaffold, or edit Jupyter notebooks (`.ipynb`) for experiments, explorations, or tutorials; prefer the bundled templates and run the helper script `new_notebook.py` to generate a clean starting notebook."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/jupyter-notebook",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/jupyter-notebook"
+  }
+}

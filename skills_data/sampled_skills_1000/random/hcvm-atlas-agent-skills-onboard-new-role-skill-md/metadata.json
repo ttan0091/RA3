@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 152,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 152,
+    "id": "hcvm-atlas-agent-skills-onboard-new-role-skill-md",
+    "name": "onboard-new-role",
+    "author": "HcVm",
+    "stars": 2,
+    "githubUrl": "https://github.com/HcVm/ATLAS/tree/main/.agent/skills/onboard-new-role",
+    "skillUrl": "https://skillsmp.com/skills/hcvm-atlas-agent-skills-onboard-new-role-skill-md",
+    "updatedAt": 1769115749,
+    "description": "Systematic workflow for introducing a new User Role (e.g., 'Auditor', 'Supervisor') into the ATLAS ecosystem."
+  },
+  "github": {
+    "owner": "HcVm",
+    "repo": "ATLAS",
+    "ref": "main",
+    "relativePath": ".agent/skills/onboard-new-role",
+    "sourceUrl": "https://github.com/HcVm/ATLAS/tree/main/.agent/skills/onboard-new-role"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 541,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 541,
+    "id": "dotnet-maui-github-skills-issue-triage-skill-md",
+    "name": "issue-triage",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/issue-triage",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-issue-triage-skill-md",
+    "updatedAt": 1769723182,
+    "description": "Queries and triages open GitHub issues that need attention. Helps identify issues needing milestones, labels, or investigation."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/issue-triage",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/issue-triage"
+  }
+}

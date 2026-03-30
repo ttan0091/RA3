@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verify FR"
+  short_description: "Verify FR specs against constitution and client intent"
+  default_prompt: "Verify one FR for consistency and gaps."

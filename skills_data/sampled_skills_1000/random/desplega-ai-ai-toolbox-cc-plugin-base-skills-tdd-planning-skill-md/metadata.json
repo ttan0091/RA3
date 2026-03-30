@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 141,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 141,
+    "id": "desplega-ai-ai-toolbox-cc-plugin-base-skills-tdd-planning-skill-md",
+    "name": "tdd-planning",
+    "author": "desplega-ai",
+    "stars": 12,
+    "githubUrl": "https://github.com/desplega-ai/ai-toolbox/tree/main/cc-plugin/base/skills/tdd-planning",
+    "skillUrl": "https://skillsmp.com/skills/desplega-ai-ai-toolbox-cc-plugin-base-skills-tdd-planning-skill-md",
+    "updatedAt": 1768954755,
+    "description": "TDD-focused implementation planning. Creates plans with strict Red-Green-Commit/Rollback cycles for each step."
+  },
+  "github": {
+    "owner": "desplega-ai",
+    "repo": "ai-toolbox",
+    "ref": "main",
+    "relativePath": "cc-plugin/base/skills/tdd-planning",
+    "sourceUrl": "https://github.com/desplega-ai/ai-toolbox/tree/main/cc-plugin/base/skills/tdd-planning"
+  }
+}

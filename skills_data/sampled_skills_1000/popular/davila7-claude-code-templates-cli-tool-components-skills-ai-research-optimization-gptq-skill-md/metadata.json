@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 709,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 709,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-gptq-skill-md",
+    "name": "gptq",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-gptq",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-gptq-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Post-training 4-bit quantization for LLMs with minimal accuracy loss. Use for deploying large models (70B, 405B) on consumer GPUs, when you need 4× memory reduction with <2% perplexity degradation, or for faster inference (3-4× speedup) vs FP16. Integrates with transformers and PEFT for QLoRA fine-tuning."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/optimization-gptq",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-gptq"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 56,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 56,
+    "id": "jonax1337-schedule-bot-claude-skills-readme-improver-skill-md",
+    "name": "readme-improver",
+    "author": "jonax1337",
+    "stars": 1,
+    "githubUrl": "https://github.com/jonax1337/Schedule-Bot/tree/main/.claude/skills/readme-improver",
+    "skillUrl": "https://skillsmp.com/skills/jonax1337-schedule-bot-claude-skills-readme-improver-skill-md",
+    "updatedAt": 1770152639,
+    "description": "Create, improve, or update README.md files for GitHub repositories following modern best practices. Use when the user asks to: write a README, improve/update an existing README, add badges to a README, create project documentation, make a README look more professional, or generate a README from a codebase. Triggers include: \"README\", \"readme\", \"project documentation\", \"add badges\", \"improve my repo docs\", \"write documentation for my project\", \"make my repo look professional\". Handles both creating READMEs from scratch (by analyzing the project) and improving existing ones. Supports shields.io badges (tech stack, status, quality), intelligent section generation, and language customization."
+  },
+  "github": {
+    "owner": "jonax1337",
+    "repo": "Schedule-Bot",
+    "ref": "main",
+    "relativePath": ".claude/skills/readme-improver",
+    "sourceUrl": "https://github.com/jonax1337/Schedule-Bot/tree/main/.claude/skills/readme-improver"
+  }
+}

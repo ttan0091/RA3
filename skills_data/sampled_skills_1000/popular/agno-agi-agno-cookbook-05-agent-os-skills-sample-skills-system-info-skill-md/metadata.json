@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 311,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 311,
+    "id": "agno-agi-agno-cookbook-05-agent-os-skills-sample-skills-system-info-skill-md",
+    "name": "system-info",
+    "author": "agno-agi",
+    "stars": 37754,
+    "githubUrl": "https://github.com/agno-agi/agno/tree/main/cookbook/05_agent_os/skills/sample_skills/system-info",
+    "skillUrl": "https://skillsmp.com/skills/agno-agi-agno-cookbook-05-agent-os-skills-sample-skills-system-info-skill-md",
+    "updatedAt": 1768825897,
+    "description": "Get system information using executable scripts"
+  },
+  "github": {
+    "owner": "agno-agi",
+    "repo": "agno",
+    "ref": "main",
+    "relativePath": "cookbook/05_agent_os/skills/sample_skills/system-info",
+    "sourceUrl": "https://github.com/agno-agi/agno/tree/main/cookbook/05_agent_os/skills/sample_skills/system-info"
+  }
+}

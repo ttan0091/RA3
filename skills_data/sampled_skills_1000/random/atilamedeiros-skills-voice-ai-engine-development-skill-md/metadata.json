@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 72,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 72,
+    "id": "atilamedeiros-skills-voice-ai-engine-development-skill-md",
+    "name": "voice-ai-engine-development",
+    "author": "AtilaMedeiros",
+    "stars": 0,
+    "githubUrl": "https://github.com/AtilaMedeiros/skills/tree/main/voice-ai-engine-development",
+    "skillUrl": "https://skillsmp.com/skills/atilamedeiros-skills-voice-ai-engine-development-skill-md",
+    "updatedAt": 1770648740,
+    "description": "Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support"
+  },
+  "github": {
+    "owner": "AtilaMedeiros",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "voice-ai-engine-development",
+    "sourceUrl": "https://github.com/AtilaMedeiros/skills/tree/main/voice-ai-engine-development"
+  }
+}

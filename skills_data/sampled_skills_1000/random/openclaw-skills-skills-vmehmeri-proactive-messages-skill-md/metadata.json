@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 697,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 697,
+    "id": "openclaw-skills-skills-vmehmeri-proactive-messages-skill-md",
+    "name": "proactive-messages",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/vmehmeri/proactive-messages",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-vmehmeri-proactive-messages-skill-md",
+    "updatedAt": 1770136788,
+    "description": "Proactive follow-ups and check-ins for important life moments. Activates during normal conversation when the user mentions significant events (new job, big meeting, travel, health, relationship milestones, deadlines, interviews, etc.). Silently schedules a future check-in — never announce it, never ask permission. The surprise is the point."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/vmehmeri/proactive-messages",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/vmehmeri/proactive-messages"
+  }
+}

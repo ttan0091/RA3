@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 75,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 75,
+    "id": "knuckles-team-servicenow-api-servicenow-api-skills-servicenow-product-inventory-skill-md",
+    "name": "servicenow-product-inventory",
+    "author": "Knuckles-Team",
+    "stars": 16,
+    "githubUrl": "https://github.com/Knuckles-Team/servicenow-api/tree/main/servicenow_api/skills/servicenow-product-inventory",
+    "skillUrl": "https://skillsmp.com/skills/knuckles-team-servicenow-api-servicenow-api-skills-servicenow-product-inventory-skill-md",
+    "updatedAt": 1769296463,
+    "description": "Manage and query product inventory."
+  },
+  "github": {
+    "owner": "Knuckles-Team",
+    "repo": "servicenow-api",
+    "ref": "main",
+    "relativePath": "servicenow_api/skills/servicenow-product-inventory",
+    "sourceUrl": "https://github.com/Knuckles-Team/servicenow-api/tree/main/servicenow_api/skills/servicenow-product-inventory"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 213,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 213,
+    "id": "meteor-meteor-github-skills-codebase-skill-md",
+    "name": "codebase",
+    "author": "meteor",
+    "stars": 44774,
+    "githubUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/codebase",
+    "skillUrl": "https://skillsmp.com/skills/meteor-meteor-github-skills-codebase-skill-md",
+    "updatedAt": 1770379062,
+    "description": "Use when understanding the build system, modifying CLI commands, working with isobuild, or navigating the tools/ directory. Covers build pipeline flow and file locations."
+  },
+  "github": {
+    "owner": "meteor",
+    "repo": "meteor",
+    "ref": "devel",
+    "relativePath": ".github/skills/codebase",
+    "sourceUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/codebase"
+  }
+}

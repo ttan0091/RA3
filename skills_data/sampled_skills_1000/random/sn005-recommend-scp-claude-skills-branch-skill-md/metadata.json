@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 719,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 719,
+    "id": "sn005-recommend-scp-claude-skills-branch-skill-md",
+    "name": "branch",
+    "author": "Sn005",
+    "stars": 1,
+    "githubUrl": "https://github.com/Sn005/recommend-scp/tree/main/.claude/skills/branch",
+    "skillUrl": "https://skillsmp.com/skills/sn005-recommend-scp-claude-skills-branch-skill-md",
+    "updatedAt": 1768105956,
+    "description": "ブランチ作成Skill。仕様策定用（spec/*）または実装用（impl/*）のブランチを作成。/spec や spec-workflow から呼び出される。"
+  },
+  "github": {
+    "owner": "Sn005",
+    "repo": "recommend-scp",
+    "ref": "main",
+    "relativePath": ".claude/skills/branch",
+    "sourceUrl": "https://github.com/Sn005/recommend-scp/tree/main/.claude/skills/branch"
+  }
+}

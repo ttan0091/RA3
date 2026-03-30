@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 466,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 466,
+    "id": "tamtom-gplay-cli-skills-skills-gplay-release-flow-skill-md",
+    "name": "gplay-release-flow",
+    "author": "tamtom",
+    "stars": 3,
+    "githubUrl": "https://github.com/tamtom/gplay-cli-skills/tree/main/skills/gplay-release-flow",
+    "skillUrl": "https://skillsmp.com/skills/tamtom-gplay-cli-skills-skills-gplay-release-flow-skill-md",
+    "updatedAt": 1770294024,
+    "description": "End-to-end release workflows for Google Play tracks (internal, beta, production) using gplay release, promote, and rollout commands. Use when asked to upload a build, distribute to testers, or release to production."
+  },
+  "github": {
+    "owner": "tamtom",
+    "repo": "gplay-cli-skills",
+    "ref": "main",
+    "relativePath": "skills/gplay-release-flow",
+    "sourceUrl": "https://github.com/tamtom/gplay-cli-skills/tree/main/skills/gplay-release-flow"
+  }
+}

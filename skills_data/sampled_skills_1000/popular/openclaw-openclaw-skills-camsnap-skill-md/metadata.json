@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 20,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 20,
+    "id": "openclaw-openclaw-skills-camsnap-skill-md",
+    "name": "camsnap",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/camsnap",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-camsnap-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Capture frames or clips from RTSP/ONVIF cameras."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/camsnap",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/camsnap"
+  }
+}

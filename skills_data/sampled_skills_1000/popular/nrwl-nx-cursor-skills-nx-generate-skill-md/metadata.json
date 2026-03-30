@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 521,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 521,
+    "id": "nrwl-nx-cursor-skills-nx-generate-skill-md",
+    "name": "nx-generate",
+    "author": "nrwl",
+    "stars": 28111,
+    "githubUrl": "https://github.com/nrwl/nx/tree/master/.cursor/skills/nx-generate",
+    "skillUrl": "https://skillsmp.com/skills/nrwl-nx-cursor-skills-nx-generate-skill-md",
+    "updatedAt": 1769539842,
+    "description": "Generate code using nx generators. USE WHEN scaffolding code or transforming existing code - for example creating libraries or applications, or anything else that is boilerplate code or automates repetitive tasks. ALWAYS use this first when generating code with Nx instead of calling MCP tools or running nx generate immediately."
+  },
+  "github": {
+    "owner": "nrwl",
+    "repo": "nx",
+    "ref": "master",
+    "relativePath": ".cursor/skills/nx-generate",
+    "sourceUrl": "https://github.com/nrwl/nx/tree/master/.cursor/skills/nx-generate"
+  }
+}

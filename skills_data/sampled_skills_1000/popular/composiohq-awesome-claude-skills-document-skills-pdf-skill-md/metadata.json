@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 328,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 328,
+    "id": "composiohq-awesome-claude-skills-document-skills-pdf-skill-md",
+    "name": "pdf",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pdf",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-document-skills-pdf-skill-md",
+    "updatedAt": 1761135276,
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "document-skills/pdf",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pdf"
+  }
+}

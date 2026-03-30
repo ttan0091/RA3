@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 754,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 754,
+    "id": "schmug-claudzibit-skills-codex-skill-md",
+    "name": "codex",
+    "author": "schmug",
+    "stars": 0,
+    "githubUrl": "https://github.com/schmug/claudzibit/tree/main/skills/codex",
+    "skillUrl": "https://skillsmp.com/skills/schmug-claudzibit-skills-codex-skill-md",
+    "updatedAt": 1770343332,
+    "description": "Quick consultation with OpenAI Codex CLI. Use when you want another AI's perspective on code, architecture, or any technical question."
+  },
+  "github": {
+    "owner": "schmug",
+    "repo": "claudzibit",
+    "ref": "main",
+    "relativePath": "skills/codex",
+    "sourceUrl": "https://github.com/schmug/claudzibit/tree/main/skills/codex"
+  }
+}

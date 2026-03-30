@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 10,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 10,
+    "id": "openclaw-openclaw-extensions-feishu-skills-feishu-perm-skill-md",
+    "name": "feishu-perm",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-perm",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-extensions-feishu-skills-feishu-perm-skill-md",
+    "updatedAt": 1770337930,
+    "description": "Feishu permission management for documents and files. Activate when user mentions sharing, permissions, collaborators."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "extensions/feishu/skills/feishu-perm",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-perm"
+  }
+}

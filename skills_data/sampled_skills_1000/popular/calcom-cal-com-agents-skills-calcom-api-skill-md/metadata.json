@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 305,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 305,
+    "id": "calcom-cal-com-agents-skills-calcom-api-skill-md",
+    "name": "calcom-api",
+    "author": "calcom",
+    "stars": 40127,
+    "githubUrl": "https://github.com/calcom/cal.com/tree/main/agents/skills/calcom-api",
+    "skillUrl": "https://skillsmp.com/skills/calcom-cal-com-agents-skills-calcom-api-skill-md",
+    "updatedAt": 1770124481,
+    "description": "Interact with the Cal.com API v2 to manage scheduling, bookings, event types, availability, and calendars. Use this skill when building integrations that need to create or manage bookings, check availability, configure event types, or sync calendars with Cal.com's scheduling infrastructure."
+  },
+  "github": {
+    "owner": "calcom",
+    "repo": "cal.com",
+    "ref": "main",
+    "relativePath": "agents/skills/calcom-api",
+    "sourceUrl": "https://github.com/calcom/cal.com/tree/main/agents/skills/calcom-api"
+  }
+}

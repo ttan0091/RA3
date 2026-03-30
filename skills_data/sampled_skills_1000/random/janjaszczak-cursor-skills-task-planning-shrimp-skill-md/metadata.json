@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 544,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 544,
+    "id": "janjaszczak-cursor-skills-task-planning-shrimp-skill-md",
+    "name": "task-planning-shrimp",
+    "author": "janjaszczak",
+    "stars": 0,
+    "githubUrl": "https://github.com/janjaszczak/cursor/tree/main/skills/task-planning-shrimp",
+    "skillUrl": "https://skillsmp.com/skills/janjaszczak-cursor-skills-task-planning-shrimp-skill-md",
+    "updatedAt": 1768660892,
+    "description": "Plan, split, and track multi-step work using Shrimp Task Manager MCP (or equivalent). Use for multi-file refactors, migrations, or any work that benefits from task tracking."
+  },
+  "github": {
+    "owner": "janjaszczak",
+    "repo": "cursor",
+    "ref": "main",
+    "relativePath": "skills/task-planning-shrimp",
+    "sourceUrl": "https://github.com/janjaszczak/cursor/tree/main/skills/task-planning-shrimp"
+  }
+}

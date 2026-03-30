@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 537,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 537,
+    "id": "livewire-livewire-claude-skills-review-pr-skill-md",
+    "name": "review-pr",
+    "author": "livewire",
+    "stars": 23433,
+    "githubUrl": "https://github.com/livewire/livewire/tree/main/.claude/skills/review-pr",
+    "skillUrl": "https://skillsmp.com/skills/livewire-livewire-claude-skills-review-pr-skill-md",
+    "updatedAt": 1770587351,
+    "description": "Review an open PR like a maintainer — checkout, fix issues, push changes, post a structured verdict comment. You just merge or close."
+  },
+  "github": {
+    "owner": "livewire",
+    "repo": "livewire",
+    "ref": "main",
+    "relativePath": ".claude/skills/review-pr",
+    "sourceUrl": "https://github.com/livewire/livewire/tree/main/.claude/skills/review-pr"
+  }
+}

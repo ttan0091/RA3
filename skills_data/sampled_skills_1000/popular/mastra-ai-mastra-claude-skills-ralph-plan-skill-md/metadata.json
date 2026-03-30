@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 574,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 574,
+    "id": "mastra-ai-mastra-claude-skills-ralph-plan-skill-md",
+    "name": "ralph-plan",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/ralph-plan",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-claude-skills-ralph-plan-skill-md",
+    "updatedAt": 1769023260,
+    "description": "Interactive planning assistant that helps create focused, well-structured ralph-loop commands through collaborative conversation"
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": ".claude/skills/ralph-plan",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/ralph-plan"
+  }
+}

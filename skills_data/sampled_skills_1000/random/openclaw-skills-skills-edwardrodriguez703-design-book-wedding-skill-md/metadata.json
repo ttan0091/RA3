@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 486,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 486,
+    "id": "openclaw-skills-skills-edwardrodriguez703-design-book-wedding-skill-md",
+    "name": "book-wedding",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/edwardrodriguez703-design/book-wedding",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-edwardrodriguez703-design-book-wedding-skill-md",
+    "updatedAt": 1770372618,
+    "description": "Book wedding services through Lokuli MCP. Use when user needs to find and book wedding. Triggers on requests like \"book a wedding\", \"find wedding near me\", or any wedding service request."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/edwardrodriguez703-design/book-wedding",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/edwardrodriguez703-design/book-wedding"
+  }
+}

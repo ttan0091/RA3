@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 629,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 629,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-agent-memory-mcp-skill-md",
+    "name": "agent-memory-mcp",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-memory-mcp",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-agent-memory-mcp-skill-md",
+    "updatedAt": 1769353274,
+    "description": "A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions)."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/agent-memory-mcp",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agent-memory-mcp"
+  }
+}

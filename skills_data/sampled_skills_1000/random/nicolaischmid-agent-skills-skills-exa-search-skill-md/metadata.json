@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 527,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 527,
+    "id": "nicolaischmid-agent-skills-skills-exa-search-skill-md",
+    "name": "exa-search",
+    "author": "NicolaiSchmid",
+    "stars": 2,
+    "githubUrl": "https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/exa-search",
+    "skillUrl": "https://skillsmp.com/skills/nicolaischmid-agent-skills-skills-exa-search-skill-md",
+    "updatedAt": 1769696735,
+    "description": "Search the web using Exa's AI-powered search API. Supports semantic search, content extraction, direct answers, and deep research with structured output."
+  },
+  "github": {
+    "owner": "NicolaiSchmid",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "skills/exa-search",
+    "sourceUrl": "https://github.com/NicolaiSchmid/agent-skills/tree/main/skills/exa-search"
+  }
+}

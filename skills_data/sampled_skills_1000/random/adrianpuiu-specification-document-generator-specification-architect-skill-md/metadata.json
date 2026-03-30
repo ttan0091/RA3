@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 861,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 861,
+    "id": "adrianpuiu-specification-document-generator-specification-architect-skill-md",
+    "name": "specification-architect",
+    "author": "adrianpuiu",
+    "stars": 30,
+    "githubUrl": "https://github.com/adrianpuiu/specification-document-generator/tree/master/specification-architect",
+    "skillUrl": "https://skillsmp.com/skills/adrianpuiu-specification-document-generator-specification-architect-skill-md",
+    "updatedAt": 1767400772,
+    "description": "A rigorous, traceability-first system that generates five interconnected architectural documents (blueprint.md, requirements.md, design.md, tasks.md, and validation.md) with complete requirements-to-implementation traceability. Use this skill when users need to architect systems, create technical specifications, or develop structured project documentation with guaranteed traceability."
+  },
+  "github": {
+    "owner": "adrianpuiu",
+    "repo": "specification-document-generator",
+    "ref": "master",
+    "relativePath": "specification-architect",
+    "sourceUrl": "https://github.com/adrianpuiu/specification-document-generator/tree/master/specification-architect"
+  }
+}

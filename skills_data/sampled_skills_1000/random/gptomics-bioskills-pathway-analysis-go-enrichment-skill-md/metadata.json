@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 300,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 300,
+    "id": "gptomics-bioskills-pathway-analysis-go-enrichment-skill-md",
+    "name": "bio-pathway-go-enrichment",
+    "author": "GPTomics",
+    "stars": 226,
+    "githubUrl": "https://github.com/GPTomics/bioSkills/tree/main/pathway-analysis/go-enrichment",
+    "skillUrl": "https://skillsmp.com/skills/gptomics-bioskills-pathway-analysis-go-enrichment-skill-md",
+    "updatedAt": 1769199132,
+    "description": "Gene Ontology over-representation analysis using clusterProfiler enrichGO. Use when identifying biological functions enriched in a gene list from differential expression or other analyses. Supports all three ontologies (BP, MF, CC), multiple ID types, and customizable statistical thresholds."
+  },
+  "github": {
+    "owner": "GPTomics",
+    "repo": "bioSkills",
+    "ref": "main",
+    "relativePath": "pathway-analysis/go-enrichment",
+    "sourceUrl": "https://github.com/GPTomics/bioSkills/tree/main/pathway-analysis/go-enrichment"
+  }
+}

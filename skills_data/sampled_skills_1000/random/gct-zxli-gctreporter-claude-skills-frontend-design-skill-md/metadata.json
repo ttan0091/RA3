@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 543,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 543,
+    "id": "gct-zxli-gctreporter-claude-skills-frontend-design-skill-md",
+    "name": "frontend-design",
+    "author": "Gct-Zxli",
+    "stars": 0,
+    "githubUrl": "https://github.com/Gct-Zxli/GCTReporter/tree/main/.claude/skills/frontend-design",
+    "skillUrl": "https://skillsmp.com/skills/gct-zxli-gctreporter-claude-skills-frontend-design-skill-md",
+    "updatedAt": 1768553693,
+    "description": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics."
+  },
+  "github": {
+    "owner": "Gct-Zxli",
+    "repo": "GCTReporter",
+    "ref": "main",
+    "relativePath": ".claude/skills/frontend-design",
+    "sourceUrl": "https://github.com/Gct-Zxli/GCTReporter/tree/main/.claude/skills/frontend-design"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 678,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 678,
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-game-development-skills-unreal-development-skill-md",
+    "name": "unreal-development",
+    "author": "a5c-ai",
+    "stars": 81,
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/game-development/skills/unreal-development",
+    "skillUrl": "https://skillsmp.com/skills/a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-game-development-skills-unreal-development-skill-md",
+    "updatedAt": 1769262019,
+    "description": "Unreal Engine integration skill for C++/Blueprint development, actor lifecycle management, plugin development, and editor automation. Enables LLMs to interact with Unreal Editor through MCP servers for level manipulation, Blueprint generation, and automated workflows."
+  },
+  "github": {
+    "owner": "a5c-ai",
+    "repo": "babysitter",
+    "ref": "main",
+    "relativePath": "plugins/babysitter/skills/babysit/process/specializations/game-development/skills/unreal-development",
+    "sourceUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/game-development/skills/unreal-development"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 858,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 858,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-core-web-vitals-skill-md",
+    "name": "core-web-vitals",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/core-web-vitals",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-core-web-vitals-skill-md",
+    "updatedAt": 1769895150,
+    "description": "Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking. Use when asked to \"improve Core Web Vitals\", \"fix LCP\", \"reduce CLS\", \"optimize INP\", \"page experience optimization\", or \"fix layout shifts\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/core-web-vitals",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/core-web-vitals"
+  }
+}

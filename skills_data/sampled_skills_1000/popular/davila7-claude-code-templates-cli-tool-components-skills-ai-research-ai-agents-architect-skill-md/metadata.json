@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 636,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 636,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-ai-agents-architect-skill-md",
+    "name": "ai-agents-architect",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/ai-agents-architect",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-ai-agents-architect-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool use, function calling."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/ai-agents-architect",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/ai-agents-architect"
+  }
+}

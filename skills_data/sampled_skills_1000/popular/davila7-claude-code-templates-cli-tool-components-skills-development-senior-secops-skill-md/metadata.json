@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 930,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 930,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-secops-skill-md",
+    "name": "senior-secops",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-secops-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development practices. Includes security scanning, vulnerability assessment, compliance checking, and security automation. Use when implementing security controls, conducting security audits, responding to vulnerabilities, or ensuring compliance requirements."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-secops",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops"
+  }
+}

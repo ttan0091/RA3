@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 609,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 609,
+    "id": "github-awesome-copilot-skills-powerbi-modeling-skill-md",
+    "name": "powerbi-modeling",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/powerbi-modeling",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-powerbi-modeling-skill-md",
+    "updatedAt": 1770112195,
+    "description": "Power BI semantic modeling assistant for building optimized data models. Use when working with Power BI semantic models, creating measures, designing star schemas, configuring relationships, implementing RLS, or optimizing model performance. Triggers on queries about DAX calculations, table relationships, dimension/fact table design, naming conventions, model documentation, cardinality, cross-filter direction, calculation groups, and data model best practices. Always connects to the active model first using power-bi-modeling MCP tools to understand the data structure before providing guidance."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/powerbi-modeling",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/powerbi-modeling"
+  }
+}

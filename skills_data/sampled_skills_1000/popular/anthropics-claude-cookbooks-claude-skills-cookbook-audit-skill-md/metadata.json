@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 346,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 346,
+    "id": "anthropics-claude-cookbooks-claude-skills-cookbook-audit-skill-md",
+    "name": "cookbook-audit",
+    "author": "anthropics",
+    "stars": 32748,
+    "githubUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/.claude/skills/cookbook-audit",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-claude-cookbooks-claude-skills-cookbook-audit-skill-md",
+    "updatedAt": 1764630539,
+    "description": "Audit an Anthropic Cookbook notebook based on a rubric. Use whenever a notebook review or audit is requested."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "claude-cookbooks",
+    "ref": "main",
+    "relativePath": ".claude/skills/cookbook-audit",
+    "sourceUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/.claude/skills/cookbook-audit"
+  }
+}

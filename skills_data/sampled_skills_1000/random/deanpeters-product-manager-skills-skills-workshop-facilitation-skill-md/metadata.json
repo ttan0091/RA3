@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 182,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 182,
+    "id": "deanpeters-product-manager-skills-skills-workshop-facilitation-skill-md",
+    "name": "workshop-facilitation",
+    "author": "deanpeters",
+    "stars": 17,
+    "githubUrl": "https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/workshop-facilitation",
+    "skillUrl": "https://skillsmp.com/skills/deanpeters-product-manager-skills-skills-workshop-facilitation-skill-md",
+    "updatedAt": 1770410411,
+    "description": "Facilitate workshop sessions in a multi-turn, one-step flow with numbered recommendations each turn. Use alongside workshop skills to guide choices and keep advice context-aware."
+  },
+  "github": {
+    "owner": "deanpeters",
+    "repo": "Product-Manager-Skills",
+    "ref": "main",
+    "relativePath": "skills/workshop-facilitation",
+    "sourceUrl": "https://github.com/deanpeters/Product-Manager-Skills/tree/main/skills/workshop-facilitation"
+  }
+}

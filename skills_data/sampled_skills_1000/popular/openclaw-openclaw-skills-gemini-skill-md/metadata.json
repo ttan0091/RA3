@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 25,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 25,
+    "id": "openclaw-openclaw-skills-gemini-skill-md",
+    "name": "gemini",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gemini",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-gemini-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Gemini CLI for one-shot Q&A, summaries, and generation."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/gemini",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/gemini"
+  }
+}

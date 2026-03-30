@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 850,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 850,
+    "id": "mine2424-dotfiles-codex-skills-supabase-skill-md",
+    "name": "supabase",
+    "author": "mine2424",
+    "stars": 1,
+    "githubUrl": "https://github.com/mine2424/dotfiles/tree/main/codex/skills/supabase",
+    "skillUrl": "https://skillsmp.com/skills/mine2424-dotfiles-codex-skills-supabase-skill-md",
+    "updatedAt": 1770137624,
+    "description": "Anthropic Claude plugin \"supabase\" の内容を参照して作業するときに使うスキル。claude-plugins-official の external_plugins/supabase を参照する必要がある場合に使用する。"
+  },
+  "github": {
+    "owner": "mine2424",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "codex/skills/supabase",
+    "sourceUrl": "https://github.com/mine2424/dotfiles/tree/main/codex/skills/supabase"
+  }
+}

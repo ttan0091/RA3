@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 896,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 896,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-nextjs-supabase-auth-skill-md",
+    "name": "nextjs-supabase-auth",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nextjs-supabase-auth",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-nextjs-supabase-auth-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/nextjs-supabase-auth",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nextjs-supabase-auth"
+  }
+}

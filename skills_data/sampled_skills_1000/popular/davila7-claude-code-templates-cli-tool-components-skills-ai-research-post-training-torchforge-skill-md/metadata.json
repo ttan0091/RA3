@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 718,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 718,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-torchforge-skill-md",
+    "name": "torchforge-rl-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-torchforge",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-torchforge-skill-md",
+    "updatedAt": 1769665019,
+    "description": "Provides guidance for PyTorch-native agentic RL using torchforge, Meta's library separating infra from algorithms. Use when you want clean RL abstractions, easy algorithm experimentation, or scalable training with Monarch and TorchTitan."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/post-training-torchforge",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-torchforge"
+  }
+}

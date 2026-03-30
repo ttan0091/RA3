@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 289,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 289,
+    "id": "streamlit-streamlit-claude-skills-discovering-make-commands-skill-md",
+    "name": "discovering-make-commands",
+    "author": "streamlit",
+    "stars": 43433,
+    "githubUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/discovering-make-commands",
+    "skillUrl": "https://skillsmp.com/skills/streamlit-streamlit-claude-skills-discovering-make-commands-skill-md",
+    "updatedAt": 1770400595,
+    "description": "Lists available make commands for Streamlit development. Use for build, test, lint, or format tasks."
+  },
+  "github": {
+    "owner": "streamlit",
+    "repo": "streamlit",
+    "ref": "develop",
+    "relativePath": ".claude/skills/discovering-make-commands",
+    "sourceUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/discovering-make-commands"
+  }
+}

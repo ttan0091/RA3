@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 412,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 412,
+    "id": "frankxai-frankx-ai-vercel-website-claude-skills-soulbook-agents-lifesmith-skill-md",
+    "name": "lifesmith",
+    "author": "frankxai",
+    "stars": 1,
+    "githubUrl": "https://github.com/frankxai/frankx.ai-vercel-website/tree/main/.claude-skills/soulbook/agents/lifesmith",
+    "skillUrl": "https://skillsmp.com/skills/frankxai-frankx-ai-vercel-website-claude-skills-soulbook-agents-lifesmith-skill-md",
+    "updatedAt": 1767790401,
+    "description": "AI agent that forges the foundations of your Soulbook - building habits, systems, and structures across all 7 Pillars"
+  },
+  "github": {
+    "owner": "frankxai",
+    "repo": "frankx.ai-vercel-website",
+    "ref": "main",
+    "relativePath": ".claude-skills/soulbook/agents/lifesmith",
+    "sourceUrl": "https://github.com/frankxai/frankx.ai-vercel-website/tree/main/.claude-skills/soulbook/agents/lifesmith"
+  }
+}

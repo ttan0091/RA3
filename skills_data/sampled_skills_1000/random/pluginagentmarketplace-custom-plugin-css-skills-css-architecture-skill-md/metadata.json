@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 33,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 33,
+    "id": "pluginagentmarketplace-custom-plugin-css-skills-css-architecture-skill-md",
+    "name": "css-architecture",
+    "author": "pluginagentmarketplace",
+    "stars": 1,
+    "githubUrl": "https://github.com/pluginagentmarketplace/custom-plugin-css/tree/main/skills/css-architecture",
+    "skillUrl": "https://skillsmp.com/skills/pluginagentmarketplace-custom-plugin-css-skills-css-architecture-skill-md",
+    "updatedAt": 1767614120,
+    "description": "Implement scalable CSS architecture patterns - BEM, SMACSS, ITCSS, design tokens"
+  },
+  "github": {
+    "owner": "pluginagentmarketplace",
+    "repo": "custom-plugin-css",
+    "ref": "main",
+    "relativePath": "skills/css-architecture",
+    "sourceUrl": "https://github.com/pluginagentmarketplace/custom-plugin-css/tree/main/skills/css-architecture"
+  }
+}

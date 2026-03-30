@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 892,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 892,
+    "id": "cyrilliu1974-clawdbot-next-skills-nano-banana-pro-skill-md",
+    "name": "nano-banana-pro",
+    "author": "cyrilliu1974",
+    "stars": 6,
+    "githubUrl": "https://github.com/cyrilliu1974/Clawdbot-Next/tree/main/skills/nano-banana-pro",
+    "skillUrl": "https://skillsmp.com/skills/cyrilliu1974-clawdbot-next-skills-nano-banana-pro-skill-md",
+    "updatedAt": 1769390958,
+    "description": "Generate or edit images via Gemini 3 Pro Image (Nano Banana Pro)."
+  },
+  "github": {
+    "owner": "cyrilliu1974",
+    "repo": "Clawdbot-Next",
+    "ref": "main",
+    "relativePath": "skills/nano-banana-pro",
+    "sourceUrl": "https://github.com/cyrilliu1974/Clawdbot-Next/tree/main/skills/nano-banana-pro"
+  }
+}

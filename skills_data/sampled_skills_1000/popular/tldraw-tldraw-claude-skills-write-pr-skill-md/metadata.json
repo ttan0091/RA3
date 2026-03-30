@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 208,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 208,
+    "id": "tldraw-tldraw-claude-skills-write-pr-skill-md",
+    "name": "write-pr",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-pr",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-pr-skill-md",
+    "updatedAt": 1770191752,
+    "description": "Writing pull request titles and descriptions for the tldraw repository. Use when creating a new PR, updating an existing PR's title or body, or when the /pr command needs PR content guidance."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-pr",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-pr"
+  }
+}

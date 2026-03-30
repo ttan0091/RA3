@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 412,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 412,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-git-advanced-workflows-skill-md",
+    "name": "git-advanced-workflows",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/git-advanced-workflows",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-git-advanced-workflows-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master advanced Git workflows including rebasing, cherry-picking, bisect, worktrees, and reflog to maintain clean history and recover from any situation. Use when managing complex Git histories, collaborating on feature branches, or troubleshooting repository issues."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/git-advanced-workflows",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/git-advanced-workflows"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 599,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 599,
+    "id": "drdynscript-human-skills-skills-inclusive-collaboration-skill-md",
+    "name": "inclusive-collaboration",
+    "author": "drdynscript",
+    "stars": 0,
+    "githubUrl": "https://github.com/drdynscript/human-skills/tree/main/skills/inclusive-collaboration",
+    "skillUrl": "https://skillsmp.com/skills/drdynscript-human-skills-skills-inclusive-collaboration-skill-md",
+    "updatedAt": 1769360925,
+    "description": "Improves inclusive collaboration: psychological safety, clearer participation, bias-aware communication, and decision fairness. Use when working in diverse teams, facilitating discussions, onboarding, or when voices are missing or tension feels “invisible”."
+  },
+  "github": {
+    "owner": "drdynscript",
+    "repo": "human-skills",
+    "ref": "main",
+    "relativePath": "skills/inclusive-collaboration",
+    "sourceUrl": "https://github.com/drdynscript/human-skills/tree/main/skills/inclusive-collaboration"
+  }
+}

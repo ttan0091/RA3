@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 66,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 66,
+    "id": "dylantarre-animation-principles-skills-01-by-domain-universal-fallback-skill-md",
+    "name": "universal-fallback",
+    "author": "dylantarre",
+    "stars": 7,
+    "githubUrl": "https://github.com/dylantarre/animation-principles/tree/main/skills/01-by-domain/universal-fallback",
+    "skillUrl": "https://skillsmp.com/skills/dylantarre-animation-principles-skills-01-by-domain-universal-fallback-skill-md",
+    "updatedAt": 1767137105,
+    "description": "Use when the animation domain is unclear or spans multiple contexts—provides general-purpose Disney animation principle guidance."
+  },
+  "github": {
+    "owner": "dylantarre",
+    "repo": "animation-principles",
+    "ref": "main",
+    "relativePath": "skills/01-by-domain/universal-fallback",
+    "sourceUrl": "https://github.com/dylantarre/animation-principles/tree/main/skills/01-by-domain/universal-fallback"
+  }
+}

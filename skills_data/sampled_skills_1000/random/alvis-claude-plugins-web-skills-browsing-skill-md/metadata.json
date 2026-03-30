@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 280,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 280,
+    "id": "alvis-claude-plugins-web-skills-browsing-skill-md",
+    "name": "browsing",
+    "author": "alvis",
+    "stars": 2,
+    "githubUrl": "https://github.com/alvis/.claude/tree/master/plugins/web/skills/browsing",
+    "skillUrl": "https://skillsmp.com/skills/alvis-claude-plugins-web-skills-browsing-skill-md",
+    "updatedAt": 1770113860,
+    "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages."
+  },
+  "github": {
+    "owner": "alvis",
+    "repo": ".claude",
+    "ref": "master",
+    "relativePath": "plugins/web/skills/browsing",
+    "sourceUrl": "https://github.com/alvis/.claude/tree/master/plugins/web/skills/browsing"
+  }
+}

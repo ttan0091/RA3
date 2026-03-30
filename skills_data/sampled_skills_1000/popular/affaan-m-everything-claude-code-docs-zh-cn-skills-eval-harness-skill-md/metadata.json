@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 228,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 228,
+    "id": "affaan-m-everything-claude-code-docs-zh-cn-skills-eval-harness-skill-md",
+    "name": "eval-harness",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/eval-harness",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-cn-skills-eval-harness-skill-md",
+    "updatedAt": 1770299874,
+    "description": "克劳德代码会话的正式评估框架，实施评估驱动开发（EDD）原则"
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-CN/skills/eval-harness",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/eval-harness"
+  }
+}

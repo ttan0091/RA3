@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 597,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 597,
+    "id": "github-awesome-copilot-skills-legacy-circuit-mockups-skill-md",
+    "name": "legacy-circuit-mockups",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/legacy-circuit-mockups",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-legacy-circuit-mockups-skill-md",
+    "updatedAt": 1768872417,
+    "description": "Generate breadboard circuit mockups and visual diagrams using HTML5 Canvas drawing techniques. Use when asked to create circuit layouts, visualize electronic component placements, draw breadboard diagrams, mockup 6502 builds, generate retro computer schematics, or design vintage electronics projects. Supports 555 timers, W65C02S microprocessors, 28C256 EEPROMs, W65C22 VIA chips, 7400-series logic gates, LEDs, resistors, capacitors, switches, buttons, crystals, and wires."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/legacy-circuit-mockups",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/legacy-circuit-mockups"
+  }
+}

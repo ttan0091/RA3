@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 228,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 228,
+    "id": "arustydev-git-atomic-claude-skills-lang-rust-cargo-dev-skill-md",
+    "name": "managing-cargo-dependencies",
+    "author": "aRustyDev",
+    "stars": 0,
+    "githubUrl": "https://github.com/aRustyDev/git-atomic/tree/main/.claude/skills/lang-rust-cargo-dev",
+    "skillUrl": "https://skillsmp.com/skills/arustydev-git-atomic-claude-skills-lang-rust-cargo-dev-skill-md",
+    "updatedAt": 1769613529,
+    "description": "Cargo.toml dependency management patterns for HASH workspace. Use when adding, updating, or removing dependencies, organizing Cargo.toml sections, configuring version pinning and default features, or managing public dependencies."
+  },
+  "github": {
+    "owner": "aRustyDev",
+    "repo": "git-atomic",
+    "ref": "main",
+    "relativePath": ".claude/skills/lang-rust-cargo-dev",
+    "sourceUrl": "https://github.com/aRustyDev/git-atomic/tree/main/.claude/skills/lang-rust-cargo-dev"
+  }
+}

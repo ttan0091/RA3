@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 728,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 728,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-library-skill-md",
+    "name": "prompt-library",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-library",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-library-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Curated collection of high-quality prompts for various use cases. Includes role-based prompts, task-specific templates, and prompt refinement techniques. Use when user needs prompt templates, role-play prompts, or ready-to-use prompt examples for coding, writing, analysis, or creative tasks."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-library",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-library"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 351,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 351,
+    "id": "bumgeunsong-skill-up-plugins-skill-up-skills-visualize-skill-md",
+    "name": "visualize",
+    "author": "BumgeunSong",
+    "stars": 9,
+    "githubUrl": "https://github.com/BumgeunSong/skill-up/tree/main/plugins/skill-up/skills/visualize",
+    "skillUrl": "https://skillsmp.com/skills/bumgeunsong-skill-up-plugins-skill-up-skills-visualize-skill-md",
+    "updatedAt": 1769345883,
+    "description": "Use when the user wants to see their skill inventory, stat sheet, or skill visualization. Triggers on \"스킬 보여줘\", \"스탯창\", \"내 스킬\", \"/visualize\", \"skill inventory\", \"스킬트리\", \"skill tree\""
+  },
+  "github": {
+    "owner": "BumgeunSong",
+    "repo": "skill-up",
+    "ref": "main",
+    "relativePath": "plugins/skill-up/skills/visualize",
+    "sourceUrl": "https://github.com/BumgeunSong/skill-up/tree/main/plugins/skill-up/skills/visualize"
+  }
+}

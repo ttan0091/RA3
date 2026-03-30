@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 611,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 611,
+    "id": "github-awesome-copilot-skills-refactor-skill-md",
+    "name": "refactor",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/refactor",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-refactor-skill-md",
+    "updatedAt": 1770012031,
+    "description": "Surgical code refactoring to improve maintainability without changing behavior. Covers extracting functions, renaming variables, breaking down god functions, improving type safety, eliminating code smells, and applying design patterns. Less drastic than repo-rebuilder; use for gradual improvements."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/refactor",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/refactor"
+  }
+}

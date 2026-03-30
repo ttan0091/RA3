@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 978,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 978,
+    "id": "photostructure-node-sqlite-claude-skills-handoff-skill-md",
+    "name": "handoff",
+    "author": "photostructure",
+    "stars": 5,
+    "githubUrl": "https://github.com/photostructure/node-sqlite/tree/main/.claude/skills/handoff",
+    "skillUrl": "https://skillsmp.com/skills/photostructure-node-sqlite-claude-skills-handoff-skill-md",
+    "updatedAt": 1770182798,
+    "description": "Update or create a TPP for engineer handoff when session context is running low. Use when ending a session, handing off work, or capturing progress on complex tasks."
+  },
+  "github": {
+    "owner": "photostructure",
+    "repo": "node-sqlite",
+    "ref": "main",
+    "relativePath": ".claude/skills/handoff",
+    "sourceUrl": "https://github.com/photostructure/node-sqlite/tree/main/.claude/skills/handoff"
+  }
+}

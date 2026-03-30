@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 793,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 793,
+    "id": "refly-ai-refly-skills-skills-linkup-skill-md",
+    "name": "linkup",
+    "author": "refly-ai",
+    "stars": 154,
+    "githubUrl": "https://github.com/refly-ai/refly-skills/tree/main/skills/linkup",
+    "skillUrl": "https://skillsmp.com/skills/refly-ai-refly-skills-skills-linkup-skill-md",
+    "updatedAt": 1769919294,
+    "description": "Find LinkedIn contacts with Linkup. Use when you need to: (1) search professional profiles, (2) discover LinkedIn contacts, or (3) enrich professional network data."
+  },
+  "github": {
+    "owner": "refly-ai",
+    "repo": "refly-skills",
+    "ref": "main",
+    "relativePath": "skills/linkup",
+    "sourceUrl": "https://github.com/refly-ai/refly-skills/tree/main/skills/linkup"
+  }
+}

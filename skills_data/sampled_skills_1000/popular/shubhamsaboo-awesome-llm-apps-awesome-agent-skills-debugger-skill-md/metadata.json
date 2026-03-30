@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 100,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 100,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-debugger-skill-md",
+    "name": "debugger",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/debugger",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-debugger-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Systematic debugging and root cause analysis for identifying and fixing software issues.\nUse when: debugging errors, troubleshooting bugs, investigating crashes, analyzing stack traces,\nfixing broken code, or when user mentions debugging, error, bug, crash, or \"not working\"."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/debugger",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/debugger"
+  }
+}

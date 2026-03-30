@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 166,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 166,
+    "id": "anthropics-claude-code-plugins-plugin-dev-skills-hook-development-skill-md",
+    "name": "hook-development",
+    "author": "anthropics",
+    "stars": 65876,
+    "githubUrl": "https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-claude-code-plugins-plugin-dev-skills-hook-development-skill-md",
+    "updatedAt": 1763381340,
+    "description": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLUGIN_ROOT}\", \"set up event-driven automation\", \"block dangerous commands\", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "claude-code",
+    "ref": "main",
+    "relativePath": "plugins/plugin-dev/skills/hook-development",
+    "sourceUrl": "https://github.com/anthropics/claude-code/tree/main/plugins/plugin-dev/skills/hook-development"
+  }
+}

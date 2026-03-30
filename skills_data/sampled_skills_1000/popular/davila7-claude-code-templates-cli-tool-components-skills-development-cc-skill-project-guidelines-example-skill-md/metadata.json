@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 846,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 846,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-project-guidelines-example-skill-md",
+    "name": "cc-skill-project-guidelines-example",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-project-guidelines-example",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-project-guidelines-example-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Project Guidelines Skill (Example)"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cc-skill-project-guidelines-example",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-project-guidelines-example"
+  }
+}

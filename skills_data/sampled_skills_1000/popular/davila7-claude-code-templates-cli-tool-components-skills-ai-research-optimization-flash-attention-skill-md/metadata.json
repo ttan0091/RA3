@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 707,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 707,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-flash-attention-skill-md",
+    "name": "optimizing-attention-flash",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-flash-attention",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-flash-attention-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction. Use when training/running transformers with long sequences (>512 tokens), encountering GPU memory issues with attention, or need faster inference. Supports PyTorch native SDPA, flash-attn library, H100 FP8, and sliding window attention."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/optimization-flash-attention",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-flash-attention"
+  }
+}

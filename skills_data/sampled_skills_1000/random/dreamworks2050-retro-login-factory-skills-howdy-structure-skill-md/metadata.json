@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 617,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 617,
+    "id": "dreamworks2050-retro-login-factory-skills-howdy-structure-skill-md",
+    "name": "howdy-structure",
+    "author": "dreamworks2050",
+    "stars": 0,
+    "githubUrl": "https://github.com/dreamworks2050/retro-login/tree/main/.factory/skills/howdy-structure",
+    "skillUrl": "https://skillsmp.com/skills/dreamworks2050-retro-login-factory-skills-howdy-structure-skill-md",
+    "updatedAt": 1767028735,
+    "description": "Create PHP classes following Howdy framework conventions. Use when creating new classes or files in the plugin."
+  },
+  "github": {
+    "owner": "dreamworks2050",
+    "repo": "retro-login",
+    "ref": "main",
+    "relativePath": ".factory/skills/howdy-structure",
+    "sourceUrl": "https://github.com/dreamworks2050/retro-login/tree/main/.factory/skills/howdy-structure"
+  }
+}

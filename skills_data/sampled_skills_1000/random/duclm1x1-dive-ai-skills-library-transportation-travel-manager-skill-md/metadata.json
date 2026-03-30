@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 671,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 671,
+    "id": "duclm1x1-dive-ai-skills-library-transportation-travel-manager-skill-md",
+    "name": "travel-manager",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/transportation/travel-manager",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-transportation-travel-manager-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Comprehensive travel planning, booking, and management skill. Use when needing to plan international trips, manage multi-destination itineraries, handle family travel logistics, optimize travel costs, and coordinate complex travel arrangements."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/transportation/travel-manager",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/transportation/travel-manager"
+  }
+}

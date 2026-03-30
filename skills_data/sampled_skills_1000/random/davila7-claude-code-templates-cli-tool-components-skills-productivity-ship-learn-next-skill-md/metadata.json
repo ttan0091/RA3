@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 353,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 353,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-ship-learn-next-skill-md",
+    "name": "ship-learn-next",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/ship-learn-next",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-ship-learn-next-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Transform learning content (like YouTube transcripts, articles, tutorials) into actionable implementation plans using the Ship-Learn-Next framework. Use when user wants to turn advice, lessons, or educational content into concrete action steps, reps, or a learning quest."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/ship-learn-next",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/ship-learn-next"
+  }
+}

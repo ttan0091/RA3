@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 543,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 543,
+    "id": "dotnet-maui-github-skills-pr-build-status-skill-md",
+    "name": "pr-build-status",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/pr-build-status",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-pr-build-status-skill-md",
+    "updatedAt": 1769176330,
+    "description": "Retrieve Azure DevOps build information for GitHub Pull Requests, including build IDs, stage status, failed jobs, and Helix console logs for any Helix-based test failures."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/pr-build-status",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/pr-build-status"
+  }
+}

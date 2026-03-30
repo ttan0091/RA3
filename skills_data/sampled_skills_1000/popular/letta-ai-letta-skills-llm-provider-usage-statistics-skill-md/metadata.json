@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 572,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 572,
+    "id": "letta-ai-letta-skills-llm-provider-usage-statistics-skill-md",
+    "name": "llm-provider-usage-statistics",
+    "author": "letta-ai",
+    "stars": 21037,
+    "githubUrl": "https://github.com/letta-ai/letta/tree/main/.skills/llm-provider-usage-statistics",
+    "skillUrl": "https://skillsmp.com/skills/letta-ai-letta-skills-llm-provider-usage-statistics-skill-md",
+    "updatedAt": 1769719840,
+    "description": "Reference guide for token counting and prefix caching across LLM providers (OpenAI, Anthropic, Gemini). Use when debugging token counts or optimizing prefix caching."
+  },
+  "github": {
+    "owner": "letta-ai",
+    "repo": "letta",
+    "ref": "main",
+    "relativePath": ".skills/llm-provider-usage-statistics",
+    "sourceUrl": "https://github.com/letta-ai/letta/tree/main/.skills/llm-provider-usage-statistics"
+  }
+}

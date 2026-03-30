@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 243,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 243,
+    "id": "openclaw-skills-skills-josunlp-whisper-transcribe-skill-md",
+    "name": "whisper-transcribe",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/josunlp/whisper-transcribe",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-josunlp-whisper-transcribe-skill-md",
+    "updatedAt": 1770735795,
+    "description": "Transcribe audio files to text using OpenAI Whisper. Supports speech-to-text with auto language detection, multiple output formats (txt, srt, vtt, json), batch processing, and model selection (tiny to large). Use when transcribing audio recordings, podcasts, voice messages, lectures, meetings, or any audio/video file to text. Handles mp3, wav, m4a, ogg, flac, webm, opus, aac formats."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/josunlp/whisper-transcribe",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/josunlp/whisper-transcribe"
+  }
+}

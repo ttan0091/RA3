@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 272,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 272,
+    "id": "michaelboeding-skills-skills-react-to-ios-skill-md",
+    "name": "react-to-ios",
+    "author": "michaelboeding",
+    "stars": 8,
+    "githubUrl": "https://github.com/michaelboeding/skills/tree/master/skills/react-to-ios",
+    "skillUrl": "https://skillsmp.com/skills/michaelboeding-skills-skills-react-to-ios-skill-md",
+    "updatedAt": 1768805798,
+    "description": "Use React/React Native code as the source of truth and implement the equivalent feature in iOS/Swift. Understands the feature behavior, components, state management, and logic from React, then creates idiomatic iOS code that matches the target codebase's existing patterns. Use when porting features from React/React Native to native iOS or building native alternatives to web components."
+  },
+  "github": {
+    "owner": "michaelboeding",
+    "repo": "skills",
+    "ref": "master",
+    "relativePath": "skills/react-to-ios",
+    "sourceUrl": "https://github.com/michaelboeding/skills/tree/master/skills/react-to-ios"
+  }
+}

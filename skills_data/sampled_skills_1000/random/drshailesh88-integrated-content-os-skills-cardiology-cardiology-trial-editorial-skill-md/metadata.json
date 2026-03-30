@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 588,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 588,
+    "id": "drshailesh88-integrated-content-os-skills-cardiology-cardiology-trial-editorial-skill-md",
+    "name": "cardiology-trial-editorial",
+    "author": "drshailesh88",
+    "stars": 1,
+    "githubUrl": "https://github.com/drshailesh88/integrated_content_OS/tree/main/skills/cardiology/cardiology-trial-editorial",
+    "skillUrl": "https://skillsmp.com/skills/drshailesh88-integrated-content-os-skills-cardiology-cardiology-trial-editorial-skill-md",
+    "updatedAt": 1767465459,
+    "description": "Identify landmark cardiology trials and write evidence-based editorials in Eric Topol's authoritative Ground Truths style. Use when the user wants to: (1) Discover and evaluate recent important trials from top cardiology journals (NEJM, JACC, Lancet, EHJ, Circulation), (2) Assess trial importance using systematic scoring, (3) Write 500-word editorials on cardiology/interventional cardiology advances for physician audiences, (4) Create thought leadership content that demonstrates deep domain expertise. Supports both full-text and abstract-only scenarios with PubMed integration for references."
+  },
+  "github": {
+    "owner": "drshailesh88",
+    "repo": "integrated_content_OS",
+    "ref": "main",
+    "relativePath": "skills/cardiology/cardiology-trial-editorial",
+    "sourceUrl": "https://github.com/drshailesh88/integrated_content_OS/tree/main/skills/cardiology/cardiology-trial-editorial"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 63,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 63,
+    "id": "shakefu-contextium-claude-skills-skill-improver-skill-md",
+    "name": "skill-improver",
+    "author": "shakefu",
+    "stars": 0,
+    "githubUrl": "https://github.com/shakefu/contextium/tree/main/.claude/skills/skill-improver",
+    "skillUrl": "https://skillsmp.com/skills/shakefu-contextium-claude-skills-skill-improver-skill-md",
+    "updatedAt": 1769504433,
+    "description": "Research and improve Claude skills with current best practices. Triggers on requests to improve skills, update skills, research best practices for skills, enhance skill quality, or modernize existing skills."
+  },
+  "github": {
+    "owner": "shakefu",
+    "repo": "contextium",
+    "ref": "main",
+    "relativePath": ".claude/skills/skill-improver",
+    "sourceUrl": "https://github.com/shakefu/contextium/tree/main/.claude/skills/skill-improver"
+  }
+}

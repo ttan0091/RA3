@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 236,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 236,
+    "id": "openclaw-skills-skills-tariqsumatri82-alpha-1-0-0-skill-md",
+    "name": "alpha",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/alpha-1-0-0",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-tariqsumatri82-alpha-1-0-0-skill-md",
+    "updatedAt": 1770582963,
+    "description": "Binance Alpha new coin launch detector. Uses WebSocket to monitor !miniTicker@arr stream and detects new trading pairs immediately when they appear. Maintains known symbols set in memory and triggers alert for new symbols with valid opening price."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/tariqsumatri82/alpha-1-0-0",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/tariqsumatri82/alpha-1-0-0"
+  }
+}

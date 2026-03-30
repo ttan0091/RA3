@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 954,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 954,
+    "id": "steipete-agent-scripts-skills-video-transcript-downloader-skill-md",
+    "name": "video-transcript-downloader",
+    "author": "steipete",
+    "stars": 1759,
+    "githubUrl": "https://github.com/steipete/agent-scripts/tree/main/skills/video-transcript-downloader",
+    "skillUrl": "https://skillsmp.com/skills/steipete-agent-scripts-skills-video-transcript-downloader-skill-md",
+    "updatedAt": 1766439765,
+    "description": "Download videos, audio, subtitles, and clean paragraph-style transcripts from YouTube and any other yt-dlp supported site. Use when asked to “download this video”, “save this clip”, “rip audio”, “get subtitles”, “get transcript”, or to troubleshoot yt-dlp/ffmpeg and formats/playlists."
+  },
+  "github": {
+    "owner": "steipete",
+    "repo": "agent-scripts",
+    "ref": "main",
+    "relativePath": "skills/video-transcript-downloader",
+    "sourceUrl": "https://github.com/steipete/agent-scripts/tree/main/skills/video-transcript-downloader"
+  }
+}

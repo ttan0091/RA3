@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 29,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 29,
+    "id": "bnymnbgn-wasser-agent-skills-tailwind-patterns-skill-md",
+    "name": "tailwind-patterns",
+    "author": "bnymnbgn",
+    "stars": 0,
+    "githubUrl": "https://github.com/bnymnbgn/wasser/tree/main/.agent/skills/tailwind-patterns",
+    "skillUrl": "https://skillsmp.com/skills/bnymnbgn-wasser-agent-skills-tailwind-patterns-skill-md",
+    "updatedAt": 1769385145,
+    "description": "Best practices for utility-first styling with Tailwind CSS. Responsive design, dark mode, and design system continuity."
+  },
+  "github": {
+    "owner": "bnymnbgn",
+    "repo": "wasser",
+    "ref": "main",
+    "relativePath": ".agent/skills/tailwind-patterns",
+    "sourceUrl": "https://github.com/bnymnbgn/wasser/tree/main/.agent/skills/tailwind-patterns"
+  }
+}

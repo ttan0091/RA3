@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 537,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 537,
+    "id": "dyxushuai-agent-skills-skills-agent-init-skill-md",
+    "name": "agent-init",
+    "author": "dyxushuai",
+    "stars": 2,
+    "githubUrl": "https://github.com/dyxushuai/agent-skills/tree/main/skills/agent-init",
+    "skillUrl": "https://skillsmp.com/skills/dyxushuai-agent-skills-skills-agent-init-skill-md",
+    "updatedAt": 1769520211,
+    "description": "Initialize or improve AGENTS.md files that define how coding agents operate in a repo. Use when asked to set up or replace an agent init command (Codex, Claude), standardize multi-agent behavior, or audit an existing AGENTS.md for clarity, commands, boundaries, and repo-specific context. For Claude Code, also create CLAUDE.md as a symlink to AGENTS.md."
+  },
+  "github": {
+    "owner": "dyxushuai",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "skills/agent-init",
+    "sourceUrl": "https://github.com/dyxushuai/agent-skills/tree/main/skills/agent-init"
+  }
+}

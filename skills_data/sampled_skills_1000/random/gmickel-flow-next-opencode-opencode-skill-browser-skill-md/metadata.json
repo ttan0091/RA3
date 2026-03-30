@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 815,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 815,
+    "id": "gmickel-flow-next-opencode-opencode-skill-browser-skill-md",
+    "name": "browser",
+    "author": "gmickel",
+    "stars": 32,
+    "githubUrl": "https://github.com/gmickel/flow-next-opencode/tree/main/.opencode/skill/browser",
+    "skillUrl": "https://skillsmp.com/skills/gmickel-flow-next-opencode-opencode-skill-browser-skill-md",
+    "updatedAt": 1768481802,
+    "description": "Browser automation via agent-browser CLI. Use when you need to navigate websites, verify deployed UI, test web apps, read online documentation, scrape data, fill forms, capture baseline screenshots before design work, or inspect current page state. Triggers on \"check the page\", \"verify UI\", \"test the site\", \"read docs at\", \"look up API\", \"visit URL\", \"browse\", \"screenshot\", \"scrape\", \"e2e test\", \"login flow\", \"capture baseline\", \"see how it looks\", \"inspect current\", \"before redesign\"."
+  },
+  "github": {
+    "owner": "gmickel",
+    "repo": "flow-next-opencode",
+    "ref": "main",
+    "relativePath": ".opencode/skill/browser",
+    "sourceUrl": "https://github.com/gmickel/flow-next-opencode/tree/main/.opencode/skill/browser"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 301,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 301,
+    "id": "gptomics-bioskills-pathway-analysis-gsea-skill-md",
+    "name": "bio-pathway-gsea",
+    "author": "GPTomics",
+    "stars": 226,
+    "githubUrl": "https://github.com/GPTomics/bioSkills/tree/main/pathway-analysis/gsea",
+    "skillUrl": "https://skillsmp.com/skills/gptomics-bioskills-pathway-analysis-gsea-skill-md",
+    "updatedAt": 1769199132,
+    "description": "Gene Set Enrichment Analysis using clusterProfiler gseGO and gseKEGG. Use when analyzing ranked gene lists to find coordinated expression changes in gene sets without arbitrary significance cutoffs. Detects subtle but coordinated expression changes."
+  },
+  "github": {
+    "owner": "GPTomics",
+    "repo": "bioSkills",
+    "ref": "main",
+    "relativePath": "pathway-analysis/gsea",
+    "sourceUrl": "https://github.com/GPTomics/bioSkills/tree/main/pathway-analysis/gsea"
+  }
+}

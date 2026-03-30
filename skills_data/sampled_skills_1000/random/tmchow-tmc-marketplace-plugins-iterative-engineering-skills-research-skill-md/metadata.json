@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 38,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 38,
+    "id": "tmchow-tmc-marketplace-plugins-iterative-engineering-skills-research-skill-md",
+    "name": "iterativeresearch",
+    "author": "tmchow",
+    "stars": 17,
+    "githubUrl": "https://github.com/tmchow/tmc-marketplace/tree/main/plugins/iterative-engineering/skills/research",
+    "skillUrl": "https://skillsmp.com/skills/tmchow-tmc-marketplace-plugins-iterative-engineering-skills-research-skill-md",
+    "updatedAt": 1770711778,
+    "description": "This skill should be used when the user says \"research this\", \"research these questions\", \"investigate questions\", \"resolve open questions\", \"look into this\", \"address open questions\", or when a PRD has unresolved questions that can be answered through information gathering before technical planning."
+  },
+  "github": {
+    "owner": "tmchow",
+    "repo": "tmc-marketplace",
+    "ref": "main",
+    "relativePath": "plugins/iterative-engineering/skills/research",
+    "sourceUrl": "https://github.com/tmchow/tmc-marketplace/tree/main/plugins/iterative-engineering/skills/research"
+  }
+}

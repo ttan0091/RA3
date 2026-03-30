@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 28,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 28,
+    "id": "marcglasberg-async-redux-claude-skills-asyncredux-before-after-skill-md",
+    "name": "asyncredux-before-after",
+    "author": "marcglasberg",
+    "stars": 239,
+    "githubUrl": "https://github.com/marcglasberg/async_redux/tree/master/.claude/skills/asyncredux-before-after",
+    "skillUrl": "https://skillsmp.com/skills/marcglasberg-async-redux-claude-skills-asyncredux-before-after-skill-md",
+    "updatedAt": 1769729091,
+    "description": "Implement action lifecycle methods `before()` and `after()`. Covers running precondition checks, showing/hiding modal barriers, cleanup logic in `after()`, and understanding that `after()` always runs (like a finally block)."
+  },
+  "github": {
+    "owner": "marcglasberg",
+    "repo": "async_redux",
+    "ref": "master",
+    "relativePath": ".claude/skills/asyncredux-before-after",
+    "sourceUrl": "https://github.com/marcglasberg/async_redux/tree/master/.claude/skills/asyncredux-before-after"
+  }
+}

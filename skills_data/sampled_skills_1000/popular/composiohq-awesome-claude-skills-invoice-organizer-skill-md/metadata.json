@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 334,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 334,
+    "id": "composiohq-awesome-claude-skills-invoice-organizer-skill-md",
+    "name": "invoice-organizer",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-invoice-organizer-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Automatically organizes invoices and receipts for tax preparation by reading messy files, extracting key information, renaming them consistently, and sorting them into logical folders. Turns hours of manual bookkeeping into minutes of automated organization."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "invoice-organizer",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/invoice-organizer"
+  }
+}

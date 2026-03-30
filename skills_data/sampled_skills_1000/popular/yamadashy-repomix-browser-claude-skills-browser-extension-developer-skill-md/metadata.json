@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 558,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 558,
+    "id": "yamadashy-repomix-browser-claude-skills-browser-extension-developer-skill-md",
+    "name": "browser-extension-developer",
+    "author": "yamadashy",
+    "stars": 21805,
+    "githubUrl": "https://github.com/yamadashy/repomix/tree/main/browser/.claude/skills/browser-extension-developer",
+    "skillUrl": "https://skillsmp.com/skills/yamadashy-repomix-browser-claude-skills-browser-extension-developer-skill-md",
+    "updatedAt": 1769183590,
+    "description": "Use this skill when developing or maintaining browser extension code in the `browser/` directory, including Chrome/Firefox/Edge compatibility, content scripts, background scripts, or i18n updates."
+  },
+  "github": {
+    "owner": "yamadashy",
+    "repo": "repomix",
+    "ref": "main",
+    "relativePath": "browser/.claude/skills/browser-extension-developer",
+    "sourceUrl": "https://github.com/yamadashy/repomix/tree/main/browser/.claude/skills/browser-extension-developer"
+  }
+}

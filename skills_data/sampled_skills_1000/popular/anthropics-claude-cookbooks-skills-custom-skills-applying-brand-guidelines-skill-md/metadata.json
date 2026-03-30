@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 348,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 348,
+    "id": "anthropics-claude-cookbooks-skills-custom-skills-applying-brand-guidelines-skill-md",
+    "name": "applying-brand-guidelines",
+    "author": "anthropics",
+    "stars": 32748,
+    "githubUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/skills/custom_skills/applying-brand-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-claude-cookbooks-skills-custom-skills-applying-brand-guidelines-skill-md",
+    "updatedAt": 1764312299,
+    "description": "This skill applies consistent corporate branding and styling to all generated documents including colors, fonts, layouts, and messaging"
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "claude-cookbooks",
+    "ref": "main",
+    "relativePath": "skills/custom_skills/applying-brand-guidelines",
+    "sourceUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/skills/custom_skills/applying-brand-guidelines"
+  }
+}

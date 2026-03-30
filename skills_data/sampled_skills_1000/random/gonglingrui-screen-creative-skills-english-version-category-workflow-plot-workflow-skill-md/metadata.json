@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 146,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 146,
+    "id": "gonglingrui-screen-creative-skills-english-version-category-workflow-plot-workflow-skill-md",
+    "name": "plot-workflow",
+    "author": "GongLingRui",
+    "stars": 21,
+    "githubUrl": "https://github.com/GongLingRui/screen-creative-skills/tree/master/english-version/category/workflow/plot-workflow",
+    "skillUrl": "https://skillsmp.com/skills/gonglingrui-screen-creative-skills-english-version-category-workflow-plot-workflow-skill-md",
+    "updatedAt": 1769194228,
+    "description": "Orchestrate and coordinate one-click generation workflow for major plot points and detailed plot points. Suitable for structured analysis of long stories, complex tasks requiring modular agent collaboration"
+  },
+  "github": {
+    "owner": "GongLingRui",
+    "repo": "screen-creative-skills",
+    "ref": "master",
+    "relativePath": "english-version/category/workflow/plot-workflow",
+    "sourceUrl": "https://github.com/GongLingRui/screen-creative-skills/tree/master/english-version/category/workflow/plot-workflow"
+  }
+}

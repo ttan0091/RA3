@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 969,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 969,
+    "id": "duhenri9-wm3-digital-codex-skills-bug-investigation-skill-md",
+    "name": "bug-investigation",
+    "author": "duhenri9",
+    "stars": 0,
+    "githubUrl": "https://github.com/duhenri9/wm3_digital/tree/main/.codex/skills/bug-investigation",
+    "skillUrl": "https://skillsmp.com/skills/duhenri9-wm3-digital-codex-skills-bug-investigation-skill-md",
+    "updatedAt": 1768660795,
+    "description": "Systematic bug investigation and root cause analysis"
+  },
+  "github": {
+    "owner": "duhenri9",
+    "repo": "wm3_digital",
+    "ref": "main",
+    "relativePath": ".codex/skills/bug-investigation",
+    "sourceUrl": "https://github.com/duhenri9/wm3_digital/tree/main/.codex/skills/bug-investigation"
+  }
+}

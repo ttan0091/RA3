@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 79,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 79,
+    "id": "angular-angular-gemini-skills-reference-signal-forms-skill-md",
+    "name": "reference-signal-forms",
+    "author": "angular",
+    "stars": 99821,
+    "githubUrl": "https://github.com/angular/angular/tree/main/.gemini/skills/reference-signal-forms",
+    "skillUrl": "https://skillsmp.com/skills/angular-angular-gemini-skills-reference-signal-forms-skill-md",
+    "updatedAt": 1770668055,
+    "description": "Explains the mental model and architecture of the code under `packages/forms/signals`. You MUST use this skill any time you plan to work with code in `packages/forms/signals`"
+  },
+  "github": {
+    "owner": "angular",
+    "repo": "angular",
+    "ref": "main",
+    "relativePath": ".gemini/skills/reference-signal-forms",
+    "sourceUrl": "https://github.com/angular/angular/tree/main/.gemini/skills/reference-signal-forms"
+  }
+}

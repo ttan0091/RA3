@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 808,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 808,
+    "id": "shreed27-dain-cloddsbot-main-src-skills-bundled-clanker-skill-md",
+    "name": "clanker",
+    "author": "shreed27",
+    "stars": 0,
+    "githubUrl": "https://github.com/shreed27/DAIN/tree/main/CloddsBot-main/src/skills/bundled/clanker",
+    "skillUrl": "https://skillsmp.com/skills/shreed27-dain-cloddsbot-main-src-skills-bundled-clanker-skill-md",
+    "updatedAt": 1770413831,
+    "description": "Deploy ERC20 tokens with Uniswap V4 pools on Base, Ethereum, Arbitrum"
+  },
+  "github": {
+    "owner": "shreed27",
+    "repo": "DAIN",
+    "ref": "main",
+    "relativePath": "CloddsBot-main/src/skills/bundled/clanker",
+    "sourceUrl": "https://github.com/shreed27/DAIN/tree/main/CloddsBot-main/src/skills/bundled/clanker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 195,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 195,
+    "id": "metabase-metabase-claude-skills-typescript-review-skill-md",
+    "name": "typescript-review",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/typescript-review",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-typescript-review-skill-md",
+    "updatedAt": 1763571245,
+    "description": "Review TypeScript and JavaScript code changes for compliance with Metabase coding standards, style violations, and code quality issues. Use when reviewing pull requests or diffs containing TypeScript/JavaScript code."
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/typescript-review",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/typescript-review"
+  }
+}

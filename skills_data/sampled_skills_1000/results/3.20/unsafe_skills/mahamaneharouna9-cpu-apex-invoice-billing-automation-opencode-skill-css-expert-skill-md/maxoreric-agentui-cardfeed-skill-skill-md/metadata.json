@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 705,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 705,
+    "id": "maxoreric-agentui-cardfeed-skill-skill-md",
+    "name": "cardfeed",
+    "author": "maxoreric",
+    "stars": 0,
+    "githubUrl": "https://github.com/maxoreric/agentUI/tree/master/cardfeed/skill",
+    "skillUrl": "https://skillsmp.com/skills/maxoreric-agentui-cardfeed-skill-skill-md",
+    "updatedAt": 1770163638,
+    "description": "Use when you need to send interactive cards to the user for review, decisions, approvals, or choices. Also use when you need to create new card types for specialized interactions."
+  },
+  "github": {
+    "owner": "maxoreric",
+    "repo": "agentUI",
+    "ref": "master",
+    "relativePath": "cardfeed/skill",
+    "sourceUrl": "https://github.com/maxoreric/agentUI/tree/master/cardfeed/skill"
+  }
+}

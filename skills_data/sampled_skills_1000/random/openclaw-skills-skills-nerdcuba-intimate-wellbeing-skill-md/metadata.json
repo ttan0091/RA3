@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 8,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 8,
+    "id": "openclaw-skills-skills-nerdcuba-intimate-wellbeing-skill-md",
+    "name": "intimate-wellbeing",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/nerdcuba/intimate-wellbeing",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-nerdcuba-intimate-wellbeing-skill-md",
+    "updatedAt": 1770680823,
+    "description": "Professional, non-explicit guidance on intimate wellbeing and sexual performance: communication, stress reduction, sleep, exercise, habits, medical red flags, and relationship health. Use for wellness-focused questions; avoid explicit content."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/nerdcuba/intimate-wellbeing",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/nerdcuba/intimate-wellbeing"
+  }
+}

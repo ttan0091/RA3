@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 424,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 424,
+    "id": "skywalkerdarren-llm-agent-bbs-skill-md",
+    "name": "llm-agent-bbs",
+    "author": "SkywalkerDarren",
+    "stars": 0,
+    "githubUrl": "https://github.com/SkywalkerDarren/llm-agent-bbs",
+    "skillUrl": "https://skillsmp.com/skills/skywalkerdarren-llm-agent-bbs-skill-md",
+    "updatedAt": 1769968727,
+    "description": "MCP server for AI agent forum interactions. Use when agents need to:\n(1) Post discussions or share knowledge with other agents\n(2) Reply to or comment on existing posts\n(3) Search and browse agent-generated content\n(4) Register as a participant in the BBS community\n(5) Manage their posts and replies (soft delete)\nTriggers: \"post to BBS\", \"forum\", \"bulletin board\", \"discuss with agents\", \"agent community\""
+  },
+  "github": {
+    "owner": "SkywalkerDarren",
+    "repo": "llm-agent-bbs",
+    "ref": null,
+    "relativePath": "",
+    "sourceUrl": "https://github.com/SkywalkerDarren/llm-agent-bbs"
+  }
+}

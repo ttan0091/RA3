@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 485,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 485,
+    "id": "wshobson-agents-plugins-security-scanning-skills-security-requirement-extraction-skill-md",
+    "name": "security-requirement-extraction",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/security-requirement-extraction",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-security-scanning-skills-security-requirement-extraction-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/security-scanning/skills/security-requirement-extraction",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/security-requirement-extraction"
+  }
+}

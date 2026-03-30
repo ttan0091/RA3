@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 762,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 762,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-form-cro-skill-md",
+    "name": "form-cro",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/form-cro",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-form-cro-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to optimize any form that is NOT signup/registration — including lead capture forms, contact forms, demo request forms, application forms, survey forms, or checkout forms. Also use when the user mentions \"form optimization,\" \"lead form conversions,\" \"form friction,\" \"form fields,\" \"form completion rate,\" or \"contact form.\" For signup/registration forms, see signup-flow-cro. For popups containing forms, see popup-cro."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/form-cro",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/form-cro"
+  }
+}

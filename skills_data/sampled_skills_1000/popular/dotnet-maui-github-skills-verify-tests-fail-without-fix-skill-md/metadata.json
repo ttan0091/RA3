@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 549,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 549,
+    "id": "dotnet-maui-github-skills-verify-tests-fail-without-fix-skill-md",
+    "name": "verify-tests-fail-without-fix",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/verify-tests-fail-without-fix",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-verify-tests-fail-without-fix-skill-md",
+    "updatedAt": 1769867154,
+    "description": "Verifies UI tests catch the bug. Supports two modes - verify failure only (test creation) or full verification (test + fix validation)."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/verify-tests-fail-without-fix",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/verify-tests-fail-without-fix"
+  }
+}

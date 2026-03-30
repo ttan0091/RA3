@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 718,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 718,
+    "id": "maximpodgore-mcp-testing-agent-data-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "MaximPodgore",
+    "stars": 0,
+    "githubUrl": "https://github.com/MaximPodgore/MCP-testing/tree/main/agent_data/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/maximpodgore-mcp-testing-agent-data-skills-skill-creator-skill-md",
+    "updatedAt": 1769569220,
+    "description": "**MANDATORY SKILL** - You MUST use this skill (read SKILL.md) when the user requests any skill-related task. DO NOT create skills without reading this first. TRIGGERS: User says ANY of these words/phrases: 'create a skill', 'create skill', 'make a skill', 'make skill', 'new skill', 'build a skill', 'build skill', 'set up a skill', 'initialize a skill', 'scaffold a skill', 'update skill', 'modify skill', 'validate skill', 'skill for [anything]', 'help me build a skill', 'how do I create a skill', or asks about skill structure/design. This skill provides the complete step-by-step process for creating effective skills with proper structure, progressive disclosure, and bundled resources."
+  },
+  "github": {
+    "owner": "MaximPodgore",
+    "repo": "MCP-testing",
+    "ref": "main",
+    "relativePath": "agent_data/skills/skill-creator",
+    "sourceUrl": "https://github.com/MaximPodgore/MCP-testing/tree/main/agent_data/skills/skill-creator"
+  }
+}

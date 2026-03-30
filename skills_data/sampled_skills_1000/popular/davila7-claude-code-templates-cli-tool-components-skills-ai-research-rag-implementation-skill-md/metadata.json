@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 733,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 733,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-implementation-skill-md",
+    "name": "rag-implementation",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-implementation",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-implementation-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Retrieval-Augmented Generation patterns including chunking, embeddings, vector stores, and retrieval optimization Use when: rag, retrieval augmented, vector search, embeddings, semantic search."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/rag-implementation",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-implementation"
+  }
+}

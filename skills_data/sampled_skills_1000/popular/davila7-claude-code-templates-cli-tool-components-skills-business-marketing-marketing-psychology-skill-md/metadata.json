@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 767,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 767,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-marketing-psychology-skill-md",
+    "name": "marketing-psychology",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/marketing-psychology",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-marketing-psychology-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to apply psychological principles, mental models, or behavioral science to marketing. Also use when the user mentions 'psychology,' 'mental models,' 'cognitive bias,' 'persuasion,' 'behavioral science,' 'why people buy,' 'decision-making,' or 'consumer behavior.' This skill provides 70+ mental models organized for marketing application."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/marketing-psychology",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/marketing-psychology"
+  }
+}

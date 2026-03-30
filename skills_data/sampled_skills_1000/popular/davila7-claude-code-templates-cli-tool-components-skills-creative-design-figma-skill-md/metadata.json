@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 796,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 796,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-figma-skill-md",
+    "name": "figma",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-figma-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use the Figma MCP server to fetch design context, screenshots, variables, and assets from Figma, and to translate Figma nodes into production code. Trigger when a task involves Figma URLs, node IDs, design-to-code implementation, or Figma MCP setup and troubleshooting."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/figma",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma"
+  }
+}

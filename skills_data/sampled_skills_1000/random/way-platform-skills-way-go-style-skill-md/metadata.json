@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 874,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 874,
+    "id": "way-platform-skills-way-go-style-skill-md",
+    "name": "way-go-style",
+    "author": "way-platform",
+    "stars": 1,
+    "githubUrl": "https://github.com/way-platform/skills/tree/main/way-go-style",
+    "skillUrl": "https://skillsmp.com/skills/way-platform-skills-way-go-style-skill-md",
+    "updatedAt": 1770018261,
+    "description": "Guide for writing idiomatic, effective, and standard Go code. Use this skill when writing, refactoring, or reviewing Go code to ensure adherence to established conventions and best practices."
+  },
+  "github": {
+    "owner": "way-platform",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "way-go-style",
+    "sourceUrl": "https://github.com/way-platform/skills/tree/main/way-go-style"
+  }
+}

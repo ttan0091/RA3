@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 279,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 279,
+    "id": "julianobarbosa-claude-code-skills-skills-researching-web-skill-skill-md",
+    "name": "researching-web",
+    "author": "julianobarbosa",
+    "stars": 14,
+    "githubUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/researching-web-skill",
+    "skillUrl": "https://skillsmp.com/skills/julianobarbosa-claude-code-skills-skills-researching-web-skill-skill-md",
+    "updatedAt": 1765914548,
+    "description": "Search the web using Perplexity AI. Use when needing to search, look up, research, find current information, best practices, compare technologies, or answer factual questions about tools and libraries."
+  },
+  "github": {
+    "owner": "julianobarbosa",
+    "repo": "claude-code-skills",
+    "ref": "main",
+    "relativePath": "skills/researching-web-skill",
+    "sourceUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/researching-web-skill"
+  }
+}

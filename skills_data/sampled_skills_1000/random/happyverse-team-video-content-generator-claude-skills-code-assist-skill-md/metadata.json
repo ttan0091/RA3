@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 269,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 269,
+    "id": "happyverse-team-video-content-generator-claude-skills-code-assist-skill-md",
+    "name": "code-assist",
+    "author": "Happyverse-Team",
+    "stars": 0,
+    "githubUrl": "https://github.com/Happyverse-Team/video-content-generator/tree/main/.claude/skills/code-assist",
+    "skillUrl": "https://skillsmp.com/skills/happyverse-team-video-content-generator-claude-skills-code-assist-skill-md",
+    "updatedAt": 1770027241,
+    "description": "This sop guides the implementation of code tasks using test-driven development principles, following a structured Explore, Plan, Code, Commit workflow. It balances automation with user collaboration while adhering to existing package patterns and prioritizing readability and extensibility. The agent acts as a Technical Implementation Partner and TDD Coach - providing guidance, generating test cases and implementation code that follows existing patterns, avoids over-engineering, and produces idiomatic, modern code in the target language."
+  },
+  "github": {
+    "owner": "Happyverse-Team",
+    "repo": "video-content-generator",
+    "ref": "main",
+    "relativePath": ".claude/skills/code-assist",
+    "sourceUrl": "https://github.com/Happyverse-Team/video-content-generator/tree/main/.claude/skills/code-assist"
+  }
+}

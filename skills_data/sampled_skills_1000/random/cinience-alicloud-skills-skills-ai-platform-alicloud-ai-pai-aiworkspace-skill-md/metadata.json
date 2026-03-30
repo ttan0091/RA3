@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 183,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 183,
+    "id": "cinience-alicloud-skills-skills-ai-platform-alicloud-ai-pai-aiworkspace-skill-md",
+    "name": "alicloud-ai-pai-aiworkspace",
+    "author": "cinience",
+    "stars": 99,
+    "githubUrl": "https://github.com/cinience/alicloud-skills/tree/main/skills/ai/platform/alicloud-ai-pai-aiworkspace",
+    "skillUrl": "https://skillsmp.com/skills/cinience-alicloud-skills-skills-ai-platform-alicloud-ai-pai-aiworkspace-skill-md",
+    "updatedAt": 1770128207,
+    "description": "Manage Alibaba Cloud Platform for Artificial Intelligence PAI - AIWorkspace (AIWorkSpace) via OpenAPI/SDK. Use for listing resources, creating or updating configurations, querying status, and troubleshooting workflows for this product. Also use to discover APIs via OpenAPI metadata when unsure."
+  },
+  "github": {
+    "owner": "cinience",
+    "repo": "alicloud-skills",
+    "ref": "main",
+    "relativePath": "skills/ai/platform/alicloud-ai-pai-aiworkspace",
+    "sourceUrl": "https://github.com/cinience/alicloud-skills/tree/main/skills/ai/platform/alicloud-ai-pai-aiworkspace"
+  }
+}

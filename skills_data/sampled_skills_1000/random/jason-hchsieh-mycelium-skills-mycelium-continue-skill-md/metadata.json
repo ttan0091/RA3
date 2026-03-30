@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 461,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 461,
+    "id": "jason-hchsieh-mycelium-skills-mycelium-continue-skill-md",
+    "name": "mycelium-continue",
+    "author": "jason-hchsieh",
+    "stars": 0,
+    "githubUrl": "https://github.com/jason-hchsieh/mycelium/tree/main/skills/mycelium-continue",
+    "skillUrl": "https://skillsmp.com/skills/jason-hchsieh-mycelium-skills-mycelium-continue-skill-md",
+    "updatedAt": 1770738965,
+    "description": "Resume interrupted workflow from last checkpoint"
+  },
+  "github": {
+    "owner": "jason-hchsieh",
+    "repo": "mycelium",
+    "ref": "main",
+    "relativePath": "skills/mycelium-continue",
+    "sourceUrl": "https://github.com/jason-hchsieh/mycelium/tree/main/skills/mycelium-continue"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 296,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 296,
+    "id": "code0100fun-botfiles-plugins-zig-dev-skills-error-handling-validator-skill-md",
+    "name": "error-handling-validator",
+    "author": "code0100fun",
+    "stars": 0,
+    "githubUrl": "https://github.com/code0100fun/botfiles/tree/main/plugins/zig-dev/skills/error-handling-validator",
+    "skillUrl": "https://skillsmp.com/skills/code0100fun-botfiles-plugins-zig-dev-skills-error-handling-validator-skill-md",
+    "updatedAt": 1770583972,
+    "description": "Validates proper error handling patterns in Zig code including custom error sets, error context, and error propagation. Use when writing error-prone code, reviewing error handling, or debugging error cases."
+  },
+  "github": {
+    "owner": "code0100fun",
+    "repo": "botfiles",
+    "ref": "main",
+    "relativePath": "plugins/zig-dev/skills/error-handling-validator",
+    "sourceUrl": "https://github.com/code0100fun/botfiles/tree/main/plugins/zig-dev/skills/error-handling-validator"
+  }
+}

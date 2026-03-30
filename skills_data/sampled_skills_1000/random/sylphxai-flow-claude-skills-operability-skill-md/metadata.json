@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 419,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 419,
+    "id": "sylphxai-flow-claude-skills-operability-skill-md",
+    "name": "operability",
+    "author": "SylphxAI",
+    "stars": 4,
+    "githubUrl": "https://github.com/SylphxAI/flow/tree/main/.claude/skills/operability",
+    "skillUrl": "https://skillsmp.com/skills/sylphxai-flow-claude-skills-operability-skill-md",
+    "updatedAt": 1766068576,
+    "description": "Operations - deployment, rollback, feature flags. Use for ops tooling."
+  },
+  "github": {
+    "owner": "SylphxAI",
+    "repo": "flow",
+    "ref": "main",
+    "relativePath": ".claude/skills/operability",
+    "sourceUrl": "https://github.com/SylphxAI/flow/tree/main/.claude/skills/operability"
+  }
+}

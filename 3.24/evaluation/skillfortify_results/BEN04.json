@@ -1,0 +1,15 @@
+[
+  {
+    "skill_name": "feature-flags",
+    "is_safe": true,
+    "findings_count": 0,
+    "max_severity": null,
+    "inferred_capabilities": [
+      {
+        "resource": "environment",
+        "access": "READ"
+      }
+    ],
+    "findings": []
+  }
+]

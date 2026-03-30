@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 142,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 142,
+    "id": "anthropics-skills-skills-doc-coauthoring-skill-md",
+    "name": "doc-coauthoring",
+    "author": "anthropics",
+    "stars": 67303,
+    "githubUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-skills-skills-doc-coauthoring-skill-md",
+    "updatedAt": 1764867706,
+    "description": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/doc-coauthoring",
+    "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring"
+  }
+}

@@ -1,0 +1,23 @@
+# Secrets and local env
+.env
+.env.*
+!.env.example
+apikey.txt
+*.pem
+
+# Python
+.venv/
+.uv-cache/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Large local data (exceeds GitHub 100MB limit)
+skills_data/skills_metadata.json
+
+# OS / editor
+.DS_Store
+Thumbs.db

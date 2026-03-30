@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 401,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 401,
+    "id": "wshobson-agents-plugins-data-engineering-skills-airflow-dag-patterns-skill-md",
+    "name": "airflow-dag-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/airflow-dag-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-data-engineering-skills-airflow-dag-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build production Apache Airflow DAGs with best practices for operators, sensors, testing, and deployment. Use when creating data pipelines, orchestrating workflows, or scheduling batch jobs."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/data-engineering/skills/airflow-dag-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/airflow-dag-patterns"
+  }
+}

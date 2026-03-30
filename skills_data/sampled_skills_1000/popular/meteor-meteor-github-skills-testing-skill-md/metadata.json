@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 217,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 217,
+    "id": "meteor-meteor-github-skills-testing-skill-md",
+    "name": "testing",
+    "author": "meteor",
+    "stars": 44774,
+    "githubUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/testing",
+    "skillUrl": "https://skillsmp.com/skills/meteor-meteor-github-skills-testing-skill-md",
+    "updatedAt": 1770387405,
+    "description": "Use when writing tests, debugging test failures, running the test suite, or setting up test infrastructure. Covers self-test, package tests, and modern E2E tests."
+  },
+  "github": {
+    "owner": "meteor",
+    "repo": "meteor",
+    "ref": "devel",
+    "relativePath": ".github/skills/testing",
+    "sourceUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/testing"
+  }
+}

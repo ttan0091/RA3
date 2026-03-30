@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 556,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 556,
+    "id": "roocodeinc-roo-code-roo-skills-evals-context-skill-md",
+    "name": "evals-context",
+    "author": "RooCodeInc",
+    "stars": 22188,
+    "githubUrl": "https://github.com/RooCodeInc/Roo-Code/tree/main/.roo/skills/evals-context",
+    "skillUrl": "https://skillsmp.com/skills/roocodeinc-roo-code-roo-skills-evals-context-skill-md",
+    "updatedAt": 1767798034,
+    "description": "Provides context about the Roo Code evals system structure in this monorepo. Use when tasks mention \"evals\", \"evaluation\", \"eval runs\", \"eval exercises\", or working with the evals infrastructure. Helps distinguish between the evals execution system (packages/evals, apps/web-evals) and the public website evals display page (apps/web-roo-code/src/app/evals)."
+  },
+  "github": {
+    "owner": "RooCodeInc",
+    "repo": "Roo-Code",
+    "ref": "main",
+    "relativePath": ".roo/skills/evals-context",
+    "sourceUrl": "https://github.com/RooCodeInc/Roo-Code/tree/main/.roo/skills/evals-context"
+  }
+}

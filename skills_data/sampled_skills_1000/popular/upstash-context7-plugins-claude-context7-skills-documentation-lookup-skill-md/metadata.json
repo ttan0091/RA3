@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 200,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 200,
+    "id": "upstash-context7-plugins-claude-context7-skills-documentation-lookup-skill-md",
+    "name": "documentation-lookup",
+    "author": "upstash",
+    "stars": 45337,
+    "githubUrl": "https://github.com/upstash/context7/tree/master/plugins/claude/context7/skills/documentation-lookup",
+    "skillUrl": "https://skillsmp.com/skills/upstash-context7-plugins-claude-context7-skills-documentation-lookup-skill-md",
+    "updatedAt": 1768073060,
+    "description": "This skill should be used when the user asks about libraries, frameworks, API references, or needs code examples. Activates for setup questions, code generation involving libraries, or mentions of specific frameworks like React, Vue, Next.js, Prisma, Supabase, etc."
+  },
+  "github": {
+    "owner": "upstash",
+    "repo": "context7",
+    "ref": "master",
+    "relativePath": "plugins/claude/context7/skills/documentation-lookup",
+    "sourceUrl": "https://github.com/upstash/context7/tree/master/plugins/claude/context7/skills/documentation-lookup"
+  }
+}

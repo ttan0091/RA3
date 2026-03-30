@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 27,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 27,
+    "id": "openclaw-openclaw-skills-github-skill-md",
+    "name": "github",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/github",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-github-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Interact with GitHub using the `gh` CLI. Use `gh issue`, `gh pr`, `gh run`, and `gh api` for issues, PRs, CI runs, and advanced queries."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/github",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/github"
+  }
+}

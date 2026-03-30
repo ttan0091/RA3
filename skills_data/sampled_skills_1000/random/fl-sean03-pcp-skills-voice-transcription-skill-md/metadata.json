@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 223,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 223,
+    "id": "fl-sean03-pcp-skills-voice-transcription-skill-md",
+    "name": "voice-transcription",
+    "author": "fl-sean03",
+    "stars": 0,
+    "githubUrl": "https://github.com/fl-sean03/pcp/tree/main/skills/voice-transcription",
+    "skillUrl": "https://skillsmp.com/skills/fl-sean03-pcp-skills-voice-transcription-skill-md",
+    "updatedAt": 1770269732,
+    "description": "Transcribe audio files (voice memos, recordings) to text using OpenAI Whisper API or local transcription"
+  },
+  "github": {
+    "owner": "fl-sean03",
+    "repo": "pcp",
+    "ref": "main",
+    "relativePath": "skills/voice-transcription",
+    "sourceUrl": "https://github.com/fl-sean03/pcp/tree/main/skills/voice-transcription"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 396,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 396,
+    "id": "wshobson-agents-plugins-cloud-infrastructure-skills-service-mesh-observability-skill-md",
+    "name": "service-mesh-observability",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/service-mesh-observability",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cloud-infrastructure-skills-service-mesh-observability-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement comprehensive observability for service meshes including distributed tracing, metrics, and visualization. Use when setting up mesh monitoring, debugging latency issues, or implementing SLOs for service communication."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cloud-infrastructure/skills/service-mesh-observability",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/service-mesh-observability"
+  }
+}

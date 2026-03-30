@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 554,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 554,
+    "id": "jlowin-fastmcp-claude-skills-python-tests-skill-md",
+    "name": "testing-python",
+    "author": "jlowin",
+    "stars": 22746,
+    "githubUrl": "https://github.com/jlowin/fastmcp/tree/main/.claude/skills/python-tests",
+    "skillUrl": "https://skillsmp.com/skills/jlowin-fastmcp-claude-skills-python-tests-skill-md",
+    "updatedAt": 1768235079,
+    "description": "Write and evaluate effective Python tests using pytest. Use when writing tests, reviewing test code, debugging test failures, or improving test coverage. Covers test design, fixtures, parameterization, mocking, and async testing."
+  },
+  "github": {
+    "owner": "jlowin",
+    "repo": "fastmcp",
+    "ref": "main",
+    "relativePath": ".claude/skills/python-tests",
+    "sourceUrl": "https://github.com/jlowin/fastmcp/tree/main/.claude/skills/python-tests"
+  }
+}

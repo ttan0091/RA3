@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 598,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 598,
+    "id": "jwintz-lithos-skills-lithos-landing-skill-md",
+    "name": "lithos-landing",
+    "author": "jwintz",
+    "stars": 11,
+    "githubUrl": "https://github.com/jwintz/lithos/tree/main/skills/lithos-landing",
+    "skillUrl": "https://skillsmp.com/skills/jwintz-lithos-skills-lithos-landing-skill-md",
+    "updatedAt": 1770126791,
+    "description": "Create or edit the Lithos landing page (vault/index.md). Use when modifying the homepage hero, feature cards, or call-to-action sections."
+  },
+  "github": {
+    "owner": "jwintz",
+    "repo": "lithos",
+    "ref": "main",
+    "relativePath": "skills/lithos-landing",
+    "sourceUrl": "https://github.com/jwintz/lithos/tree/main/skills/lithos-landing"
+  }
+}

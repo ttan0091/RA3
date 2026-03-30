@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 930,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 930,
+    "id": "monkey1sai-openai-cli-claude-skills-mcp-server-builder-skill-md",
+    "name": "mcp-server-builder",
+    "author": "monkey1sai",
+    "stars": 1,
+    "githubUrl": "https://github.com/monkey1sai/openai-cli/tree/main/.claude/skills/mcp-server-builder",
+    "skillUrl": "https://skillsmp.com/skills/monkey1sai-openai-cli-claude-skills-mcp-server-builder-skill-md",
+    "updatedAt": 1770002647,
+    "description": "Builds Model Context Protocol (MCP) servers for Claude with tools, resources, and prompts. Use when users request \"create MCP server\", \"build Claude tool\", \"MCP integration\", or \"custom Claude tools\"."
+  },
+  "github": {
+    "owner": "monkey1sai",
+    "repo": "openai-cli",
+    "ref": "main",
+    "relativePath": ".claude/skills/mcp-server-builder",
+    "sourceUrl": "https://github.com/monkey1sai/openai-cli/tree/main/.claude/skills/mcp-server-builder"
+  }
+}

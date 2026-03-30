@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 87,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 87,
+    "id": "pytorch-pytorch-claude-skills-pyrefly-type-coverage-skill-md",
+    "name": "pyrefly-type-coverage",
+    "author": "pytorch",
+    "stars": 97306,
+    "githubUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/pyrefly-type-coverage",
+    "skillUrl": "https://skillsmp.com/skills/pytorch-pytorch-claude-skills-pyrefly-type-coverage-skill-md",
+    "updatedAt": 1770193040,
+    "description": "Migrate a file to use stricter Pyrefly type checking with annotations required for all functions, classes, and attributes."
+  },
+  "github": {
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "ref": "main",
+    "relativePath": ".claude/skills/pyrefly-type-coverage",
+    "sourceUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/pyrefly-type-coverage"
+  }
+}

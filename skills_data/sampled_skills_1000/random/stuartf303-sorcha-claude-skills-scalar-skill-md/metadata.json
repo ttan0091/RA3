@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 747,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 747,
+    "id": "stuartf303-sorcha-claude-skills-scalar-skill-md",
+    "name": "scalar",
+    "author": "StuartF303",
+    "stars": 0,
+    "githubUrl": "https://github.com/StuartF303/Sorcha/tree/master/.claude/skills/scalar",
+    "skillUrl": "https://skillsmp.com/skills/stuartf303-sorcha-claude-skills-scalar-skill-md",
+    "updatedAt": 1769258117,
+    "description": "Generates and configures Scalar OpenAPI UI for API documentation.\nUse when: Adding API documentation to services, configuring OpenAPI endpoints, customizing documentation themes"
+  },
+  "github": {
+    "owner": "StuartF303",
+    "repo": "Sorcha",
+    "ref": "master",
+    "relativePath": ".claude/skills/scalar",
+    "sourceUrl": "https://github.com/StuartF303/Sorcha/tree/master/.claude/skills/scalar"
+  }
+}

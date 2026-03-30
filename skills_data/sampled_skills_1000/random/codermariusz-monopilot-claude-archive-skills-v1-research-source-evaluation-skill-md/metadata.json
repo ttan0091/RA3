@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 921,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 921,
+    "id": "codermariusz-monopilot-claude-archive-skills-v1-research-source-evaluation-skill-md",
+    "name": "research-source-evaluation",
+    "author": "CoderMariusz",
+    "stars": 1,
+    "githubUrl": "https://github.com/CoderMariusz/MonoPilot/tree/main/.claude/archive/skills-v1/research-source-evaluation",
+    "skillUrl": "https://skillsmp.com/skills/codermariusz-monopilot-claude-archive-skills-v1-research-source-evaluation-skill-md",
+    "updatedAt": 1770726708,
+    "description": "When searching for authoritative sources for skills or validating existing source links."
+  },
+  "github": {
+    "owner": "CoderMariusz",
+    "repo": "MonoPilot",
+    "ref": "main",
+    "relativePath": ".claude/archive/skills-v1/research-source-evaluation",
+    "sourceUrl": "https://github.com/CoderMariusz/MonoPilot/tree/main/.claude/archive/skills-v1/research-source-evaluation"
+  }
+}

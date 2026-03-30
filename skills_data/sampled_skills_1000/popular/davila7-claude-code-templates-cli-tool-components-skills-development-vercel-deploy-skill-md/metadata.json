@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 945,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 945,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-vercel-deploy-skill-md",
+    "name": "vercel-deploy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/vercel-deploy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-vercel-deploy-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Deploy applications and websites to Vercel. Use when the user requests deployment actions like \"deploy my app\", \"deploy and give me the link\", \"push this live\", or \"create a preview deployment\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/vercel-deploy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/vercel-deploy"
+  }
+}

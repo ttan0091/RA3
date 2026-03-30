@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 632,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 632,
+    "id": "courtneyr-dev-wp-dev-prompts-skills-product-management-skill-md",
+    "name": "product-management-for-wordpress",
+    "author": "courtneyr-dev",
+    "stars": 1,
+    "githubUrl": "https://github.com/courtneyr-dev/wp-dev-prompts/tree/main/skills/product-management",
+    "skillUrl": "https://skillsmp.com/skills/courtneyr-dev-wp-dev-prompts-skills-product-management-skill-md",
+    "updatedAt": 1770384684,
+    "description": "Product management frameworks for WordPress plugins — persona creation, Jobs to Be Done, feature hypothesis testing, positioning, problem framing, and user stories."
+  },
+  "github": {
+    "owner": "courtneyr-dev",
+    "repo": "wp-dev-prompts",
+    "ref": "main",
+    "relativePath": "skills/product-management",
+    "sourceUrl": "https://github.com/courtneyr-dev/wp-dev-prompts/tree/main/skills/product-management"
+  }
+}

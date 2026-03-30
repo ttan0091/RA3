@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 570,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 570,
+    "id": "withzombies-hyperpowers-agents-skills-fixing-bugs-skill-md",
+    "name": "fixing-bugs",
+    "author": "withzombies",
+    "stars": 46,
+    "githubUrl": "https://github.com/withzombies/hyperpowers/tree/main/.agents/skills/fixing-bugs",
+    "skillUrl": "https://skillsmp.com/skills/withzombies-hyperpowers-agents-skills-fixing-bugs-skill-md",
+    "updatedAt": 1770668585,
+    "description": "Use when encountering a bug - complete workflow from discovery through debugging, bd issue, test-driven fix, verification, and closure"
+  },
+  "github": {
+    "owner": "withzombies",
+    "repo": "hyperpowers",
+    "ref": "main",
+    "relativePath": ".agents/skills/fixing-bugs",
+    "sourceUrl": "https://github.com/withzombies/hyperpowers/tree/main/.agents/skills/fixing-bugs"
+  }
+}

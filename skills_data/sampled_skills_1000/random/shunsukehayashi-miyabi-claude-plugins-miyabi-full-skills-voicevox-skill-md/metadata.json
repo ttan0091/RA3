@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 981,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 981,
+    "id": "shunsukehayashi-miyabi-claude-plugins-miyabi-full-skills-voicevox-skill-md",
+    "name": "voicevox-narration-system",
+    "author": "ShunsukeHayashi",
+    "stars": 26,
+    "githubUrl": "https://github.com/ShunsukeHayashi/miyabi-claude-plugins/tree/main/miyabi-full/skills/voicevox",
+    "skillUrl": "https://skillsmp.com/skills/shunsukehayashi-miyabi-claude-plugins-miyabi-full-skills-voicevox-skill-md",
+    "updatedAt": 1768182936,
+    "description": "Generate Yukkuri-style voice narration from Git commits using VOICEVOX Engine. Use when creating development progress audio guides, YouTube content, or team reports from Git history."
+  },
+  "github": {
+    "owner": "ShunsukeHayashi",
+    "repo": "miyabi-claude-plugins",
+    "ref": "main",
+    "relativePath": "miyabi-full/skills/voicevox",
+    "sourceUrl": "https://github.com/ShunsukeHayashi/miyabi-claude-plugins/tree/main/miyabi-full/skills/voicevox"
+  }
+}

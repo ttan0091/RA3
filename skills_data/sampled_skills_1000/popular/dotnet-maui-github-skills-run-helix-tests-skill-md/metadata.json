@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 546,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 546,
+    "id": "dotnet-maui-github-skills-run-helix-tests-skill-md",
+    "name": "run-helix-tests",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/run-helix-tests",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-run-helix-tests-skill-md",
+    "updatedAt": 1769716386,
+    "description": "Submit and monitor .NET MAUI unit tests on Helix infrastructure. Supports running XAML, Resizetizer, Core, Essentials, and other unit test projects on distributed Helix queues."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/run-helix-tests",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/run-helix-tests"
+  }
+}

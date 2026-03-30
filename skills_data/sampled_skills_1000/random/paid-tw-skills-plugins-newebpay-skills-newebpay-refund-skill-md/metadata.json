@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 188,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 188,
+    "id": "paid-tw-skills-plugins-newebpay-skills-newebpay-refund-skill-md",
+    "name": "newebpay-refund",
+    "author": "paid-tw",
+    "stars": 181,
+    "githubUrl": "https://github.com/paid-tw/skills/tree/main/plugins/newebpay/skills/newebpay-refund",
+    "skillUrl": "https://skillsmp.com/skills/paid-tw-skills-plugins-newebpay-skills-newebpay-refund-skill-md",
+    "updatedAt": 1769107483,
+    "description": "Implements NewebPay refund functionality for credit cards and e-wallets. Use when building refund processing, transaction cancellation, or return payment features for 藍新金流."
+  },
+  "github": {
+    "owner": "paid-tw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "plugins/newebpay/skills/newebpay-refund",
+    "sourceUrl": "https://github.com/paid-tw/skills/tree/main/plugins/newebpay/skills/newebpay-refund"
+  }
+}

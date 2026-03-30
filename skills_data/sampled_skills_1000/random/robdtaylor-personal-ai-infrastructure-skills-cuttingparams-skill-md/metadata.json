@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 608,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 608,
+    "id": "robdtaylor-personal-ai-infrastructure-skills-cuttingparams-skill-md",
+    "name": "cuttingparams",
+    "author": "robdtaylor",
+    "stars": 0,
+    "githubUrl": "https://github.com/robdtaylor/personal-ai-infrastructure/tree/main/skills/CuttingParams",
+    "skillUrl": "https://skillsmp.com/skills/robdtaylor-personal-ai-infrastructure-skills-cuttingparams-skill-md",
+    "updatedAt": 1769092277,
+    "description": "Cutting parameter lookup and optimization for CNC machining. Covers feeds, speeds, depths of cut for common materials and operations. USE WHEN user asks 'feeds and speeds', 'cutting parameters', 'SFM for', 'what RPM', 'feed rate for', 'DOC for', or needs machining parameter guidance."
+  },
+  "github": {
+    "owner": "robdtaylor",
+    "repo": "personal-ai-infrastructure",
+    "ref": "main",
+    "relativePath": "skills/CuttingParams",
+    "sourceUrl": "https://github.com/robdtaylor/personal-ai-infrastructure/tree/main/skills/CuttingParams"
+  }
+}

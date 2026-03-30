@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 3,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 3,
+    "id": "facebook-react-claude-skills-fix-skill-md",
+    "name": "fix",
+    "author": "facebook",
+    "stars": 242927,
+    "githubUrl": "https://github.com/facebook/react/tree/main/.claude/skills/fix",
+    "skillUrl": "https://skillsmp.com/skills/facebook-react-claude-skills-fix-skill-md",
+    "updatedAt": 1769217366,
+    "description": "Use when you have lint errors, formatting issues, or before committing code to ensure it passes CI."
+  },
+  "github": {
+    "owner": "facebook",
+    "repo": "react",
+    "ref": "main",
+    "relativePath": ".claude/skills/fix",
+    "sourceUrl": "https://github.com/facebook/react/tree/main/.claude/skills/fix"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 843,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 843,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-clickhouse-io-skill-md",
+    "name": "clickhouse-io",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-clickhouse-io",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-clickhouse-io-skill-md",
+    "updatedAt": 1769353274,
+    "description": "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cc-skill-clickhouse-io",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-clickhouse-io"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 610,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 610,
+    "id": "github-awesome-copilot-skills-prd-skill-md",
+    "name": "prd",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/prd",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-prd-skill-md",
+    "updatedAt": 1769103412,
+    "description": "Generate high-quality Product Requirements Documents (PRDs) for software systems and AI-powered features. Includes executive summaries, user stories, technical specifications, and risk analysis."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/prd",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/prd"
+  }
+}

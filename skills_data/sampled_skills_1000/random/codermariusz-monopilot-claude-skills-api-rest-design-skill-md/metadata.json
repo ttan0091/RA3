@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 638,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 638,
+    "id": "codermariusz-monopilot-claude-skills-api-rest-design-skill-md",
+    "name": "api-rest-design",
+    "author": "CoderMariusz",
+    "stars": 1,
+    "githubUrl": "https://github.com/CoderMariusz/MonoPilot/tree/main/.claude/skills/api-rest-design",
+    "skillUrl": "https://skillsmp.com/skills/codermariusz-monopilot-claude-skills-api-rest-design-skill-md",
+    "updatedAt": 1770725844,
+    "description": "Apply when designing RESTful APIs, defining endpoints, HTTP methods, status codes, and response formats."
+  },
+  "github": {
+    "owner": "CoderMariusz",
+    "repo": "MonoPilot",
+    "ref": "main",
+    "relativePath": ".claude/skills/api-rest-design",
+    "sourceUrl": "https://github.com/CoderMariusz/MonoPilot/tree/main/.claude/skills/api-rest-design"
+  }
+}

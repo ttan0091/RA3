@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 827,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 827,
+    "id": "anghunk-askills-skills-git-commit-message-skill-md",
+    "name": "git-commit-message",
+    "author": "anghunk",
+    "stars": 1,
+    "githubUrl": "https://github.com/anghunk/askills/tree/main/skills/git-commit-message",
+    "skillUrl": "https://skillsmp.com/skills/anghunk-askills-skills-git-commit-message-skill-md",
+    "updatedAt": 1768530320,
+    "description": "读取暂存区变更（git diff --cached）并参考 git log 的最近提交风格生成提交消息。适用于用户让你读取暂存区、总结暂存变更或建议提交消息的场景。"
+  },
+  "github": {
+    "owner": "anghunk",
+    "repo": "askills",
+    "ref": "main",
+    "relativePath": "skills/git-commit-message",
+    "sourceUrl": "https://github.com/anghunk/askills/tree/main/skills/git-commit-message"
+  }
+}

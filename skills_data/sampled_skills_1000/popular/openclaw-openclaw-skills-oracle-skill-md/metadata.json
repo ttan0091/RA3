@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 43,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 43,
+    "id": "openclaw-openclaw-skills-oracle-skill-md",
+    "name": "oracle",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/oracle",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-oracle-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Best practices for using the oracle CLI (prompt + file bundling, engines, sessions, and file attachment patterns)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/oracle",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/oracle"
+  }
+}

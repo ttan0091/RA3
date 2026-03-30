@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 753,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 753,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-app-store-optimization-skill-md",
+    "name": "app-store-optimization",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-store-optimization",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-app-store-optimization-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Complete App Store Optimization (ASO) toolkit for researching, optimizing, and tracking mobile app performance on Apple App Store and Google Play Store"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/app-store-optimization",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/app-store-optimization"
+  }
+}

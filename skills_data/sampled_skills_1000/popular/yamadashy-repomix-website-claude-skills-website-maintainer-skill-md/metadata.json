@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 561,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 561,
+    "id": "yamadashy-repomix-website-claude-skills-website-maintainer-skill-md",
+    "name": "website-maintainer",
+    "author": "yamadashy",
+    "stars": 21805,
+    "githubUrl": "https://github.com/yamadashy/repomix/tree/main/website/.claude/skills/website-maintainer",
+    "skillUrl": "https://skillsmp.com/skills/yamadashy-repomix-website-claude-skills-website-maintainer-skill-md",
+    "updatedAt": 1769183590,
+    "description": "Use this skill when working on the Repomix documentation website in `website/` directory, including VitePress configuration, multi-language content, or translation workflows."
+  },
+  "github": {
+    "owner": "yamadashy",
+    "repo": "repomix",
+    "ref": "main",
+    "relativePath": "website/.claude/skills/website-maintainer",
+    "sourceUrl": "https://github.com/yamadashy/repomix/tree/main/website/.claude/skills/website-maintainer"
+  }
+}

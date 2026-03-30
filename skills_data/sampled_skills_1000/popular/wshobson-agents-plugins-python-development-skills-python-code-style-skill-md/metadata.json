@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 464,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 464,
+    "id": "wshobson-agents-plugins-python-development-skills-python-code-style-skill-md",
+    "name": "python-code-style",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-code-style",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-code-style-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python code style, linting, formatting, naming conventions, and documentation standards. Use when writing new code, reviewing style, configuring linters, writing docstrings, or establishing project standards."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-code-style",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-code-style"
+  }
+}

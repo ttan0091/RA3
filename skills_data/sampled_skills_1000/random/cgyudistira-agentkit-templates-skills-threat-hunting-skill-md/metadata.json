@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 138,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 138,
+    "id": "cgyudistira-agentkit-templates-skills-threat-hunting-skill-md",
+    "name": "threat-hunting",
+    "author": "cgyudistira",
+    "stars": 0,
+    "githubUrl": "https://github.com/cgyudistira/agentkit/tree/main/templates/skills/threat-hunting",
+    "skillUrl": "https://skillsmp.com/skills/cgyudistira-agentkit-templates-skills-threat-hunting-skill-md",
+    "updatedAt": 1770597186,
+    "description": "Proactive threat hunting, MITRE ATT&CK framework, and adversary simulation."
+  },
+  "github": {
+    "owner": "cgyudistira",
+    "repo": "agentkit",
+    "ref": "main",
+    "relativePath": "templates/skills/threat-hunting",
+    "sourceUrl": "https://github.com/cgyudistira/agentkit/tree/main/templates/skills/threat-hunting"
+  }
+}

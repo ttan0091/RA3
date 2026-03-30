@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 7,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 7,
+    "id": "matchachoco010-tt-chromeextension-claude-skills-technical-constraints-skill-md",
+    "name": "technical-constraints",
+    "author": "MatchaChoco010",
+    "stars": 0,
+    "githubUrl": "https://github.com/MatchaChoco010/TT-ChromeExtension/tree/main/.claude/skills/technical-constraints",
+    "skillUrl": "https://skillsmp.com/skills/matchachoco010-tt-chromeextension-claude-skills-technical-constraints-skill-md",
+    "updatedAt": 1769817539,
+    "description": "技術的に実現不可能な機能の調査結果"
+  },
+  "github": {
+    "owner": "MatchaChoco010",
+    "repo": "TT-ChromeExtension",
+    "ref": "main",
+    "relativePath": ".claude/skills/technical-constraints",
+    "sourceUrl": "https://github.com/MatchaChoco010/TT-ChromeExtension/tree/main/.claude/skills/technical-constraints"
+  }
+}

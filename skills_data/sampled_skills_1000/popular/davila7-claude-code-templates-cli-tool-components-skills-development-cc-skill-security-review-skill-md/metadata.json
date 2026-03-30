@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 847,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 847,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-security-review-skill-md",
+    "name": "security-review",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-security-review",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-security-review-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Provides comprehensive security checklist and patterns."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cc-skill-security-review",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-security-review"
+  }
+}

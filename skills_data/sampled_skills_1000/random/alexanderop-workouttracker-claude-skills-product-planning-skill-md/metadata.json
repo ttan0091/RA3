@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 520,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 520,
+    "id": "alexanderop-workouttracker-claude-skills-product-planning-skill-md",
+    "name": "product-planning",
+    "author": "alexanderop",
+    "stars": 9,
+    "githubUrl": "https://github.com/alexanderop/workoutTracker/tree/main/.claude/skills/product-planning",
+    "skillUrl": "https://skillsmp.com/skills/alexanderop-workouttracker-claude-skills-product-planning-skill-md",
+    "updatedAt": 1768596232,
+    "description": "Product Owner / Business Analyst toolkit for product planning tasks.\nUse when the user wants to:\n- Write or refine user stories, epics, or acceptance criteria\n- Create or review PRDs (Product Requirement Documents)\n- Prioritize backlog items (RICE scoring, MoSCoW, etc.)\n- Plan sprints or releases\n- Create or update product roadmaps\n- Conduct competitive analysis or user research\n- Write release notes or stakeholder updates\n\nMANDATORY TRIGGERS: user story, epic, PRD, backlog, sprint planning, roadmap, acceptance criteria, product requirements, prioritize, story points, PO, BA, product owner, business analyst"
+  },
+  "github": {
+    "owner": "alexanderop",
+    "repo": "workoutTracker",
+    "ref": "main",
+    "relativePath": ".claude/skills/product-planning",
+    "sourceUrl": "https://github.com/alexanderop/workoutTracker/tree/main/.claude/skills/product-planning"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 213,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 213,
+    "id": "333-333-333-agents-skills-flutter-scaffold-skill-md",
+    "name": "flutter-scaffold",
+    "author": "333-333-333",
+    "stars": 0,
+    "githubUrl": "https://github.com/333-333-333/agents/tree/main/skills/flutter-scaffold",
+    "skillUrl": "https://skillsmp.com/skills/333-333-333-agents-skills-flutter-scaffold-skill-md",
+    "updatedAt": 1770661006,
+    "description": "Scaffold Flutter features with screaming + clean architecture: domain-driven directories, layered separation, and project conventions. Trigger: When creating a new feature/domain, adding layers to an existing feature, or reviewing mobile app structure."
+  },
+  "github": {
+    "owner": "333-333-333",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "skills/flutter-scaffold",
+    "sourceUrl": "https://github.com/333-333-333/agents/tree/main/skills/flutter-scaffold"
+  }
+}

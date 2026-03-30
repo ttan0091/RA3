@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 359,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 359,
+    "id": "code-yeongyu-oh-my-opencode-src-features-builtin-skills-frontend-ui-ux-skill-md",
+    "name": "frontend-ui-ux",
+    "author": "code-yeongyu",
+    "stars": 30231,
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/frontend-ui-ux",
+    "skillUrl": "https://skillsmp.com/skills/code-yeongyu-oh-my-opencode-src-features-builtin-skills-frontend-ui-ux-skill-md",
+    "updatedAt": 1767893083,
+    "description": "Designer-turned-developer who crafts stunning UI/UX even without design mockups"
+  },
+  "github": {
+    "owner": "code-yeongyu",
+    "repo": "oh-my-opencode",
+    "ref": "dev",
+    "relativePath": "src/features/builtin-skills/frontend-ui-ux",
+    "sourceUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/frontend-ui-ux"
+  }
+}

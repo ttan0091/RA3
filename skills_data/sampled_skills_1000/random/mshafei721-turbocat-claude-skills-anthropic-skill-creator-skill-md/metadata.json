@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 756,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 756,
+    "id": "mshafei721-turbocat-claude-skills-anthropic-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "mshafei721",
+    "stars": 0,
+    "githubUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/anthropic/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/mshafei721-turbocat-claude-skills-anthropic-skill-creator-skill-md",
+    "updatedAt": 1768392367,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "mshafei721",
+    "repo": "Turbocat",
+    "ref": "main",
+    "relativePath": ".claude/skills/anthropic/skill-creator",
+    "sourceUrl": "https://github.com/mshafei721/Turbocat/tree/main/.claude/skills/anthropic/skill-creator"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 407,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 407,
+    "id": "dexploarer-hyper-forge-claude-skills-golden-path-creator-skill-md",
+    "name": "golden-path-creator",
+    "author": "Dexploarer",
+    "stars": 5,
+    "githubUrl": "https://github.com/Dexploarer/hyper-forge/tree/main/.claude/skills/golden-path-creator",
+    "skillUrl": "https://skillsmp.com/skills/dexploarer-hyper-forge-claude-skills-golden-path-creator-skill-md",
+    "updatedAt": 1764308057,
+    "description": "Define and enforce golden paths and best practices for development teams"
+  },
+  "github": {
+    "owner": "Dexploarer",
+    "repo": "hyper-forge",
+    "ref": "main",
+    "relativePath": ".claude/skills/golden-path-creator",
+    "sourceUrl": "https://github.com/Dexploarer/hyper-forge/tree/main/.claude/skills/golden-path-creator"
+  }
+}

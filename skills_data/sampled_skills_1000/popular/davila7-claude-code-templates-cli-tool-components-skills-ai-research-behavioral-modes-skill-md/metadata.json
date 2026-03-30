@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 639,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 639,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-behavioral-modes-skill-md",
+    "name": "behavioral-modes",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/behavioral-modes",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-behavioral-modes-skill-md",
+    "updatedAt": 1769353274,
+    "description": "AI operational modes (brainstorm, implement, debug, review, teach, ship, orchestrate). Use to adapt behavior based on task type."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/behavioral-modes",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/behavioral-modes"
+  }
+}

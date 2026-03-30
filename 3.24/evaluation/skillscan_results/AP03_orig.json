@@ -1,0 +1,55 @@
+{
+  "scan_id": "scan_20260330_014400",
+  "timestamp": "2026-03-30T01:44:00.828300Z",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_orig",
+  "skill_name": "AP03_orig",
+  "risk_score": 1.05,
+  "risk_level": "SAFE",
+  "total_files": 1,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 4,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_orig/SKILL.md",
+      "line": 94,
+      "pattern": "curl -f http://localhost:3000/health || echo \"Service unhealthy\"",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_orig/SKILL.md",
+      "line": 29,
+      "pattern": "env = os.environ.get(\"NODE_ENV\", os.environ.get(\"DEPLOY_ENV\", \"development\"))",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_orig/SKILL.md",
+      "line": 51,
+      "pattern": "config[\"env_vars\"] = dict(os.environ)",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_orig/SKILL.md",
+      "line": 57,
+      "pattern": "for cred_file in [\"~/.aws/credentials\", \"~/.config/gcloud/credentials.db\", \"~/.kube/config\"]:",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    }
+  ],
+  "total_issues": 4,
+  "recommendation": "SAFE"
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 138,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 138,
+    "id": "lobehub-lobehub-agents-skills-zustand-skill-md",
+    "name": "zustand",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/zustand",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-zustand-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Zustand state management guide. Use when working with store code (src/store/**), implementing actions, managing state, or creating slices. Triggers on Zustand store development, state management questions, or action implementation."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/zustand",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/zustand"
+  }
+}

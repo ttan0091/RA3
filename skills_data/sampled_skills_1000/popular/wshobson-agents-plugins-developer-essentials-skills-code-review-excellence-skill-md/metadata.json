@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 408,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 408,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-code-review-excellence-skill-md",
+    "name": "code-review-excellence",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/code-review-excellence",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-code-review-excellence-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master effective code review practices to provide constructive feedback, catch bugs early, and foster knowledge sharing while maintaining team morale. Use when reviewing pull requests, establishing review standards, or mentoring developers."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/code-review-excellence",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/code-review-excellence"
+  }
+}

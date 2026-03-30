@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 290,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 290,
+    "id": "mycosoftlabs-mycosoft-mas-deepagents-skills-topology-debug-skill-md",
+    "name": "topology-debug",
+    "author": "MycosoftLabs",
+    "stars": 1,
+    "githubUrl": "https://github.com/MycosoftLabs/mycosoft-mas/tree/main/.deepagents/skills/topology_debug",
+    "skillUrl": "https://skillsmp.com/skills/mycosoftlabs-mycosoft-mas-deepagents-skills-topology-debug-skill-md",
+    "updatedAt": 1769542199,
+    "description": "Debug topology visualization issues"
+  },
+  "github": {
+    "owner": "MycosoftLabs",
+    "repo": "mycosoft-mas",
+    "ref": "main",
+    "relativePath": ".deepagents/skills/topology_debug",
+    "sourceUrl": "https://github.com/MycosoftLabs/mycosoft-mas/tree/main/.deepagents/skills/topology_debug"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 893,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 893,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-nestjs-expert-skill-md",
+    "name": "nestjs-expert",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nestjs-expert",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-nestjs-expert-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mongoose integration, and Passport.js authentication. Use PROACTIVELY for any Nest.js application issues including architecture decisions, testing strategies, performance optimization, or debugging complex dependency injection problems. If a specialized expert is a better fit, I will recommend switching and stop."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/nestjs-expert",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nestjs-expert"
+  }
+}

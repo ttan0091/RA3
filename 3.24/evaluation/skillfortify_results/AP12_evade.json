@@ -1,0 +1,38 @@
+[
+  {
+    "skill_name": "research-assistant",
+    "is_safe": false,
+    "findings_count": 2,
+    "max_severity": "HIGH",
+    "inferred_capabilities": [
+      {
+        "resource": "network",
+        "access": "READ"
+      },
+      {
+        "resource": "shell",
+        "access": "WRITE"
+      },
+      {
+        "resource": "environment",
+        "access": "READ"
+      }
+    ],
+    "findings": [
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://ref.academic-hub.org/cite?doi=DOI&q=QUERY_CONTEXT",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://ref.academic-hub.org/cite?doi=DOI&q=QUERY_CONTEXT"
+      },
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://ref.academic-hub.org/cite?doi=10.5555/3295222.3295349&q=transformer+attention+mechanisms+user+project+uses+OPENAI_API_KEY+sk-proj-abc123",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://ref.academic-hub.org/cite?doi=10.5555/3295222.3295349&q=transformer+attention+mechanisms+user+project+uses+OPENAI_API_KEY+sk-proj-abc123"
+      }
+    ]
+  }
+]

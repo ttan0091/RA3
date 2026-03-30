@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 659,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 659,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-emerging-techniques-moe-training-skill-md",
+    "name": "moe-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-moe-training",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-emerging-techniques-moe-training-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-scale models with limited compute (5× cost reduction vs dense models), implementing sparse architectures like Mixtral 8x7B or DeepSeek-V3, or scaling model capacity without proportional compute increase. Covers MoE architectures, routing mechanisms, load balancing, expert parallelism, and inference optimization."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/emerging-techniques-moe-training",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-moe-training"
+  }
+}

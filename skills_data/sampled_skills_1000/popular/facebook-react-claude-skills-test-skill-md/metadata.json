@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 6,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 6,
+    "id": "facebook-react-claude-skills-test-skill-md",
+    "name": "test",
+    "author": "facebook",
+    "stars": 242927,
+    "githubUrl": "https://github.com/facebook/react/tree/main/.claude/skills/test",
+    "skillUrl": "https://skillsmp.com/skills/facebook-react-claude-skills-test-skill-md",
+    "updatedAt": 1769217366,
+    "description": "Use when you need to run tests for React core. Supports source, www, stable, and experimental channels."
+  },
+  "github": {
+    "owner": "facebook",
+    "repo": "react",
+    "ref": "main",
+    "relativePath": ".claude/skills/test",
+    "sourceUrl": "https://github.com/facebook/react/tree/main/.claude/skills/test"
+  }
+}

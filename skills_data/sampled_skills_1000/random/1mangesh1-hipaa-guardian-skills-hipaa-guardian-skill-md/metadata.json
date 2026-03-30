@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 40,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 40,
+    "id": "1mangesh1-hipaa-guardian-skills-hipaa-guardian-skill-md",
+    "name": "hipaa-guardian",
+    "author": "1Mangesh1",
+    "stars": 4,
+    "githubUrl": "https://github.com/1Mangesh1/hipaa-guardian/tree/main/skills/hipaa-guardian",
+    "skillUrl": "https://skillsmp.com/skills/1mangesh1-hipaa-guardian-skills-hipaa-guardian-skill-md",
+    "updatedAt": 1770615923,
+    "description": "This skill should be used when the user asks to \"scan for PHI\", \"detect PII\", \"HIPAA compliance check\", \"audit for protected health information\", \"find sensitive healthcare data\", \"generate HIPAA audit report\", \"check code for PHI leakage\", \"scan logs for PHI\", \"check authentication on PHI endpoints\", \"scan FHIR resources\", \"check HL7 messages\", or mentions PHI detection, HIPAA compliance, healthcare data privacy, medical record security, logging PHI violations, authentication checks for health data, or healthcare data formats (FHIR, HL7, CDA)."
+  },
+  "github": {
+    "owner": "1Mangesh1",
+    "repo": "hipaa-guardian",
+    "ref": "main",
+    "relativePath": "skills/hipaa-guardian",
+    "sourceUrl": "https://github.com/1Mangesh1/hipaa-guardian/tree/main/skills/hipaa-guardian"
+  }
+}

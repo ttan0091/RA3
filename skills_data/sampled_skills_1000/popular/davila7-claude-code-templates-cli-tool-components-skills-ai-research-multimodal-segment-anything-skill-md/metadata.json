@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 699,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 699,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-segment-anything-skill-md",
+    "name": "segment-anything-model",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-segment-anything",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-multimodal-segment-anything-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Foundation model for image segmentation with zero-shot transfer. Use when you need to segment any object in images using points, boxes, or masks as prompts, or automatically generate all object masks in an image."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/multimodal-segment-anything",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/multimodal-segment-anything"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 131,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 131,
+    "id": "lobehub-lobehub-agents-skills-modal-skill-md",
+    "name": "modal",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/modal",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-modal-skill-md",
+    "updatedAt": 1769178618,
+    "description": "Modal imperative API guide. Use when creating modal dialogs using createModal from @lobehub/ui. Triggers on modal component implementation or dialog creation tasks."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/modal",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/modal"
+  }
+}

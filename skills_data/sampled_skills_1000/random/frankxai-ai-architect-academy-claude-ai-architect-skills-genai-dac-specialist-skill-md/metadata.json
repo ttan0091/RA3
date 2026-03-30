@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 674,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 674,
+    "id": "frankxai-ai-architect-academy-claude-ai-architect-skills-genai-dac-specialist-skill-md",
+    "name": "genai-dac-specialist",
+    "author": "frankxai",
+    "stars": 1,
+    "githubUrl": "https://github.com/frankxai/ai-architect-academy/tree/main/claude-ai-architect/skills/genai-dac-specialist",
+    "skillUrl": "https://skillsmp.com/skills/frankxai-ai-architect-academy-claude-ai-architect-skills-genai-dac-specialist-skill-md",
+    "updatedAt": 1767703308,
+    "description": "Expert in OCI Generative AI Dedicated AI Clusters - deployment, fine-tuning, optimization, and production operations"
+  },
+  "github": {
+    "owner": "frankxai",
+    "repo": "ai-architect-academy",
+    "ref": "main",
+    "relativePath": "claude-ai-architect/skills/genai-dac-specialist",
+    "sourceUrl": "https://github.com/frankxai/ai-architect-academy/tree/main/claude-ai-architect/skills/genai-dac-specialist"
+  }
+}

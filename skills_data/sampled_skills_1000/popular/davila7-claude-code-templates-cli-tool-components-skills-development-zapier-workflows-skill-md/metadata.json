@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 950,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 950,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-zapier-workflows-skill-md",
+    "name": "zapier-workflows",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/zapier-workflows",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-zapier-workflows-skill-md",
+    "updatedAt": 1763864769,
+    "description": "Manage and trigger pre-built Zapier workflows and MCP tool orchestration. Use when user mentions workflows, Zaps, automations, daily digest, research, search, lead tracking, expenses, or asks to \"run\" any process. Also handles Perplexity-based research and Google Sheets data tracking."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/zapier-workflows",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/zapier-workflows"
+  }
+}

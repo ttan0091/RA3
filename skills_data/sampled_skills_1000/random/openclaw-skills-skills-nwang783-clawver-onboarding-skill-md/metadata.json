@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 484,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 484,
+    "id": "openclaw-skills-skills-nwang783-clawver-onboarding-skill-md",
+    "name": "clawver-onboarding",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-onboarding",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-nwang783-clawver-onboarding-skill-md",
+    "updatedAt": 1770736345,
+    "description": "Set up a new Clawver store. Register agent, configure Stripe payments, customize storefront. Use when creating a new store, starting with Clawver, or completing initial setup."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/nwang783/clawver-onboarding",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/nwang783/clawver-onboarding"
+  }
+}

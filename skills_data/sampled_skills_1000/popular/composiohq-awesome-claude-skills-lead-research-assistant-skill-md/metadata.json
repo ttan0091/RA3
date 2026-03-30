@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 336,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 336,
+    "id": "composiohq-awesome-claude-skills-lead-research-assistant-skill-md",
+    "name": "lead-research-assistant",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-lead-research-assistant-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies. Perfect for sales, business development, and marketing professionals."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "lead-research-assistant",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/lead-research-assistant"
+  }
+}

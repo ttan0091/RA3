@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 844,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 844,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-coding-standards-skill-md",
+    "name": "coding-standards",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-coding-standards",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-coding-standards-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Universal coding standards, best practices, and patterns for TypeScript, JavaScript, React, and Node.js development."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cc-skill-coding-standards",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-coding-standards"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 202,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 202,
+    "id": "tldraw-tldraw-claude-skills-review-docs-skill-md",
+    "name": "review-docs",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/review-docs",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-review-docs-skill-md",
+    "updatedAt": 1769905512,
+    "description": "Review and improve documentation with parallel evaluation and iterative improvement loop."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/review-docs",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/review-docs"
+  }
+}

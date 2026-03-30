@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 904,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 904,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-plugin-forge-skill-md",
+    "name": "plugin-forge",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plugin-forge",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-plugin-forge-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Create and manage Claude Code plugins with proper structure, manifests, and marketplace integration. Use when creating plugins for a marketplace, adding plugin components (commands, agents, hooks), bumping plugin versions, or working with plugin.json/marketplace.json manifests."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/plugin-forge",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/plugin-forge"
+  }
+}

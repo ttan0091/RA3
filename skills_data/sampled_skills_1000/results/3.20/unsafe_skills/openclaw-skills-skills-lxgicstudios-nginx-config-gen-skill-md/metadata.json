@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 237,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 237,
+    "id": "openclaw-skills-skills-lxgicstudios-nginx-config-gen-skill-md",
+    "name": "nginx-gen",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/nginx-config-gen",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-lxgicstudios-nginx-config-gen-skill-md",
+    "updatedAt": 1769650596,
+    "description": "Generate nginx config from plain English. Use when configuring nginx."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/lxgicstudios/nginx-config-gen",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/nginx-config-gen"
+  }
+}

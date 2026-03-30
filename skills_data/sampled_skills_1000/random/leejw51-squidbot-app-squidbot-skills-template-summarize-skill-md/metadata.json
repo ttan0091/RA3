@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 687,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 687,
+    "id": "leejw51-squidbot-app-squidbot-skills-template-summarize-skill-md",
+    "name": "summarize",
+    "author": "leejw51",
+    "stars": 0,
+    "githubUrl": "https://github.com/leejw51/SquidBot/tree/main/app/squidbot/skills_template/summarize",
+    "skillUrl": "https://skillsmp.com/skills/leejw51-squidbot-app-squidbot-skills-template-summarize-skill-md",
+    "updatedAt": 1770205471,
+    "description": "Summarize text or web content"
+  },
+  "github": {
+    "owner": "leejw51",
+    "repo": "SquidBot",
+    "ref": "main",
+    "relativePath": "app/squidbot/skills_template/summarize",
+    "sourceUrl": "https://github.com/leejw51/SquidBot/tree/main/app/squidbot/skills_template/summarize"
+  }
+}

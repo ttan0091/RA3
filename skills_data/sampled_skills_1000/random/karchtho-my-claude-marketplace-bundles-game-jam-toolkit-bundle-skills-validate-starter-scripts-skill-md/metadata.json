@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 247,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 247,
+    "id": "karchtho-my-claude-marketplace-bundles-game-jam-toolkit-bundle-skills-validate-starter-scripts-skill-md",
+    "name": "validate-starter-scripts",
+    "author": "karchtho",
+    "stars": 0,
+    "githubUrl": "https://github.com/karchtho/my-claude-marketplace/tree/main/bundles/game-jam-toolkit-bundle/skills/validate-starter-scripts",
+    "skillUrl": "https://skillsmp.com/skills/karchtho-my-claude-marketplace-bundles-game-jam-toolkit-bundle-skills-validate-starter-scripts-skill-md",
+    "updatedAt": 1768508308,
+    "description": "validation audit quality check startup initialization integrity"
+  },
+  "github": {
+    "owner": "karchtho",
+    "repo": "my-claude-marketplace",
+    "ref": "main",
+    "relativePath": "bundles/game-jam-toolkit-bundle/skills/validate-starter-scripts",
+    "sourceUrl": "https://github.com/karchtho/my-claude-marketplace/tree/main/bundles/game-jam-toolkit-bundle/skills/validate-starter-scripts"
+  }
+}

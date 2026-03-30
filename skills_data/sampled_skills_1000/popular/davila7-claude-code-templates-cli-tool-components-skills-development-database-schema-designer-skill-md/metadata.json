@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 861,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 861,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-database-schema-designer-skill-md",
+    "name": "database-schema-designer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/database-schema-designer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-database-schema-designer-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Design robust, scalable database schemas for SQL and NoSQL databases. Provides normalization guidelines, indexing strategies, migration patterns, constraint design, and performance optimization. Ensures data integrity, query performance, and maintainable data models."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/database-schema-designer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/database-schema-designer"
+  }
+}

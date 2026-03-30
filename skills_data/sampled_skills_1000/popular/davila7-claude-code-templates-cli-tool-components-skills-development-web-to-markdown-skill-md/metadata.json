@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 948,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 948,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-web-to-markdown-skill-md",
+    "name": "web-to-markdown",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/web-to-markdown",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-web-to-markdown-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Use ONLY when the user explicitly says: 'use the skill web-to-markdown ...' (or 'use a skill web-to-markdown ...'). Converts webpage URLs to clean Markdown by calling the local web2md CLI (Puppeteer + Readability), suitable for JS-rendered pages."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/web-to-markdown",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/web-to-markdown"
+  }
+}

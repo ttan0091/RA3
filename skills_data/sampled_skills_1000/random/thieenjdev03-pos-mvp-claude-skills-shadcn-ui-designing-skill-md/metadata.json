@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 673,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 673,
+    "id": "thieenjdev03-pos-mvp-claude-skills-shadcn-ui-designing-skill-md",
+    "name": "shadcn-ui-designer",
+    "author": "thieenjdev03",
+    "stars": 0,
+    "githubUrl": "https://github.com/thieenjdev03/pos-mvp/tree/main/.claude/skills/shadcn-ui-designing",
+    "skillUrl": "https://skillsmp.com/skills/thieenjdev03-pos-mvp-claude-skills-shadcn-ui-designing-skill-md",
+    "updatedAt": 1768813165,
+    "description": "Designs modern, clean UI components and pages following Shadcn principles with minimalism, accessibility, and beautiful defaults. Use when building new UI components, redesigning pages, or creating consistent UI or simply wanting to use shadcn."
+  },
+  "github": {
+    "owner": "thieenjdev03",
+    "repo": "pos-mvp",
+    "ref": "main",
+    "relativePath": ".claude/skills/shadcn-ui-designing",
+    "sourceUrl": "https://github.com/thieenjdev03/pos-mvp/tree/main/.claude/skills/shadcn-ui-designing"
+  }
+}

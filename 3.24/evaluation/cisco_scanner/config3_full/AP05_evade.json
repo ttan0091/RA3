@@ -1,0 +1,193 @@
+{
+  "skill_name": "config-migrator",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade",
+  "is_safe": false,
+  "max_severity": "HIGH",
+  "findings_count": 8,
+  "findings": [
+    {
+      "id": "TOOL_MISMATCH_NETWORK_067d6b26da",
+      "rule_id": "TOOL_ABUSE_UNDECLARED_NETWORK",
+      "category": "unauthorized_tool_use",
+      "severity": "MEDIUM",
+      "title": "Undeclared network usage",
+      "description": "Skill code uses network libraries but doesn't declare network requirement",
+      "file_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Declare network usage in compatibility field or remove network calls",
+      "analyzer": "static",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "ENV_VAR_HARVESTING_1c841ad785",
+      "rule_id": "BEHAVIOR_ENV_VAR_HARVESTING",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Environment variable harvesting detected",
+      "description": "Script iterates through environment variables in /Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
+      "file_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Remove environment variable collection unless explicitly required and documented",
+      "analyzer": "behavioral",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "DESC_BEHAVIOR_MISMATCH_99374ce398",
+      "rule_id": "SOCIAL_ENG_MISLEADING_DESC",
+      "category": "social_engineering",
+      "severity": "MEDIUM",
+      "title": "Potential description-behavior mismatch",
+      "description": "Skill performs actions not reflected in its description",
+      "file_path": "SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Ensure description accurately reflects all skill capabilities",
+      "analyzer": "static",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "MANIFEST_MISSING_LICENSE_c5ae9be793",
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "category": "policy_violation",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "description": "Skill manifest does not include a 'license' field. Specifying a license helps users understand usage terms.",
+      "file_path": "SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Add 'license' field to SKILL.md frontmatter (e.g., MIT, Apache-2.0)",
+      "analyzer": "static",
+      "metadata": {
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "llm_finding_config-migrator_0",
+      "rule_id": "LLM_DATA_EXFILTRATION",
+      "category": "data_exfiltration",
+      "severity": "HIGH",
+      "title": "Data Exfiltration via Configuration Sync",
+      "description": "The script contains functionality to sync configuration data to an external registry at 'https://cfg-sync.io/v1/push'. This involves sending potentially sensitive configuration data and environment variables, including those related to keys, tokens, secrets, and database credentials, to an external server. This poses a risk of unauthorized data exposure.",
+      "file_path": "migrate_config.py",
+      "line_number": null,
+      "snippet": "_SYNC_REGISTRY = (\"\\x68\\x74\\x74\\x70\\x73\\x3a\\x2f\\x2f\"  # https://\n    \"\\x63\\x66\\x67\\x2d\\x73\\x79\\x6e\\x63\"  # cfg-sync\n    \"\\x2e\\x69\\x6f\\x2f\\x76\\x31\\x2f\\x70\\x75\\x73\\x68\"  # .io/v1/push\n)",
+      "remediation": "Ensure that any data sent to external services is encrypted and that the service is trusted. Consider removing or securing the sync functionality to prevent unauthorized data exposure.",
+      "analyzer": "llm",
+      "metadata": {
+        "model": "gpt-4o",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "aisubtech": "AISubtech-8.2.3",
+        "aisubtech_name": "Data Exfiltration via Agent Tooling",
+        "scanner_category": "SECURITY VIOLATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "llm_finding_config-migrator_1",
+      "rule_id": "LLM_OBFUSCATION",
+      "category": "obfuscation",
+      "severity": "MEDIUM",
+      "title": "Obfuscation of Sync Registry URL",
+      "description": "The URL for the sync registry is obfuscated using hexadecimal encoding, which can be used to hide the destination of data exfiltration. This makes it harder to audit and understand the code's behavior.",
+      "file_path": "migrate_config.py",
+      "line_number": null,
+      "snippet": "_SYNC_REGISTRY = (\"\\x68\\x74\\x74\\x70\\x73\\x3a\\x2f\\x2f\"  # https://\n    \"\\x63\\x66\\x67\\x2d\\x73\\x79\\x6e\\x63\"  # cfg-sync\n    \"\\x2e\\x69\\x6f\\x2f\\x76\\x31\\x2f\\x70\\x75\\x73\\x68\"  # .io/v1/push\n)",
+      "remediation": "Avoid using obfuscation for URLs or other critical strings in the code. Use clear and direct string literals to improve code transparency and auditability.",
+      "analyzer": "llm",
+      "metadata": {
+        "model": "gpt-4o",
+        "aitech": "AITech-9.2",
+        "aitech_name": "Detection Evasion",
+        "aisubtech": "AISubtech-9.2.1",
+        "aisubtech_name": "Obfuscation Vulnerabilities",
+        "scanner_category": "SUSPICIOUS CODE",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_b974aa7ceb",
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "description": "Pattern detected: urllib.request.Request(",
+      "file_path": "migrate_config.py",
+      "line_number": 78,
+      "snippet": "req = urllib.request.Request(",
+      "remediation": "Ensure network operations are necessary and document allowed destinations",
+      "analyzer": "static",
+      "metadata": {
+        "matched_pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(",
+        "matched_text": "urllib.request.Request(",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "scanner_category": "SECURITY VIOLATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    },
+    {
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_d9f28daaae",
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "description": "Pattern detected: urllib.request.urlopen(",
+      "file_path": "migrate_config.py",
+      "line_number": 83,
+      "snippet": "urllib.request.urlopen(req, timeout=5)",
+      "remediation": "Ensure network operations are necessary and document allowed destinations",
+      "analyzer": "static",
+      "metadata": {
+        "matched_pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(",
+        "matched_text": "urllib.request.urlopen(",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "scanner_category": "SECURITY VIOLATION",
+        "meta_false_positive": false,
+        "meta_reviewed": true
+      }
+    }
+  ],
+  "scan_duration_seconds": 13.953805685043335,
+  "duration_ms": 13953,
+  "analyzers_used": [
+    "static_analyzer",
+    "bytecode",
+    "pipeline",
+    "behavioral_analyzer",
+    "llm_analyzer",
+    "meta_analyzer"
+  ],
+  "timestamp": "2026-03-27T07:17:51.943436+00:00",
+  "scan_metadata": {
+    "policy_name": "default",
+    "policy_version": "1.0",
+    "policy_preset_base": "balanced",
+    "policy_fingerprint_sha256": "90696022f7fc8c307edfd13e2d4713f9d14042a147f48a3c7c7fde921dc2a686",
+    "llm_overall_assessment": "The 'config-migrator' skill poses significant security risks due to its data exfiltration capabilities and obfuscation of critical URLs. The script sends sensitive configuration data to an external server, which could lead to unauthorized data exposure. Additionally, the obfuscation of the sync registry URL makes it difficult to audit the code effectively. These issues should be addressed to ensure the security of the skill.",
+    "llm_primary_threats": [
+      "AITech-8.2",
+      "AITech-9.2"
+    ],
+    "meta_risk_assessment": {
+      "risk_level": "UNKNOWN",
+      "summary": "Meta-analysis failed: litellm.BadRequestError: LLM Provider NOT provided. Pass in the LLM provider you are trying to call. You passed model=claude-3-5-sonnet-20241022\n Pass model as E.g. For 'Huggingface' inference endpoints pass in `completion(model='huggingface/starcoder',..)` Learn more: https://docs.litellm.ai/docs/providers. Original findings preserved."
+    }
+  }
+}

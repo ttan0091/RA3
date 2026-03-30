@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 504,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 504,
+    "id": "wshobson-agents-plugins-ui-design-skills-react-native-design-skill-md",
+    "name": "react-native-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/react-native-design",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-react-native-design-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master React Native styling, navigation, and Reanimated animations for cross-platform mobile development. Use when building React Native apps, implementing navigation patterns, or creating performant animations."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/react-native-design",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/react-native-design"
+  }
+}

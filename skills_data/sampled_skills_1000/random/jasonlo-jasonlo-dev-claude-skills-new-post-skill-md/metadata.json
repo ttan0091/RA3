@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 881,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 881,
+    "id": "jasonlo-jasonlo-dev-claude-skills-new-post-skill-md",
+    "name": "new-post",
+    "author": "JasonLo",
+    "stars": 0,
+    "githubUrl": "https://github.com/JasonLo/jasonlo.dev/tree/main/.claude/skills/new-post",
+    "skillUrl": "https://skillsmp.com/skills/jasonlo-jasonlo-dev-claude-skills-new-post-skill-md",
+    "updatedAt": 1770571229,
+    "description": "Generate a new content post (journey, project, or tool). Interactively gathers context, identifies the best post type, and creates an MDX file with valid frontmatter in the correct content folder."
+  },
+  "github": {
+    "owner": "JasonLo",
+    "repo": "jasonlo.dev",
+    "ref": "main",
+    "relativePath": ".claude/skills/new-post",
+    "sourceUrl": "https://github.com/JasonLo/jasonlo.dev/tree/main/.claude/skills/new-post"
+  }
+}

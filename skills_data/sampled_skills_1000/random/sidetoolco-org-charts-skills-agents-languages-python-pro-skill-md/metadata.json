@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 366,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 366,
+    "id": "sidetoolco-org-charts-skills-agents-languages-python-pro-skill-md",
+    "name": "python-pro",
+    "author": "sidetoolco",
+    "stars": 1,
+    "githubUrl": "https://github.com/sidetoolco/org-charts/tree/main/skills/agents/languages/python-pro",
+    "skillUrl": "https://skillsmp.com/skills/sidetoolco-org-charts-skills-agents-languages-python-pro-skill-md",
+    "updatedAt": 1766514683,
+    "description": "Write idiomatic Python code with advanced features like decorators, generators, and async/await. Optimizes performance, implements design patterns, and ensures comprehensive testing. Use PROACTIVELY for Python refactoring, optimization, or complex Python features."
+  },
+  "github": {
+    "owner": "sidetoolco",
+    "repo": "org-charts",
+    "ref": "main",
+    "relativePath": "skills/agents/languages/python-pro",
+    "sourceUrl": "https://github.com/sidetoolco/org-charts/tree/main/skills/agents/languages/python-pro"
+  }
+}

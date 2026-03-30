@@ -1,0 +1,47 @@
+# Smoke Test Playbook
+# Duration: 1 minute
+# Purpose: Quick health check - verify app loads with no errors
+
+## Step 1: Navigate to Homepage
+navigate_page({ url: "http://localhost:8080" })
+
+## Step 2: Wait for page load
+wait_for({ text: "Dashboard" })
+
+## Step 3: Take snapshot
+snapshot = take_snapshot()
+print(f"Snapshot captured: {len(snapshot)} characters")
+
+## Step 4: Check console for errors
+errors = list_console_messages()
+if len(errors) > 0:
+    print(f"❌ Console errors found: {len(errors)}")
+    for error in errors:
+        print(f"  - {error['type']}: {error['text']}")
+    raise Error(f"Found {len(errors)} console errors")
+else:
+    print("✅ No console errors")
+
+## Step 5: Check network health
+requests = list_network_requests({ resourceTypes: ["fetch", "xhr"] })
+api_calls = filter(lambda r: "/api/" in r['url'] or "/functions/" in r['url'], requests)
+failed_calls = filter(lambda r: r['status'] >= 400, api_calls)
+
+print(f"Network: {len(requests)} total, {len(api_calls)} API calls")
+
+if len(failed_calls) > 0:
+    print(f"❌ Failed API calls: {len(failed_calls)}")
+    for call in failed_calls:
+        print(f"  - {call['method']} {call['url']} → {call['status']}")
+    raise Error(f"{len(failed_calls)} API calls failed")
+else:
+    print("✅ All API calls successful")
+
+## Step 6: Take screenshot
+take_screenshot({ filename: "smoke-test-homepage.png" })
+
+## Result
+print("\n✅ Smoke test passed!")
+print("   - Homepage loaded")
+print("   - No console errors")
+print(f"   - {len(api_calls)} API calls succeeded")

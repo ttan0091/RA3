@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 292,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 292,
+    "id": "oceanicdayi-pole-zero-agent-skills-example-skill-skill-md",
+    "name": "example-skill",
+    "author": "oceanicdayi",
+    "stars": 0,
+    "githubUrl": "https://github.com/oceanicdayi/pole_zero/tree/main/.agent/skills/example-skill",
+    "skillUrl": "https://skillsmp.com/skills/oceanicdayi-pole-zero-agent-skills-example-skill-skill-md",
+    "updatedAt": 1768882743,
+    "description": "這是一個示例 skill，展示如何創建和使用 Antigravity skills。當需要了解 skill 結構時使用。"
+  },
+  "github": {
+    "owner": "oceanicdayi",
+    "repo": "pole_zero",
+    "ref": "main",
+    "relativePath": ".agent/skills/example-skill",
+    "sourceUrl": "https://github.com/oceanicdayi/pole_zero/tree/main/.agent/skills/example-skill"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 547,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 547,
+    "id": "perryb-git-wascar-perry-workspace-claude-skills-package-skills-financial-creating-financial-models-skill-md",
+    "name": "creating-financial-models",
+    "author": "PerryB-GIT",
+    "stars": 0,
+    "githubUrl": "https://github.com/PerryB-GIT/wascar-perry-workspace/tree/main/claude-skills-package/skills/financial/creating-financial-models",
+    "skillUrl": "https://skillsmp.com/skills/perryb-git-wascar-perry-workspace-claude-skills-package-skills-financial-creating-financial-models-skill-md",
+    "updatedAt": 1770585439,
+    "description": "Build financial models for startups, business cases, revenue forecasting, unit economics, and investment analysis. Includes templates and formulas."
+  },
+  "github": {
+    "owner": "PerryB-GIT",
+    "repo": "wascar-perry-workspace",
+    "ref": "main",
+    "relativePath": "claude-skills-package/skills/financial/creating-financial-models",
+    "sourceUrl": "https://github.com/PerryB-GIT/wascar-perry-workspace/tree/main/claude-skills-package/skills/financial/creating-financial-models"
+  }
+}

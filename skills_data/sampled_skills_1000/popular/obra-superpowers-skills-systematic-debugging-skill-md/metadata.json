@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 181,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 181,
+    "id": "obra-superpowers-skills-systematic-debugging-skill-md",
+    "name": "systematic-debugging",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-systematic-debugging-skill-md",
+    "updatedAt": 1766018692,
+    "description": "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/systematic-debugging",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging"
+  }
+}

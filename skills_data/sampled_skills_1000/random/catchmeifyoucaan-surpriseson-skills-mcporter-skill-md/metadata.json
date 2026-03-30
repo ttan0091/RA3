@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 575,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 575,
+    "id": "catchmeifyoucaan-surpriseson-skills-mcporter-skill-md",
+    "name": "mcporter",
+    "author": "catchmeifyoucaan",
+    "stars": 0,
+    "githubUrl": "https://github.com/catchmeifyoucaan/surpriseson/tree/main/skills/mcporter",
+    "skillUrl": "https://skillsmp.com/skills/catchmeifyoucaan-surpriseson-skills-mcporter-skill-md",
+    "updatedAt": 1770283791,
+    "description": "Use the mcporter CLI to list, configure, auth, and call MCP servers/tools directly (HTTP or stdio), including ad-hoc servers, config edits, and CLI/type generation."
+  },
+  "github": {
+    "owner": "catchmeifyoucaan",
+    "repo": "surpriseson",
+    "ref": "main",
+    "relativePath": "skills/mcporter",
+    "sourceUrl": "https://github.com/catchmeifyoucaan/surpriseson/tree/main/skills/mcporter"
+  }
+}

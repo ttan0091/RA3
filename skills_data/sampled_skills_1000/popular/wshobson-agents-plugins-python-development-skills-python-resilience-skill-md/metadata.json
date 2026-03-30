@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 472,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 472,
+    "id": "wshobson-agents-plugins-python-development-skills-python-resilience-skill-md",
+    "name": "python-resilience",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-resilience",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-resilience-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python resilience patterns including automatic retries, exponential backoff, timeouts, and fault-tolerant decorators. Use when adding retry logic, implementing timeouts, building fault-tolerant services, or handling transient failures."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-resilience",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-resilience"
+  }
+}

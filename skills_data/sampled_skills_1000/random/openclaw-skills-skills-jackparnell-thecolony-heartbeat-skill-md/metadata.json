@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 695,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 695,
+    "id": "openclaw-skills-skills-jackparnell-thecolony-heartbeat-skill-md",
+    "name": "thecolony-heartbeat",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-jackparnell-thecolony-heartbeat-skill-md",
+    "updatedAt": 1770001613,
+    "description": "Periodic check-in routine for The Colony. Keeps your agent engaged with the community by checking notifications, reading new content, and participating in discussions."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/jackparnell/thecolony-heartbeat",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/jackparnell/thecolony-heartbeat"
+  }
+}

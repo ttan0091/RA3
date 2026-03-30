@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 347,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 347,
+    "id": "anthropics-claude-cookbooks-skills-custom-skills-analyzing-financial-statements-skill-md",
+    "name": "analyzing-financial-statements",
+    "author": "anthropics",
+    "stars": 32748,
+    "githubUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/skills/custom_skills/analyzing-financial-statements",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-claude-cookbooks-skills-custom-skills-analyzing-financial-statements-skill-md",
+    "updatedAt": 1764312299,
+    "description": "This skill calculates key financial ratios and metrics from financial statement data for investment analysis"
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "claude-cookbooks",
+    "ref": "main",
+    "relativePath": "skills/custom_skills/analyzing-financial-statements",
+    "sourceUrl": "https://github.com/anthropics/claude-cookbooks/tree/main/skills/custom_skills/analyzing-financial-statements"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 551,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 551,
+    "id": "vkpriyesh-ai-stuff-claude-play-claude-skills-design-led-development-skill-md",
+    "name": "design-led-development",
+    "author": "vkpriyesh",
+    "stars": 8,
+    "githubUrl": "https://github.com/vkpriyesh/ai-stuff/tree/main/claude-play/.claude/skills/design-led-development",
+    "skillUrl": "https://skillsmp.com/skills/vkpriyesh-ai-stuff-claude-play-claude-skills-design-led-development-skill-md",
+    "updatedAt": 1768245060,
+    "description": "Build software with elite design principles focusing on user outcomes, trust, accessibility, and performance. Use when creating UI components, designing user flows, writing production code, reviewing code quality, or when the user mentions UX, accessibility, performance, or trust-focused development."
+  },
+  "github": {
+    "owner": "vkpriyesh",
+    "repo": "ai-stuff",
+    "ref": "main",
+    "relativePath": "claude-play/.claude/skills/design-led-development",
+    "sourceUrl": "https://github.com/vkpriyesh/ai-stuff/tree/main/claude-play/.claude/skills/design-led-development"
+  }
+}

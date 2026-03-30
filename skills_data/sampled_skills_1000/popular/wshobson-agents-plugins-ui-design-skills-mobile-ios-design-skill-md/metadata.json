@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 503,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 503,
+    "id": "wshobson-agents-plugins-ui-design-skills-mobile-ios-design-skill-md",
+    "name": "mobile-ios-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/mobile-ios-design",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-mobile-ios-design-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master iOS Human Interface Guidelines and SwiftUI patterns for building native iOS apps. Use when designing iOS interfaces, implementing SwiftUI views, or ensuring apps follow Apple's design principles."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/mobile-ios-design",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/mobile-ios-design"
+  }
+}

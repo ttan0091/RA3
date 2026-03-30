@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 436,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 436,
+    "id": "wshobson-agents-plugins-javascript-typescript-skills-javascript-testing-patterns-skill-md",
+    "name": "javascript-testing-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/javascript-testing-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-javascript-typescript-skills-javascript-testing-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement comprehensive testing strategies using Jest, Vitest, and Testing Library for unit tests, integration tests, and end-to-end testing with mocking, fixtures, and test-driven development. Use when writing JavaScript/TypeScript tests, setting up test infrastructure, or implementing TDD/BDD workflows."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/javascript-typescript/skills/javascript-testing-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/javascript-typescript/skills/javascript-testing-patterns"
+  }
+}

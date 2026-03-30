@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 682,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 682,
+    "id": "randlee-synaptic-canvas-packages-sc-git-worktree-skills-sc-git-worktree-skill-md",
+    "name": "sc-managing-worktrees",
+    "author": "randlee",
+    "stars": 1,
+    "githubUrl": "https://github.com/randlee/synaptic-canvas/tree/main/packages/sc-git-worktree/skills/sc-git-worktree",
+    "skillUrl": "https://skillsmp.com/skills/randlee-synaptic-canvas-packages-sc-git-worktree-skills-sc-git-worktree-skill-md",
+    "updatedAt": 1769308458,
+    "description": "Create, manage, scan, update, and clean up git worktrees for parallel development with protected branch safeguards. Use when working on multiple branches simultaneously, isolating experiments, updating protected branches (main/develop), or when user mentions \"worktree\", \"parallel branches\", \"feature isolation\", \"branch cleanup\", \"worktree status\", or \"update main/develop\"."
+  },
+  "github": {
+    "owner": "randlee",
+    "repo": "synaptic-canvas",
+    "ref": "main",
+    "relativePath": "packages/sc-git-worktree/skills/sc-git-worktree",
+    "sourceUrl": "https://github.com/randlee/synaptic-canvas/tree/main/packages/sc-git-worktree/skills/sc-git-worktree"
+  }
+}

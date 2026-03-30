@@ -1,0 +1,112 @@
+#!/usr/bin/env bash
+
+# Toolbox tool: upgrade-discussion
+# Converts an exploring-status discussion file to a ready-to-write folder structure
+
+set -euo pipefail
+
+ACTION="${TOOLBOX_ACTION:-}"
+
+if [[ "$ACTION" == "describe" ]]; then
+    cat <<EOF
+name: upgrade-discussion
+description: Converts an exploring-status discussion file to a ready-to-write folder structure with discussion.md, outline.md, and drafts/ subdirectory
+file_path: string - Path to the discussion markdown file to upgrade
+outline_sections: string - Comma-separated list of section headers for the outline (optional)
+EOF
+    exit 0
+fi
+
+# Parse input from stdin
+FILE_PATH=""
+OUTLINE_SECTIONS=""
+
+while IFS= read -r line; do
+    case "$line" in
+        file_path:*) FILE_PATH="${line#file_path: }" ;;
+        outline_sections:*) OUTLINE_SECTIONS="${line#outline_sections: }" ;;
+    esac
+done
+
+if [[ -z "$FILE_PATH" ]]; then
+    echo "Error: file_path is required" >&2
+    exit 1
+fi
+
+if [[ ! -f "$FILE_PATH" ]]; then
+    echo "Error: File not found: $FILE_PATH" >&2
+    exit 1
+fi
+
+# Get the directory and filename
+DIR=$(dirname "$FILE_PATH")
+FILENAME=$(basename "$FILE_PATH" .md)
+NEW_DIR="$DIR/$FILENAME"
+
+# Check if already a folder
+if [[ -d "$NEW_DIR" ]]; then
+    echo "Error: Folder already exists: $NEW_DIR" >&2
+    exit 1
+fi
+
+# Create the folder structure
+mkdir -p "$NEW_DIR/drafts"
+
+# Move the original file to discussion.md
+mv "$FILE_PATH" "$NEW_DIR/discussion.md"
+
+# Update status in the file
+sed -i 's/Status: Exploring/Status: Ready to write/' "$NEW_DIR/discussion.md"
+
+# Create outline.md
+if [[ -n "$OUTLINE_SECTIONS" ]]; then
+    {
+        echo "# Outline"
+        echo ""
+        IFS=',' read -ra SECTIONS <<< "$OUTLINE_SECTIONS"
+        for section in "${SECTIONS[@]}"; do
+            section=$(echo "$section" | xargs)  # trim whitespace
+            echo "## $section"
+            echo ""
+        done
+    } > "$NEW_DIR/outline.md"
+else
+    {
+        echo "# Outline"
+        echo ""
+        echo "## Introduction"
+        echo ""
+        echo "## Main Argument"
+        echo ""
+        echo "## Conclusion"
+        echo ""
+    } > "$NEW_DIR/outline.md"
+fi
+
+# Create empty v1 draft
+{
+    echo "# $FILENAME"
+    echo ""
+    echo "<!-- Draft v1 -->"
+    echo ""
+} > "$NEW_DIR/drafts/v1.md"
+
+# Create published.md placeholder
+{
+    echo "---"
+    echo "Published: false"
+    echo "Platform: "
+    echo "URL: "
+    echo "---"
+    echo ""
+    echo "# $FILENAME"
+    echo ""
+    echo "<!-- Final version goes here after publishing -->"
+} > "$NEW_DIR/published.md"
+
+echo "Successfully upgraded to folder structure: $NEW_DIR"
+echo "Created:"
+echo "  - $NEW_DIR/discussion.md"
+echo "  - $NEW_DIR/outline.md"
+echo "  - $NEW_DIR/drafts/v1.md"
+echo "  - $NEW_DIR/published.md"

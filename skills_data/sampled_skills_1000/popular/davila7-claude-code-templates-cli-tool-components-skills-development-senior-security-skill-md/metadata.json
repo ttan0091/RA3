@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 931,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 931,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-security-skill-md",
+    "name": "senior-security",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-security",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-security-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Comprehensive security engineering skill for application security, penetration testing, security architecture, and compliance auditing. Includes security assessment tools, threat modeling, crypto implementation, and security automation. Use when designing security architecture, conducting penetration tests, implementing cryptography, or performing security audits."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-security",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-security"
+  }
+}

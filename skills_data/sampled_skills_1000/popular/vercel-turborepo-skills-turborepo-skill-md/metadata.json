@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 361,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 361,
+    "id": "vercel-turborepo-skills-turborepo-skill-md",
+    "name": "turborepo",
+    "author": "vercel",
+    "stars": 29775,
+    "githubUrl": "https://github.com/vercel/turborepo/tree/main/skills/turborepo",
+    "skillUrl": "https://skillsmp.com/skills/vercel-turborepo-skills-turborepo-skill-md",
+    "updatedAt": 1770761363,
+    "description": "Turborepo monorepo build system guidance. Triggers on: turbo.json, task pipelines,\ndependsOn, caching, remote cache, the \"turbo\" CLI, --filter, --affected, CI optimization, environment\nvariables, internal packages, monorepo structure/best practices, and boundaries.\n\nUse when user: configures tasks/workflows/pipelines, creates packages, sets up\nmonorepo, shares code between apps, runs changed/affected packages, debugs cache,\nor has apps/packages directories."
+  },
+  "github": {
+    "owner": "vercel",
+    "repo": "turborepo",
+    "ref": "main",
+    "relativePath": "skills/turborepo",
+    "sourceUrl": "https://github.com/vercel/turborepo/tree/main/skills/turborepo"
+  }
+}

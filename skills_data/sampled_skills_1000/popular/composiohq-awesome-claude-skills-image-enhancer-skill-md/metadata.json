@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 333,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 333,
+    "id": "composiohq-awesome-claude-skills-image-enhancer-skill-md",
+    "name": "image-enhancer",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-image-enhancer-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity. Perfect for preparing images for presentations, documentation, or social media posts."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "image-enhancer",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/image-enhancer"
+  }
+}

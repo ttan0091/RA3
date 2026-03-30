@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 512,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 512,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-jobs-skill-md",
+    "name": "hugging-face-jobs",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-jobs",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-jobs-skill-md",
+    "updatedAt": 1769769658,
+    "description": "This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure. Covers UV scripts, Docker-based jobs, hardware selection, cost estimation, authentication with tokens, secrets management, timeout configuration, and result persistence. Designed for general-purpose compute workloads including data processing, inference, experiments, batch jobs, and any Python-based tasks. Should be invoked for tasks involving cloud compute, GPU workloads, or when users mention running jobs on Hugging Face infrastructure without local setup."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-jobs",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-jobs"
+  }
+}

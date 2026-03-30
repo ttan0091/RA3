@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 897,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 897,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-nodejs-best-practices-skill-md",
+    "name": "nodejs-best-practices",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nodejs-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-nodejs-best-practices-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Node.js development principles and decision-making. Framework selection, async patterns, security, and architecture. Teaches thinking, not copying."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/nodejs-best-practices",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/nodejs-best-practices"
+  }
+}

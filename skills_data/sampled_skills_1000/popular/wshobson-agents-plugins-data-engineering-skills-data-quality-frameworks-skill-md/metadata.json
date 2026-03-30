@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 402,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 402,
+    "id": "wshobson-agents-plugins-data-engineering-skills-data-quality-frameworks-skill-md",
+    "name": "data-quality-frameworks",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/data-quality-frameworks",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-data-engineering-skills-data-quality-frameworks-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/data-engineering/skills/data-quality-frameworks",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/data-quality-frameworks"
+  }
+}

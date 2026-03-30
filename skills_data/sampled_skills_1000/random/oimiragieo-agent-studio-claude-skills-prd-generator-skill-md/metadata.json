@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 707,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 707,
+    "id": "oimiragieo-agent-studio-claude-skills-prd-generator-skill-md",
+    "name": "prd-generator",
+    "author": "oimiragieo",
+    "stars": 5,
+    "githubUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/prd-generator",
+    "skillUrl": "https://skillsmp.com/skills/oimiragieo-agent-studio-claude-skills-prd-generator-skill-md",
+    "updatedAt": 1770657932,
+    "description": "Generate structured Product Requirements Documents using hypothesis-driven methodology with Implementation Phases tracking."
+  },
+  "github": {
+    "owner": "oimiragieo",
+    "repo": "agent-studio",
+    "ref": "main",
+    "relativePath": ".claude/skills/prd-generator",
+    "sourceUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/prd-generator"
+  }
+}

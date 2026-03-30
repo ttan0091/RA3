@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 923,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 923,
+    "id": "wildcard-caro-claude-skills-prompt-tuner-skill-md",
+    "name": "prompt-tuner",
+    "author": "wildcard",
+    "stars": 26,
+    "githubUrl": "https://github.com/wildcard/caro/tree/main/.claude/skills/prompt-tuner",
+    "skillUrl": "https://skillsmp.com/skills/wildcard-caro-claude-skills-prompt-tuner-skill-md",
+    "updatedAt": 1768222933,
+    "description": "Improve embedded LLM system prompt based on evaluation test failures"
+  },
+  "github": {
+    "owner": "wildcard",
+    "repo": "caro",
+    "ref": "main",
+    "relativePath": ".claude/skills/prompt-tuner",
+    "sourceUrl": "https://github.com/wildcard/caro/tree/main/.claude/skills/prompt-tuner"
+  }
+}

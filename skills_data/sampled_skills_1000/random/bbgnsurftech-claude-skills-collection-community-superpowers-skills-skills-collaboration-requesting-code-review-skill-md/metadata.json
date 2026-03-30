@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 887,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 887,
+    "id": "bbgnsurftech-claude-skills-collection-community-superpowers-skills-skills-collaboration-requesting-code-review-skill-md",
+    "name": "requesting-code-review",
+    "author": "BbgnsurfTech",
+    "stars": 6,
+    "githubUrl": "https://github.com/BbgnsurfTech/claude-skills-collection/tree/main/community/superpowers-skills/skills/collaboration/requesting-code-review",
+    "skillUrl": "https://skillsmp.com/skills/bbgnsurftech-claude-skills-collection-community-superpowers-skills-skills-collaboration-requesting-code-review-skill-md",
+    "updatedAt": 1766060398,
+    "description": "Dispatch code-reviewer subagent to review implementation against plan or requirements before proceeding"
+  },
+  "github": {
+    "owner": "BbgnsurfTech",
+    "repo": "claude-skills-collection",
+    "ref": "main",
+    "relativePath": "community/superpowers-skills/skills/collaboration/requesting-code-review",
+    "sourceUrl": "https://github.com/BbgnsurfTech/claude-skills-collection/tree/main/community/superpowers-skills/skills/collaboration/requesting-code-review"
+  }
+}

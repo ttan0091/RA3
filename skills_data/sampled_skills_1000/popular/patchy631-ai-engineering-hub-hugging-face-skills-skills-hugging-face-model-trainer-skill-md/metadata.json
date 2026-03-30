@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 513,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 513,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-model-trainer-skill-md",
+    "name": "hugging-face-model-trainer",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-model-trainer",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-model-trainer-skill-md",
+    "updatedAt": 1769769658,
+    "description": "This skill should be used when users want to train or fine-tune language models using TRL (Transformer Reinforcement Learning) on Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment. Includes guidance on the TRL Jobs package, UV scripts with PEP 723 format, dataset preparation and validation, hardware selection, cost estimation, Trackio monitoring, Hub authentication, and model persistence. Should be invoked for tasks involving cloud GPU training, GGUF conversion, or when users mention training on Hugging Face Jobs without local GPU setup."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-model-trainer",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-model-trainer"
+  }
+}

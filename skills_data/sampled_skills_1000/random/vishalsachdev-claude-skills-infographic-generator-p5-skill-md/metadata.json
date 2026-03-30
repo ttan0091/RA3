@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 20,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 20,
+    "id": "vishalsachdev-claude-skills-infographic-generator-p5-skill-md",
+    "name": "infographic-generator-p5",
+    "author": "vishalsachdev",
+    "stars": 1,
+    "githubUrl": "https://github.com/vishalsachdev/claude-skills/tree/main/infographic-generator-p5",
+    "skillUrl": "https://skillsmp.com/skills/vishalsachdev-claude-skills-infographic-generator-p5-skill-md",
+    "updatedAt": 1769272685,
+    "description": "This skill generates an interactive infographic visualization using p5.js that read vis-network compatible JSON data. Use this skill when creating educational infographics with nodes, edges, and hover interactions where users can explore relationships between concepts. Each infographic displays shapes with labels, shows tooltips on hover, and displays detailed descriptions in a control panel below the drawing area. The nodes are placed in absolute coordinates.  The output is not a responsive design."
+  },
+  "github": {
+    "owner": "vishalsachdev",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "infographic-generator-p5",
+    "sourceUrl": "https://github.com/vishalsachdev/claude-skills/tree/main/infographic-generator-p5"
+  }
+}

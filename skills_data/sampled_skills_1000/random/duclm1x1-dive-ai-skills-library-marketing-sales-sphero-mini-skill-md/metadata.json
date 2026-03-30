@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 477,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 477,
+    "id": "duclm1x1-dive-ai-skills-library-marketing-sales-sphero-mini-skill-md",
+    "name": "sphero-mini",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/marketing_sales/sphero-mini",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-marketing-sales-sphero-mini-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Control Sphero Mini robot ball via Bluetooth Low Energy. Roll, change colors, read sensors, draw shapes, and play with cats. Uses bleak for cross-platform BLE support (macOS/Windows/Linux)."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/marketing_sales/sphero-mini",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/marketing_sales/sphero-mini"
+  }
+}

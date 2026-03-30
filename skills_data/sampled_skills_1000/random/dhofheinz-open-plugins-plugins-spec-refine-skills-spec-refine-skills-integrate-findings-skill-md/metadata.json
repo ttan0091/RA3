@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 88,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 88,
+    "id": "dhofheinz-open-plugins-plugins-spec-refine-skills-spec-refine-skills-integrate-findings-skill-md",
+    "name": "integrate-findings",
+    "author": "dhofheinz",
+    "stars": 8,
+    "githubUrl": "https://github.com/dhofheinz/open-plugins/tree/main/plugins/spec-refine/skills/spec-refine/skills/integrate-findings",
+    "skillUrl": "https://skillsmp.com/skills/dhofheinz-open-plugins-plugins-spec-refine-skills-spec-refine-skills-integrate-findings-skill-md",
+    "updatedAt": 1768949966,
+    "description": "Update the specification document with research findings, categorizing by confidence level and managing the Open Questions section."
+  },
+  "github": {
+    "owner": "dhofheinz",
+    "repo": "open-plugins",
+    "ref": "main",
+    "relativePath": "plugins/spec-refine/skills/spec-refine/skills/integrate-findings",
+    "sourceUrl": "https://github.com/dhofheinz/open-plugins/tree/main/plugins/spec-refine/skills/spec-refine/skills/integrate-findings"
+  }
+}

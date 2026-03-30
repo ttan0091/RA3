@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 274,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 274,
+    "id": "mtaku3-nix-config-modules-home-app-dev-claude-code-skills-nix-ecosystem-skill-md",
+    "name": "nix-ecosystem",
+    "author": "mtaku3",
+    "stars": 2,
+    "githubUrl": "https://github.com/mtaku3/nix-config/tree/main/modules/home/app/dev/claude-code/skills/nix-ecosystem",
+    "skillUrl": "https://skillsmp.com/skills/mtaku3-nix-config-modules-home-app-dev-claude-code-skills-nix-ecosystem-skill-md",
+    "updatedAt": 1767151686,
+    "description": "This skill should be used when the user asks to \"write nix\", \"nix expression\", \"flake.nix\", \"home-manager config\", \"programs.*\", \"services.*\", or works with Nix language, flakes, or Home Manager. Provides comprehensive Nix ecosystem patterns and best practices."
+  },
+  "github": {
+    "owner": "mtaku3",
+    "repo": "nix-config",
+    "ref": "main",
+    "relativePath": "modules/home/app/dev/claude-code/skills/nix-ecosystem",
+    "sourceUrl": "https://github.com/mtaku3/nix-config/tree/main/modules/home/app/dev/claude-code/skills/nix-ecosystem"
+  }
+}

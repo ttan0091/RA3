@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 795,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 795,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-figma-implement-design-skill-md",
+    "name": "figma-implement-design",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma-implement-design",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-figma-implement-design-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Translate Figma nodes into production-ready code with 1:1 visual fidelity using the Figma MCP workflow (design context, screenshots, assets, and project-convention translation). Trigger when the user provides Figma URLs or node IDs, or asks to implement designs or components that must match Figma specs. Requires a working Figma MCP server connection."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/figma-implement-design",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/figma-implement-design"
+  }
+}

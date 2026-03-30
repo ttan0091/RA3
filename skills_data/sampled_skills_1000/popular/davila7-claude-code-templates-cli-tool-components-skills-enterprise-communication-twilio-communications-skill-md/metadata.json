@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 986,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 986,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-twilio-communications-skill-md",
+    "name": "twilio-communications",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/twilio-communications",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-twilio-communications-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Build communication features with Twilio: SMS messaging, voice calls, WhatsApp Business API, and user verification (2FA). Covers the full spectrum from simple notifications to complex IVR systems and multi-channel authentication. Critical focus on compliance, rate limits, and error handling. Use when: twilio, send SMS, text message, voice call, phone verification."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/twilio-communications",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/twilio-communications"
+  }
+}

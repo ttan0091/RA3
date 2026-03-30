@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 2,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 2,
+    "id": "facebook-react-claude-skills-feature-flags-skill-md",
+    "name": "feature-flags",
+    "author": "facebook",
+    "stars": 242927,
+    "githubUrl": "https://github.com/facebook/react/tree/main/.claude/skills/feature-flags",
+    "skillUrl": "https://skillsmp.com/skills/facebook-react-claude-skills-feature-flags-skill-md",
+    "updatedAt": 1769217366,
+    "description": "Use when feature flag tests fail, flags need updating, understanding @gate pragmas, debugging channel-specific test failures, or adding new flags to React."
+  },
+  "github": {
+    "owner": "facebook",
+    "repo": "react",
+    "ref": "main",
+    "relativePath": ".claude/skills/feature-flags",
+    "sourceUrl": "https://github.com/facebook/react/tree/main/.claude/skills/feature-flags"
+  }
+}

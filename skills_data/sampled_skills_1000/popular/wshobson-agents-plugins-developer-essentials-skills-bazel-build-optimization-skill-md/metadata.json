@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 407,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 407,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-bazel-build-optimization-skill-md",
+    "name": "bazel-build-optimization",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/bazel-build-optimization",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-bazel-build-optimization-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/bazel-build-optimization",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/bazel-build-optimization"
+  }
+}

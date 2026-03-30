@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 787,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 787,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-3d-web-experience-skill-md",
+    "name": "3d-web-experience",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/3d-web-experience",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-3d-web-experience-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing depth to web experiences. Use when: 3D website, three.js, WebGL, react three fiber, 3D experience."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/3d-web-experience",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/3d-web-experience"
+  }
+}

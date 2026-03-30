@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 436,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 436,
+    "id": "sangrokjung-claude-code-config-public-commands-generate-image-skill-md",
+    "name": "generate-image",
+    "author": "sangrokjung",
+    "stars": 0,
+    "githubUrl": "https://github.com/sangrokjung/claude-code-config-public/tree/main/commands/generate-image",
+    "skillUrl": "https://skillsmp.com/skills/sangrokjung-claude-code-config-public-commands-generate-image-skill-md",
+    "updatedAt": 1770479485,
+    "description": "Generate 2K images using Gemini 3 Pro API. Creates high-quality images from text prompts with various aspect ratios."
+  },
+  "github": {
+    "owner": "sangrokjung",
+    "repo": "claude-code-config-public",
+    "ref": "main",
+    "relativePath": "commands/generate-image",
+    "sourceUrl": "https://github.com/sangrokjung/claude-code-config-public/tree/main/commands/generate-image"
+  }
+}

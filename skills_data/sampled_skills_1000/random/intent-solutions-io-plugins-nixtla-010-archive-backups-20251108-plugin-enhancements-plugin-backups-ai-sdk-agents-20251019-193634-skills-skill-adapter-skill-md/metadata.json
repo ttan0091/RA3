@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 728,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 728,
+    "id": "intent-solutions-io-plugins-nixtla-010-archive-backups-20251108-plugin-enhancements-plugin-backups-ai-sdk-agents-20251019-193634-skills-skill-adapter-skill-md",
+    "name": "orchestrating-multi-agent-systems",
+    "author": "intent-solutions-io",
+    "stars": 6,
+    "githubUrl": "https://github.com/intent-solutions-io/plugins-nixtla/tree/main/010-archive/backups-20251108/plugin-enhancements/plugin-backups/ai-sdk-agents_20251019_193634/skills/skill-adapter",
+    "skillUrl": "https://skillsmp.com/skills/intent-solutions-io-plugins-nixtla-010-archive-backups-20251108-plugin-enhancements-plugin-backups-ai-sdk-agents-20251019-193634-skills-skill-adapter-skill-md",
+    "updatedAt": 1768005419,
+    "description": "This skill enables Claude to orchestrate multi-agent systems using the AI SDK v5. It allows Claude to set up agent handoffs, intelligent routing, and coordinated workflows across different AI providers like OpenAI, Anthropic, and Google. Use this skill when the user asks to create multi-agent systems, needs help with agent coordination, task routing, or wants to build complex workflows involving specialized agents. It is triggered by phrases like \"multi-agent system\", \"agent orchestration\", \"agent handoff\", \"intelligent routing\", or \"coordinate agents\"."
+  },
+  "github": {
+    "owner": "intent-solutions-io",
+    "repo": "plugins-nixtla",
+    "ref": "main",
+    "relativePath": "010-archive/backups-20251108/plugin-enhancements/plugin-backups/ai-sdk-agents_20251019_193634/skills/skill-adapter",
+    "sourceUrl": "https://github.com/intent-solutions-io/plugins-nixtla/tree/main/010-archive/backups-20251108/plugin-enhancements/plugin-backups/ai-sdk-agents_20251019_193634/skills/skill-adapter"
+  }
+}

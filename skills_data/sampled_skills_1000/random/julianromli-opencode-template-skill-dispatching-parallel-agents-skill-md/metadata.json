@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 312,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 312,
+    "id": "julianromli-opencode-template-skill-dispatching-parallel-agents-skill-md",
+    "name": "dispatching-parallel-agents",
+    "author": "julianromli",
+    "stars": 121,
+    "githubUrl": "https://github.com/julianromli/opencode-template/tree/main/skill/dispatching-parallel-agents",
+    "skillUrl": "https://skillsmp.com/skills/julianromli-opencode-template-skill-dispatching-parallel-agents-skill-md",
+    "updatedAt": 1768660853,
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+  },
+  "github": {
+    "owner": "julianromli",
+    "repo": "opencode-template",
+    "ref": "main",
+    "relativePath": "skill/dispatching-parallel-agents",
+    "sourceUrl": "https://github.com/julianromli/opencode-template/tree/main/skill/dispatching-parallel-agents"
+  }
+}

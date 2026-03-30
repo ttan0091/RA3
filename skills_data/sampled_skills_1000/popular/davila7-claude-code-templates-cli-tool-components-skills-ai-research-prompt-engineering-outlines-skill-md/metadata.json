@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 726,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 726,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-outlines-skill-md",
+    "name": "outlines",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-outlines",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-outlines-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Guarantee valid JSON/XML/code structure during generation, use Pydantic models for type-safe outputs, support local models (Transformers, vLLM), and maximize inference speed with Outlines - dottxt.ai's structured generation library"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-engineering-outlines",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-outlines"
+  }
+}

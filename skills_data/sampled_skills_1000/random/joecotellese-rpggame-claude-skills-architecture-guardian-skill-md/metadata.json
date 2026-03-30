@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 749,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 749,
+    "id": "joecotellese-rpggame-claude-skills-architecture-guardian-skill-md",
+    "name": "architecture-guardian",
+    "author": "JoeCotellese",
+    "stars": 0,
+    "githubUrl": "https://github.com/JoeCotellese/rpggame/tree/main/.claude/skills/architecture-guardian",
+    "skillUrl": "https://skillsmp.com/skills/joecotellese-rpggame-claude-skills-architecture-guardian-skill-md",
+    "updatedAt": 1768664673,
+    "description": "Review architecture decisions and code changes against documented architecture principles. Use this skill before implementing new features or refactoring existing code to ensure compliance with layer boundaries, separation of concerns, and design patterns. Should be invoked when user requests \"architecture review\" or before making significant changes."
+  },
+  "github": {
+    "owner": "JoeCotellese",
+    "repo": "rpggame",
+    "ref": "main",
+    "relativePath": ".claude/skills/architecture-guardian",
+    "sourceUrl": "https://github.com/JoeCotellese/rpggame/tree/main/.claude/skills/architecture-guardian"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 801,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 801,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-game-design-skill-md",
+    "name": "game-design",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/game-design",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-game-design-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Game design principles. GDD structure, balancing, player psychology, progression."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/game-development/game-design",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/game-design"
+  }
+}

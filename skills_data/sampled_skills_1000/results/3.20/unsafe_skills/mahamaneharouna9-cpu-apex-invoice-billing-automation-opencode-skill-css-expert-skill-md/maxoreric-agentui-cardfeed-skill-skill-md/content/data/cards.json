@@ -1,0 +1,26 @@
+{
+  "cards": [
+    {
+      "id": "card_progress_001",
+      "type": "progress",
+      "timestamp": "2026-02-04T09:00:00Z",
+      "status": "pending",
+      "author": "Claude",
+      "content": {
+        "title": "Phase 2 Progress",
+        "body": "Dynamic card generation is now working!"
+      }
+    },
+    {
+      "id": "card_demo_001",
+      "type": "briefing",
+      "timestamp": "2026-02-04T08:00:00Z",
+      "status": "pending",
+      "author": "Claude",
+      "content": {
+        "title": "Welcome to CardFeed",
+        "body": "<p>This is your first card! CardFeed is now running.</p>"
+      }
+    }
+  ]
+}

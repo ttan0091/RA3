@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 602,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 602,
+    "id": "github-awesome-copilot-skills-meeting-minutes-skill-md",
+    "name": "meeting-minutes",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/meeting-minutes",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-meeting-minutes-skill-md",
+    "updatedAt": 1770158446,
+    "description": "Generate concise, actionable meeting minutes for internal meetings. Includes metadata, attendees, agenda, decisions, action items (owner + due date), and follow-up steps."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/meeting-minutes",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/meeting-minutes"
+  }
+}

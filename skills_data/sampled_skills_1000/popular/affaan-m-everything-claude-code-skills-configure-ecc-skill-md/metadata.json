@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 262,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 262,
+    "id": "affaan-m-everything-claude-code-skills-configure-ecc-skill-md",
+    "name": "configure-ecc",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/configure-ecc",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-skills-configure-ecc-skill-md",
+    "updatedAt": 1770299882,
+    "description": "Interactive installer for Everything Claude Code — guides users through selecting and installing skills and rules to user-level or project-level directories, verifies paths, and optionally optimizes installed files."
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "skills/configure-ecc",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/configure-ecc"
+  }
+}

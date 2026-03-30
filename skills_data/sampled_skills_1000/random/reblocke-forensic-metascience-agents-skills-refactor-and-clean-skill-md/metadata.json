@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 592,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 592,
+    "id": "reblocke-forensic-metascience-agents-skills-refactor-and-clean-skill-md",
+    "name": "refactor-and-clean",
+    "author": "reblocke",
+    "stars": 0,
+    "githubUrl": "https://github.com/reblocke/forensic_metascience/tree/main/.agents/skills/refactor-and-clean",
+    "skillUrl": "https://skillsmp.com/skills/reblocke-forensic-metascience-agents-skills-refactor-and-clean-skill-md",
+    "updatedAt": 1770430762,
+    "description": "Safely refactor code: identify dead code, improve naming, reduce duplication, run format/lint, and protect behavior with tests."
+  },
+  "github": {
+    "owner": "reblocke",
+    "repo": "forensic_metascience",
+    "ref": "main",
+    "relativePath": ".agents/skills/refactor-and-clean",
+    "sourceUrl": "https://github.com/reblocke/forensic_metascience/tree/main/.agents/skills/refactor-and-clean"
+  }
+}

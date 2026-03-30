@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 886,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 886,
+    "id": "supercorks-agent-skills-slack-reader-skill-md",
+    "name": "slack-reader",
+    "author": "SuperCorks",
+    "stars": 0,
+    "githubUrl": "https://github.com/SuperCorks/agent-skills/tree/main/slack-reader",
+    "skillUrl": "https://skillsmp.com/skills/supercorks-agent-skills-slack-reader-skill-md",
+    "updatedAt": 1770646097,
+    "description": "Read Slack messages by permalink URL. Fetches message content, thread replies, channel context, and resolves user mentions. Read-only access to Slack workspace data."
+  },
+  "github": {
+    "owner": "SuperCorks",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "slack-reader",
+    "sourceUrl": "https://github.com/SuperCorks/agent-skills/tree/main/slack-reader"
+  }
+}

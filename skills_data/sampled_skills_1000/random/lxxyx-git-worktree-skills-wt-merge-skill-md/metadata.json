@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 897,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 897,
+    "id": "lxxyx-git-worktree-skills-wt-merge-skill-md",
+    "name": "wt-merge",
+    "author": "Lxxyx",
+    "stars": 0,
+    "githubUrl": "https://github.com/Lxxyx/git-worktree-skills/tree/main/wt-merge",
+    "skillUrl": "https://skillsmp.com/skills/lxxyx-git-worktree-skills-wt-merge-skill-md",
+    "updatedAt": 1770740251,
+    "description": "合并当前分支到目标分支（默认 main/master）。自动检测合并冲突，推送合并结果。触发条件：用户输入 \"/wt-merge\" 或请求合并分支/完成工作流。"
+  },
+  "github": {
+    "owner": "Lxxyx",
+    "repo": "git-worktree-skills",
+    "ref": "main",
+    "relativePath": "wt-merge",
+    "sourceUrl": "https://github.com/Lxxyx/git-worktree-skills/tree/main/wt-merge"
+  }
+}

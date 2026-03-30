@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 686,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 686,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-ml-paper-writing-skill-md",
+    "name": "ml-paper-writing",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/ml-paper-writing",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-ml-paper-writing-skill-md",
+    "updatedAt": 1769665019,
+    "description": "Write publication-ready ML/AI papers for NeurIPS, ICML, ICLR, ACL, AAAI, COLM. Use when drafting papers from research repos, structuring arguments, verifying citations, or preparing camera-ready submissions. Includes LaTeX templates, reviewer guidelines, and citation verification workflows."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/ml-paper-writing",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/ml-paper-writing"
+  }
+}

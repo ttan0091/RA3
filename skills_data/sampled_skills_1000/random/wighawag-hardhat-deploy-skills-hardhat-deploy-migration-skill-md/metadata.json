@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 261,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 261,
+    "id": "wighawag-hardhat-deploy-skills-hardhat-deploy-migration-skill-md",
+    "name": "hardhat-deploy-migration",
+    "author": "wighawag",
+    "stars": 1267,
+    "githubUrl": "https://github.com/wighawag/hardhat-deploy/tree/main/skills/hardhat-deploy-migration",
+    "skillUrl": "https://skillsmp.com/skills/wighawag-hardhat-deploy-skills-hardhat-deploy-migration-skill-md",
+    "updatedAt": 1769720275,
+    "description": "Comprehensive guide for migrating projects from hardhat-deploy v1 to v2, including dependency updates, configuration restructuring, deploy script conversion, test updates, and troubleshooting"
+  },
+  "github": {
+    "owner": "wighawag",
+    "repo": "hardhat-deploy",
+    "ref": "main",
+    "relativePath": "skills/hardhat-deploy-migration",
+    "sourceUrl": "https://github.com/wighawag/hardhat-deploy/tree/main/skills/hardhat-deploy-migration"
+  }
+}

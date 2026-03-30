@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 214,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 214,
+    "id": "meteor-meteor-github-skills-conventions-skill-md",
+    "name": "conventions",
+    "author": "meteor",
+    "stars": 44774,
+    "githubUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/conventions",
+    "skillUrl": "https://skillsmp.com/skills/meteor-meteor-github-skills-conventions-skill-md",
+    "updatedAt": 1770379062,
+    "description": "Use when writing new packages, adding CLI commands, creating build plugins, or following Meteor code patterns. Covers package.js structure, file naming, and common code patterns."
+  },
+  "github": {
+    "owner": "meteor",
+    "repo": "meteor",
+    "ref": "devel",
+    "relativePath": ".github/skills/conventions",
+    "sourceUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/conventions"
+  }
+}

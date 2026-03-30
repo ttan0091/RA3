@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 712,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 712,
+    "id": "tonycasey-lisa-src-project-lisa-skills-pr-skill-md",
+    "name": "pr",
+    "author": "TonyCasey",
+    "stars": 4,
+    "githubUrl": "https://github.com/TonyCasey/lisa/tree/main/src/project/.lisa/skills/pr",
+    "skillUrl": "https://skillsmp.com/skills/tonycasey-lisa-src-project-lisa-skills-pr-skill-md",
+    "updatedAt": 1770379021,
+    "description": "PR workflow operations: create PRs, check status, link PRs to issues, poll for comments, address feedback, watch PRs, save notes to memory. Triggers on 'pr create', 'pr checks', 'pr link', 'pr poll', 'pr address', 'pr comments', 'pr remember', 'watch pr', 'watching'."
+  },
+  "github": {
+    "owner": "TonyCasey",
+    "repo": "lisa",
+    "ref": "main",
+    "relativePath": "src/project/.lisa/skills/pr",
+    "sourceUrl": "https://github.com/TonyCasey/lisa/tree/main/src/project/.lisa/skills/pr"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 317,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 317,
+    "id": "ikram-alam-the-evolution-of-todo-mastering-spec-driven-development-cloud-native-ai-claude-skills-deploying-kafka-k8s-skill-md",
+    "name": "deploying-kafka-k8s",
+    "author": "Ikram-Alam",
+    "stars": 0,
+    "githubUrl": "https://github.com/Ikram-Alam/The-Evolution-of-Todo-Mastering-Spec-Driven-Development-Cloud-Native-AI/tree/main/.claude/skills/deploying-kafka-k8s",
+    "skillUrl": "https://skillsmp.com/skills/ikram-alam-the-evolution-of-todo-mastering-spec-driven-development-cloud-native-ai-claude-skills-deploying-kafka-k8s-skill-md",
+    "updatedAt": 1770279879,
+    "description": "Deploys Apache Kafka on Kubernetes using the Strimzi operator with KRaft mode.\nUse when setting up Kafka for event-driven microservices, message queuing, or pub/sub patterns.\nCovers operator installation, cluster creation, topic management, and producer/consumer testing.\nNOT when using managed Kafka (Confluent Cloud, MSK) or local development without K8s."
+  },
+  "github": {
+    "owner": "Ikram-Alam",
+    "repo": "The-Evolution-of-Todo-Mastering-Spec-Driven-Development-Cloud-Native-AI",
+    "ref": "main",
+    "relativePath": ".claude/skills/deploying-kafka-k8s",
+    "sourceUrl": "https://github.com/Ikram-Alam/The-Evolution-of-Todo-Mastering-Spec-Driven-Development-Cloud-Native-AI/tree/main/.claude/skills/deploying-kafka-k8s"
+  }
+}

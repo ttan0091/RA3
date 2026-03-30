@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 30,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 30,
+    "id": "openclaw-openclaw-skills-healthcheck-skill-md",
+    "name": "healthcheck",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/healthcheck",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-healthcheck-skill-md",
+    "updatedAt": 1770132094,
+    "description": "Host security hardening and risk-tolerance configuration for OpenClaw deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, OpenClaw cron scheduling for periodic checks, or version status checks on a machine running OpenClaw (laptop, workstation, Pi, VPS)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/healthcheck",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/healthcheck"
+  }
+}

@@ -1,0 +1,148 @@
+---
+name: building-with-shadcn
+description: Claude builds accessible React UIs using shadcn/ui components with Radix primitives and React Hook Form integration. Use when creating forms, dialogs, or composable UI systems.
+---
+
+# Building with shadcn/ui
+
+## Quick Start
+
+```bash
+# Initialize and add components
+npx shadcn-ui@latest init
+npx shadcn-ui@latest add button card form input dialog
+```
+
+```tsx
+import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+
+export function Example() {
+  return (
+    <Card>
+      <CardHeader>
+        <CardTitle>Welcome</CardTitle>
+      </CardHeader>
+      <CardContent className="flex gap-4">
+        <Button>Primary</Button>
+        <Button variant="outline">Outline</Button>
+      </CardContent>
+    </Card>
+  );
+}
+```
+
+## Features
+
+| Feature | Description | Guide |
+|---------|-------------|-------|
+| Button Variants | default, secondary, destructive, outline, ghost, link | `ref/button.md` |
+| Form Integration | React Hook Form + Zod validation pattern | `ref/forms.md` |
+| Dialog/Sheet | Modal dialogs and slide-out panels | `ref/dialogs.md` |
+| Data Display | Table, Tabs, Accordion components | `ref/data-display.md` |
+| Navigation | DropdownMenu, Command palette, NavigationMenu | `ref/navigation.md` |
+| Feedback | Toast notifications with useToast hook | `ref/toast.md` |
+
+## Common Patterns
+
+### Form with Validation
+
+```tsx
+const formSchema = z.object({
+  email: z.string().email("Invalid email"),
+  name: z.string().min(2, "Name must be at least 2 characters"),
+});
+
+export function ProfileForm() {
+  const form = useForm<z.infer<typeof formSchema>>({
+    resolver: zodResolver(formSchema),
+    defaultValues: { email: "", name: "" },
+  });
+
+  return (
+    <Form {...form}>
+      <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-4">
+        <FormField control={form.control} name="email" render={({ field }) => (
+          <FormItem>
+            <FormLabel>Email</FormLabel>
+            <FormControl><Input {...field} /></FormControl>
+            <FormMessage />
+          </FormItem>
+        )} />
+        <FormField control={form.control} name="name" render={({ field }) => (
+          <FormItem>
+            <FormLabel>Name</FormLabel>
+            <FormControl><Input {...field} /></FormControl>
+            <FormMessage />
+          </FormItem>
+        )} />
+        <Button type="submit" disabled={form.formState.isSubmitting}>
+          {form.formState.isSubmitting ? "Saving..." : "Save"}
+        </Button>
+      </form>
+    </Form>
+  );
+}
+```
+
+### Dialog with Form
+
+```tsx
+export function EditDialog({ onSave }: { onSave: (data: Data) => void }) {
+  return (
+    <Dialog>
+      <DialogTrigger asChild>
+        <Button variant="outline">Edit Profile</Button>
+      </DialogTrigger>
+      <DialogContent>
+        <DialogHeader>
+          <DialogTitle>Edit Profile</DialogTitle>
+          <DialogDescription>Update your profile information.</DialogDescription>
+        </DialogHeader>
+        <div className="grid gap-4 py-4">
+          <div className="grid grid-cols-4 items-center gap-4">
+            <Label htmlFor="name" className="text-right">Name</Label>
+            <Input id="name" className="col-span-3" />
+          </div>
+        </div>
+        <DialogFooter>
+          <DialogClose asChild><Button variant="outline">Cancel</Button></DialogClose>
+          <Button onClick={() => onSave(data)}>Save</Button>
+        </DialogFooter>
+      </DialogContent>
+    </Dialog>
+  );
+}
+```
+
+### Toast Notifications
+
+```tsx
+import { useToast } from "@/components/ui/use-toast";
+
+export function SaveButton() {
+  const { toast } = useToast();
+
+  const handleSave = async () => {
+    try {
+      await saveData();
+      toast({ title: "Success", description: "Changes saved." });
+    } catch {
+      toast({ variant: "destructive", title: "Error", description: "Failed to save." });
+    }
+  };
+
+  return <Button onClick={handleSave}>Save</Button>;
+}
+```
+
+## Best Practices
+
+| Do | Avoid |
+|----|-------|
+| Install only components you need | Modifying generated component files directly |
+| Use `cn()` utility for class merging | Skipping form validation |
+| Extend components with composition | Overriding styles without good reason |
+| Follow React Hook Form patterns | Using inline styles |
+| Use TypeScript for type safety | Skipping loading and error states |
+| Test component accessibility | Ignoring keyboard navigation |

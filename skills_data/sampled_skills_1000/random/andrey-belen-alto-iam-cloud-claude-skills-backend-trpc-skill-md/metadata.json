@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 149,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 149,
+    "id": "andrey-belen-alto-iam-cloud-claude-skills-backend-trpc-skill-md",
+    "name": "backend-trpc",
+    "author": "andrey-belen",
+    "stars": 0,
+    "githubUrl": "https://github.com/andrey-belen/alto-iam-cloud/tree/master/.claude/skills/backend-trpc",
+    "skillUrl": "https://skillsmp.com/skills/andrey-belen-alto-iam-cloud-claude-skills-backend-trpc-skill-md",
+    "updatedAt": 1769074258,
+    "description": "Type-safe API layer for TypeScript full-stack applications. Use when building APIs that need end-to-end type safety between client and server WITHOUT code generation. Ideal for Next.js, React, and Express apps where both frontend and backend are TypeScript. Choose tRPC over REST/GraphQL when you control both ends and want zero runtime overhead for type checking."
+  },
+  "github": {
+    "owner": "andrey-belen",
+    "repo": "alto-iam-cloud",
+    "ref": "master",
+    "relativePath": ".claude/skills/backend-trpc",
+    "sourceUrl": "https://github.com/andrey-belen/alto-iam-cloud/tree/master/.claude/skills/backend-trpc"
+  }
+}

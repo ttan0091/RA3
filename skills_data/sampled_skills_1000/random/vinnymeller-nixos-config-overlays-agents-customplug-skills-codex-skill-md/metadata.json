@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 41,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 41,
+    "id": "vinnymeller-nixos-config-overlays-agents-customplug-skills-codex-skill-md",
+    "name": "codex",
+    "author": "vinnymeller",
+    "stars": 11,
+    "githubUrl": "https://github.com/vinnymeller/nixos-config/tree/master/overlays/agents/customPlug/skills/codex",
+    "skillUrl": "https://skillsmp.com/skills/vinnymeller-nixos-config-overlays-agents-customplug-skills-codex-skill-md",
+    "updatedAt": 1769588538,
+    "description": "Invoke OpenAI Codex for its input on a question or task"
+  },
+  "github": {
+    "owner": "vinnymeller",
+    "repo": "nixos-config",
+    "ref": "master",
+    "relativePath": "overlays/agents/customPlug/skills/codex",
+    "sourceUrl": "https://github.com/vinnymeller/nixos-config/tree/master/overlays/agents/customPlug/skills/codex"
+  }
+}

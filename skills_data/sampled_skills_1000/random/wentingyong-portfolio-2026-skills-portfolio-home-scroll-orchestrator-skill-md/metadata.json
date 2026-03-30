@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 397,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 397,
+    "id": "wentingyong-portfolio-2026-skills-portfolio-home-scroll-orchestrator-skill-md",
+    "name": "portfolio-home-scroll-orchestrator",
+    "author": "wentingyong",
+    "stars": 0,
+    "githubUrl": "https://github.com/wentingyong/portfolio-2026/tree/main/Skills/portfolio-home-scroll-orchestrator",
+    "skillUrl": "https://skillsmp.com/skills/wentingyong-portfolio-2026-skills-portfolio-home-scroll-orchestrator-skill-md",
+    "updatedAt": 1769626906,
+    "description": "Implement Home page scroll choreography with a pinned GSAP timeline orchestrating horizontal hero transitions, About section hold/animation, Projects/Blogs vertical scroll, and CTA. Desktop and mobile fallback behavior included."
+  },
+  "github": {
+    "owner": "wentingyong",
+    "repo": "portfolio-2026",
+    "ref": "main",
+    "relativePath": "Skills/portfolio-home-scroll-orchestrator",
+    "sourceUrl": "https://github.com/wentingyong/portfolio-2026/tree/main/Skills/portfolio-home-scroll-orchestrator"
+  }
+}

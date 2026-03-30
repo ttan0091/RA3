@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 562,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 562,
+    "id": "langfuse-langfuse-claude-skills-add-model-price-skill-md",
+    "name": "add-model-price",
+    "author": "langfuse",
+    "stars": 21753,
+    "githubUrl": "https://github.com/langfuse/langfuse/tree/main/.claude/skills/add-model-price",
+    "skillUrl": "https://skillsmp.com/skills/langfuse-langfuse-claude-skills-add-model-price-skill-md",
+    "updatedAt": 1770647043,
+    "description": "Add new LLM model pricing entries to Langfuse's default-model-prices.json. Use when adding model prices, updating model pricing, creating model entries, adding Claude/OpenAI/Anthropic/Google/Gemini/AWS Bedrock/Azure/Vertex AI model pricing, working with matchPattern regex, pricingTiers, or model cost configuration. Covers model price JSON structure, regex patterns for multi-provider matching, tiered pricing with conditions, cache pricing, and validation rules."
+  },
+  "github": {
+    "owner": "langfuse",
+    "repo": "langfuse",
+    "ref": "main",
+    "relativePath": ".claude/skills/add-model-price",
+    "sourceUrl": "https://github.com/langfuse/langfuse/tree/main/.claude/skills/add-model-price"
+  }
+}

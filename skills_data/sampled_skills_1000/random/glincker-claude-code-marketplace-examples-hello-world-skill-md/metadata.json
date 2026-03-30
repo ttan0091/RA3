@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 821,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 821,
+    "id": "glincker-claude-code-marketplace-examples-hello-world-skill-md",
+    "name": "hello-world",
+    "author": "GLINCKER",
+    "stars": 10,
+    "githubUrl": "https://github.com/GLINCKER/claude-code-marketplace/tree/main/examples/hello-world",
+    "skillUrl": "https://skillsmp.com/skills/glincker-claude-code-marketplace-examples-hello-world-skill-md",
+    "updatedAt": 1763073596,
+    "description": "A simple example skill that demonstrates basic skill structure"
+  },
+  "github": {
+    "owner": "GLINCKER",
+    "repo": "claude-code-marketplace",
+    "ref": "main",
+    "relativePath": "examples/hello-world",
+    "sourceUrl": "https://github.com/GLINCKER/claude-code-marketplace/tree/main/examples/hello-world"
+  }
+}

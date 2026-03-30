@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 789,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 789,
+    "id": "nimrodfisher-data-analytics-skills-01-data-quality-validation-programmatic-eda-skill-md",
+    "name": "programmatic-eda",
+    "author": "nimrodfisher",
+    "stars": 0,
+    "githubUrl": "https://github.com/nimrodfisher/data-analytics-skills/tree/main/01-data-quality-validation/programmatic-eda",
+    "skillUrl": "https://skillsmp.com/skills/nimrodfisher-data-analytics-skills-01-data-quality-validation-programmatic-eda-skill-md",
+    "updatedAt": 1768360725,
+    "description": "Systematic exploratory data analysis following best practices. Use when analyzing any dataset to understand structure, identify data quality issues (duplicates, missing values, inconsistencies, outliers), examine distributions, detect correlations, and generate visualizations. Provides comprehensive data profiling with sanity checks before analysis."
+  },
+  "github": {
+    "owner": "nimrodfisher",
+    "repo": "data-analytics-skills",
+    "ref": "main",
+    "relativePath": "01-data-quality-validation/programmatic-eda",
+    "sourceUrl": "https://github.com/nimrodfisher/data-analytics-skills/tree/main/01-data-quality-validation/programmatic-eda"
+  }
+}

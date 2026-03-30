@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 192,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 192,
+    "id": "dy9759-text2knowledgecards-skills-missing-skills-quality-assurance-automation-testing-expert-skill-md",
+    "name": "automation-testing-expert",
+    "author": "dy9759",
+    "stars": 1,
+    "githubUrl": "https://github.com/dy9759/Text2KnowledgeCards/tree/main/skills/missing-skills/quality-assurance/automation-testing-expert",
+    "skillUrl": "https://skillsmp.com/skills/dy9759-text2knowledgecards-skills-missing-skills-quality-assurance-automation-testing-expert-skill-md",
+    "updatedAt": 1764391355,
+    "description": "自动化测试专家，精通单元测试、集成测试、E2E测试和性能测试。能够设计和实施全面的测试策略，确保软件质量和可靠性。"
+  },
+  "github": {
+    "owner": "dy9759",
+    "repo": "Text2KnowledgeCards",
+    "ref": "main",
+    "relativePath": "skills/missing-skills/quality-assurance/automation-testing-expert",
+    "sourceUrl": "https://github.com/dy9759/Text2KnowledgeCards/tree/main/skills/missing-skills/quality-assurance/automation-testing-expert"
+  }
+}

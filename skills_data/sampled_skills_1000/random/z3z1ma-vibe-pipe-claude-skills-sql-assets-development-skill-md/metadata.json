@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 114,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 114,
+    "id": "z3z1ma-vibe-pipe-claude-skills-sql-assets-development-skill-md",
+    "name": "sql-assets-development",
+    "author": "z3z1ma",
+    "stars": 1,
+    "githubUrl": "https://github.com/z3z1ma/vibe-pipe/tree/main/.claude/skills/sql-assets-development",
+    "skillUrl": "https://skillsmp.com/skills/z3z1ma-vibe-pipe-claude-skills-sql-assets-development-skill-md",
+    "updatedAt": 1769929232,
+    "description": "Implement or refactor SQL assets behavior while keeping docs and tests aligned (src/vibe_piper/sql_assets.py, tests/test_sql_assets.py, docs/sql_assets.md)."
+  },
+  "github": {
+    "owner": "z3z1ma",
+    "repo": "vibe-pipe",
+    "ref": "main",
+    "relativePath": ".claude/skills/sql-assets-development",
+    "sourceUrl": "https://github.com/z3z1ma/vibe-pipe/tree/main/.claude/skills/sql-assets-development"
+  }
+}

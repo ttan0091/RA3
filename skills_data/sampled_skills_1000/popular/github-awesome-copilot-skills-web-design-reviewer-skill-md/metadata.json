@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 617,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 617,
+    "id": "github-awesome-copilot-skills-web-design-reviewer-skill-md",
+    "name": "web-design-reviewer",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/web-design-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-web-design-reviewer-skill-md",
+    "updatedAt": 1767923167,
+    "description": "This skill enables visual inspection of websites running locally or remotely to identify and fix design issues. Triggers on requests like \"review website design\", \"check the UI\", \"fix the layout\", \"find design problems\". Detects issues with responsive design, accessibility, visual consistency, and layout breakage, then performs fixes at the source code level."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/web-design-reviewer",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/web-design-reviewer"
+  }
+}

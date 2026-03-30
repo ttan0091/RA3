@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 633,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 633,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-agents-crewai-skill-md",
+    "name": "crewai-multi-agent",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-crewai",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-agents-crewai-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Multi-agent orchestration framework for autonomous AI collaboration. Use when building teams of specialized agents working together on complex tasks, when you need role-based agent collaboration with memory, or for production workflows requiring sequential/hierarchical execution. Built without LangChain dependencies for lean, fast execution."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/agents-crewai",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-crewai"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 507,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 507,
+    "id": "ctsstc-get-shit-done-skills-kilocode-skills-gsd-commands-new-milestone-skill-md",
+    "name": "gsdnew-milestone",
+    "author": "ctsstc",
+    "stars": 1,
+    "githubUrl": "https://github.com/ctsstc/get-shit-done-skills/tree/main/.kilocode/skills/gsd/commands/new-milestone",
+    "skillUrl": "https://skillsmp.com/skills/ctsstc-get-shit-done-skills-kilocode-skills-gsd-commands-new-milestone-skill-md",
+    "updatedAt": 1768887052,
+    "description": "Create a new project milestone"
+  },
+  "github": {
+    "owner": "ctsstc",
+    "repo": "get-shit-done-skills",
+    "ref": "main",
+    "relativePath": ".kilocode/skills/gsd/commands/new-milestone",
+    "sourceUrl": "https://github.com/ctsstc/get-shit-done-skills/tree/main/.kilocode/skills/gsd/commands/new-milestone"
+  }
+}

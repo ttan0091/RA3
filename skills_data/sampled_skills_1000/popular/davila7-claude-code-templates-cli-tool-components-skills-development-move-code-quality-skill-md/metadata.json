@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 890,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 890,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-move-code-quality-skill-md",
+    "name": "move-code-quality",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/move-code-quality",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-move-code-quality-skill-md",
+    "updatedAt": 1764952495,
+    "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist. Use this skill when reviewing Move code, checking Move 2024 Edition compliance, or analyzing Move packages for best practices. Activates automatically when working with .move files or Move.toml manifests."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/move-code-quality",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/move-code-quality"
+  }
+}

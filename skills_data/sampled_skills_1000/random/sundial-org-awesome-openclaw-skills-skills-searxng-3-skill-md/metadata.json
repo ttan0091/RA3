@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 996,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 996,
+    "id": "sundial-org-awesome-openclaw-skills-skills-searxng-3-skill-md",
+    "name": "searxng-3",
+    "author": "sundial-org",
+    "stars": 35,
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/searxng-3",
+    "skillUrl": "https://skillsmp.com/skills/sundial-org-awesome-openclaw-skills-skills-searxng-3-skill-md",
+    "updatedAt": 1769996135,
+    "description": "Search the web using a self-hosted SearXNG instance. Privacy-respecting metasearch that aggregates results from multiple engines."
+  },
+  "github": {
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "ref": "main",
+    "relativePath": "skills/searxng-3",
+    "sourceUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/searxng-3"
+  }
+}

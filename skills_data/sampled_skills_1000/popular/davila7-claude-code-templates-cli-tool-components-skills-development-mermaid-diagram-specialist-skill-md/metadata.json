@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 888,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 888,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-mermaid-diagram-specialist-skill-md",
+    "name": "mermaid-diagram-specialist",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/mermaid-diagram-specialist",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-mermaid-diagram-specialist-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Mermaid diagram specialist for creating flowcharts, sequence diagrams, ERDs, and architecture visualizations"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/mermaid-diagram-specialist",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/mermaid-diagram-specialist"
+  }
+}

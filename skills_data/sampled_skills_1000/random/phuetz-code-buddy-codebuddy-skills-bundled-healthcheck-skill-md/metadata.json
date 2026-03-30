@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 84,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 84,
+    "id": "phuetz-code-buddy-codebuddy-skills-bundled-healthcheck-skill-md",
+    "name": "healthcheck",
+    "author": "phuetz",
+    "stars": 5,
+    "githubUrl": "https://github.com/phuetz/code-buddy/tree/main/.codebuddy/skills/bundled/healthcheck",
+    "skillUrl": "https://skillsmp.com/skills/phuetz-code-buddy-codebuddy-skills-bundled-healthcheck-skill-md",
+    "updatedAt": 1770493153,
+    "description": "Security audit and environment hardening. Use when asked about security, system health, or deployment safety."
+  },
+  "github": {
+    "owner": "phuetz",
+    "repo": "code-buddy",
+    "ref": "main",
+    "relativePath": ".codebuddy/skills/bundled/healthcheck",
+    "sourceUrl": "https://github.com/phuetz/code-buddy/tree/main/.codebuddy/skills/bundled/healthcheck"
+  }
+}

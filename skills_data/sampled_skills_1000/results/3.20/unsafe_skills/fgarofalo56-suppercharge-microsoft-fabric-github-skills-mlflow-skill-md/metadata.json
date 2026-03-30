@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 259,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 259,
+    "id": "fgarofalo56-suppercharge-microsoft-fabric-github-skills-mlflow-skill-md",
+    "name": "mlflow",
+    "author": "fgarofalo56",
+    "stars": 0,
+    "githubUrl": "https://github.com/fgarofalo56/Suppercharge_Microsoft_Fabric/tree/main/.github/skills/mlflow",
+    "skillUrl": "https://skillsmp.com/skills/fgarofalo56-suppercharge-microsoft-fabric-github-skills-mlflow-skill-md",
+    "updatedAt": 1769193902,
+    "description": "ML lifecycle management with MLflow. Track experiments, package models, manage registries, and deploy models. Use for ML operations, experiment tracking, and model deployment."
+  },
+  "github": {
+    "owner": "fgarofalo56",
+    "repo": "Suppercharge_Microsoft_Fabric",
+    "ref": "main",
+    "relativePath": ".github/skills/mlflow",
+    "sourceUrl": "https://github.com/fgarofalo56/Suppercharge_Microsoft_Fabric/tree/main/.github/skills/mlflow"
+  }
+}

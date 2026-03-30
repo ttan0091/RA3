@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 303,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 303,
+    "id": "payloadcms-payload-claude-skills-triage-ci-flake-skill-md",
+    "name": "triage-ci-flake",
+    "author": "payloadcms",
+    "stars": 40485,
+    "githubUrl": "https://github.com/payloadcms/payload/tree/main/.claude/skills/triage-ci-flake",
+    "skillUrl": "https://skillsmp.com/skills/payloadcms-payload-claude-skills-triage-ci-flake-skill-md",
+    "updatedAt": 1768504094,
+    "description": "Use when CI tests fail on main branch after PR merge, or when investigating flaky test failures in CI environments"
+  },
+  "github": {
+    "owner": "payloadcms",
+    "repo": "payload",
+    "ref": "main",
+    "relativePath": ".claude/skills/triage-ci-flake",
+    "sourceUrl": "https://github.com/payloadcms/payload/tree/main/.claude/skills/triage-ci-flake"
+  }
+}

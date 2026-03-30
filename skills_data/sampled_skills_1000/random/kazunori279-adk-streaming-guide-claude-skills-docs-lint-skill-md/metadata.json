@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 155,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 155,
+    "id": "kazunori279-adk-streaming-guide-claude-skills-docs-lint-skill-md",
+    "name": "docs-lint",
+    "author": "kazunori279",
+    "stars": 13,
+    "githubUrl": "https://github.com/kazunori279/adk-streaming-guide/tree/main/.claude/skills/docs-lint",
+    "skillUrl": "https://skillsmp.com/skills/kazunori279-adk-streaming-guide-claude-skills-docs-lint-skill-md",
+    "updatedAt": 1768292941,
+    "description": "Document review"
+  },
+  "github": {
+    "owner": "kazunori279",
+    "repo": "adk-streaming-guide",
+    "ref": "main",
+    "relativePath": ".claude/skills/docs-lint",
+    "sourceUrl": "https://github.com/kazunori279/adk-streaming-guide/tree/main/.claude/skills/docs-lint"
+  }
+}

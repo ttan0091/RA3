@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 384,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 384,
+    "id": "jamespacileo-breathe-together-v2-claude-skills-unified-entity-skill-md",
+    "name": "unified-entity",
+    "author": "jamespacileo",
+    "stars": 0,
+    "githubUrl": "https://github.com/jamespacileo/breathe-together-v2/tree/main/.claude/skills/unified-entity",
+    "skillUrl": "https://skillsmp.com/skills/jamespacileo-breathe-together-v2-claude-skills-unified-entity-skill-md",
+    "updatedAt": 1767828137,
+    "description": "Comprehensive entity skill for breathe-together-v2. Create new entities, improve existing ones, debug issues, and systematically review all entities. Covers ECS Architecture, Triplex Integration, Performance Tuning, and Debug Tools. Includes 3 entity archetypes (Visual-Only, Simple ECS, Complex ECS), 4 guided workflows, prompt-to-update learning system, and real-world templates from the codebase."
+  },
+  "github": {
+    "owner": "jamespacileo",
+    "repo": "breathe-together-v2",
+    "ref": "main",
+    "relativePath": ".claude/skills/unified-entity",
+    "sourceUrl": "https://github.com/jamespacileo/breathe-together-v2/tree/main/.claude/skills/unified-entity"
+  }
+}

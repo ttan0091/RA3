@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 172,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 172,
+    "id": "tryghost-ghost-claude-skills-create-database-migration-skill-md",
+    "name": "create-database-migration",
+    "author": "TryGhost",
+    "stars": 51791,
+    "githubUrl": "https://github.com/TryGhost/Ghost/tree/main/.claude/skills/create-database-migration",
+    "skillUrl": "https://skillsmp.com/skills/tryghost-ghost-claude-skills-create-database-migration-skill-md",
+    "updatedAt": 1764710473,
+    "description": "Create a database migration to add a table, add columns to an existing table, add a setting, or otherwise change the schema of Ghost's MySQL database."
+  },
+  "github": {
+    "owner": "TryGhost",
+    "repo": "Ghost",
+    "ref": "main",
+    "relativePath": ".claude/skills/create-database-migration",
+    "sourceUrl": "https://github.com/TryGhost/Ghost/tree/main/.claude/skills/create-database-migration"
+  }
+}

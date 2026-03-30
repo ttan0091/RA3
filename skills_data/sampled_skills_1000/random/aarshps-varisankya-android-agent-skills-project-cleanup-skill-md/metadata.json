@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 797,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 797,
+    "id": "aarshps-varisankya-android-agent-skills-project-cleanup-skill-md",
+    "name": "project-cleanup-guidelines",
+    "author": "aarshps",
+    "stars": 24,
+    "githubUrl": "https://github.com/aarshps/varisankya-android/tree/main/.agent/skills/project-cleanup",
+    "skillUrl": "https://skillsmp.com/skills/aarshps-varisankya-android-agent-skills-project-cleanup-skill-md",
+    "updatedAt": 1769626832,
+    "description": "Guidelines for keeping the repository clean of temporary and build files"
+  },
+  "github": {
+    "owner": "aarshps",
+    "repo": "varisankya-android",
+    "ref": "main",
+    "relativePath": ".agent/skills/project-cleanup",
+    "sourceUrl": "https://github.com/aarshps/varisankya-android/tree/main/.agent/skills/project-cleanup"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 251,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 251,
+    "id": "u-keun-tickly-claude-skills-tickly-bug-triage-min-skill-md",
+    "name": "tickly-bug-triage-min",
+    "author": "U-Keun",
+    "stars": 1,
+    "githubUrl": "https://github.com/U-Keun/tickly/tree/main/.claude/skills/tickly-bug-triage-min",
+    "skillUrl": "https://skillsmp.com/skills/u-keun-tickly-claude-skills-tickly-bug-triage-min-skill-md",
+    "updatedAt": 1768189446,
+    "description": "Tickly 버그를 원인 후보 3개/검증 실험 1개씩으로 빠르게 쪼개고, 가장 가능성 높은 최소 수정 diff를 제안한다. \"에러가 난다\", \"동작이 이상하다\", \"테스트가 깨진다\"에 사용한다."
+  },
+  "github": {
+    "owner": "U-Keun",
+    "repo": "tickly",
+    "ref": "main",
+    "relativePath": ".claude/skills/tickly-bug-triage-min",
+    "sourceUrl": "https://github.com/U-Keun/tickly/tree/main/.claude/skills/tickly-bug-triage-min"
+  }
+}

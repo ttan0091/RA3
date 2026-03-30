@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 789,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 789,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-c4-architecture-skill-md",
+    "name": "c4-architecture",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/c4-architecture",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-c4-architecture-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Generate architecture documentation using C4 model Mermaid diagrams. Use when asked to create architecture diagrams, document system architecture, visualize software structure, create C4 diagrams, or generate context/container/component/deployment diagrams. Triggers include \"architecture diagram\", \"C4 diagram\", \"system context\", \"container diagram\", \"component diagram\", \"deployment diagram\", \"document architecture\", \"visualize architecture\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/c4-architecture",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/c4-architecture"
+  }
+}

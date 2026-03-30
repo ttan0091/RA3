@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 706,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 706,
+    "id": "open-finance-ai-agent-skills-template-skill-md",
+    "name": "my-skill-name",
+    "author": "open-finance-ai",
+    "stars": 0,
+    "githubUrl": "https://github.com/open-finance-ai/agent-skills/tree/main/template",
+    "skillUrl": "https://skillsmp.com/skills/open-finance-ai-agent-skills-template-skill-md",
+    "updatedAt": 1770562160,
+    "description": "A short description of what this skill does. Include trigger phrases that should activate this skill."
+  },
+  "github": {
+    "owner": "open-finance-ai",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "template",
+    "sourceUrl": "https://github.com/open-finance-ai/agent-skills/tree/main/template"
+  }
+}

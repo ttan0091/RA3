@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 975,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 975,
+    "id": "microck-ordinary-claude-skills-skills-all-terraform-module-library-skill-md",
+    "name": "terraform-module-library",
+    "author": "Microck",
+    "stars": 119,
+    "githubUrl": "https://github.com/Microck/ordinary-claude-skills/tree/main/skills_all/terraform-module-library",
+    "skillUrl": "https://skillsmp.com/skills/microck-ordinary-claude-skills-skills-all-terraform-module-library-skill-md",
+    "updatedAt": 1764886459,
+    "description": "Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components."
+  },
+  "github": {
+    "owner": "Microck",
+    "repo": "ordinary-claude-skills",
+    "ref": "main",
+    "relativePath": "skills_all/terraform-module-library",
+    "sourceUrl": "https://github.com/Microck/ordinary-claude-skills/tree/main/skills_all/terraform-module-library"
+  }
+}

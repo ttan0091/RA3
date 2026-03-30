@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 371,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 371,
+    "id": "rcarmo-agentbox-skel-github-skills-github-actions-skill-md",
+    "name": "github-actions-ci-patterns",
+    "author": "rcarmo",
+    "stars": 29,
+    "githubUrl": "https://github.com/rcarmo/agentbox/tree/main/skel/.github/skills/github-actions",
+    "skillUrl": "https://skillsmp.com/skills/rcarmo-agentbox-skel-github-skills-github-actions-skill-md",
+    "updatedAt": 1770387690,
+    "description": "CI patterns that call Make targets"
+  },
+  "github": {
+    "owner": "rcarmo",
+    "repo": "agentbox",
+    "ref": "main",
+    "relativePath": "skel/.github/skills/github-actions",
+    "sourceUrl": "https://github.com/rcarmo/agentbox/tree/main/skel/.github/skills/github-actions"
+  }
+}

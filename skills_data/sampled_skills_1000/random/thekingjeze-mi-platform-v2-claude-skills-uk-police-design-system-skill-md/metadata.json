@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 271,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 271,
+    "id": "thekingjeze-mi-platform-v2-claude-skills-uk-police-design-system-skill-md",
+    "name": "uk-police-design-system",
+    "author": "THEKINGJEZE",
+    "stars": 0,
+    "githubUrl": "https://github.com/THEKINGJEZE/MI-Platform-V2/tree/main/.claude/skills/uk-police-design-system",
+    "skillUrl": "https://skillsmp.com/skills/thekingjeze-mi-platform-v2-claude-skills-uk-police-design-system-skill-md",
+    "updatedAt": 1769225310,
+    "description": "Build UI components, select colours, define typography, and implement visual elements for UK Police market intelligence dashboards. Apply when creating interfaces for the policing sector, implementing the \"Technical Luxury\" aesthetic, or needing domain-specific design guidance. This is the authoritative reference for visual design decisions including colour tokens, typography scale, spacing system, component architecture, and ADHD-specific features."
+  },
+  "github": {
+    "owner": "THEKINGJEZE",
+    "repo": "MI-Platform-V2",
+    "ref": "main",
+    "relativePath": ".claude/skills/uk-police-design-system",
+    "sourceUrl": "https://github.com/THEKINGJEZE/MI-Platform-V2/tree/main/.claude/skills/uk-police-design-system"
+  }
+}

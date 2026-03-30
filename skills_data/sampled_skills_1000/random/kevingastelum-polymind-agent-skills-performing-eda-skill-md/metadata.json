@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 262,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 262,
+    "id": "kevingastelum-polymind-agent-skills-performing-eda-skill-md",
+    "name": "performing-eda",
+    "author": "KevinGastelum",
+    "stars": 1,
+    "githubUrl": "https://github.com/KevinGastelum/polymind/tree/main/.agent/skills/performing-eda",
+    "skillUrl": "https://skillsmp.com/skills/kevingastelum-polymind-agent-skills-performing-eda-skill-md",
+    "updatedAt": 1768764509,
+    "description": "Conducts Exploratory Data Analysis (EDA) on datasets. Use when the user asks to \"explore\", \"clean\", or \"visualize\" a new CSV or dataset."
+  },
+  "github": {
+    "owner": "KevinGastelum",
+    "repo": "polymind",
+    "ref": "main",
+    "relativePath": ".agent/skills/performing-eda",
+    "sourceUrl": "https://github.com/KevinGastelum/polymind/tree/main/.agent/skills/performing-eda"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 729,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 729,
+    "id": "linruohan-skills-opencode-skills-docx-py-skill-md",
+    "name": "docx-py",
+    "author": "linruohan",
+    "stars": 0,
+    "githubUrl": "https://github.com/linruohan/skills/tree/master/opencode/skills/docx-py",
+    "skillUrl": "https://skillsmp.com/skills/linruohan-skills-opencode-skills-docx-py-skill-md",
+    "updatedAt": 1770043480,
+    "description": "使用 python-docx 库快速创建 Word 文档的专业技能。支持创建空文档、添加文本内容、从文件导入内容等场景。用于处理 Word 文档创建任务，提供简洁的命令行解决方案。"
+  },
+  "github": {
+    "owner": "linruohan",
+    "repo": "skills",
+    "ref": "master",
+    "relativePath": "opencode/skills/docx-py",
+    "sourceUrl": "https://github.com/linruohan/skills/tree/master/opencode/skills/docx-py"
+  }
+}

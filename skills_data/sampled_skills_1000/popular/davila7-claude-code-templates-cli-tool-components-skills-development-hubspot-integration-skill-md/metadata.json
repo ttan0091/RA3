@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 881,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 881,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-hubspot-integration-skill-md",
+    "name": "hubspot-integration",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/hubspot-integration",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-hubspot-integration-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs. Use when: hubspot, hubspot api, hubspot crm, hubspot integration, contacts api."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/hubspot-integration",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/hubspot-integration"
+  }
+}

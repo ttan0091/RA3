@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 552,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 552,
+    "id": "pubkey-rxdb-agent-skills-verify-skill-md",
+    "name": "verify",
+    "author": "pubkey",
+    "stars": 23028,
+    "githubUrl": "https://github.com/pubkey/rxdb/tree/master/.agent/skills/verify",
+    "skillUrl": "https://skillsmp.com/skills/pubkey-rxdb-agent-skills-verify-skill-md",
+    "updatedAt": 1769521868,
+    "description": "Verifies code changes by running tests and generation scripts"
+  },
+  "github": {
+    "owner": "pubkey",
+    "repo": "rxdb",
+    "ref": "master",
+    "relativePath": ".agent/skills/verify",
+    "sourceUrl": "https://github.com/pubkey/rxdb/tree/master/.agent/skills/verify"
+  }
+}

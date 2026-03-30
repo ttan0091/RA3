@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 159,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 159,
+    "id": "straydragon-llman-claude-skills-openspec-continue-change-skill-md",
+    "name": "openspec-continue-change",
+    "author": "StrayDragon",
+    "stars": 1,
+    "githubUrl": "https://github.com/StrayDragon/llman/tree/main/.claude/skills/openspec-continue-change",
+    "skillUrl": "https://skillsmp.com/skills/straydragon-llman-claude-skills-openspec-continue-change-skill-md",
+    "updatedAt": 1770626294,
+    "description": "Continue working on an OpenSpec change by creating the next artifact. Use when the user wants to progress their change, create the next artifact, or continue their workflow."
+  },
+  "github": {
+    "owner": "StrayDragon",
+    "repo": "llman",
+    "ref": "main",
+    "relativePath": ".claude/skills/openspec-continue-change",
+    "sourceUrl": "https://github.com/StrayDragon/llman/tree/main/.claude/skills/openspec-continue-change"
+  }
+}

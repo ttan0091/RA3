@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 417,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 417,
+    "id": "ruska-ai-orchestra-claude-skills-test-frontend-skill-md",
+    "name": "test-frontend",
+    "author": "ruska-ai",
+    "stars": 7,
+    "githubUrl": "https://github.com/ruska-ai/orchestra/tree/development/.claude/skills/test-frontend",
+    "skillUrl": "https://skillsmp.com/skills/ruska-ai-orchestra-claude-skills-test-frontend-skill-md",
+    "updatedAt": 1767074791,
+    "description": "Run and verify frontend tests for the React/Vite application."
+  },
+  "github": {
+    "owner": "ruska-ai",
+    "repo": "orchestra",
+    "ref": "development",
+    "relativePath": ".claude/skills/test-frontend",
+    "sourceUrl": "https://github.com/ruska-ai/orchestra/tree/development/.claude/skills/test-frontend"
+  }
+}

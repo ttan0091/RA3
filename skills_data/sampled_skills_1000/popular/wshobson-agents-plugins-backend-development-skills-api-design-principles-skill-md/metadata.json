@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 371,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 371,
+    "id": "wshobson-agents-plugins-backend-development-skills-api-design-principles-skill-md",
+    "name": "api-design-principles",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/api-design-principles",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-backend-development-skills-api-design-principles-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers. Use when designing new APIs, reviewing API specifications, or establishing API design standards."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/backend-development/skills/api-design-principles",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/api-design-principles"
+  }
+}

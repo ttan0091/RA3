@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 531,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 531,
+    "id": "mlflow-mlflow-claude-skills-add-review-comment-skill-md",
+    "name": "add-review-comment",
+    "author": "mlflow",
+    "stars": 24079,
+    "githubUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/add-review-comment",
+    "skillUrl": "https://skillsmp.com/skills/mlflow-mlflow-claude-skills-add-review-comment-skill-md",
+    "updatedAt": 1768920393,
+    "description": "Add a review comment to a GitHub pull request."
+  },
+  "github": {
+    "owner": "mlflow",
+    "repo": "mlflow",
+    "ref": "master",
+    "relativePath": ".claude/skills/add-review-comment",
+    "sourceUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/add-review-comment"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 690,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 690,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-litgpt-skill-md",
+    "name": "implementing-llms-litgpt",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-litgpt",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-litgpt-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral). Use when need clean model implementations, educational understanding of architectures, or production fine-tuning with LoRA/QLoRA. Single-file implementations, no abstraction layers."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/model-architecture-litgpt",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-litgpt"
+  }
+}

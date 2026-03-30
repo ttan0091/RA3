@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 362,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 362,
+    "id": "wshobson-agents-plugins-accessibility-compliance-skills-screen-reader-testing-skill-md",
+    "name": "screen-reader-testing",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/screen-reader-testing",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-accessibility-compliance-skills-screen-reader-testing-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Test web applications with screen readers including VoiceOver, NVDA, and JAWS. Use when validating screen reader compatibility, debugging accessibility issues, or ensuring assistive technology support."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/accessibility-compliance/skills/screen-reader-testing",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/screen-reader-testing"
+  }
+}

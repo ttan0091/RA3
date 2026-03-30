@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 96,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 96,
+    "id": "g1joshi-agent-skills-skills-ai-ml-nltk-skill-md",
+    "name": "nltk",
+    "author": "G1Joshi",
+    "stars": 0,
+    "githubUrl": "https://github.com/G1Joshi/Agent-Skills/tree/main/skills/ai-ml/nltk",
+    "skillUrl": "https://skillsmp.com/skills/g1joshi-agent-skills-skills-ai-ml-nltk-skill-md",
+    "updatedAt": 1770743079,
+    "description": "NLTK natural language toolkit. Use for NLP."
+  },
+  "github": {
+    "owner": "G1Joshi",
+    "repo": "Agent-Skills",
+    "ref": "main",
+    "relativePath": "skills/ai-ml/nltk",
+    "sourceUrl": "https://github.com/G1Joshi/Agent-Skills/tree/main/skills/ai-ml/nltk"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 584,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 584,
+    "id": "edwinhu-workflows-lib-skills-dev-test-chrome-skill-md",
+    "name": "dev-test-chrome",
+    "author": "edwinhu",
+    "stars": 4,
+    "githubUrl": "https://github.com/edwinhu/workflows/tree/main/lib/skills/dev-test-chrome",
+    "skillUrl": "https://skillsmp.com/skills/edwinhu-workflows-lib-skills-dev-test-chrome-skill-md",
+    "updatedAt": 1770393688,
+    "description": "Chrome MCP browser testing. Console/network debugging, JS execution, GIF recording."
+  },
+  "github": {
+    "owner": "edwinhu",
+    "repo": "workflows",
+    "ref": "main",
+    "relativePath": "lib/skills/dev-test-chrome",
+    "sourceUrl": "https://github.com/edwinhu/workflows/tree/main/lib/skills/dev-test-chrome"
+  }
+}

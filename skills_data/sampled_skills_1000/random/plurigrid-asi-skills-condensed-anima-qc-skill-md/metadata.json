@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 341,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 341,
+    "id": "plurigrid-asi-skills-condensed-anima-qc-skill-md",
+    "name": "condensed-anima-qc",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/condensed-anima-qc",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-condensed-anima-qc-skill-md",
+    "updatedAt": 1767263869,
+    "description": "Condensed ANIMA on quantum-classical and classical-quantum networks. All skill compositions materialized as s-expressions across the polyglot substrate."
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/condensed-anima-qc",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/condensed-anima-qc"
+  }
+}

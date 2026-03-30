@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 648,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 648,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-datadog-cli-skill-md",
+    "name": "datadog-cli",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/datadog-cli",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-datadog-cli-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Datadog CLI for searching logs, querying metrics, tracing requests, and managing dashboards. Use this when debugging production issues or working with Datadog observability."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/datadog-cli",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/datadog-cli"
+  }
+}

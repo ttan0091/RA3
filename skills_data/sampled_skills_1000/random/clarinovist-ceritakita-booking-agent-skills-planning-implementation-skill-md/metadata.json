@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 395,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 395,
+    "id": "clarinovist-ceritakita-booking-agent-skills-planning-implementation-skill-md",
+    "name": "planning-implementation",
+    "author": "clarinovist",
+    "stars": 0,
+    "githubUrl": "https://github.com/clarinovist/ceritakita-booking/tree/main/.agent/skills/planning-implementation",
+    "skillUrl": "https://skillsmp.com/skills/clarinovist-ceritakita-booking-agent-skills-planning-implementation-skill-md",
+    "updatedAt": 1769829417,
+    "description": "Generates detailed implementation plans for complex coding tasks. Use when the user has requirements but needs a structured plan before coding."
+  },
+  "github": {
+    "owner": "clarinovist",
+    "repo": "ceritakita-booking",
+    "ref": "main",
+    "relativePath": ".agent/skills/planning-implementation",
+    "sourceUrl": "https://github.com/clarinovist/ceritakita-booking/tree/main/.agent/skills/planning-implementation"
+  }
+}

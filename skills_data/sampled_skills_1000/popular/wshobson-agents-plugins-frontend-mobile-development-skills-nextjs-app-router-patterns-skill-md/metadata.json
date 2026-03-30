@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 425,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 425,
+    "id": "wshobson-agents-plugins-frontend-mobile-development-skills-nextjs-app-router-patterns-skill-md",
+    "name": "nextjs-app-router-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-frontend-mobile-development-skills-nextjs-app-router-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Server Components."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/frontend-mobile-development/skills/nextjs-app-router-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/nextjs-app-router-patterns"
+  }
+}

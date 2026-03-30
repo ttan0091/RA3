@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 361,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 361,
+    "id": "dokhacgiakhoa-antigravity-ide-agent-skills-code-review-checklist-skill-md",
+    "name": "code-review-checklist",
+    "author": "Dokhacgiakhoa",
+    "stars": 201,
+    "githubUrl": "https://github.com/Dokhacgiakhoa/antigravity-ide/tree/main/.agent/skills/code-review-checklist",
+    "skillUrl": "https://skillsmp.com/skills/dokhacgiakhoa-antigravity-ide-agent-skills-code-review-checklist-skill-md",
+    "updatedAt": 1770523636,
+    "description": "Code review guidelines covering quality, security, and best practices."
+  },
+  "github": {
+    "owner": "Dokhacgiakhoa",
+    "repo": "antigravity-ide",
+    "ref": "main",
+    "relativePath": ".agent/skills/code-review-checklist",
+    "sourceUrl": "https://github.com/Dokhacgiakhoa/antigravity-ide/tree/main/.agent/skills/code-review-checklist"
+  }
+}

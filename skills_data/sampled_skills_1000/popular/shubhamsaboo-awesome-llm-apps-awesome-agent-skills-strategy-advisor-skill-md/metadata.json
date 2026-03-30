@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 111,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 111,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-strategy-advisor-skill-md",
+    "name": "strategy-advisor",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/strategy-advisor",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-strategy-advisor-skill-md",
+    "updatedAt": 1770167437,
+    "description": "High-level strategic thinking and business decision guidance for planning and direction-setting.\nUse when: making strategic decisions, evaluating business options, setting direction, analyzing\ntrade-offs, or when user mentions strategy, business planning, competitive analysis, or long-term planning."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/strategy-advisor",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/strategy-advisor"
+  }
+}

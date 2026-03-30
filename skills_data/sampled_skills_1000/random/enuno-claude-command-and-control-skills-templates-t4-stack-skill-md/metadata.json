@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 763,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 763,
+    "id": "enuno-claude-command-and-control-skills-templates-t4-stack-skill-md",
+    "name": "t4-stack",
+    "author": "enuno",
+    "stars": 7,
+    "githubUrl": "https://github.com/enuno/claude-command-and-control/tree/main/skills-templates/t4-stack",
+    "skillUrl": "https://skillsmp.com/skills/enuno-claude-command-and-control-skills-templates-t4-stack-skill-md",
+    "updatedAt": 1768246403,
+    "description": "T4 Stack - Full-stack TypeScript starter for React Native + Web with Tamagui, tRPC, Cloudflare edge deployment, and universal code sharing across iOS, Android, and PWA"
+  },
+  "github": {
+    "owner": "enuno",
+    "repo": "claude-command-and-control",
+    "ref": "main",
+    "relativePath": "skills-templates/t4-stack",
+    "sourceUrl": "https://github.com/enuno/claude-command-and-control/tree/main/skills-templates/t4-stack"
+  }
+}

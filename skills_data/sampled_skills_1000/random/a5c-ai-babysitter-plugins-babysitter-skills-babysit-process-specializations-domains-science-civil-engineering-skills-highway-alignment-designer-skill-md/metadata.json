@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 327,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 327,
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-science-civil-engineering-skills-highway-alignment-designer-skill-md",
+    "name": "highway-alignment-designer",
+    "author": "a5c-ai",
+    "stars": 81,
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/science/civil-engineering/skills/highway-alignment-designer",
+    "skillUrl": "https://skillsmp.com/skills/a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-science-civil-engineering-skills-highway-alignment-designer-skill-md",
+    "updatedAt": 1769295537,
+    "description": "Highway alignment design skill for horizontal and vertical geometry per AASHTO standards"
+  },
+  "github": {
+    "owner": "a5c-ai",
+    "repo": "babysitter",
+    "ref": "main",
+    "relativePath": "plugins/babysitter/skills/babysit/process/specializations/domains/science/civil-engineering/skills/highway-alignment-designer",
+    "sourceUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/science/civil-engineering/skills/highway-alignment-designer"
+  }
+}

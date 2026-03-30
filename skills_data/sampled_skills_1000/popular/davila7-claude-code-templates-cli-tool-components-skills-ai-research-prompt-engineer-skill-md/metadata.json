@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 722,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 722,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineer-skill-md",
+    "name": "prompt-engineer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineer-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in designing effective prompts for LLM-powered applications. Masters prompt structure, context management, output formatting, and prompt evaluation. Use when: prompt engineering, system prompt, few-shot, chain of thought, prompt design."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-engineer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineer"
+  }
+}

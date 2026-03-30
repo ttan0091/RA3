@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 382,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 382,
+    "id": "wshobson-agents-plugins-blockchain-web3-skills-solidity-security-skill-md",
+    "name": "solidity-security",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/solidity-security",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-blockchain-web3-skills-solidity-security-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementing security measures for blockchain applications."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/blockchain-web3/skills/solidity-security",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/solidity-security"
+  }
+}

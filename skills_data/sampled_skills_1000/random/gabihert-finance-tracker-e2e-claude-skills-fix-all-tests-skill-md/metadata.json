@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 124,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 124,
+    "id": "gabihert-finance-tracker-e2e-claude-skills-fix-all-tests-skill-md",
+    "name": "fix-all-tests",
+    "author": "GabiHert",
+    "stars": 0,
+    "githubUrl": "https://github.com/GabiHert/finance-tracker-e2e/tree/main/.claude/skills/fix-all-tests",
+    "skillUrl": "https://skillsmp.com/skills/gabihert-finance-tracker-e2e-claude-skills-fix-all-tests-skill-md",
+    "updatedAt": 1767064145,
+    "description": "Systematically fixes all failing tests in a project by running test commands repeatedly until 100% pass with zero warnings. Use when tests are failing, validation is not passing, or when asked to fix test suites. Works with any testing framework (Jest, Pytest, Go test, etc.) and ensures complete test compliance without skipping or modifying tests."
+  },
+  "github": {
+    "owner": "GabiHert",
+    "repo": "finance-tracker-e2e",
+    "ref": "main",
+    "relativePath": ".claude/skills/fix-all-tests",
+    "sourceUrl": "https://github.com/GabiHert/finance-tracker-e2e/tree/main/.claude/skills/fix-all-tests"
+  }
+}

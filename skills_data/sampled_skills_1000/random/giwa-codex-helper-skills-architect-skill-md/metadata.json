@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 106,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 106,
+    "id": "giwa-codex-helper-skills-architect-skill-md",
+    "name": "architect",
+    "author": "giwa",
+    "stars": 0,
+    "githubUrl": "https://github.com/giwa/codex-helper/tree/main/skills/architect",
+    "skillUrl": "https://skillsmp.com/skills/giwa-codex-helper-skills-architect-skill-md",
+    "updatedAt": 1769877873,
+    "description": "GPT Architect専門家に委任して、システム設計・アーキテクチャの相談を行う。\nトリガー: \"アーキテクト\", \"設計相談\", \"tradeoffs\", \"システム設計\", \"how should I structure\"\n使用場面: (1) アーキテクチャ決定、(2) データベース設計、(3) API設計、(4) マルチサービス連携、(5) 2回以上失敗した修正"
+  },
+  "github": {
+    "owner": "giwa",
+    "repo": "codex-helper",
+    "ref": "main",
+    "relativePath": "skills/architect",
+    "sourceUrl": "https://github.com/giwa/codex-helper/tree/main/skills/architect"
+  }
+}

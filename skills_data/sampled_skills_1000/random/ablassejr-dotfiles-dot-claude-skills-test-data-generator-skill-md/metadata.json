@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 195,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 195,
+    "id": "ablassejr-dotfiles-dot-claude-skills-test-data-generator-skill-md",
+    "name": "generating-test-data",
+    "author": "ablassejr",
+    "stars": 0,
+    "githubUrl": "https://github.com/ablassejr/dotfiles/tree/main/dot_claude/skills/test-data-generator",
+    "skillUrl": "https://skillsmp.com/skills/ablassejr-dotfiles-dot-claude-skills-test-data-generator-skill-md",
+    "updatedAt": 1770665915,
+    "description": "This skill enables Claude to generate realistic test data for software development. It uses the test-data-generator plugin to create users, products, orders, and custom schemas for comprehensive testing. Use this skill when you need to populate databases, simulate user behavior, or create fixtures for automated tests. Trigger phrases include \"generate test data\", \"create fake users\", \"populate database\", \"generate product data\", \"create test orders\", or \"generate data based on schema\". This skill is especially useful for populating testing environments or creating sample data for demonstrations."
+  },
+  "github": {
+    "owner": "ablassejr",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "dot_claude/skills/test-data-generator",
+    "sourceUrl": "https://github.com/ablassejr/dotfiles/tree/main/dot_claude/skills/test-data-generator"
+  }
+}

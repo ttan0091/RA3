@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 536,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 536,
+    "id": "chromedevtools-chrome-devtools-mcp-skills-chrome-devtools-skill-md",
+    "name": "chrome-devtools",
+    "author": "ChromeDevTools",
+    "stars": 23709,
+    "githubUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp/tree/main/skills/chrome-devtools",
+    "skillUrl": "https://skillsmp.com/skills/chromedevtools-chrome-devtools-mcp-skills-chrome-devtools-skill-md",
+    "updatedAt": 1769421879,
+    "description": "Uses Chrome DevTools via MCP for efficient debugging, troubleshooting and browser automation. Use when debugging web pages, automating browser interactions, analyzing performance, or inspecting network requests."
+  },
+  "github": {
+    "owner": "ChromeDevTools",
+    "repo": "chrome-devtools-mcp",
+    "ref": "main",
+    "relativePath": "skills/chrome-devtools",
+    "sourceUrl": "https://github.com/ChromeDevTools/chrome-devtools-mcp/tree/main/skills/chrome-devtools"
+  }
+}

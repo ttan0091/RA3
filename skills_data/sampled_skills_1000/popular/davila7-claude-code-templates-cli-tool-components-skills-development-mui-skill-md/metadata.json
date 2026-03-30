@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 891,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 891,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-mui-skill-md",
+    "name": "mui",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/mui",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-mui-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Material-UI v7 component library patterns including sx prop styling, theme integration, responsive design, and MUI-specific hooks. Use when working with MUI components, styling with sx prop, theme customization, or MUI utilities."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/mui",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/mui"
+  }
+}

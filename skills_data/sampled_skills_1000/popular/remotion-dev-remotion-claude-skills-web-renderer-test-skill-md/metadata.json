@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 315,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 315,
+    "id": "remotion-dev-remotion-claude-skills-web-renderer-test-skill-md",
+    "name": "web-renderer-test",
+    "author": "remotion-dev",
+    "stars": 36019,
+    "githubUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/web-renderer-test",
+    "skillUrl": "https://skillsmp.com/skills/remotion-dev-remotion-claude-skills-web-renderer-test-skill-md",
+    "updatedAt": 1766929371,
+    "description": "Add a test case to the web renderer"
+  },
+  "github": {
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "ref": "main",
+    "relativePath": ".claude/skills/web-renderer-test",
+    "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/web-renderer-test"
+  }
+}

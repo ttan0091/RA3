@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 277,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 277,
+    "id": "grahama1970-agent-skills-skills-normalize-skill-md",
+    "name": "normalize",
+    "author": "grahama1970",
+    "stars": 0,
+    "githubUrl": "https://github.com/grahama1970/agent-skills/tree/main/skills/normalize",
+    "skillUrl": "https://skillsmp.com/skills/grahama1970-agent-skills-skills-normalize-skill-md",
+    "updatedAt": 1769624782,
+    "description": "Normalize text to handle PDF/Unicode encoding issues. Converts Windows-1252, curly quotes, em/en dashes, ligatures, directional formatting, zero-width chars, and more to clean ASCII."
+  },
+  "github": {
+    "owner": "grahama1970",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "skills/normalize",
+    "sourceUrl": "https://github.com/grahama1970/agent-skills/tree/main/skills/normalize"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 36,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 36,
+    "id": "devskale-skale-skills-skills-agents-md-writer-skill-md",
+    "name": "agents-md-writer",
+    "author": "devskale",
+    "stars": 0,
+    "githubUrl": "https://github.com/devskale/skale-skills/tree/main/skills/agents-md-writer",
+    "skillUrl": "https://skillsmp.com/skills/devskale-skale-skills-skills-agents-md-writer-skill-md",
+    "updatedAt": 1769719844,
+    "description": "Create and optimize AGENTS.md files for AI coding agents. Use this skill when users ask to create, write, generate, improve, or update an AGENTS.md file for their project, or when they need guidance on making their codebase more agent-friendly. Also use when users ask about agent context files, documentation for AI agents, or improving agent performance in their repository."
+  },
+  "github": {
+    "owner": "devskale",
+    "repo": "skale-skills",
+    "ref": "main",
+    "relativePath": "skills/agents-md-writer",
+    "sourceUrl": "https://github.com/devskale/skale-skills/tree/main/skills/agents-md-writer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 331,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 331,
+    "id": "composiohq-awesome-claude-skills-domain-name-brainstormer-skill-md",
+    "name": "domain-name-brainstormer",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-domain-name-brainstormer-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Generates creative domain name ideas for your project and checks availability across multiple TLDs (.com, .io, .dev, .ai, etc.). Saves hours of brainstorming and manual checking."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "domain-name-brainstormer",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 380,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 380,
+    "id": "wassemgtk-skills-testing-cpg-retail-retail-ops-cx-nps-action-planner-skill-md",
+    "name": "nps-action-planner",
+    "author": "wassemgtk",
+    "stars": 0,
+    "githubUrl": "https://github.com/wassemgtk/skills-testing/tree/main/cpg-retail/retail-ops-cx/nps-action-planner",
+    "skillUrl": "https://skillsmp.com/skills/wassemgtk-skills-testing-cpg-retail-retail-ops-cx-nps-action-planner-skill-md",
+    "updatedAt": 1770504959,
+    "description": "Recommend targeted actions from Net Promoter Score data by segmenting promoters, passives, and detractors, analyzing their feedback drivers, and generating prioritized intervention plans to shift customers up the loyalty spectrum."
+  },
+  "github": {
+    "owner": "wassemgtk",
+    "repo": "skills-testing",
+    "ref": "main",
+    "relativePath": "cpg-retail/retail-ops-cx/nps-action-planner",
+    "sourceUrl": "https://github.com/wassemgtk/skills-testing/tree/main/cpg-retail/retail-ops-cx/nps-action-planner"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 495,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 495,
+    "id": "wshobson-agents-plugins-startup-business-analyst-skills-team-composition-analysis-skill-md",
+    "name": "team-composition-analysis",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/team-composition-analysis",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-startup-business-analyst-skills-team-composition-analysis-skill-md",
+    "updatedAt": 1768860423,
+    "description": "This skill should be used when the user asks to \"plan team structure\", \"determine hiring needs\", \"design org chart\", \"calculate compensation\", \"plan equity allocation\", or requests organizational design and headcount planning for a startup."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/startup-business-analyst/skills/team-composition-analysis",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/team-composition-analysis"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 664,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 664,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-fine-tuning-axolotl-skill-md",
+    "name": "axolotl",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-axolotl",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-fine-tuning-axolotl-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/fine-tuning-axolotl",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-axolotl"
+  }
+}

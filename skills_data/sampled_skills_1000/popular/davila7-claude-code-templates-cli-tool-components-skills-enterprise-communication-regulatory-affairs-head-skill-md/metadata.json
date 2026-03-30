@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 980,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 980,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-regulatory-affairs-head-skill-md",
+    "name": "regulatory-affairs-head",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/regulatory-affairs-head",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-regulatory-affairs-head-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Senior Regulatory Affairs Manager expertise for HealthTech and MedTech companies. Provides strategic regulatory guidance, submission management, regulatory pathway analysis, global compliance coordination, and cross-functional team leadership. Use for regulatory strategy development, submission planning, regulatory risk assessment, and team coordination activities."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/regulatory-affairs-head",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/regulatory-affairs-head"
+  }
+}

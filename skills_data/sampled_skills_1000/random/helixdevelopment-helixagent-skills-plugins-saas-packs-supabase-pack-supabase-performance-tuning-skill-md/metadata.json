@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 908,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 908,
+    "id": "helixdevelopment-helixagent-skills-plugins-saas-packs-supabase-pack-supabase-performance-tuning-skill-md",
+    "name": "supabase-performance-tuning",
+    "author": "HelixDevelopment",
+    "stars": 0,
+    "githubUrl": "https://github.com/HelixDevelopment/HelixAgent/tree/main/skills/plugins/saas-packs/supabase-pack/supabase-performance-tuning",
+    "skillUrl": "https://skillsmp.com/skills/helixdevelopment-helixagent-skills-plugins-saas-packs-supabase-pack-supabase-performance-tuning-skill-md",
+    "updatedAt": 1768511300,
+    "description": "Optimize Supabase API performance with caching, batching, and connection pooling.\nUse when experiencing slow API responses, implementing caching strategies,\nor optimizing request throughput for Supabase integrations.\nTrigger with phrases like \"supabase performance\", \"optimize supabase\",\n\"supabase latency\", \"supabase caching\", \"supabase slow\", \"supabase batch\"."
+  },
+  "github": {
+    "owner": "HelixDevelopment",
+    "repo": "HelixAgent",
+    "ref": "main",
+    "relativePath": "skills/plugins/saas-packs/supabase-pack/supabase-performance-tuning",
+    "sourceUrl": "https://github.com/HelixDevelopment/HelixAgent/tree/main/skills/plugins/saas-packs/supabase-pack/supabase-performance-tuning"
+  }
+}

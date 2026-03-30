@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 502,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 502,
+    "id": "wshobson-agents-plugins-ui-design-skills-mobile-android-design-skill-md",
+    "name": "mobile-android-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/mobile-android-design",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-mobile-android-design-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master Material Design 3 and Jetpack Compose patterns for building native Android apps. Use when designing Android interfaces, implementing Compose UI, or following Google's Material Design guidelines."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/mobile-android-design",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/mobile-android-design"
+  }
+}

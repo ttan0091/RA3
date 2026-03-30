@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 624,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 624,
+    "id": "apache-shardingsphere-codex-skills-analyze-issue-skill-md",
+    "name": "analyze-issue",
+    "author": "apache",
+    "stars": 20673,
+    "githubUrl": "https://github.com/apache/shardingsphere/tree/master/.codex/skills/analyze-issue",
+    "skillUrl": "https://skillsmp.com/skills/apache-shardingsphere-codex-skills-analyze-issue-skill-md",
+    "updatedAt": 1770481389,
+    "description": "Used to analyze Apache ShardingSphere community issues. Emphasizes root-cause-first and evidence-first analysis with issue-type classification before conclusions, and outputs traceable results plus label recommendations in a fixed four- or five-section structure."
+  },
+  "github": {
+    "owner": "apache",
+    "repo": "shardingsphere",
+    "ref": "master",
+    "relativePath": ".codex/skills/analyze-issue",
+    "sourceUrl": "https://github.com/apache/shardingsphere/tree/master/.codex/skills/analyze-issue"
+  }
+}

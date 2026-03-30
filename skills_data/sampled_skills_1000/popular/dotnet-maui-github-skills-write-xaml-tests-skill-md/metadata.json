@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 551,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 551,
+    "id": "dotnet-maui-github-skills-write-xaml-tests-skill-md",
+    "name": "write-xaml-tests",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/write-xaml-tests",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-write-xaml-tests-skill-md",
+    "updatedAt": 1769533988,
+    "description": "Creates XAML unit tests for GitHub issues in the Controls.Xaml.UnitTests project. Tests XAML parsing, compilation (XamlC), and source generation. Use when testing XAML-specific behavior, not UI interactions."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/write-xaml-tests",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/write-xaml-tests"
+  }
+}

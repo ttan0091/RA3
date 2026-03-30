@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 916,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 916,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-salesforce-development-skill-md",
+    "name": "salesforce-development",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/salesforce-development",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-salesforce-development-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd generation packages (2GP). Use when: salesforce, sfdc, apex, lwc, lightning web components."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/salesforce-development",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/salesforce-development"
+  }
+}

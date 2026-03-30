@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 102,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 102,
+    "id": "ibraschwan-ucp-plugin-skills-ucp-schema-skill-md",
+    "name": "ucp-schema-design",
+    "author": "ibraschwan",
+    "stars": 0,
+    "githubUrl": "https://github.com/ibraschwan/ucp-plugin/tree/main/skills/ucp-schema",
+    "skillUrl": "https://skillsmp.com/skills/ibraschwan-ucp-plugin-skills-ucp-schema-skill-md",
+    "updatedAt": 1768523866,
+    "description": "This skill should be used when the user asks to \"create a UCP schema\", \"design a new capability\", \"add a schema type\", \"define request/response schemas\", \"work with UCP annotations\", or mentions JSON Schema for UCP. Provides guidance on UCP schema patterns, annotations, and validation rules."
+  },
+  "github": {
+    "owner": "ibraschwan",
+    "repo": "ucp-plugin",
+    "ref": "main",
+    "relativePath": "skills/ucp-schema",
+    "sourceUrl": "https://github.com/ibraschwan/ucp-plugin/tree/main/skills/ucp-schema"
+  }
+}

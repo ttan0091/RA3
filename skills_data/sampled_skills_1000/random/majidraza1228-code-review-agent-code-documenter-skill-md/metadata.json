@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 994,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 994,
+    "id": "majidraza1228-code-review-agent-code-documenter-skill-md",
+    "name": "code-documenter",
+    "author": "majidraza1228",
+    "stars": 0,
+    "githubUrl": "https://github.com/majidraza1228/code_review_agent/tree/main/code-documenter",
+    "skillUrl": "https://skillsmp.com/skills/majidraza1228-code-review-agent-code-documenter-skill-md",
+    "updatedAt": 1769388444,
+    "description": "Create and maintain comprehensive technical documentation, API docs, and inline code comments; use proactively for documentation generation, updates, onboarding guides, README improvements, changelogs, troubleshooting articles, knowledge base work, and accessibility-focused documentation."
+  },
+  "github": {
+    "owner": "majidraza1228",
+    "repo": "code_review_agent",
+    "ref": "main",
+    "relativePath": "code-documenter",
+    "sourceUrl": "https://github.com/majidraza1228/code_review_agent/tree/main/code-documenter"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 967,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 967,
+    "id": "mpadmaraj-sample-agentic-claude-skills-documentation-skill-md",
+    "name": "documentation",
+    "author": "mpadmaraj",
+    "stars": 2,
+    "githubUrl": "https://github.com/mpadmaraj/sample-agentic/tree/main/.claude/skills/documentation",
+    "skillUrl": "https://skillsmp.com/skills/mpadmaraj-sample-agentic-claude-skills-documentation-skill-md",
+    "updatedAt": 1769525056,
+    "description": "Defines a structured workflow for creating r improving README.md files, ensuring clarity, accuracy, and consistency while deferring content decisions and execution to a documentation-focused agent."
+  },
+  "github": {
+    "owner": "mpadmaraj",
+    "repo": "sample-agentic",
+    "ref": "main",
+    "relativePath": ".claude/skills/documentation",
+    "sourceUrl": "https://github.com/mpadmaraj/sample-agentic/tree/main/.claude/skills/documentation"
+  }
+}

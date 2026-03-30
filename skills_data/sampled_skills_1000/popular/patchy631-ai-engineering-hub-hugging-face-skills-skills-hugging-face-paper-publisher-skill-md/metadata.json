@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 514,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 514,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-paper-publisher-skill-md",
+    "name": "hugging-face-paper-publisher",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-paper-publisher",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-paper-publisher-skill-md",
+    "updatedAt": 1769769658,
+    "description": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-paper-publisher",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-paper-publisher"
+  }
+}

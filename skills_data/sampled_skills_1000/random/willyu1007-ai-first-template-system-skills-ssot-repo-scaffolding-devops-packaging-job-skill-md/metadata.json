@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 933,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 933,
+    "id": "willyu1007-ai-first-template-system-skills-ssot-repo-scaffolding-devops-packaging-job-skill-md",
+    "name": "devops-packaging-job",
+    "author": "willyu1007",
+    "stars": 0,
+    "githubUrl": "https://github.com/willyu1007/AI_First_Template/tree/main/.system/skills/ssot/repo/scaffolding/devops-packaging-job",
+    "skillUrl": "https://skillsmp.com/skills/willyu1007-ai-first-template-system-skills-ssot-repo-scaffolding-devops-packaging-job-skill-md",
+    "updatedAt": 1766571630,
+    "description": "Scaffold job packaging configuration. Keywords: packaging, job, devops, scaffolding."
+  },
+  "github": {
+    "owner": "willyu1007",
+    "repo": "AI_First_Template",
+    "ref": "main",
+    "relativePath": ".system/skills/ssot/repo/scaffolding/devops-packaging-job",
+    "sourceUrl": "https://github.com/willyu1007/AI_First_Template/tree/main/.system/skills/ssot/repo/scaffolding/devops-packaging-job"
+  }
+}

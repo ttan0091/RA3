@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 491,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 491,
+    "id": "epicpast-github-github-skills-presentation-generation-skill-md",
+    "name": "presentation-generation",
+    "author": "epicpast",
+    "stars": 0,
+    "githubUrl": "https://github.com/epicpast/.github/tree/main/.github/skills/presentation-generation",
+    "skillUrl": "https://skillsmp.com/skills/epicpast-github-github-skills-presentation-generation-skill-md",
+    "updatedAt": 1768784350,
+    "description": "Generate slide deck presentations from prompts. Triggers on \"create presentation\", \"generate slides\", \"build deck\", \"presentation about\""
+  },
+  "github": {
+    "owner": "epicpast",
+    "repo": ".github",
+    "ref": "main",
+    "relativePath": ".github/skills/presentation-generation",
+    "sourceUrl": "https://github.com/epicpast/.github/tree/main/.github/skills/presentation-generation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 655,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 655,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-emerging-techniques-knowledge-distillation-skill-md",
+    "name": "knowledge-distillation",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-knowledge-distillation",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-emerging-techniques-knowledge-distillation-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Compress large language models using knowledge distillation from teacher to student models. Use when deploying smaller models with retained performance, transferring GPT-4 capabilities to open-source models, or reducing inference costs. Covers temperature scaling, soft targets, reverse KLD, logit distillation, and MiniLLM training strategies."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/emerging-techniques-knowledge-distillation",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/emerging-techniques-knowledge-distillation"
+  }
+}

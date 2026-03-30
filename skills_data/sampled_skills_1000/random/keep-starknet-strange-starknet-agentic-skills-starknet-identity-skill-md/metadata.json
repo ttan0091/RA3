@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 409,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 409,
+    "id": "keep-starknet-strange-starknet-agentic-skills-starknet-identity-skill-md",
+    "name": "starknet-identity",
+    "author": "keep-starknet-strange",
+    "stars": 57,
+    "githubUrl": "https://github.com/keep-starknet-strange/starknet-agentic/tree/main/skills/starknet-identity",
+    "skillUrl": "https://skillsmp.com/skills/keep-starknet-strange-starknet-agentic-skills-starknet-identity-skill-md",
+    "updatedAt": 1770611183,
+    "description": "Register AI agents on-chain using the ERC-8004 Trustless Agents standard. Manage agent identity as NFTs, build reputation through feedback, and request third-party validation."
+  },
+  "github": {
+    "owner": "keep-starknet-strange",
+    "repo": "starknet-agentic",
+    "ref": "main",
+    "relativePath": "skills/starknet-identity",
+    "sourceUrl": "https://github.com/keep-starknet-strange/starknet-agentic/tree/main/skills/starknet-identity"
+  }
+}

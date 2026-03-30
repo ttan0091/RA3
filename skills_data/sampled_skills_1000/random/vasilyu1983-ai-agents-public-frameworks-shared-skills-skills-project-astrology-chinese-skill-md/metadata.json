@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 359,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 359,
+    "id": "vasilyu1983-ai-agents-public-frameworks-shared-skills-skills-project-astrology-chinese-skill-md",
+    "name": "project-astrology-chinese",
+    "author": "vasilyu1983",
+    "stars": 30,
+    "githubUrl": "https://github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/project-astrology-chinese",
+    "skillUrl": "https://skillsmp.com/skills/vasilyu1983-ai-agents-public-frameworks-shared-skills-skills-project-astrology-chinese-skill-md",
+    "updatedAt": 1769445823,
+    "description": "Use when users ask about Chinese astrology, zodiac compatibility, BaZi (Four Pillars) birth charts, Five Elements, Zi Wei Dou Shu, Flying Stars Feng Shui, or Qi Men Dun Jia timing. Calculates signs from birth data, interprets charts, and provides forecasts. (project)"
+  },
+  "github": {
+    "owner": "vasilyu1983",
+    "repo": "AI-Agents-public",
+    "ref": "main",
+    "relativePath": "frameworks/shared-skills/skills/project-astrology-chinese",
+    "sourceUrl": "https://github.com/vasilyu1983/AI-Agents-public/tree/main/frameworks/shared-skills/skills/project-astrology-chinese"
+  }
+}

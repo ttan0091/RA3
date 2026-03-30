@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 963,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 963,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-difficult-workplace-conversations-skill-md",
+    "name": "difficult-workplace-conversations",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/difficult-workplace-conversations",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-difficult-workplace-conversations-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Structured approach to workplace conflicts, performance discussions, and challenging feedback using preparation-delivery-followup framework. Use when preparing for tough conversations, addressing conflicts, giving critical feedback, or navigating sensitive workplace discussions."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/difficult-workplace-conversations",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/difficult-workplace-conversations"
+  }
+}

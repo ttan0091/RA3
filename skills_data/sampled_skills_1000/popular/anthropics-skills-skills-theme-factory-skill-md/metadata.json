@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 151,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 151,
+    "id": "anthropics-skills-skills-theme-factory-skill-md",
+    "name": "theme-factory",
+    "author": "anthropics",
+    "stars": 67303,
+    "githubUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-skills-skills-theme-factory-skill-md",
+    "updatedAt": 1764612336,
+    "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/theme-factory",
+    "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/theme-factory"
+  }
+}

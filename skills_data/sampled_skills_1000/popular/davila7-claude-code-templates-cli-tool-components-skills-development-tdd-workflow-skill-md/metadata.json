@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 939,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 939,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-tdd-workflow-skill-md",
+    "name": "tdd-workflow",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/tdd-workflow",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-tdd-workflow-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/tdd-workflow",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/tdd-workflow"
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "skill_name": "api-docs-gen",
+    "is_safe": false,
+    "findings_count": 4,
+    "max_severity": "HIGH",
+    "inferred_capabilities": [
+      {
+        "resource": "network",
+        "access": "READ"
+      },
+      {
+        "resource": "shell",
+        "access": "WRITE"
+      },
+      {
+        "resource": "environment",
+        "access": "READ"
+      }
+    ],
+    "findings": [
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://api.example.com/v1/users?page=1&limit=20&sort=created_at&order=desc",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://api.example.com/v1/users?page=1&limit=20&sort=created_at&order=desc"
+      },
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://api.example.com/v1/users?page=2&limit=20&sort=created_at&order=desc",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://api.example.com/v1/users?page=2&limit=20&sort=created_at&order=desc"
+      },
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://api.example.com/v1/users",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://api.example.com/v1/users"
+      },
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://your-app.com/webhooks/user-created?source=api&event=user.created&timestamp=1711929600",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://your-app.com/webhooks/user-created?source=api&event=user.created&timestamp=1711929600"
+      }
+    ]
+  }
+]

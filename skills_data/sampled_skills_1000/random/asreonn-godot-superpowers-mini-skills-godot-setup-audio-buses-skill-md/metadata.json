@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 48,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 48,
+    "id": "asreonn-godot-superpowers-mini-skills-godot-setup-audio-buses-skill-md",
+    "name": "godot-setup-audio-buses",
+    "author": "Asreonn",
+    "stars": 2,
+    "githubUrl": "https://github.com/Asreonn/godot-superpowers/tree/main/mini-skills/godot-setup-audio-buses",
+    "skillUrl": "https://skillsmp.com/skills/asreonn-godot-superpowers-mini-skills-godot-setup-audio-buses-skill-md",
+    "updatedAt": 1770061292,
+    "description": "Use when configuring audio bus hierarchies in Godot, setting up AudioStreamPlayer pooling for performance, implementing 3D spatial audio, adding audio effect chains like reverb and EQ, or creating music crossfade systems. Provides complete audio architecture patterns for games with multiple audio categories and dynamic mixing."
+  },
+  "github": {
+    "owner": "Asreonn",
+    "repo": "godot-superpowers",
+    "ref": "main",
+    "relativePath": "mini-skills/godot-setup-audio-buses",
+    "sourceUrl": "https://github.com/Asreonn/godot-superpowers/tree/main/mini-skills/godot-setup-audio-buses"
+  }
+}

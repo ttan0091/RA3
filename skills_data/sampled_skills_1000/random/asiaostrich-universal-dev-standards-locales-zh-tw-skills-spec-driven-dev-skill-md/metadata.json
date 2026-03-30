@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 578,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 578,
+    "id": "asiaostrich-universal-dev-standards-locales-zh-tw-skills-spec-driven-dev-skill-md",
+    "name": "spec",
+    "author": "AsiaOstrich",
+    "stars": 24,
+    "githubUrl": "https://github.com/AsiaOstrich/universal-dev-standards/tree/main/locales/zh-TW/skills/spec-driven-dev",
+    "skillUrl": "https://skillsmp.com/skills/asiaostrich-universal-dev-standards-locales-zh-tw-skills-spec-driven-dev-skill-md",
+    "updatedAt": 1769669287,
+    "description": "引導規格驅動開發 (SDD) 工作流程，在實作前規劃變更。\n使用時機：建立規格、提案、規劃功能、使用 OpenSpec 或類似工具。\n關鍵字：spec, specification, SDD, proposal, openspec, design doc, 規格, 提案, 設計文件。"
+  },
+  "github": {
+    "owner": "AsiaOstrich",
+    "repo": "universal-dev-standards",
+    "ref": "main",
+    "relativePath": "locales/zh-TW/skills/spec-driven-dev",
+    "sourceUrl": "https://github.com/AsiaOstrich/universal-dev-standards/tree/main/locales/zh-TW/skills/spec-driven-dev"
+  }
+}

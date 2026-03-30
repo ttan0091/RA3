@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 735,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 735,
+    "id": "keberle-fiction-kit-rebound-specialist-github-skills-draft-initialization-skill-md",
+    "name": "draft-initialization",
+    "author": "keberle",
+    "stars": 3,
+    "githubUrl": "https://github.com/keberle/fiction-kit-rebound-specialist/tree/main/.github/skills/draft-initialization",
+    "skillUrl": "https://skillsmp.com/skills/keberle-fiction-kit-rebound-specialist-github-skills-draft-initialization-skill-md",
+    "updatedAt": 1767316277,
+    "description": "Initialize fiction draft cycles following the Spec-Kit workflow (idea → clarify → plan → tasks). Use when creating new drafts, planning rewrites, breaking down episodes, or structuring story changes. Triggers include requests like \"create draft\", \"new draft folder\", \"plan episode\", \"rewrite breakdown\", \"draft tasks\", \"initialize draft\", \"start new draft\"."
+  },
+  "github": {
+    "owner": "keberle",
+    "repo": "fiction-kit-rebound-specialist",
+    "ref": "main",
+    "relativePath": ".github/skills/draft-initialization",
+    "sourceUrl": "https://github.com/keberle/fiction-kit-rebound-specialist/tree/main/.github/skills/draft-initialization"
+  }
+}

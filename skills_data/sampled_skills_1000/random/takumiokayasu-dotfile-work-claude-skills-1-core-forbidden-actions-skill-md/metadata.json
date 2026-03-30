@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 19,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 19,
+    "id": "takumiokayasu-dotfile-work-claude-skills-1-core-forbidden-actions-skill-md",
+    "name": "forbidden-actions",
+    "author": "TakumiOkayasu",
+    "stars": 0,
+    "githubUrl": "https://github.com/TakumiOkayasu/dotfile-work/tree/main/claude/skills/1-core/forbidden-actions",
+    "skillUrl": "https://skillsmp.com/skills/takumiokayasu-dotfile-work-claude-skills-1-core-forbidden-actions-skill-md",
+    "updatedAt": 1768657014,
+    "description": "絶対禁止事項の詳細と理由を明確化。hooksと連携して物理的に禁止操作を防ぐ。"
+  },
+  "github": {
+    "owner": "TakumiOkayasu",
+    "repo": "dotfile-work",
+    "ref": "main",
+    "relativePath": "claude/skills/1-core/forbidden-actions",
+    "sourceUrl": "https://github.com/TakumiOkayasu/dotfile-work/tree/main/claude/skills/1-core/forbidden-actions"
+  }
+}

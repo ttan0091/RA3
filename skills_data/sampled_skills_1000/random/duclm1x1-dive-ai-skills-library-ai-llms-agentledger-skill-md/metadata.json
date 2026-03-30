@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 961,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 961,
+    "id": "duclm1x1-dive-ai-skills-library-ai-llms-agentledger-skill-md",
+    "name": "agentledger",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/ai_llms/agentledger",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-ai-llms-agentledger-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Expense tracking and accounting for AI agents. Log purchases, set budgets, generate spending reports, and manage multi-currency finances — all stored locally. Privacy.com card import, natural language queries, CSV/JSON export. Use when agents make purchases and need a financial audit trail."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/ai_llms/agentledger",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/ai_llms/agentledger"
+  }
+}

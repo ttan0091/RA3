@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 10,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 10,
+    "id": "openclaw-skills-skills-patelhiren-mastodon-scout-skill-md",
+    "name": "mastodon-scout",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/patelhiren/mastodon-scout",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-patelhiren-mastodon-scout-skill-md",
+    "updatedAt": 1770026584,
+    "description": "Read-only Mastodon CLI. Outputs human-readable timeline summaries or raw JSON."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/patelhiren/mastodon-scout",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/patelhiren/mastodon-scout"
+  }
+}

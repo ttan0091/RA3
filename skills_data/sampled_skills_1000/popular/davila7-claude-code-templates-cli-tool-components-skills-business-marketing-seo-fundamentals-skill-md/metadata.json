@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 782,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 782,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-seo-fundamentals-skill-md",
+    "name": "seo-fundamentals",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/seo-fundamentals",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-seo-fundamentals-skill-md",
+    "updatedAt": 1769353274,
+    "description": "SEO fundamentals, E-E-A-T, Core Web Vitals, and Google algorithm principles."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/seo-fundamentals",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/seo-fundamentals"
+  }
+}

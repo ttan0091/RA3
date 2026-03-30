@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 884,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 884,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-javascript-mastery-skill-md",
+    "name": "javascript-mastery",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/javascript-mastery",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-javascript-mastery-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Comprehensive JavaScript reference covering 33+ essential concepts every developer should know. From fundamentals like primitives and closures to advanced patterns like async/await and functional programming. Use when explaining JS concepts, debugging JavaScript issues, or teaching JavaScript fundamentals."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/javascript-mastery",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/javascript-mastery"
+  }
+}

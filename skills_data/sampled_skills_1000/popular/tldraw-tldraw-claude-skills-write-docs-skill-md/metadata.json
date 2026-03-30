@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 204,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 204,
+    "id": "tldraw-tldraw-claude-skills-write-docs-skill-md",
+    "name": "write-docs",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-docs",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-docs-skill-md",
+    "updatedAt": 1769884930,
+    "description": "Writing SDK documentation for tldraw. Use when creating new documentation articles, updating existing docs, or when documentation writing guidance is needed. Applies to docs in apps/docs/content/."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-docs",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-docs"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 496,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 496,
+    "id": "wshobson-agents-plugins-systems-programming-skills-go-concurrency-patterns-skill-md",
+    "name": "go-concurrency-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/go-concurrency-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-systems-programming-skills-go-concurrency-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master Go concurrency with goroutines, channels, sync primitives, and context. Use when building concurrent Go applications, implementing worker pools, or debugging race conditions."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/systems-programming/skills/go-concurrency-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/systems-programming/skills/go-concurrency-patterns"
+  }
+}

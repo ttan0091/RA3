@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 12,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 12,
+    "id": "openclaw-skills-skills-ctsolutionsdev-egvert-health-guardian-skill-md",
+    "name": "health-guardian",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-ctsolutionsdev-egvert-health-guardian-skill-md",
+    "updatedAt": 1770334732,
+    "description": "Proactive health monitoring for AI agents. Apple Health integration, pattern detection, anomaly alerts. Built for agents caring for humans with chronic conditions."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/ctsolutionsdev/egvert-health-guardian",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/ctsolutionsdev/egvert-health-guardian"
+  }
+}

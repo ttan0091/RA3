@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 559,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 559,
+    "id": "aheld-aaronheld-blog-claude-skills-publish-blog-skill-md",
+    "name": "publish-blog",
+    "author": "aheld",
+    "stars": 1,
+    "githubUrl": "https://github.com/aheld/aaronheld-blog/tree/main/.claude/skills/publish-blog",
+    "skillUrl": "https://skillsmp.com/skills/aheld-aaronheld-blog-claude-skills-publish-blog-skill-md",
+    "updatedAt": 1767366318,
+    "description": "Commits and publishes the current blog post, monitors the GitHub Actions deployment, and verifies it's live at https://www.aaronheld.com/"
+  },
+  "github": {
+    "owner": "aheld",
+    "repo": "aaronheld-blog",
+    "ref": "main",
+    "relativePath": ".claude/skills/publish-blog",
+    "sourceUrl": "https://github.com/aheld/aaronheld-blog/tree/main/.claude/skills/publish-blog"
+  }
+}

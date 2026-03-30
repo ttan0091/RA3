@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 560,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 560,
+    "id": "estsauver-demo-creator-skills-heygen-skill-md",
+    "name": "heygen",
+    "author": "estsauver",
+    "stars": 1,
+    "githubUrl": "https://github.com/estsauver/demo-creator/tree/main/skills/heygen",
+    "skillUrl": "https://skillsmp.com/skills/estsauver-demo-creator-skills-heygen-skill-md",
+    "updatedAt": 1769019351,
+    "description": "Guide for adding AI presenter avatars to demos using HeyGen. Use when you want to make demos look like they were recorded by a human presenter (Loom-style)."
+  },
+  "github": {
+    "owner": "estsauver",
+    "repo": "demo-creator",
+    "ref": "main",
+    "relativePath": "skills/heygen",
+    "sourceUrl": "https://github.com/estsauver/demo-creator/tree/main/skills/heygen"
+  }
+}

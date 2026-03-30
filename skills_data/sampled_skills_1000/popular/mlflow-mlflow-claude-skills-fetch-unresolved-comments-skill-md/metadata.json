@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 535,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 535,
+    "id": "mlflow-mlflow-claude-skills-fetch-unresolved-comments-skill-md",
+    "name": "fetch-unresolved-comments",
+    "author": "mlflow",
+    "stars": 24079,
+    "githubUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/fetch-unresolved-comments",
+    "skillUrl": "https://skillsmp.com/skills/mlflow-mlflow-claude-skills-fetch-unresolved-comments-skill-md",
+    "updatedAt": 1768570675,
+    "description": "Fetch unresolved PR review comments using GitHub GraphQL API, filtering out resolved and outdated feedback."
+  },
+  "github": {
+    "owner": "mlflow",
+    "repo": "mlflow",
+    "ref": "master",
+    "relativePath": ".claude/skills/fetch-unresolved-comments",
+    "sourceUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/fetch-unresolved-comments"
+  }
+}

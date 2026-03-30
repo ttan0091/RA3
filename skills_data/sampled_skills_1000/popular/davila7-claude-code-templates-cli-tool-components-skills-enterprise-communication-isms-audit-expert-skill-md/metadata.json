@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 973,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 973,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-isms-audit-expert-skill-md",
+    "name": "isms-audit-expert",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/isms-audit-expert",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-isms-audit-expert-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Senior ISMS Audit Expert for internal and external information security management system auditing. Provides ISO 27001 audit expertise, security audit program management, security control assessment, and compliance verification. Use for ISMS internal auditing, external audit preparation, security control testing, and ISO 27001 certification support."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/isms-audit-expert",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/isms-audit-expert"
+  }
+}

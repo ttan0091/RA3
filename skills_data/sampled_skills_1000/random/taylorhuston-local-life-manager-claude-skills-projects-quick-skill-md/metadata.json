@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 836,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 836,
+    "id": "taylorhuston-local-life-manager-claude-skills-projects-quick-skill-md",
+    "name": "projects-quick",
+    "author": "TaylorHuston",
+    "stars": 30,
+    "githubUrl": "https://github.com/TaylorHuston/local-life-manager/tree/main/.claude/skills/projects-quick",
+    "skillUrl": "https://skillsmp.com/skills/taylorhuston-local-life-manager-claude-skills-projects-quick-skill-md",
+    "updatedAt": 1768850034,
+    "description": "Quick overview of all projects (lightweight, Haiku-powered). Use to check project statuses, see what's active, or get a summary of all work. Triggers on \"project status\", \"show projects\", \"what projects\", \"project overview\"."
+  },
+  "github": {
+    "owner": "TaylorHuston",
+    "repo": "local-life-manager",
+    "ref": "main",
+    "relativePath": ".claude/skills/projects-quick",
+    "sourceUrl": "https://github.com/TaylorHuston/local-life-manager/tree/main/.claude/skills/projects-quick"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 567,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 567,
+    "id": "vercel-ai-skills-list-npm-package-content-skill-md",
+    "name": "list-npm-package-content",
+    "author": "vercel",
+    "stars": 21656,
+    "githubUrl": "https://github.com/vercel/ai/tree/main/skills/list-npm-package-content",
+    "skillUrl": "https://skillsmp.com/skills/vercel-ai-skills-list-npm-package-content-skill-md",
+    "updatedAt": 1769474497,
+    "description": "List the contents of an npm package tarball before publishing. Use when the user wants to see what files are included in an npm bundle, verify package contents, or debug npm publish issues."
+  },
+  "github": {
+    "owner": "vercel",
+    "repo": "ai",
+    "ref": "main",
+    "relativePath": "skills/list-npm-package-content",
+    "sourceUrl": "https://github.com/vercel/ai/tree/main/skills/list-npm-package-content"
+  }
+}

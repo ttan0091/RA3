@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 303,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 303,
+    "id": "bonny-wordpress-simple-history-claude-skills-changelog-skill-md",
+    "name": "changelog",
+    "author": "bonny",
+    "stars": 314,
+    "githubUrl": "https://github.com/bonny/WordPress-Simple-History/tree/main/.claude/skills/changelog",
+    "skillUrl": "https://skillsmp.com/skills/bonny-wordpress-simple-history-claude-skills-changelog-skill-md",
+    "updatedAt": 1765023094,
+    "description": "Add an entry to the changelog in readme.txt following the project's changelog format. Use when updating readme.txt, adding to Unreleased section, documenting changes for a release, or when the user says \"add changelog\" or \"update changelog\"."
+  },
+  "github": {
+    "owner": "bonny",
+    "repo": "WordPress-Simple-History",
+    "ref": "main",
+    "relativePath": ".claude/skills/changelog",
+    "sourceUrl": "https://github.com/bonny/WordPress-Simple-History/tree/main/.claude/skills/changelog"
+  }
+}

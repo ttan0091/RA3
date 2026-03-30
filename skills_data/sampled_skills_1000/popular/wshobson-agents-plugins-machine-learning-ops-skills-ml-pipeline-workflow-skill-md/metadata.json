@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 452,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 452,
+    "id": "wshobson-agents-plugins-machine-learning-ops-skills-ml-pipeline-workflow-skill-md",
+    "name": "ml-pipeline-workflow",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/machine-learning-ops/skills/ml-pipeline-workflow",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-machine-learning-ops-skills-ml-pipeline-workflow-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build end-to-end MLOps pipelines from data preparation through model training, validation, and production deployment. Use when creating ML pipelines, implementing MLOps practices, or automating model training and deployment workflows."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/machine-learning-ops/skills/ml-pipeline-workflow",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/machine-learning-ops/skills/ml-pipeline-workflow"
+  }
+}

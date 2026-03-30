@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 169,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 169,
+    "id": "kangning-huang-ralph-loop-setup-ralph-loop-setup-skill-md",
+    "name": "ralph-loop-setup",
+    "author": "kangning-huang",
+    "stars": 1,
+    "githubUrl": "https://github.com/kangning-huang/ralph-loop-setup/tree/main/ralph-loop-setup",
+    "skillUrl": "https://skillsmp.com/skills/kangning-huang-ralph-loop-setup-ralph-loop-setup-skill-md",
+    "updatedAt": 1769157162,
+    "description": "Set up or update automated task implementation system with Ralph Wiggum Loop. Use when the user wants to create or update todolist.json, progress.txt, and ralph_wiggum_loop.sh files for automated AI-driven task-based development."
+  },
+  "github": {
+    "owner": "kangning-huang",
+    "repo": "ralph-loop-setup",
+    "ref": "main",
+    "relativePath": "ralph-loop-setup",
+    "sourceUrl": "https://github.com/kangning-huang/ralph-loop-setup/tree/main/ralph-loop-setup"
+  }
+}

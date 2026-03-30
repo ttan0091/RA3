@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 542,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 542,
+    "id": "llama-farm-llamafarm-claude-skills-fix-ci-skill-md",
+    "name": "fix-ci",
+    "author": "llama-farm",
+    "stars": 826,
+    "githubUrl": "https://github.com/llama-farm/llamafarm/tree/main/.claude/skills/fix-ci",
+    "skillUrl": "https://skillsmp.com/skills/llama-farm-llamafarm-claude-skills-fix-ci-skill-md",
+    "updatedAt": 1769544779,
+    "description": "Fetch GitHub CI failure information, analyze root causes, reproduce locally, and propose a fix plan. Use `/fix-ci` for current branch or `/fix-ci <run-id>` for a specific run."
+  },
+  "github": {
+    "owner": "llama-farm",
+    "repo": "llamafarm",
+    "ref": "main",
+    "relativePath": ".claude/skills/fix-ci",
+    "sourceUrl": "https://github.com/llama-farm/llamafarm/tree/main/.claude/skills/fix-ci"
+  }
+}

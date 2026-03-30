@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 901,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 901,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-performance-skill-md",
+    "name": "performance",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/performance",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-performance-skill-md",
+    "updatedAt": 1769895150,
+    "description": "Optimize web performance for faster loading and better user experience. Use when asked to \"speed up my site\", \"optimize performance\", \"reduce load time\", \"fix slow loading\", \"improve page speed\", or \"performance audit\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/performance",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/performance"
+  }
+}

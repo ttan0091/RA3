@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 926,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 926,
+    "id": "zhuwenqian-esp32-s3-camera-monitor-trae-skills-error-message-explainer-skill-md",
+    "name": "error-message-explainer",
+    "author": "Zhuwenqian",
+    "stars": 1,
+    "githubUrl": "https://github.com/Zhuwenqian/ESP32_S3_Camera_Monitor/tree/master/.trae/skills/error-message-explainer",
+    "skillUrl": "https://skillsmp.com/skills/zhuwenqian-esp32-s3-camera-monitor-trae-skills-error-message-explainer-skill-md",
+    "updatedAt": 1769770027,
+    "description": "Interprets Arduino/ESP32/RP2040 compiler errors in plain English for beginners. Use when user shares error messages, compilation failures, upload problems, or asks \"what does this error mean\". Covers common errors like undefined references, type mismatches, missing libraries, and board-specific issues."
+  },
+  "github": {
+    "owner": "Zhuwenqian",
+    "repo": "ESP32_S3_Camera_Monitor",
+    "ref": "master",
+    "relativePath": ".trae/skills/error-message-explainer",
+    "sourceUrl": "https://github.com/Zhuwenqian/ESP32_S3_Camera_Monitor/tree/master/.trae/skills/error-message-explainer"
+  }
+}

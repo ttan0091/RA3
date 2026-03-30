@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 631,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 631,
+    "id": "onevcat-oma-sample-skills-skills-pocket-quest-skill-md",
+    "name": "pocket-quest",
+    "author": "onevcat",
+    "stars": 1,
+    "githubUrl": "https://github.com/onevcat/oma-sample-skills/tree/master/skills/pocket-quest",
+    "skillUrl": "https://skillsmp.com/skills/onevcat-oma-sample-skills-skills-pocket-quest-skill-md",
+    "updatedAt": 1769257199,
+    "description": "Create a tiny, playful quest card from everyday constraints (time, place, mood). Useful as a sample game-like skill."
+  },
+  "github": {
+    "owner": "onevcat",
+    "repo": "oma-sample-skills",
+    "ref": "master",
+    "relativePath": "skills/pocket-quest",
+    "sourceUrl": "https://github.com/onevcat/oma-sample-skills/tree/master/skills/pocket-quest"
+  }
+}

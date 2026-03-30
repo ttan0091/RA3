@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 626,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 626,
+    "id": "azeem-2-hackthonii-claude-skills-api-dev-skill-md",
+    "name": "api-dev",
+    "author": "Azeem-2",
+    "stars": 0,
+    "githubUrl": "https://github.com/Azeem-2/HackthonII/tree/master/.claude/skills/api-dev",
+    "skillUrl": "https://skillsmp.com/skills/azeem-2-hackthonii-claude-skills-api-dev-skill-md",
+    "updatedAt": 1765603490,
+    "description": "Modern API development patterns for building high-performance, scalable web services. Expert in async/await patterns, REST/GraphQL APIs, middleware, error handling, rate limiting, OpenAPI documentation, testing, and production optimizations. Framework-agnostic patterns that work with Python, Node.js, Go, and other languages."
+  },
+  "github": {
+    "owner": "Azeem-2",
+    "repo": "HackthonII",
+    "ref": "master",
+    "relativePath": ".claude/skills/api-dev",
+    "sourceUrl": "https://github.com/Azeem-2/HackthonII/tree/master/.claude/skills/api-dev"
+  }
+}

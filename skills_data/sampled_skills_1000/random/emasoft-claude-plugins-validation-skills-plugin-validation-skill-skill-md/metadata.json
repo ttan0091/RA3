@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 306,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 306,
+    "id": "emasoft-claude-plugins-validation-skills-plugin-validation-skill-skill-md",
+    "name": "plugin-validation-skill",
+    "author": "Emasoft",
+    "stars": 1,
+    "githubUrl": "https://github.com/Emasoft/claude-plugins-validation/tree/master/skills/plugin-validation-skill",
+    "skillUrl": "https://skillsmp.com/skills/emasoft-claude-plugins-validation-skills-plugin-validation-skill-skill-md",
+    "updatedAt": 1769870140,
+    "description": "Validate Claude Code plugins, hooks, skills, MCP. Use when checking plugin quality. Trigger with /cpv-validate-plugin."
+  },
+  "github": {
+    "owner": "Emasoft",
+    "repo": "claude-plugins-validation",
+    "ref": "master",
+    "relativePath": "skills/plugin-validation-skill",
+    "sourceUrl": "https://github.com/Emasoft/claude-plugins-validation/tree/master/skills/plugin-validation-skill"
+  }
+}

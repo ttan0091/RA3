@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 157,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 157,
+    "id": "bbgnsurftech-claude-skills-collection-plugins-claude-code-plugins-plus-backups-skills-batch-20251204-000554-plugins-devops-jeremy-genkit-terraform-skills-genkit-infra-expert-skill-md",
+    "name": "genkit-infra-expert",
+    "author": "BbgnsurfTech",
+    "stars": 6,
+    "githubUrl": "https://github.com/BbgnsurfTech/claude-skills-collection/tree/main/plugins/claude-code-plugins-plus/backups/skills-batch-20251204-000554/plugins/devops/jeremy-genkit-terraform/skills/genkit-infra-expert",
+    "skillUrl": "https://skillsmp.com/skills/bbgnsurftech-claude-skills-collection-plugins-claude-code-plugins-plus-backups-skills-batch-20251204-000554-plugins-devops-jeremy-genkit-terraform-skills-genkit-infra-expert-skill-md",
+    "updatedAt": 1766060398,
+    "description": "Terraform infrastructure specialist for deploying Genkit applications to production.\nProvisions Firebase Functions, Cloud Run services, GKE clusters, monitoring, and CI/CD for Genkit AI workflows.\nTriggers: \"deploy genkit terraform\", \"genkit infrastructure\", \"firebase functions terraform\", \"cloud run genkit\""
+  },
+  "github": {
+    "owner": "BbgnsurfTech",
+    "repo": "claude-skills-collection",
+    "ref": "main",
+    "relativePath": "plugins/claude-code-plugins-plus/backups/skills-batch-20251204-000554/plugins/devops/jeremy-genkit-terraform/skills/genkit-infra-expert",
+    "sourceUrl": "https://github.com/BbgnsurfTech/claude-skills-collection/tree/main/plugins/claude-code-plugins-plus/backups/skills-batch-20251204-000554/plugins/devops/jeremy-genkit-terraform/skills/genkit-infra-expert"
+  }
+}

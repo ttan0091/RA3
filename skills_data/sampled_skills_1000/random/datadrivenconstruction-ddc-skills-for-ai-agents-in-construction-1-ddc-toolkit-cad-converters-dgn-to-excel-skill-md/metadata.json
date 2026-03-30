@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 267,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 267,
+    "id": "datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-1-ddc-toolkit-cad-converters-dgn-to-excel-skill-md",
+    "name": "dgn-to-excel",
+    "author": "datadrivenconstruction",
+    "stars": 18,
+    "githubUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/1_DDC_Toolkit/CAD-Converters/dgn-to-excel",
+    "skillUrl": "https://skillsmp.com/skills/datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-1-ddc-toolkit-cad-converters-dgn-to-excel-skill-md",
+    "updatedAt": 1769681759,
+    "description": "Convert DGN files (v7-v8) to Excel databases. Extract elements, levels, and properties from infrastructure CAD files."
+  },
+  "github": {
+    "owner": "datadrivenconstruction",
+    "repo": "DDC_Skills_for_AI_Agents_in_Construction",
+    "ref": "main",
+    "relativePath": "1_DDC_Toolkit/CAD-Converters/dgn-to-excel",
+    "sourceUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/1_DDC_Toolkit/CAD-Converters/dgn-to-excel"
+  }
+}

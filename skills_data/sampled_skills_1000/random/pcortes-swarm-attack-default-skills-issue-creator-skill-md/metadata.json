@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 135,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 135,
+    "id": "pcortes-swarm-attack-default-skills-issue-creator-skill-md",
+    "name": "issue-creator",
+    "author": "pcortes",
+    "stars": 0,
+    "githubUrl": "https://github.com/pcortes/swarm-attack/tree/master/default-skills/issue-creator",
+    "skillUrl": "https://skillsmp.com/skills/pcortes-swarm-attack-default-skills-issue-creator-skill-md",
+    "updatedAt": 1767743274,
+    "description": "Generate GitHub issues from an approved engineering specification. Use to break down a spec into implementable, atomic tasks with dependencies, sizing, and labels."
+  },
+  "github": {
+    "owner": "pcortes",
+    "repo": "swarm-attack",
+    "ref": "master",
+    "relativePath": "default-skills/issue-creator",
+    "sourceUrl": "https://github.com/pcortes/swarm-attack/tree/master/default-skills/issue-creator"
+  }
+}

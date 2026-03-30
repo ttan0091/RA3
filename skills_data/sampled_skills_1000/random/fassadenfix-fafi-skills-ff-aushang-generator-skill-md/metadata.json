@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 889,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 889,
+    "id": "fassadenfix-fafi-skills-ff-aushang-generator-skill-md",
+    "name": "ff-aushang-generator",
+    "author": "FassadenFix",
+    "stars": 0,
+    "githubUrl": "https://github.com/FassadenFix/FaFi/tree/main/skills/ff_aushang_generator",
+    "skillUrl": "https://skillsmp.com/skills/fassadenfix-fafi-skills-ff-aushang-generator-skill-md",
+    "updatedAt": 1770181333,
+    "description": "Generiert standortspezifische Mieterinformationen und Aushänge. Verwenden für: Eingabe von Projektdaten (Ort, Datum, Ansprechpartner), Auswahl von Textbausteinen, PDF-Generierung."
+  },
+  "github": {
+    "owner": "FassadenFix",
+    "repo": "FaFi",
+    "ref": "main",
+    "relativePath": "skills/ff_aushang_generator",
+    "sourceUrl": "https://github.com/FassadenFix/FaFi/tree/main/skills/ff_aushang_generator"
+  }
+}

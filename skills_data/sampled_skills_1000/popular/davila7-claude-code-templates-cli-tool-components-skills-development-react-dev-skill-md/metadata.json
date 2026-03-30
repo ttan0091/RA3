@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 911,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 911,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-react-dev-skill-md",
+    "name": "react-dev",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-dev",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-react-dev-skill-md",
+    "updatedAt": 1769302602,
+    "description": "This skill should be used when building React components with TypeScript, typing hooks, handling events, or when React TypeScript, React 19, Server Components are mentioned. Covers type-safe patterns for React 18-19 including generic components, proper event typing, and routing integration (TanStack Router, React Router)."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/react-dev",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-dev"
+  }
+}

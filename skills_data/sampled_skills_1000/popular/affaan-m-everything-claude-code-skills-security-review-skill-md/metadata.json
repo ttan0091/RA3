@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 280,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 280,
+    "id": "affaan-m-everything-claude-code-skills-security-review-skill-md",
+    "name": "security-review",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/security-review",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-skills-security-review-skill-md",
+    "updatedAt": 1769384724,
+    "description": "Use this skill when adding authentication, handling user input, working with secrets, creating API endpoints, or implementing payment/sensitive features. Provides comprehensive security checklist and patterns."
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "skills/security-review",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/security-review"
+  }
+}

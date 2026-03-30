@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 198,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 198,
+    "id": "rlcurrall-aide-skills-ticket-fields-skill-md",
+    "name": "ticket-fields",
+    "author": "rlcurrall",
+    "stars": 2,
+    "githubUrl": "https://github.com/rlcurrall/aide/tree/main/skills/ticket-fields",
+    "skillUrl": "https://skillsmp.com/skills/rlcurrall-aide-skills-ticket-fields-skill-md",
+    "updatedAt": 1768511453,
+    "description": "Discover available Jira fields for a project and issue type. Use when the user needs to find field names, see what fields are available, or discover custom field values before creating or updating tickets."
+  },
+  "github": {
+    "owner": "rlcurrall",
+    "repo": "aide",
+    "ref": "main",
+    "relativePath": "skills/ticket-fields",
+    "sourceUrl": "https://github.com/rlcurrall/aide/tree/main/skills/ticket-fields"
+  }
+}

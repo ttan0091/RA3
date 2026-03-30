@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 685,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 685,
+    "id": "zerobias-org-module-claude-skills-comment-style-guide-skill-md",
+    "name": "comment-style-guide",
+    "author": "zerobias-org",
+    "stars": 0,
+    "githubUrl": "https://github.com/zerobias-org/module/tree/main/.claude/skills/comment-style-guide",
+    "skillUrl": "https://skillsmp.com/skills/zerobias-org-module-claude-skills-comment-style-guide-skill-md",
+    "updatedAt": 1769050891,
+    "description": "Code comment style guidelines - when to comment and when not to"
+  },
+  "github": {
+    "owner": "zerobias-org",
+    "repo": "module",
+    "ref": "main",
+    "relativePath": ".claude/skills/comment-style-guide",
+    "sourceUrl": "https://github.com/zerobias-org/module/tree/main/.claude/skills/comment-style-guide"
+  }
+}

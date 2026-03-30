@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 77,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 77,
+    "id": "openidcsteam-backends-codebuddy-skills-code-review-skill-md",
+    "name": "code-review",
+    "author": "OpenIDCSTeam",
+    "stars": 9,
+    "githubUrl": "https://github.com/OpenIDCSTeam/Backends/tree/main/.codebuddy/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/openidcsteam-backends-codebuddy-skills-code-review-skill-md",
+    "updatedAt": 1770284155,
+    "description": "深度代码审查工具：分析 Git 变更，评估逻辑、代码规范、安全及需求一致性，支持CodeReview报告。"
+  },
+  "github": {
+    "owner": "OpenIDCSTeam",
+    "repo": "Backends",
+    "ref": "main",
+    "relativePath": ".codebuddy/skills/code-review",
+    "sourceUrl": "https://github.com/OpenIDCSTeam/Backends/tree/main/.codebuddy/skills/code-review"
+  }
+}

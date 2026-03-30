@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 324,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 324,
+    "id": "composiohq-awesome-claude-skills-connect-skill-md",
+    "name": "connect",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/connect",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-connect-skill-md",
+    "updatedAt": 1768122512,
+    "description": "Connect Claude to any app. Send emails, create issues, post messages, update databases - take real actions across Gmail, Slack, GitHub, Notion, and 1000+ services."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "connect",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/connect"
+  }
+}

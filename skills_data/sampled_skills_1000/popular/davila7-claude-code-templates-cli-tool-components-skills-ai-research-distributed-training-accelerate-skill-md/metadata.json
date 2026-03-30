@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 649,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 649,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-accelerate-skill-md",
+    "name": "huggingface-accelerate",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-accelerate",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-accelerate-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Simplest distributed training API. 4 lines to add distributed support to any PyTorch script. Unified API for DeepSpeed/FSDP/Megatron/DDP. Automatic device placement, mixed precision (FP16/BF16/FP8). Interactive config, single launch command. HuggingFace ecosystem standard."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/distributed-training-accelerate",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-accelerate"
+  }
+}

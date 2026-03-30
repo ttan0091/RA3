@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 540,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 540,
+    "id": "alchimie-di-circe-extractor-desktop-app-analyze-skill-analyze-electron-scaffold-skill-md",
+    "name": "electron-scaffold",
+    "author": "alchimie-di-circe",
+    "stars": 1,
+    "githubUrl": "https://github.com/alchimie-di-circe/Extractor-desktop-app/tree/main/analyze/SKILL-analyze/electron-scaffold",
+    "skillUrl": "https://skillsmp.com/skills/alchimie-di-circe-extractor-desktop-app-analyze-skill-analyze-electron-scaffold-skill-md",
+    "updatedAt": 1770179644,
+    "description": "Scaffold a native-looking, effective Electron app with best practices baked in. Creates a production-ready Electron application with security hardening, modern tooling, proper IPC patterns, auto-updates, native UI elements, and optimal build configuration. Use this skill when users want to start a new Electron project or modernize an existing one."
+  },
+  "github": {
+    "owner": "alchimie-di-circe",
+    "repo": "Extractor-desktop-app",
+    "ref": "main",
+    "relativePath": "analyze/SKILL-analyze/electron-scaffold",
+    "sourceUrl": "https://github.com/alchimie-di-circe/Extractor-desktop-app/tree/main/analyze/SKILL-analyze/electron-scaffold"
+  }
+}

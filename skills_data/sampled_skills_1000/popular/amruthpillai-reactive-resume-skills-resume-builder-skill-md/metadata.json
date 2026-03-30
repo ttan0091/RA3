@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 319,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 319,
+    "id": "amruthpillai-reactive-resume-skills-resume-builder-skill-md",
+    "name": "resume-builder",
+    "author": "amruthpillai",
+    "stars": 35090,
+    "githubUrl": "https://github.com/amruthpillai/reactive-resume/tree/main/skills/resume-builder",
+    "skillUrl": "https://skillsmp.com/skills/amruthpillai-reactive-resume-skills-resume-builder-skill-md",
+    "updatedAt": 1769293315,
+    "description": "Generate professional resumes that conform to the Reactive Resume schema. Use when the user wants to create, build, or generate a resume through conversational AI, or asks about resume structure, sections, or content. This skill guides the agent to ask clarifying questions, avoid hallucination, and produce valid JSON output for https://rxresu.me."
+  },
+  "github": {
+    "owner": "amruthpillai",
+    "repo": "reactive-resume",
+    "ref": "main",
+    "relativePath": "skills/resume-builder",
+    "sourceUrl": "https://github.com/amruthpillai/reactive-resume/tree/main/skills/resume-builder"
+  }
+}

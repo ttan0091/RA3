@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 833,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 833,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-avalonia-viewmodels-zafiro-skill-md",
+    "name": "avalonia-viewmodels-zafiro",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-viewmodels-zafiro",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-avalonia-viewmodels-zafiro-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/avalonia-viewmodels-zafiro",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-viewmodels-zafiro"
+  }
+}

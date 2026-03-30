@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 492,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 492,
+    "id": "jugrajsingh-skillgarden-plugins-pysmith-skills-generating-settings-skill-md",
+    "name": "generating-settings",
+    "author": "jugrajsingh",
+    "stars": 0,
+    "githubUrl": "https://github.com/jugrajsingh/skillgarden/tree/main/plugins/pysmith/skills/generating-settings",
+    "skillUrl": "https://skillsmp.com/skills/jugrajsingh-skillgarden-plugins-pysmith-skills-generating-settings-skill-md",
+    "updatedAt": 1769887756,
+    "description": "Generate Pydantic Settings configuration with YAML support. Creates config/settings.py and example.env.yaml for type-safe configuration management. Use when setting up application configuration, adding environment-specific settings, or migrating from os.getenv() to Pydantic Settings."
+  },
+  "github": {
+    "owner": "jugrajsingh",
+    "repo": "skillgarden",
+    "ref": "main",
+    "relativePath": "plugins/pysmith/skills/generating-settings",
+    "sourceUrl": "https://github.com/jugrajsingh/skillgarden/tree/main/plugins/pysmith/skills/generating-settings"
+  }
+}

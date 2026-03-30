@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 98,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 98,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-content-creator-skill-md",
+    "name": "content-creator",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/content-creator",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-content-creator-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Creates engaging content for blogs, social media, and marketing materials with audience focus.\nUse when: writing blog posts, creating social media content, developing marketing copy, crafting\nengaging headlines, or when user mentions content creation, blogging, social media, or\naudience engagement."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/content-creator",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/content-creator"
+  }
+}

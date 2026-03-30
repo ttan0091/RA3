@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 492,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 492,
+    "id": "wshobson-agents-plugins-startup-business-analyst-skills-market-sizing-analysis-skill-md",
+    "name": "market-sizing-analysis",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/market-sizing-analysis",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-startup-business-analyst-skills-market-sizing-analysis-skill-md",
+    "updatedAt": 1768860423,
+    "description": "This skill should be used when the user asks to \"calculate TAM\", \"determine SAM\", \"estimate SOM\", \"size the market\", \"calculate market opportunity\", \"what's the total addressable market\", or requests market sizing analysis for a startup or business opportunity."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/startup-business-analyst/skills/market-sizing-analysis",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/market-sizing-analysis"
+  }
+}

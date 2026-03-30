@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 377,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 377,
+    "id": "drew-daniels-dotfiles-dot-gemini-skills-code-reviewer-skill-md",
+    "name": "code-reviewer",
+    "author": "Drew-Daniels",
+    "stars": 0,
+    "githubUrl": "https://github.com/Drew-Daniels/dotfiles/tree/main/dot_gemini/skills/code-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/drew-daniels-dotfiles-dot-gemini-skills-code-reviewer-skill-md",
+    "updatedAt": 1768324838,
+    "description": "Expertise in reviewing code for style, security, and performance. Use when the user asks for \"feedback,\" a \"review,\" or to \"check\" their changes."
+  },
+  "github": {
+    "owner": "Drew-Daniels",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "dot_gemini/skills/code-reviewer",
+    "sourceUrl": "https://github.com/Drew-Daniels/dotfiles/tree/main/dot_gemini/skills/code-reviewer"
+  }
+}

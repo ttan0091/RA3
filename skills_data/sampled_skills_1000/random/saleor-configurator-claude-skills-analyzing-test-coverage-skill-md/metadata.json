@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 311,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 311,
+    "id": "saleor-configurator-claude-skills-analyzing-test-coverage-skill-md",
+    "name": "analyzing-test-coverage",
+    "author": "saleor",
+    "stars": 23,
+    "githubUrl": "https://github.com/saleor/configurator/tree/main/.claude/skills/analyzing-test-coverage",
+    "skillUrl": "https://skillsmp.com/skills/saleor-configurator-claude-skills-analyzing-test-coverage-skill-md",
+    "updatedAt": 1768398062,
+    "description": "Creates and analyzes tests using Vitest and MSW patterns. Generates test builders, mocks repositories, and configures integration tests. Triggers on: write tests, test coverage, Vitest, MSW mock, vi.fn, vi.mock, unit test, integration test, test builder, mock setup, test failure."
+  },
+  "github": {
+    "owner": "saleor",
+    "repo": "configurator",
+    "ref": "main",
+    "relativePath": ".claude/skills/analyzing-test-coverage",
+    "sourceUrl": "https://github.com/saleor/configurator/tree/main/.claude/skills/analyzing-test-coverage"
+  }
+}

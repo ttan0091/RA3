@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 115,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 115,
+    "id": "oven-sh-bun-claude-skills-implementing-jsc-classes-zig-skill-md",
+    "name": "implementing-jsc-classes-zig",
+    "author": "oven-sh",
+    "stars": 87226,
+    "githubUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/implementing-jsc-classes-zig",
+    "skillUrl": "https://skillsmp.com/skills/oven-sh-bun-claude-skills-implementing-jsc-classes-zig-skill-md",
+    "updatedAt": 1766648246,
+    "description": "Creates JavaScript classes using Bun's Zig bindings generator (.classes.ts). Use when implementing new JS APIs in Zig with JSC integration."
+  },
+  "github": {
+    "owner": "oven-sh",
+    "repo": "bun",
+    "ref": "main",
+    "relativePath": ".claude/skills/implementing-jsc-classes-zig",
+    "sourceUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/implementing-jsc-classes-zig"
+  }
+}

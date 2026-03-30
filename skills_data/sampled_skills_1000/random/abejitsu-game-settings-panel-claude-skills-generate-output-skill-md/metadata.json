@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 163,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 163,
+    "id": "abejitsu-game-settings-panel-claude-skills-generate-output-skill-md",
+    "name": "generate-output",
+    "author": "AbeJitsu",
+    "stars": 0,
+    "githubUrl": "https://github.com/AbeJitsu/Game-Settings-Panel/tree/main/.claude/skills/generate-output",
+    "skillUrl": "https://skillsmp.com/skills/abejitsu-game-settings-panel-claude-skills-generate-output-skill-md",
+    "updatedAt": 1763007310,
+    "description": "Create the deliverable (code, documentation, tests, content) following the user's standards and best practices. Use after validation passes to actually build the work product."
+  },
+  "github": {
+    "owner": "AbeJitsu",
+    "repo": "Game-Settings-Panel",
+    "ref": "main",
+    "relativePath": ".claude/skills/generate-output",
+    "sourceUrl": "https://github.com/AbeJitsu/Game-Settings-Panel/tree/main/.claude/skills/generate-output"
+  }
+}

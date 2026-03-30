@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 499,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 499,
+    "id": "wshobson-agents-plugins-ui-design-skills-accessibility-compliance-skill-md",
+    "name": "accessibility-compliance",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/accessibility-compliance",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-accessibility-compliance-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement WCAG 2.2 compliant interfaces with mobile accessibility, inclusive design patterns, and assistive technology support. Use when auditing accessibility, implementing ARIA patterns, building for screen readers, or ensuring inclusive user experiences."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/accessibility-compliance",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/accessibility-compliance"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 896,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 896,
+    "id": "guicheffer-devorch-cli-templates-skills-observability-tracing-skill-md",
+    "name": "tracing",
+    "author": "guicheffer",
+    "stars": 1,
+    "githubUrl": "https://github.com/guicheffer/devorch-cli/tree/main/templates/skills/observability/tracing",
+    "skillUrl": "https://skillsmp.com/skills/guicheffer-devorch-cli-templates-skills-observability-tracing-skill-md",
+    "updatedAt": 1769122075,
+    "description": "WHAT: OpenTelemetry tracing with useTracer hook for spans and distributed traces. WHEN: tracking user actions, monitoring async operations, debugging production issues. KEYWORDS: tracing, OpenTelemetry, OTEL, spans, useTracer, createEventSpan, withSpan, startSpan, SPAN_KEYS, attributes."
+  },
+  "github": {
+    "owner": "guicheffer",
+    "repo": "devorch-cli",
+    "ref": "main",
+    "relativePath": "templates/skills/observability/tracing",
+    "sourceUrl": "https://github.com/guicheffer/devorch-cli/tree/main/templates/skills/observability/tracing"
+  }
+}

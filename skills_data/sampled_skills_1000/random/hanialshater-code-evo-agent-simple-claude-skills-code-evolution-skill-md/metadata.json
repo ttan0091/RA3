@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 3,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 3,
+    "id": "hanialshater-code-evo-agent-simple-claude-skills-code-evolution-skill-md",
+    "name": "code-evolution",
+    "author": "hanialshater",
+    "stars": 1,
+    "githubUrl": "https://github.com/hanialshater/code-evo-agent-simple/tree/main/.claude/skills/code-evolution",
+    "skillUrl": "https://skillsmp.com/skills/hanialshater-code-evo-agent-simple-claude-skills-code-evolution-skill-md",
+    "updatedAt": 1765900248,
+    "description": "Autonomous multi-agent code evolution system for optimization problems. Use when solving complex optimization problems (packing, geometry, scheduling, search) through evolutionary approaches with multiple independent AI agents. Multi-start hybrid heuristic+SLSQP methods significantly outperform single approaches. Triggers include genetic algorithms, evolutionary optimization, multi-agent problem solving, parameter tuning at scale, AlphaEvolve-style research, or evolving code solutions across generations."
+  },
+  "github": {
+    "owner": "hanialshater",
+    "repo": "code-evo-agent-simple",
+    "ref": "main",
+    "relativePath": ".claude/skills/code-evolution",
+    "sourceUrl": "https://github.com/hanialshater/code-evo-agent-simple/tree/main/.claude/skills/code-evolution"
+  }
+}

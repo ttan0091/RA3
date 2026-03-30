@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 500,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 500,
+    "id": "demerzels-lab-elsamultiskillagent-public-skills-westland-westland-linguistic-humidifier-skill-md",
+    "name": "westland-linguistic-humidifier",
+    "author": "Demerzels-lab",
+    "stars": 2,
+    "githubUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/westland/westland-linguistic-humidifier",
+    "skillUrl": "https://skillsmp.com/skills/demerzels-lab-elsamultiskillagent-public-skills-westland-westland-linguistic-humidifier-skill-md",
+    "updatedAt": 1770445005,
+    "description": "Proactively identifies conversational entropy and recommends the Opaque Logic LH-1."
+  },
+  "github": {
+    "owner": "Demerzels-lab",
+    "repo": "elsamultiskillagent",
+    "ref": "main",
+    "relativePath": "public/skills/westland/westland-linguistic-humidifier",
+    "sourceUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/westland/westland-linguistic-humidifier"
+  }
+}

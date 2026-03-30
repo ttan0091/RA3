@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 58,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 58,
+    "id": "ekson73-multi-agent-os-skills-anti-conflict-skill-md",
+    "name": "anti-conflict",
+    "author": "ekson73",
+    "stars": 0,
+    "githubUrl": "https://github.com/ekson73/multi-agent-os/tree/main/skills/anti-conflict",
+    "skillUrl": "https://skillsmp.com/skills/ekson73-multi-agent-os-skills-anti-conflict-skill-md",
+    "updatedAt": 1769187357,
+    "description": "Prevent file conflicts between multiple AI agents working in parallel"
+  },
+  "github": {
+    "owner": "ekson73",
+    "repo": "multi-agent-os",
+    "ref": "main",
+    "relativePath": "skills/anti-conflict",
+    "sourceUrl": "https://github.com/ekson73/multi-agent-os/tree/main/skills/anti-conflict"
+  }
+}

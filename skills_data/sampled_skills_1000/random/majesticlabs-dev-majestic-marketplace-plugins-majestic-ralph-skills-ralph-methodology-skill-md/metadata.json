@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 85,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 85,
+    "id": "majesticlabs-dev-majestic-marketplace-plugins-majestic-ralph-skills-ralph-methodology-skill-md",
+    "name": "ralph-methodology",
+    "author": "majesticlabs-dev",
+    "stars": 21,
+    "githubUrl": "https://github.com/majesticlabs-dev/majestic-marketplace/tree/master/plugins/majestic-ralph/skills/ralph-methodology",
+    "skillUrl": "https://skillsmp.com/skills/majesticlabs-dev-majestic-marketplace-plugins-majestic-ralph-skills-ralph-methodology-skill-md",
+    "updatedAt": 1767930690,
+    "description": "Technical mechanics for autonomous AI coding loops"
+  },
+  "github": {
+    "owner": "majesticlabs-dev",
+    "repo": "majestic-marketplace",
+    "ref": "master",
+    "relativePath": "plugins/majestic-ralph/skills/ralph-methodology",
+    "sourceUrl": "https://github.com/majesticlabs-dev/majestic-marketplace/tree/master/plugins/majestic-ralph/skills/ralph-methodology"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 641,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 641,
+    "id": "spallempati-ai-studio-skills-devops-devops-ci-cd-skill-md",
+    "name": "devops-ci-cd",
+    "author": "spallempati",
+    "stars": 0,
+    "githubUrl": "https://github.com/spallempati/AI-Studio/tree/main/skills/devops/devops-ci-cd",
+    "skillUrl": "https://skillsmp.com/skills/spallempati-ai-studio-skills-devops-devops-ci-cd-skill-md",
+    "updatedAt": 1769792473,
+    "description": "DevOps and CI/CD pipeline standards. Use when writing GitHub Actions workflows,\nconfiguring CI pipelines, or managing deployment artifacts. Covers build-once\npromotion, secrets management, image signing, and concurrency controls."
+  },
+  "github": {
+    "owner": "spallempati",
+    "repo": "AI-Studio",
+    "ref": "main",
+    "relativePath": "skills/devops/devops-ci-cd",
+    "sourceUrl": "https://github.com/spallempati/AI-Studio/tree/main/skills/devops/devops-ci-cd"
+  }
+}

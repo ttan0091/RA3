@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 480,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 480,
+    "id": "wshobson-agents-plugins-reverse-engineering-skills-binary-analysis-patterns-skill-md",
+    "name": "binary-analysis-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/binary-analysis-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-reverse-engineering-skills-binary-analysis-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master binary analysis patterns including disassembly, decompilation, control flow analysis, and code pattern recognition. Use when analyzing executables, understanding compiled code, or performing static analysis on binaries."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/reverse-engineering/skills/binary-analysis-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/binary-analysis-patterns"
+  }
+}

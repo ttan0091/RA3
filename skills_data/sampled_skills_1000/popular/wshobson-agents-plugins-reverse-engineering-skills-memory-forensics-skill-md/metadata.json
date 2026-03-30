@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 481,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 481,
+    "id": "wshobson-agents-plugins-reverse-engineering-skills-memory-forensics-skill-md",
+    "name": "memory-forensics",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/memory-forensics",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-reverse-engineering-skills-memory-forensics-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master memory forensics techniques including memory acquisition, process analysis, and artifact extraction using Volatility and related tools. Use when analyzing memory dumps, investigating incidents, or performing malware analysis from RAM captures."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/reverse-engineering/skills/memory-forensics",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/memory-forensics"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 938,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 938,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-task-execution-engine-skill-md",
+    "name": "task-execution-engine",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/task-execution-engine",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-task-execution-engine-skill-md",
+    "updatedAt": 1767959780,
+    "description": "Execute implementation tasks from design documents using markdown checkboxes. Use when (1) implementing features from feature-design-assistant output, (2) resuming interrupted work, (3) batch executing tasks. Triggers on 'start implementation', 'run tasks', 'resume'."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/task-execution-engine",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/task-execution-engine"
+  }
+}

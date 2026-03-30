@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 938,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 938,
+    "id": "teodevlor-agent-kit-skill-agent-skills-role-implementer-skill-md",
+    "name": "role-implementer",
+    "author": "teodevlor",
+    "stars": 0,
+    "githubUrl": "https://github.com/teodevlor/agent-kit-skill/tree/main/.agent/skills/role-implementer",
+    "skillUrl": "https://skillsmp.com/skills/teodevlor-agent-kit-skill-agent-skills-role-implementer-skill-md",
+    "updatedAt": 1768968090,
+    "description": "Default Implementer mode for writing production code. Use for general coding tasks following project conventions."
+  },
+  "github": {
+    "owner": "teodevlor",
+    "repo": "agent-kit-skill",
+    "ref": "main",
+    "relativePath": ".agent/skills/role-implementer",
+    "sourceUrl": "https://github.com/teodevlor/agent-kit-skill/tree/main/.agent/skills/role-implementer"
+  }
+}

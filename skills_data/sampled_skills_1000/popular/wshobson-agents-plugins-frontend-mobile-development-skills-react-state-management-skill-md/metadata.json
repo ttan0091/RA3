@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 427,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 427,
+    "id": "wshobson-agents-plugins-frontend-mobile-development-skills-react-state-management-skill-md",
+    "name": "react-state-management",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/react-state-management",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-frontend-mobile-development-skills-react-state-management-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/frontend-mobile-development/skills/react-state-management",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/frontend-mobile-development/skills/react-state-management"
+  }
+}

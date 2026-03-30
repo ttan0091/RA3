@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 759,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 759,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-cto-advisor-skill-md",
+    "name": "cto-advisor",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/cto-advisor",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-cto-advisor-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Technical leadership guidance for engineering teams, architecture decisions, and technology strategy. Includes tech debt analyzer, team scaling calculator, engineering metrics frameworks, technology evaluation tools, and ADR templates. Use when assessing technical debt, scaling engineering teams, evaluating technologies, making architecture decisions, establishing engineering metrics, or when user mentions CTO, tech debt, technical debt, team scaling, architecture decisions, technology evaluation, engineering metrics, DORA metrics, or technology strategy."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/cto-advisor",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/cto-advisor"
+  }
+}

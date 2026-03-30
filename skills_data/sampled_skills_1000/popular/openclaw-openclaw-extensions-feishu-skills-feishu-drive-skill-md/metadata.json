@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 9,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 9,
+    "id": "openclaw-openclaw-extensions-feishu-skills-feishu-drive-skill-md",
+    "name": "feishu-drive",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-drive",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-extensions-feishu-skills-feishu-drive-skill-md",
+    "updatedAt": 1770337930,
+    "description": "Feishu cloud storage file management. Activate when user mentions cloud space, folders, drive."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "extensions/feishu/skills/feishu-drive",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/feishu/skills/feishu-drive"
+  }
+}

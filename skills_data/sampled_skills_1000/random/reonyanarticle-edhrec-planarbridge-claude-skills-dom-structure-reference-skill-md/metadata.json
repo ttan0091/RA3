@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 941,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 941,
+    "id": "reonyanarticle-edhrec-planarbridge-claude-skills-dom-structure-reference-skill-md",
+    "name": "dom-structure-reference",
+    "author": "reonyanarticle",
+    "stars": 0,
+    "githubUrl": "https://github.com/reonyanarticle/edhrec-planarbridge/tree/main/.claude/skills/dom-structure-reference",
+    "skillUrl": "https://skillsmp.com/skills/reonyanarticle-edhrec-planarbridge-claude-skills-dom-structure-reference-skill-md",
+    "updatedAt": 1770369914,
+    "description": "EDHREC のカード価格コンテナ、セレクタ、DOM マーキング方式を参照します。DOM 操作の実装時に使用。"
+  },
+  "github": {
+    "owner": "reonyanarticle",
+    "repo": "edhrec-planarbridge",
+    "ref": "main",
+    "relativePath": ".claude/skills/dom-structure-reference",
+    "sourceUrl": "https://github.com/reonyanarticle/edhrec-planarbridge/tree/main/.claude/skills/dom-structure-reference"
+  }
+}

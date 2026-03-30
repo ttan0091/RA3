@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 845,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 845,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-frontend-patterns-skill-md",
+    "name": "frontend-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-frontend-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-frontend-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cc-skill-frontend-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-frontend-patterns"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 704,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 704,
+    "id": "bluefishs-ck-missive-claude-skills-shared-shared-superpowers-writing-skills-skill-md",
+    "name": "writing-skills",
+    "author": "bluefishs",
+    "stars": 0,
+    "githubUrl": "https://github.com/bluefishs/CK_Missive/tree/main/.claude/skills/_shared/shared/superpowers/writing-skills",
+    "skillUrl": "https://skillsmp.com/skills/bluefishs-ck-missive-claude-skills-shared-shared-superpowers-writing-skills-skill-md",
+    "updatedAt": 1770070534,
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment"
+  },
+  "github": {
+    "owner": "bluefishs",
+    "repo": "CK_Missive",
+    "ref": "main",
+    "relativePath": ".claude/skills/_shared/shared/superpowers/writing-skills",
+    "sourceUrl": "https://github.com/bluefishs/CK_Missive/tree/main/.claude/skills/_shared/shared/superpowers/writing-skills"
+  }
+}

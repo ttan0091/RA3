@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 915,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 915,
+    "id": "unknownbreaker-tcl-lsp-nvim-claude-skills-test-lua-skill-md",
+    "name": "test-lua",
+    "author": "unknownbreaker",
+    "stars": 1,
+    "githubUrl": "https://github.com/unknownbreaker/tcl-lsp.nvim/tree/main/.claude/skills/test-lua",
+    "skillUrl": "https://skillsmp.com/skills/unknownbreaker-tcl-lsp-nvim-claude-skills-test-lua-skill-md",
+    "updatedAt": 1768974719,
+    "description": "Run Lua/Neovim plugin tests"
+  },
+  "github": {
+    "owner": "unknownbreaker",
+    "repo": "tcl-lsp.nvim",
+    "ref": "main",
+    "relativePath": ".claude/skills/test-lua",
+    "sourceUrl": "https://github.com/unknownbreaker/tcl-lsp.nvim/tree/main/.claude/skills/test-lua"
+  }
+}

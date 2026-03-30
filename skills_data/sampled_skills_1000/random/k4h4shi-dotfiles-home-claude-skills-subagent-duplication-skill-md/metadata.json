@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 151,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 151,
+    "id": "k4h4shi-dotfiles-home-claude-skills-subagent-duplication-skill-md",
+    "name": "subagent-duplication",
+    "author": "k4h4shi",
+    "stars": 1,
+    "githubUrl": "https://github.com/k4h4shi/dotfiles/tree/main/home/.claude/skills/subagent-duplication",
+    "skillUrl": "https://skillsmp.com/skills/k4h4shi-dotfiles-home-claude-skills-subagent-duplication-skill-md",
+    "updatedAt": 1769739537,
+    "description": "重複/類似コード検出をCodexに委譲する。Usage: /subagent-duplication"
+  },
+  "github": {
+    "owner": "k4h4shi",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "home/.claude/skills/subagent-duplication",
+    "sourceUrl": "https://github.com/k4h4shi/dotfiles/tree/main/home/.claude/skills/subagent-duplication"
+  }
+}

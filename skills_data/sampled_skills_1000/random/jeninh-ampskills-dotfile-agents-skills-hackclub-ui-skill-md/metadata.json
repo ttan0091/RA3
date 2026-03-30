@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 336,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 336,
+    "id": "jeninh-ampskills-dotfile-agents-skills-hackclub-ui-skill-md",
+    "name": "hackclub-ui",
+    "author": "jeninh",
+    "stars": 0,
+    "githubUrl": "https://github.com/jeninh/ampskills-dotfile/tree/main/.agents/skills/hackclub-ui",
+    "skillUrl": "https://skillsmp.com/skills/jeninh-ampskills-dotfile-agents-skills-hackclub-ui-skill-md",
+    "updatedAt": 1768589825,
+    "description": "Styles UI with the Hack Club aesthetic using hack.css. Opt-in only—use when user confirms they want Hack Club styling after being asked \"Would you like to use the Hack Club UI skill?\""
+  },
+  "github": {
+    "owner": "jeninh",
+    "repo": "ampskills-dotfile",
+    "ref": "main",
+    "relativePath": ".agents/skills/hackclub-ui",
+    "sourceUrl": "https://github.com/jeninh/ampskills-dotfile/tree/main/.agents/skills/hackclub-ui"
+  }
+}

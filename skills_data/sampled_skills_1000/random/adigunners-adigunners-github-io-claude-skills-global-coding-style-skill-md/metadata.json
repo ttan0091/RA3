@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 433,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 433,
+    "id": "adigunners-adigunners-github-io-claude-skills-global-coding-style-skill-md",
+    "name": "global-coding-style",
+    "author": "adigunners",
+    "stars": 2,
+    "githubUrl": "https://github.com/adigunners/adigunners.github.io/tree/main/.claude/skills/global-coding-style",
+    "skillUrl": "https://skillsmp.com/skills/adigunners-adigunners-github-io-claude-skills-global-coding-style-skill-md",
+    "updatedAt": 1768456126,
+    "description": "Coding style standards enforced by Prettier and ESLint. Use this skill when writing JavaScript, HTML, CSS, or JSON to ensure consistent formatting, naming conventions, and code quality. Apply when creating new files, refactoring code, or ensuring adherence to automated formatting rules."
+  },
+  "github": {
+    "owner": "adigunners",
+    "repo": "adigunners.github.io",
+    "ref": "main",
+    "relativePath": ".claude/skills/global-coding-style",
+    "sourceUrl": "https://github.com/adigunners/adigunners.github.io/tree/main/.claude/skills/global-coding-style"
+  }
+}

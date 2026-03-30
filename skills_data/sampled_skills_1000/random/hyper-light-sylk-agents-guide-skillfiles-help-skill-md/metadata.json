@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 526,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 526,
+    "id": "hyper-light-sylk-agents-guide-skillfiles-help-skill-md",
+    "name": "help",
+    "author": "hyper-light",
+    "stars": 0,
+    "githubUrl": "https://github.com/hyper-light/sylk/tree/main/agents/guide/skillfiles/help",
+    "skillUrl": "https://skillsmp.com/skills/hyper-light-sylk-agents-guide-skillfiles-help-skill-md",
+    "updatedAt": 1768636004,
+    "description": "Provide help about available routing commands and agent capabilities."
+  },
+  "github": {
+    "owner": "hyper-light",
+    "repo": "sylk",
+    "ref": "main",
+    "relativePath": "agents/guide/skillfiles/help",
+    "sourceUrl": "https://github.com/hyper-light/sylk/tree/main/agents/guide/skillfiles/help"
+  }
+}

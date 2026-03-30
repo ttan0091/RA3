@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 186,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 186,
+    "id": "asisaga-theme-asisaga-com-github-skills-documentation-manager-agent-skill-md",
+    "name": "documentation-manager-agent",
+    "author": "ASISaga",
+    "stars": 1,
+    "githubUrl": "https://github.com/ASISaga/theme.asisaga.com/tree/main/.github/skills/documentation-manager-agent",
+    "skillUrl": "https://skillsmp.com/skills/asisaga-theme-asisaga-com-github-skills-documentation-manager-agent-skill-md",
+    "updatedAt": 1770711809,
+    "description": "Manage documentation lifecycle, enforce standards, validate structure, detect redundancy, and ensure proper archival. Automate documentation quality checks with validation scripts. Use when creating, updating, or organizing documentation across the repository to maintain single source of truth and prevent documentation drift."
+  },
+  "github": {
+    "owner": "ASISaga",
+    "repo": "theme.asisaga.com",
+    "ref": "main",
+    "relativePath": ".github/skills/documentation-manager-agent",
+    "sourceUrl": "https://github.com/ASISaga/theme.asisaga.com/tree/main/.github/skills/documentation-manager-agent"
+  }
+}

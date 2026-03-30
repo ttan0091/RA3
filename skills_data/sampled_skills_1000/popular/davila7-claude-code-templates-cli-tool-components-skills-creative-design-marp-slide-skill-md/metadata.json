@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 810,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 810,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-marp-slide-skill-md",
+    "name": "marp-slide",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/marp-slide",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-marp-slide-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Create professional Marp presentation slides with 7 beautiful themes (default, minimal, colorful, dark, gradient, tech, business). Use when users request slide creation, presentations, or Marp documents. Supports custom themes, image layouts, and \"make it look good\" requests with automatic quality improvements."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/marp-slide",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/marp-slide"
+  }
+}

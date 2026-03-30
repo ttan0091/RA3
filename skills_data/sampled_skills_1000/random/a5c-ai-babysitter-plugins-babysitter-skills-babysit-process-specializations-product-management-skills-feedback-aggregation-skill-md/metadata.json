@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 112,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 112,
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-product-management-skills-feedback-aggregation-skill-md",
+    "name": "customer-feedback-aggregation",
+    "author": "a5c-ai",
+    "stars": 81,
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/product-management/skills/feedback-aggregation",
+    "skillUrl": "https://skillsmp.com/skills/a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-product-management-skills-feedback-aggregation-skill-md",
+    "updatedAt": 1769265313,
+    "description": "Aggregate and analyze customer feedback from multiple sources for product insights"
+  },
+  "github": {
+    "owner": "a5c-ai",
+    "repo": "babysitter",
+    "ref": "main",
+    "relativePath": "plugins/babysitter/skills/babysit/process/specializations/product-management/skills/feedback-aggregation",
+    "sourceUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/product-management/skills/feedback-aggregation"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 201,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 201,
+    "id": "upstash-context7-plugins-cursor-context7-skills-context7-docs-lookup-skill-md",
+    "name": "context7-docs-lookup",
+    "author": "upstash",
+    "stars": 45337,
+    "githubUrl": "https://github.com/upstash/context7/tree/master/plugins/cursor/context7/skills/context7-docs-lookup",
+    "skillUrl": "https://skillsmp.com/skills/upstash-context7-plugins-cursor-context7-skills-context7-docs-lookup-skill-md",
+    "updatedAt": 1770040363,
+    "description": "Use Context7 to fetch up-to-date library documentation. Activates when the user asks about libraries, frameworks, API references, or needs code examples — especially for setup questions, code generation, or mentions of specific frameworks like React, Vue, Next.js, Prisma, Supabase, etc."
+  },
+  "github": {
+    "owner": "upstash",
+    "repo": "context7",
+    "ref": "master",
+    "relativePath": "plugins/cursor/context7/skills/context7-docs-lookup",
+    "sourceUrl": "https://github.com/upstash/context7/tree/master/plugins/cursor/context7/skills/context7-docs-lookup"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 182,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 182,
+    "id": "obra-superpowers-skills-test-driven-development-skill-md",
+    "name": "test-driven-development",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-test-driven-development-skill-md",
+    "updatedAt": 1766018692,
+    "description": "Use when implementing any feature or bugfix, before writing implementation code"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/test-driven-development",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development"
+  }
+}

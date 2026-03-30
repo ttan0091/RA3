@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 397,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 397,
+    "id": "wshobson-agents-plugins-cloud-infrastructure-skills-terraform-module-library-skill-md",
+    "name": "terraform-module-library",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/terraform-module-library",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cloud-infrastructure-skills-terraform-module-library-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, or implementing reusable IaC components."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cloud-infrastructure/skills/terraform-module-library",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/terraform-module-library"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 480,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 480,
+    "id": "duclm1x1-dive-ai-skills-library-speech-transcription-voice-agent-skill-md",
+    "name": "voice-agent",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/speech_transcription/voice-agent",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-speech-transcription-voice-agent-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Local Voice Input/Output for Agents using the AI Voice Agent API."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/speech_transcription/voice-agent",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/speech_transcription/voice-agent"
+  }
+}

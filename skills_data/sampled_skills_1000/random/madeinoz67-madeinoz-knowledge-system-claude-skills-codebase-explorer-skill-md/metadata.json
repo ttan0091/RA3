@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 839,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 839,
+    "id": "madeinoz67-madeinoz-knowledge-system-claude-skills-codebase-explorer-skill-md",
+    "name": "codebase-explorer",
+    "author": "madeinoz67",
+    "stars": 2,
+    "githubUrl": "https://github.com/madeinoz67/madeinoz-knowledge-system/tree/main/.claude/skills/codebase-explorer",
+    "skillUrl": "https://skillsmp.com/skills/madeinoz67-madeinoz-knowledge-system-claude-skills-codebase-explorer-skill-md",
+    "updatedAt": 1768747835,
+    "description": "Deep codebase exploration using semantic search and relationship mapping. Use when you need to understand the current codebase."
+  },
+  "github": {
+    "owner": "madeinoz67",
+    "repo": "madeinoz-knowledge-system",
+    "ref": "main",
+    "relativePath": ".claude/skills/codebase-explorer",
+    "sourceUrl": "https://github.com/madeinoz67/madeinoz-knowledge-system/tree/main/.claude/skills/codebase-explorer"
+  }
+}

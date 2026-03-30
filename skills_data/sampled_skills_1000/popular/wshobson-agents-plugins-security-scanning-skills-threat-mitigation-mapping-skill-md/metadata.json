@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 487,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 487,
+    "id": "wshobson-agents-plugins-security-scanning-skills-threat-mitigation-mapping-skill-md",
+    "name": "threat-mitigation-mapping",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/threat-mitigation-mapping",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-security-scanning-skills-threat-mitigation-mapping-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Map identified threats to appropriate security controls and mitigations. Use when prioritizing security investments, creating remediation plans, or validating control effectiveness."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/security-scanning/skills/threat-mitigation-mapping",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/threat-mitigation-mapping"
+  }
+}

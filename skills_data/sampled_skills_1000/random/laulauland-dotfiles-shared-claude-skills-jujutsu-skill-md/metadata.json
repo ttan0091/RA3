@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 629,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 629,
+    "id": "laulauland-dotfiles-shared-claude-skills-jujutsu-skill-md",
+    "name": "jujutsu",
+    "author": "laulauland",
+    "stars": 8,
+    "githubUrl": "https://github.com/laulauland/dotfiles/tree/main/shared/.claude/skills/jujutsu",
+    "skillUrl": "https://skillsmp.com/skills/laulauland-dotfiles-shared-claude-skills-jujutsu-skill-md",
+    "updatedAt": 1768387055,
+    "description": "Jujutsu (jj) version control commands and workflows. Use when performing version control operations, committing changes, managing branches/bookmarks, or syncing with remotes. Always use jj instead of git."
+  },
+  "github": {
+    "owner": "laulauland",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "shared/.claude/skills/jujutsu",
+    "sourceUrl": "https://github.com/laulauland/dotfiles/tree/main/shared/.claude/skills/jujutsu"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 89,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 89,
+    "id": "pur3v4d3r-pur3-pkb-codebase-local-repo-skills-junit-test-unit-test-application-events-skill-md",
+    "name": "unit-test-application-events",
+    "author": "pur3v4d3r",
+    "stars": 2,
+    "githubUrl": "https://github.com/pur3v4d3r/pur3-pkb-codebase/tree/main/__LOCAL-REPO/__skills/junit-test/unit-test-application-events",
+    "skillUrl": "https://skillsmp.com/skills/pur3v4d3r-pur3-pkb-codebase-local-repo-skills-junit-test-unit-test-application-events-skill-md",
+    "updatedAt": 1768673406,
+    "description": "Testing Spring application events (ApplicationEvent) with @EventListener and ApplicationEventPublisher. Test event publishing, listening, and async event handling in Spring Boot applications. Use when validating event-driven workflows in your Spring Boot services."
+  },
+  "github": {
+    "owner": "pur3v4d3r",
+    "repo": "pur3-pkb-codebase",
+    "ref": "main",
+    "relativePath": "__LOCAL-REPO/__skills/junit-test/unit-test-application-events",
+    "sourceUrl": "https://github.com/pur3v4d3r/pur3-pkb-codebase/tree/main/__LOCAL-REPO/__skills/junit-test/unit-test-application-events"
+  }
+}

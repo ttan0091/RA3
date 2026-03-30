@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 722,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 722,
+    "id": "mikeyobrien-ralph-orchestrator-claude-skills-ralph-operations-skill-md",
+    "name": "ralph-operations",
+    "author": "mikeyobrien",
+    "stars": 1729,
+    "githubUrl": "https://github.com/mikeyobrien/ralph-orchestrator/tree/main/.claude/skills/ralph-operations",
+    "skillUrl": "https://skillsmp.com/skills/mikeyobrien-ralph-orchestrator-claude-skills-ralph-operations-skill-md",
+    "updatedAt": 1770003463,
+    "description": "Use when managing Ralph orchestration loops, analyzing diagnostic data, debugging hat selection, investigating backpressure, or performing post-mortem analysis"
+  },
+  "github": {
+    "owner": "mikeyobrien",
+    "repo": "ralph-orchestrator",
+    "ref": "main",
+    "relativePath": ".claude/skills/ralph-operations",
+    "sourceUrl": "https://github.com/mikeyobrien/ralph-orchestrator/tree/main/.claude/skills/ralph-operations"
+  }
+}

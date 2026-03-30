@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 116,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 116,
+    "id": "laurenj3250-debug-vethub2-0-claude-skills-layout-composition-critic-skill-md",
+    "name": "layout-composition-critic",
+    "author": "laurenj3250-debug",
+    "stars": 0,
+    "githubUrl": "https://github.com/laurenj3250-debug/vethub2.0/tree/main/.claude/skills/layout-composition-critic",
+    "skillUrl": "https://skillsmp.com/skills/laurenj3250-debug-vethub2-0-claude-skills-layout-composition-critic-skill-md",
+    "updatedAt": 1767746910,
+    "description": "Critique UI layouts and provide specific, actionable fixes. Use when something feels off but you can't articulate why, before finalizing designs, or after adding new components. Outputs diagnosis of visual hierarchy, spacing, alignment, color balance issues with exact CSS/Tailwind fixes."
+  },
+  "github": {
+    "owner": "laurenj3250-debug",
+    "repo": "vethub2.0",
+    "ref": "main",
+    "relativePath": ".claude/skills/layout-composition-critic",
+    "sourceUrl": "https://github.com/laurenj3250-debug/vethub2.0/tree/main/.claude/skills/layout-composition-critic"
+  }
+}

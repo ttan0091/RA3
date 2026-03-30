@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 522,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 522,
+    "id": "ethical-ai-syndicate-skills-market-data-dependency-mapper-skill-md",
+    "name": "market-data-dependency-mapper",
+    "author": "Ethical-AI-Syndicate",
+    "stars": 0,
+    "githubUrl": "https://github.com/Ethical-AI-Syndicate/skills/tree/main/market-data-dependency-mapper",
+    "skillUrl": "https://skillsmp.com/skills/ethical-ai-syndicate-skills-market-data-dependency-mapper-skill-md",
+    "updatedAt": 1769309794,
+    "description": "Use when documenting market data feeds and dependencies for AI capabilities in trading or risk systems. Use during system design or resilience review. Maps feeds to functions with criticality, failover, and operational considerations."
+  },
+  "github": {
+    "owner": "Ethical-AI-Syndicate",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "market-data-dependency-mapper",
+    "sourceUrl": "https://github.com/Ethical-AI-Syndicate/skills/tree/main/market-data-dependency-mapper"
+  }
+}

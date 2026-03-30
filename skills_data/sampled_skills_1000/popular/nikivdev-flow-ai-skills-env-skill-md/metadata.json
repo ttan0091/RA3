@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 570,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 570,
+    "id": "nikivdev-flow-ai-skills-env-skill-md",
+    "name": "env",
+    "author": "nikivdev",
+    "stars": 21165,
+    "githubUrl": "https://github.com/nikivdev/flow/tree/main/.ai/skills/env",
+    "skillUrl": "https://skillsmp.com/skills/nikivdev-flow-ai-skills-env-skill-md",
+    "updatedAt": 1770312045,
+    "description": "Manage environment variables and secrets with flow (always use Flow env store)"
+  },
+  "github": {
+    "owner": "nikivdev",
+    "repo": "flow",
+    "ref": "main",
+    "relativePath": ".ai/skills/env",
+    "sourceUrl": "https://github.com/nikivdev/flow/tree/main/.ai/skills/env"
+  }
+}

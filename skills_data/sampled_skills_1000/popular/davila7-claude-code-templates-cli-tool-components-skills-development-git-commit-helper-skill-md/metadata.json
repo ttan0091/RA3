@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 875,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 875,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-git-commit-helper-skill-md",
+    "name": "git-commit-helper",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/git-commit-helper",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-git-commit-helper-skill-md",
+    "updatedAt": 1767900744,
+    "description": "Generate descriptive commit messages by analyzing git diffs. Use when the user asks for help writing commit messages or reviewing staged changes."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/git-commit-helper",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/git-commit-helper"
+  }
+}

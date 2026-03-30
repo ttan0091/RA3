@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 364,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 364,
+    "id": "wshobson-agents-plugins-agent-teams-skills-multi-reviewer-patterns-skill-md",
+    "name": "multi-reviewer-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/multi-reviewer-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-agent-teams-skills-multi-reviewer-patterns-skill-md",
+    "updatedAt": 1770331350,
+    "description": "Coordinate parallel code reviews across multiple quality dimensions with finding deduplication, severity calibration, and consolidated reporting. Use this skill when organizing multi-reviewer code reviews, calibrating finding severity, or consolidating review results."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/agent-teams/skills/multi-reviewer-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/multi-reviewer-patterns"
+  }
+}

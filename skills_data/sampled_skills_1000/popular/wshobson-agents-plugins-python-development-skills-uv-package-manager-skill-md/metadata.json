@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 476,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 476,
+    "id": "wshobson-agents-plugins-python-development-skills-uv-package-manager-skill-md",
+    "name": "uv-package-manager",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/uv-package-manager",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-uv-package-manager-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master the uv package manager for fast Python dependency management, virtual environments, and modern Python project workflows. Use when setting up Python projects, managing dependencies, or optimizing Python development workflows with uv."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/uv-package-manager",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/uv-package-manager"
+  }
+}

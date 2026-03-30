@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 979,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 979,
+    "id": "oxie-portfolio-cms-project-claude-skills-roadmap-integration-skill-md",
+    "name": "roadmap-integration",
+    "author": "oxie",
+    "stars": 0,
+    "githubUrl": "https://github.com/oxie/portfolio-cms-project/tree/main/.claude/skills/roadmap-integration",
+    "skillUrl": "https://skillsmp.com/skills/oxie-portfolio-cms-project-claude-skills-roadmap-integration-skill-md",
+    "updatedAt": 1761485198,
+    "description": "Standard Operating Procedure for /roadmap usage. Manage product roadmap (brainstorm, prioritize, track)."
+  },
+  "github": {
+    "owner": "oxie",
+    "repo": "portfolio-cms-project",
+    "ref": "main",
+    "relativePath": ".claude/skills/roadmap-integration",
+    "sourceUrl": "https://github.com/oxie/portfolio-cms-project/tree/main/.claude/skills/roadmap-integration"
+  }
+}

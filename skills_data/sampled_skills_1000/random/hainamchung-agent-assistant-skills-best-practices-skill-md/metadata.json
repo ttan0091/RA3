@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 931,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 931,
+    "id": "hainamchung-agent-assistant-skills-best-practices-skill-md",
+    "name": "best-practices",
+    "author": "hainamchung",
+    "stars": 23,
+    "githubUrl": "https://github.com/hainamchung/agent-assistant/tree/main/skills/best-practices",
+    "skillUrl": "https://skillsmp.com/skills/hainamchung-agent-assistant-skills-best-practices-skill-md",
+    "updatedAt": 1769434513,
+    "description": "Transforms vague prompts into optimized Claude Code prompts. Adds verification, specific context, constraints, and proper phasing. Invoke with /best-practices."
+  },
+  "github": {
+    "owner": "hainamchung",
+    "repo": "agent-assistant",
+    "ref": "main",
+    "relativePath": "skills/best-practices",
+    "sourceUrl": "https://github.com/hainamchung/agent-assistant/tree/main/skills/best-practices"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 358,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 358,
+    "id": "code-yeongyu-oh-my-opencode-src-features-builtin-skills-dev-browser-skill-md",
+    "name": "dev-browser",
+    "author": "code-yeongyu",
+    "stars": 30231,
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/dev-browser",
+    "skillUrl": "https://skillsmp.com/skills/code-yeongyu-oh-my-opencode-src-features-builtin-skills-dev-browser-skill-md",
+    "updatedAt": 1769322847,
+    "description": "Browser automation with persistent page state. Use when users ask to navigate websites, fill forms, take screenshots, extract web data, test web apps, or automate browser workflows. Trigger phrases include \"go to [url]\", \"click on\", \"fill out the form\", \"take a screenshot\", \"scrape\", \"automate\", \"test the website\", \"log into\", or any browser interaction request."
+  },
+  "github": {
+    "owner": "code-yeongyu",
+    "repo": "oh-my-opencode",
+    "ref": "dev",
+    "relativePath": "src/features/builtin-skills/dev-browser",
+    "sourceUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/dev-browser"
+  }
+}

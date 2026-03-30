@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 427,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 427,
+    "id": "dot-do-todo-mdx-claude-skills-roadmap-planning-skill-md",
+    "name": "roadmap-planning",
+    "author": "dot-do",
+    "stars": 1,
+    "githubUrl": "https://github.com/dot-do/todo.mdx/tree/main/.claude/skills/roadmap-planning",
+    "skillUrl": "https://skillsmp.com/skills/dot-do-todo-mdx-claude-skills-roadmap-planning-skill-md",
+    "updatedAt": 1766753136,
+    "description": "Use when planning strategic roadmaps across the autonomous startups.studio ecosystem - creates hierarchical beads issues across repos/submodules from top-level vision down to component sub-roadmaps for business-as-code, services-as-software, and related packages"
+  },
+  "github": {
+    "owner": "dot-do",
+    "repo": "todo.mdx",
+    "ref": "main",
+    "relativePath": ".claude/skills/roadmap-planning",
+    "sourceUrl": "https://github.com/dot-do/todo.mdx/tree/main/.claude/skills/roadmap-planning"
+  }
+}

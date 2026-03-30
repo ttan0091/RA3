@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 966,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 966,
+    "id": "cameronapak-freedom-stack-v3-agents-skills-bknd-session-handling-skill-md",
+    "name": "bknd-session-handling",
+    "author": "cameronapak",
+    "stars": 24,
+    "githubUrl": "https://github.com/cameronapak/freedom-stack-v3/tree/main/.agents/skills/bknd-session-handling",
+    "skillUrl": "https://skillsmp.com/skills/cameronapak-freedom-stack-v3-agents-skills-bknd-session-handling-skill-md",
+    "updatedAt": 1769006102,
+    "description": "Use when managing user sessions in a Bknd application. Covers JWT token lifecycle, session persistence, automatic renewal, checking auth state, invalidating sessions, and handling expiration."
+  },
+  "github": {
+    "owner": "cameronapak",
+    "repo": "freedom-stack-v3",
+    "ref": "main",
+    "relativePath": ".agents/skills/bknd-session-handling",
+    "sourceUrl": "https://github.com/cameronapak/freedom-stack-v3/tree/main/.agents/skills/bknd-session-handling"
+  }
+}

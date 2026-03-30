@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 62,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 62,
+    "id": "hookvibe-hookcode-gemini-skills-ui-ux-pro-max-skill-md",
+    "name": "ui-ux-pro-max",
+    "author": "hookvibe",
+    "stars": 1,
+    "githubUrl": "https://github.com/hookvibe/hookcode/tree/main/.gemini/skills/ui-ux-pro-max",
+    "skillUrl": "https://skillsmp.com/skills/hookvibe-hookcode-gemini-skills-ui-ux-pro-max-skill-md",
+    "updatedAt": 1770261796,
+    "description": "UI/UX design intelligence for web and mobile. Provides design systems, color palettes, font pairings, and stack-specific best practices (React, Tailwind, shadcn, etc.). Use when designing, reviewing, or implementing UI components."
+  },
+  "github": {
+    "owner": "hookvibe",
+    "repo": "hookcode",
+    "ref": "main",
+    "relativePath": ".gemini/skills/ui-ux-pro-max",
+    "sourceUrl": "https://github.com/hookvibe/hookcode/tree/main/.gemini/skills/ui-ux-pro-max"
+  }
+}

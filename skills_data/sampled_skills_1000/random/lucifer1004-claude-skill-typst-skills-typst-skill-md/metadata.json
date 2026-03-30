@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 123,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 123,
+    "id": "lucifer1004-claude-skill-typst-skills-typst-skill-md",
+    "name": "typst",
+    "author": "lucifer1004",
+    "stars": 12,
+    "githubUrl": "https://github.com/lucifer1004/claude-skill-typst/tree/main/skills/typst",
+    "skillUrl": "https://skillsmp.com/skills/lucifer1004-claude-skill-typst-skills-typst-skill-md",
+    "updatedAt": 1769240242,
+    "description": "Typst document creation and package development. Use when: (1) Working with .typ files, (2) User mentions typst, typst.toml, or typst-cli, (3) Creating or using Typst packages, (4) Developing document templates, (5) Converting Markdown/LaTeX to Typst"
+  },
+  "github": {
+    "owner": "lucifer1004",
+    "repo": "claude-skill-typst",
+    "ref": "main",
+    "relativePath": "skills/typst",
+    "sourceUrl": "https://github.com/lucifer1004/claude-skill-typst/tree/main/skills/typst"
+  }
+}

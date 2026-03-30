@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 438,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 438,
+    "id": "sickn33-antigravity-awesome-skills-skills-anti-reversing-techniques-skill-md",
+    "name": "anti-reversing-techniques",
+    "author": "sickn33",
+    "stars": 8288,
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/anti-reversing-techniques",
+    "skillUrl": "https://skillsmp.com/skills/sickn33-antigravity-awesome-skills-skills-anti-reversing-techniques-skill-md",
+    "updatedAt": 1769616926,
+    "description": "Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use when analyzing protected binaries, bypassing anti-debugging for authorized analysis, or understanding software protection mechanisms."
+  },
+  "github": {
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "ref": "main",
+    "relativePath": "skills/anti-reversing-techniques",
+    "sourceUrl": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/anti-reversing-techniques"
+  }
+}

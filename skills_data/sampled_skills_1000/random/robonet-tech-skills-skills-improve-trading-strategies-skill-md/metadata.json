@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 148,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 148,
+    "id": "robonet-tech-skills-skills-improve-trading-strategies-skill-md",
+    "name": "improve-trading-strategies",
+    "author": "robonet-tech",
+    "stars": 0,
+    "githubUrl": "https://github.com/robonet-tech/skills/tree/main/skills/improve-trading-strategies",
+    "skillUrl": "https://skillsmp.com/skills/robonet-tech-skills-skills-improve-trading-strategies-skill-md",
+    "updatedAt": 1770059566,
+    "description": "Iterative refinement, parameter optimization, and ML enhancement of existing trading strategies. Provides 3 tools: refine_strategy (targeted code changes, $0.50-$3.00), optimize_strategy (parameter tuning, $2-$4), enhance_with_allora (ML integration, $1-$2.50). More cost-effective than regenerating from scratch. Use when you have working strategies that need improvement. Always test improvements with test-trading-strategies before deploying."
+  },
+  "github": {
+    "owner": "robonet-tech",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/improve-trading-strategies",
+    "sourceUrl": "https://github.com/robonet-tech/skills/tree/main/skills/improve-trading-strategies"
+  }
+}

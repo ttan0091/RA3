@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 812,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 812,
+    "id": "terraphim-terraphim-skills-skills-disciplined-verification-skill-md",
+    "name": "disciplined-verification",
+    "author": "terraphim",
+    "stars": 0,
+    "githubUrl": "https://github.com/terraphim/terraphim-skills/tree/main/skills/disciplined-verification",
+    "skillUrl": "https://skillsmp.com/skills/terraphim-terraphim-skills-skills-disciplined-verification-skill-md",
+    "updatedAt": 1768923008,
+    "description": "Phase 4 of disciplined development. Verifies implementation against design\nthrough unit and integration testing. Builds traceability matrices, tracks\ncoverage, and loops defects back to originating left-side phases."
+  },
+  "github": {
+    "owner": "terraphim",
+    "repo": "terraphim-skills",
+    "ref": "main",
+    "relativePath": "skills/disciplined-verification",
+    "sourceUrl": "https://github.com/terraphim/terraphim-skills/tree/main/skills/disciplined-verification"
+  }
+}

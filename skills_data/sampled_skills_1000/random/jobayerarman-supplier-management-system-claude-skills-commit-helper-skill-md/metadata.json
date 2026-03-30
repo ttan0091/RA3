@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 928,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 928,
+    "id": "jobayerarman-supplier-management-system-claude-skills-commit-helper-skill-md",
+    "name": "commit-helper",
+    "author": "jobayerarman",
+    "stars": 0,
+    "githubUrl": "https://github.com/jobayerarman/Supplier_Management_System/tree/main/.claude/skills/commit-helper",
+    "skillUrl": "https://skillsmp.com/skills/jobayerarman-supplier-management-system-claude-skills-commit-helper-skill-md",
+    "updatedAt": 1764628166,
+    "description": "Generates clear, Angular-style commit messages from git diffs. Use when writing commit messages or reviewing staged changes."
+  },
+  "github": {
+    "owner": "jobayerarman",
+    "repo": "Supplier_Management_System",
+    "ref": "main",
+    "relativePath": ".claude/skills/commit-helper",
+    "sourceUrl": "https://github.com/jobayerarman/Supplier_Management_System/tree/main/.claude/skills/commit-helper"
+  }
+}

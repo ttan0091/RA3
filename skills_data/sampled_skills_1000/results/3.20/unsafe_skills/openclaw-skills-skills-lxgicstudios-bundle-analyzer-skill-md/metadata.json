@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 906,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 906,
+    "id": "openclaw-skills-skills-lxgicstudios-bundle-analyzer-skill-md",
+    "name": "bundle-checker",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/bundle-analyzer",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-lxgicstudios-bundle-analyzer-skill-md",
+    "updatedAt": 1769650463,
+    "description": "Analyze bundle size and get AI suggestions to reduce it. Use when your builds are getting bloated."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/lxgicstudios/bundle-analyzer",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/lxgicstudios/bundle-analyzer"
+  }
+}

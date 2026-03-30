@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 503,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 503,
+    "id": "agentuity-docs-doc-agents-agents-skills-agentuity-cli-cloud-sandbox-cp-skill-md",
+    "name": "agentuity-cli-cloud-sandbox-cp",
+    "author": "agentuity",
+    "stars": 4,
+    "githubUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-cloud-sandbox-cp",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-docs-doc-agents-agents-skills-agentuity-cli-cloud-sandbox-cp-skill-md",
+    "updatedAt": 1769137511,
+    "description": "Copy files or directories to or from a sandbox. Requires authentication. Use for Agentuity cloud platform operations"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "docs",
+    "ref": "main",
+    "relativePath": "doc-agents/.agents/skills/agentuity-cli-cloud-sandbox-cp",
+    "sourceUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-cloud-sandbox-cp"
+  }
+}

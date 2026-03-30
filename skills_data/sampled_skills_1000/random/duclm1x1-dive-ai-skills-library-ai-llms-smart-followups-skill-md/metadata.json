@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 669,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 669,
+    "id": "duclm1x1-dive-ai-skills-library-ai-llms-smart-followups-skill-md",
+    "name": "smart-followups",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/ai_llms/smart-followups",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-ai-llms-smart-followups-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Generate contextual follow-up suggestions after AI responses. Shows 3 clickable buttons (Quick, Deep Dive, Related) when user types \"/followups\"."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/ai_llms/smart-followups",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/ai_llms/smart-followups"
+  }
+}

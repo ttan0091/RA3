@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Server Operating System Market Share</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Web Server Operating System Market Share (2025)</h2>
+
+        <div class="tab-container">
+            <button class="tab-button active" data-tab="pie">Pie Chart</button>
+            <button class="tab-button" data-tab="bar">Bar Chart</button>
+            <button class="tab-button" data-tab="table">Table</button>
+        </div>
+
+        <div id="pie" class="tab-content active">
+            <div class="chart-container">
+                <canvas id="pieChart"></canvas>
+            </div>
+        </div>
+
+        <div id="bar" class="tab-content">
+            <div class="chart-container">
+                <canvas id="barChart"></canvas>
+            </div>
+        </div>
+
+        <div id="table" class="tab-content">
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Operating System</th>
+                        <th>Market Share (%)</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
+                </tbody>
+            </table>
+        </div>
+
+        <p class="source">Source: W3Techs, December 2025</p>
+    </div>
+
+    <script>
+        // Web Server OS Market Share Data (W3Techs, December 2025)
+        const chartData = {
+            labels: ['Unix/Linux', 'Windows'],
+            values: [90.4, 9.6],
+            colors: [
+                'rgba(255, 153, 0, 0.85)',
+                'rgba(0, 120, 212, 0.85)'
+            ],
+            borderColors: [
+                'rgba(255, 153, 0, 1)',
+                'rgba(0, 120, 212, 1)'
+            ],
+            categoryLabel: 'Operating System',
+            valueLabel: 'Market Share (%)',
+            valueUnit: '%',
+            showTotal: true
+        };
+
+        // Tab switching functionality
+        const tabButtons = document.querySelectorAll('.tab-button');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        tabButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                const tabId = button.dataset.tab;
+
+                // Update active states
+                tabButtons.forEach(btn => btn.classList.remove('active'));
+                tabContents.forEach(content => content.classList.remove('active'));
+
+                button.classList.add('active');
+                document.getElementById(tabId).classList.add('active');
+            });
+        });
+
+        // Pie Chart
+        const pieCtx = document.getElementById('pieChart').getContext('2d');
+        const pieChart = new Chart(pieCtx, {
+            type: 'pie',
+            data: {
+                labels: chartData.labels,
+                datasets: [{
+                    data: chartData.values,
+                    backgroundColor: chartData.colors,
+                    borderColor: chartData.borderColors,
+                    borderWidth: 2
+                }]
+            },
+            plugins: [ChartDataLabels],
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                layout: {
+                    padding: {
+                        top: -35,
+                        bottom: 35,
+                        left: 5,
+                        right: 5
+                    }
+                },
+                radius: '75%',
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.label + ': ' + context.parsed.toFixed(1) + '%';
+                            }
+                        }
+                    },
+                    datalabels: {
+                        formatter: function(value, context) {
+                            return context.chart.data.labels[context.dataIndex] + '\n' + value.toFixed(1) + '%';
+                        },
+                        color: function(context) {
+                            // Dark text for Windows when outside, black for Linux
+                            return context.dataIndex === 1 ? '#0078d4' : '#000';
+                        },
+                        font: {
+                            weight: 'bold',
+                            size: 14
+                        },
+                        textAlign: 'center',
+                        anchor: function(context) {
+                            // Windows slice (index 1) gets label outside, Linux inside
+                            return context.dataIndex === 1 ? 'end' : 'center';
+                        },
+                        align: function(context) {
+                            // Windows slice (index 1) gets label outside, Linux inside
+                            return context.dataIndex === 1 ? 'end' : 'center';
+                        },
+                        offset: function(context) {
+                            // Add offset for Windows label to push it outside
+                            return context.dataIndex === 1 ? 10 : 0;
+                        }
+                    }
+                }
+            }
+        });
+
+        // Bar Chart
+        const barCtx = document.getElementById('barChart').getContext('2d');
+        const barChart = new Chart(barCtx, {
+            type: 'bar',
+            data: {
+                labels: chartData.labels,
+                datasets: [{
+                    label: 'Market Share (%)',
+                    data: chartData.values,
+                    backgroundColor: chartData.colors,
+                    borderColor: chartData.borderColors,
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: true,
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100,
+                        title: {
+                            display: true,
+                            text: 'Percentage (%)',
+                            font: {
+                                size: 14
+                            }
+                        },
+                        ticks: {
+                            callback: function(value) {
+                                return value + '%';
+                            }
+                        }
+                    },
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Operating System',
+                            font: {
+                                size: 14
+                            }
+                        }
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false
+                    },
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.parsed.y.toFixed(1) + '%';
+                            }
+                        }
+                    }
+                }
+            }
+        });
+
+        // Populate Table
+        const tableBody = document.getElementById('tableBody');
+        chartData.labels.forEach((label, index) => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>
+                    <span class="color-indicator" style="background-color: ${chartData.colors[index]}"></span>
+                    ${label}
+                </td>
+                <td>${chartData.values[index].toFixed(1)}%</td>
+            `;
+            tableBody.appendChild(row);
+        });
+
+        // Add total row
+        const totalRow = document.createElement('tr');
+        totalRow.classList.add('total-row');
+        totalRow.innerHTML = `
+            <td><strong>Total</strong></td>
+            <td><strong>100.0%</strong></td>
+        `;
+        tableBody.appendChild(totalRow);
+    </script>
+</body>
+</html>

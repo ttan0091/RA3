@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 93,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 93,
+    "id": "google-gemini-gemini-cli-gemini-skills-pr-creator-skill-md",
+    "name": "pr-creator",
+    "author": "google-gemini",
+    "stars": 94166,
+    "githubUrl": "https://github.com/google-gemini/gemini-cli/tree/main/.gemini/skills/pr-creator",
+    "skillUrl": "https://skillsmp.com/skills/google-gemini-gemini-cli-gemini-skills-pr-creator-skill-md",
+    "updatedAt": 1770701890,
+    "description": "Use this skill when asked to create a pull request (PR). It ensures all PRs follow the repository's established templates and standards."
+  },
+  "github": {
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "ref": "main",
+    "relativePath": ".gemini/skills/pr-creator",
+    "sourceUrl": "https://github.com/google-gemini/gemini-cli/tree/main/.gemini/skills/pr-creator"
+  }
+}

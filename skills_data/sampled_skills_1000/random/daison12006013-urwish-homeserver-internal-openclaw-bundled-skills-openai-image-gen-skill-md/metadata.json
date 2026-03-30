@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 837,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 837,
+    "id": "daison12006013-urwish-homeserver-internal-openclaw-bundled-skills-openai-image-gen-skill-md",
+    "name": "openai-image-gen",
+    "author": "daison12006013",
+    "stars": 0,
+    "githubUrl": "https://github.com/daison12006013/urwish-homeserver/tree/main/internal/openclaw/bundled/skills/openai-image-gen",
+    "skillUrl": "https://skillsmp.com/skills/daison12006013-urwish-homeserver-internal-openclaw-bundled-skills-openai-image-gen-skill-md",
+    "updatedAt": 1770655064,
+    "description": "Batch-generate images via OpenAI Images API. Random prompt sampler + `index.html` gallery."
+  },
+  "github": {
+    "owner": "daison12006013",
+    "repo": "urwish-homeserver",
+    "ref": "main",
+    "relativePath": "internal/openclaw/bundled/skills/openai-image-gen",
+    "sourceUrl": "https://github.com/daison12006013/urwish-homeserver/tree/main/internal/openclaw/bundled/skills/openai-image-gen"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 824,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 824,
+    "id": "kaiserwholearns-skillsbench-tasks-virtualhome-agent-planning-environment-skills-virtualhome-skills-skill-md",
+    "name": "virtualhome-skills",
+    "author": "KaiserWhoLearns",
+    "stars": 0,
+    "githubUrl": "https://github.com/KaiserWhoLearns/skillsbench/tree/main/tasks/virtualhome-agent-planning/environment/skills/virtualhome-skills",
+    "skillUrl": "https://skillsmp.com/skills/kaiserwholearns-skillsbench-tasks-virtualhome-agent-planning-environment-skills-virtualhome-skills-skill-md",
+    "updatedAt": 1768844834,
+    "description": "Skill library for embodied household task planning in VirtualHome environments. Provides reusable high-level skills composed of primitive actions to generate executable programs from task descriptions and initial states."
+  },
+  "github": {
+    "owner": "KaiserWhoLearns",
+    "repo": "skillsbench",
+    "ref": "main",
+    "relativePath": "tasks/virtualhome-agent-planning/environment/skills/virtualhome-skills",
+    "sourceUrl": "https://github.com/KaiserWhoLearns/skillsbench/tree/main/tasks/virtualhome-agent-planning/environment/skills/virtualhome-skills"
+  }
+}

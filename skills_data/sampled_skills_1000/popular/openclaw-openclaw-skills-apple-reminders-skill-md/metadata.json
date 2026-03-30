@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 15,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 15,
+    "id": "openclaw-openclaw-skills-apple-reminders-skill-md",
+    "name": "apple-reminders",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-apple-reminders-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Manage Apple Reminders via the `remindctl` CLI on macOS (list, add, edit, complete, delete). Supports lists, date filters, and JSON/plain output."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/apple-reminders",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/apple-reminders"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 244,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 244,
+    "id": "openclaw-skills-skills-arnarsson-curl-http-skill-md",
+    "name": "curl-http",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/arnarsson/curl-http",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-arnarsson-curl-http-skill-md",
+    "updatedAt": 1769697268,
+    "description": "Essential curl commands for HTTP requests, API testing, and file transfers."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/arnarsson/curl-http",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/arnarsson/curl-http"
+  }
+}

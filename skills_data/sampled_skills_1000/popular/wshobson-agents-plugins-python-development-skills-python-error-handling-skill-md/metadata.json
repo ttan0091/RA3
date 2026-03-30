@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 467,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 467,
+    "id": "wshobson-agents-plugins-python-development-skills-python-error-handling-skill-md",
+    "name": "python-error-handling",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-error-handling",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-error-handling-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python error handling patterns including input validation, exception hierarchies, and partial failure handling. Use when implementing validation logic, designing exception strategies, handling batch processing failures, or building robust APIs."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-error-handling",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-error-handling"
+  }
+}

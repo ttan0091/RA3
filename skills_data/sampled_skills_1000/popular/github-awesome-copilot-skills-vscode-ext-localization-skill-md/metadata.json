@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 616,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 616,
+    "id": "github-awesome-copilot-skills-vscode-ext-localization-skill-md",
+    "name": "vscode-ext-localization",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/vscode-ext-localization",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-vscode-ext-localization-skill-md",
+    "updatedAt": 1768148156,
+    "description": "Guidelines for proper localization of VS Code extensions, following VS Code extension development guidelines, libraries and good practices"
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/vscode-ext-localization",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/vscode-ext-localization"
+  }
+}

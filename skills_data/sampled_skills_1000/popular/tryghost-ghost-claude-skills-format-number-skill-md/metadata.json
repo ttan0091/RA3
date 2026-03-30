@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 173,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 173,
+    "id": "tryghost-ghost-claude-skills-format-number-skill-md",
+    "name": "format-numbers",
+    "author": "TryGhost",
+    "stars": 51791,
+    "githubUrl": "https://github.com/TryGhost/Ghost/tree/main/.claude/skills/format-number",
+    "skillUrl": "https://skillsmp.com/skills/tryghost-ghost-claude-skills-format-number-skill-md",
+    "updatedAt": 1770721104,
+    "description": "Format numbers using the formatNumber function from Shade whenever someone edits a TSX file."
+  },
+  "github": {
+    "owner": "TryGhost",
+    "repo": "Ghost",
+    "ref": "main",
+    "relativePath": ".claude/skills/format-number",
+    "sourceUrl": "https://github.com/TryGhost/Ghost/tree/main/.claude/skills/format-number"
+  }
+}

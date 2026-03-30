@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 291,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 291,
+    "id": "ndhananj-codex-agent-setup-docs-zh-cn-skills-django-security-skill-md",
+    "name": "django-security",
+    "author": "ndhananj",
+    "stars": 0,
+    "githubUrl": "https://github.com/ndhananj/codex-agent-setup/tree/main/docs/zh-CN/skills/django-security",
+    "skillUrl": "https://skillsmp.com/skills/ndhananj-codex-agent-setup-docs-zh-cn-skills-django-security-skill-md",
+    "updatedAt": 1770485530,
+    "description": "Django安全最佳实践，身份验证，授权，CSRF保护，SQL注入预防，XSS预防和安全部署配置。"
+  },
+  "github": {
+    "owner": "ndhananj",
+    "repo": "codex-agent-setup",
+    "ref": "main",
+    "relativePath": "docs/zh-CN/skills/django-security",
+    "sourceUrl": "https://github.com/ndhananj/codex-agent-setup/tree/main/docs/zh-CN/skills/django-security"
+  }
+}

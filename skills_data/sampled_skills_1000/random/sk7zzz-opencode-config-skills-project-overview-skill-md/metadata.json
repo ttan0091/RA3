@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 546,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 546,
+    "id": "sk7zzz-opencode-config-skills-project-overview-skill-md",
+    "name": "project-overview",
+    "author": "SK7zzz",
+    "stars": 0,
+    "githubUrl": "https://github.com/SK7zzz/opencode-config/tree/main/skills/project-overview",
+    "skillUrl": "https://skillsmp.com/skills/sk7zzz-opencode-config-skills-project-overview-skill-md",
+    "updatedAt": 1770674860,
+    "description": "High-level overview of the project (purpose, architecture, main flows, and repo map)."
+  },
+  "github": {
+    "owner": "SK7zzz",
+    "repo": "opencode-config",
+    "ref": "main",
+    "relativePath": "skills/project-overview",
+    "sourceUrl": "https://github.com/SK7zzz/opencode-config/tree/main/skills/project-overview"
+  }
+}

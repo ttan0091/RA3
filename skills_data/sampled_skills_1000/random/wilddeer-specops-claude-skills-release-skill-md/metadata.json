@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 525,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 525,
+    "id": "wilddeer-specops-claude-skills-release-skill-md",
+    "name": "release",
+    "author": "wilddeer",
+    "stars": 0,
+    "githubUrl": "https://github.com/wilddeer/specops/tree/main/.claude/skills/release",
+    "skillUrl": "https://skillsmp.com/skills/wilddeer-specops-claude-skills-release-skill-md",
+    "updatedAt": 1769618934,
+    "description": "Create a new specops release with version bump, tag, and GitHub release"
+  },
+  "github": {
+    "owner": "wilddeer",
+    "repo": "specops",
+    "ref": "main",
+    "relativePath": ".claude/skills/release",
+    "sourceUrl": "https://github.com/wilddeer/specops/tree/main/.claude/skills/release"
+  }
+}

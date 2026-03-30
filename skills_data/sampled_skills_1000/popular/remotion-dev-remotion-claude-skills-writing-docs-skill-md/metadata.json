@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 316,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 316,
+    "id": "remotion-dev-remotion-claude-skills-writing-docs-skill-md",
+    "name": "writing-docs",
+    "author": "remotion-dev",
+    "stars": 36019,
+    "githubUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/writing-docs",
+    "skillUrl": "https://skillsmp.com/skills/remotion-dev-remotion-claude-skills-writing-docs-skill-md",
+    "updatedAt": 1769862202,
+    "description": "Guides for writing and editing Remotion documentation. Use when adding docs pages, editing MDX files in packages/docs, or writing documentation content."
+  },
+  "github": {
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "ref": "main",
+    "relativePath": ".claude/skills/writing-docs",
+    "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/writing-docs"
+  }
+}

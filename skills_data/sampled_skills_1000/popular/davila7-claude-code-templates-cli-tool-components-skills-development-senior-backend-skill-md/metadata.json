@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 920,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 920,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-backend-skill-md",
+    "name": "senior-backend",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-backend",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-backend-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Comprehensive backend development skill for building scalable backend systems using NodeJS, Express, Go, Python, Postgres, GraphQL, REST APIs. Includes API scaffolding, database optimization, security implementation, and performance tuning. Use when designing APIs, optimizing database queries, implementing business logic, handling authentication/authorization, or reviewing backend code."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-backend",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-backend"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 835,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 835,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-aws-serverless-skill-md",
+    "name": "aws-serverless",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/aws-serverless",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-aws-serverless-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Specialized skill for building production-ready serverless applications on AWS. Covers Lambda functions, API Gateway, DynamoDB, SQS/SNS event-driven patterns, SAM/CDK deployment, and cold start optimization."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/aws-serverless",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/aws-serverless"
+  }
+}

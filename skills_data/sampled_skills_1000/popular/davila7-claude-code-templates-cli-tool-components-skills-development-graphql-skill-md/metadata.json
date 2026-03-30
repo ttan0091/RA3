@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 879,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 879,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-graphql-skill-md",
+    "name": "graphql",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/graphql",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-graphql-skill-md",
+    "updatedAt": 1769353274,
+    "description": "GraphQL gives clients exactly the data they need - no more, no less. One endpoint, typed schema, introspection. But the flexibility that makes it powerful also makes it dangerous. Without proper controls, clients can craft queries that bring down your server.  This skill covers schema design, resolvers, DataLoader for N+1 prevention, federation for microservices, and client integration with Apollo/urql. Key insight: GraphQL is a contract. The schema is the API documentation. Design it carefully."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/graphql",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/graphql"
+  }
+}

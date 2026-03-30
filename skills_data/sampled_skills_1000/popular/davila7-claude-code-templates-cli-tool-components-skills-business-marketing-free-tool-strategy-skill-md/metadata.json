@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 763,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 763,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-free-tool-strategy-skill-md",
+    "name": "free-tool-strategy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/free-tool-strategy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-free-tool-strategy-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to plan, evaluate, or build a free tool for marketing purposes — lead generation, SEO value, or brand awareness. Also use when the user mentions \"engineering as marketing,\" \"free tool,\" \"marketing tool,\" \"calculator,\" \"generator,\" \"interactive tool,\" \"lead gen tool,\" \"build a tool for leads,\" or \"free resource.\" This skill bridges engineering and marketing — useful for founders and technical marketers."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/free-tool-strategy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/free-tool-strategy"
+  }
+}

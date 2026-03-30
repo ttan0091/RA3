@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 454,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 454,
+    "id": "rafaelkamimura-claude-tools-skills-multi-system-sso-authentication-skill-md",
+    "name": "multi-system-sso-authentication",
+    "author": "rafaelkamimura",
+    "stars": 5,
+    "githubUrl": "https://github.com/rafaelkamimura/claude-tools/tree/main/skills/multi-system-sso-authentication",
+    "skillUrl": "https://skillsmp.com/skills/rafaelkamimura-claude-tools-skills-multi-system-sso-authentication-skill-md",
+    "updatedAt": 1767717090,
+    "description": "Implement enterprise Single Sign-On (SSO) authentication supporting multiple identity providers with JWT RS256 tokens, backwards verification, session management, and cross-system permission mapping. Use this skill when building authentication systems that integrate with multiple enterprise SSO providers or when implementing secure token validation with session verification."
+  },
+  "github": {
+    "owner": "rafaelkamimura",
+    "repo": "claude-tools",
+    "ref": "main",
+    "relativePath": "skills/multi-system-sso-authentication",
+    "sourceUrl": "https://github.com/rafaelkamimura/claude-tools/tree/main/skills/multi-system-sso-authentication"
+  }
+}

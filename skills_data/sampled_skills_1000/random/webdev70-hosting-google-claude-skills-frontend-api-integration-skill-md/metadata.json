@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 871,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 871,
+    "id": "webdev70-hosting-google-claude-skills-frontend-api-integration-skill-md",
+    "name": "frontend-api-integration",
+    "author": "WebDev70",
+    "stars": 0,
+    "githubUrl": "https://github.com/WebDev70/hosting-google/tree/main/.claude/skills/frontend-api-integration",
+    "skillUrl": "https://skillsmp.com/skills/webdev70-hosting-google-claude-skills-frontend-api-integration-skill-md",
+    "updatedAt": 1767220490,
+    "description": "Expert knowledge of frontend JavaScript for API integration including fetch/axios patterns, async/await error handling, form validation and submission, pagination implementation, loading states, DOM manipulation, event listeners, query parameter building, and vanilla JS best practices. Use when working with public/script.js, adding UI features, debugging client-side API issues, implementing forms, or managing client-side state."
+  },
+  "github": {
+    "owner": "WebDev70",
+    "repo": "hosting-google",
+    "ref": "main",
+    "relativePath": ".claude/skills/frontend-api-integration",
+    "sourceUrl": "https://github.com/WebDev70/hosting-google/tree/main/.claude/skills/frontend-api-integration"
+  }
+}

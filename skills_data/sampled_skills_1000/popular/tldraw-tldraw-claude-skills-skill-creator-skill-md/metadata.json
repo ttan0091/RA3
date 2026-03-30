@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 203,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 203,
+    "id": "tldraw-tldraw-claude-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-skill-creator-skill-md",
+    "updatedAt": 1767786062,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/skill-creator",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/skill-creator"
+  }
+}

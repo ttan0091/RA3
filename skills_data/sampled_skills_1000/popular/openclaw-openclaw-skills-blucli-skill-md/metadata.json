@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 18,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 18,
+    "id": "openclaw-openclaw-skills-blucli-skill-md",
+    "name": "blucli",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/blucli",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-blucli-skill-md",
+    "updatedAt": 1769862085,
+    "description": "BluOS CLI (blu) for discovery, playback, grouping, and volume."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/blucli",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/blucli"
+  }
+}

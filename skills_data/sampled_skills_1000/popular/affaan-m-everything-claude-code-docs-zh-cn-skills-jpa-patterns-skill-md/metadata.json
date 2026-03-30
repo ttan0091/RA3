@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 234,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 234,
+    "id": "affaan-m-everything-claude-code-docs-zh-cn-skills-jpa-patterns-skill-md",
+    "name": "jpa-patterns",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/jpa-patterns",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-cn-skills-jpa-patterns-skill-md",
+    "updatedAt": 1770299874,
+    "description": "Spring Boot中的JPA/Hibernate实体设计、关系、查询优化、事务、审计、索引、分页和连接池模式。"
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-CN/skills/jpa-patterns",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-CN/skills/jpa-patterns"
+  }
+}

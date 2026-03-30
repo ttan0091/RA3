@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 917,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 917,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-screenshot-feature-extractor-skill-md",
+    "name": "screenshot-feature-extractor",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/screenshot-feature-extractor",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-screenshot-feature-extractor-skill-md",
+    "updatedAt": 1767959780,
+    "description": "Analyze product screenshots to extract feature lists and generate development task checklists. Use when: (1) Analyzing competitor product screenshots for feature extraction, (2) Generating PRD/task lists from UI designs, (3) Batch analyzing multiple app screens, (4) Conducting competitive analysis from visual references."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/screenshot-feature-extractor",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/screenshot-feature-extractor"
+  }
+}

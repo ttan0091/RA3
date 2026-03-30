@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 61,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 61,
+    "id": "openclaw-openclaw-skills-weather-skill-md",
+    "name": "weather",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/weather",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-weather-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Get current weather and forecasts (no API key required)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/weather",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/weather"
+  }
+}

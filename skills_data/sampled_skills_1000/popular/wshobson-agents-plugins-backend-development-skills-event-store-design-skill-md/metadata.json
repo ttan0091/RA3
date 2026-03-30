@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 374,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 374,
+    "id": "wshobson-agents-plugins-backend-development-skills-event-store-design-skill-md",
+    "name": "event-store-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/event-store-design",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-backend-development-skills-event-store-design-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/backend-development/skills/event-store-design",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/event-store-design"
+  }
+}

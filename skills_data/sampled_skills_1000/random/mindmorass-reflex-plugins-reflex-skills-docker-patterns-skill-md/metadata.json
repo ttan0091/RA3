@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 452,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 452,
+    "id": "mindmorass-reflex-plugins-reflex-skills-docker-patterns-skill-md",
+    "name": "docker-patterns",
+    "author": "mindmorass",
+    "stars": 2,
+    "githubUrl": "https://github.com/mindmorass/reflex/tree/main/plugins/reflex/skills/docker-patterns",
+    "skillUrl": "https://skillsmp.com/skills/mindmorass-reflex-plugins-reflex-skills-docker-patterns-skill-md",
+    "updatedAt": 1767459732,
+    "description": "Best practices for containerizing applications with Docker."
+  },
+  "github": {
+    "owner": "mindmorass",
+    "repo": "reflex",
+    "ref": "main",
+    "relativePath": "plugins/reflex/skills/docker-patterns",
+    "sourceUrl": "https://github.com/mindmorass/reflex/tree/main/plugins/reflex/skills/docker-patterns"
+  }
+}

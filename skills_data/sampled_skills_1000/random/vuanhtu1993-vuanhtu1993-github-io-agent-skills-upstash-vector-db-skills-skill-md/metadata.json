@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 609,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 609,
+    "id": "vuanhtu1993-vuanhtu1993-github-io-agent-skills-upstash-vector-db-skills-skill-md",
+    "name": "upstash-vector-db-skills",
+    "author": "vuanhtu1993",
+    "stars": 0,
+    "githubUrl": "https://github.com/vuanhtu1993/vuanhtu1993.github.io/tree/main/.agent/skills/upstash-vector-db-skills",
+    "skillUrl": "https://skillsmp.com/skills/vuanhtu1993-vuanhtu1993-github-io-agent-skills-upstash-vector-db-skills-skill-md",
+    "updatedAt": 1770347842,
+    "description": "Upstash Vector DB setup, semantic search, namespaces, and embedding models (MixBread preferred). Use when building vector search features on Vercel."
+  },
+  "github": {
+    "owner": "vuanhtu1993",
+    "repo": "vuanhtu1993.github.io",
+    "ref": "main",
+    "relativePath": ".agent/skills/upstash-vector-db-skills",
+    "sourceUrl": "https://github.com/vuanhtu1993/vuanhtu1993.github.io/tree/main/.agent/skills/upstash-vector-db-skills"
+  }
+}

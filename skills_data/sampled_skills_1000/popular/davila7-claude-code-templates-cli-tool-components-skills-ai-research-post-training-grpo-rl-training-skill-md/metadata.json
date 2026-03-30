@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 713,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 713,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-grpo-rl-training-skill-md",
+    "name": "grpo-rl-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-grpo-rl-training",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-grpo-rl-training-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Expert guidance for GRPO/RL fine-tuning with TRL for reasoning and task-specific model training"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/post-training-grpo-rl-training",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-grpo-rl-training"
+  }
+}

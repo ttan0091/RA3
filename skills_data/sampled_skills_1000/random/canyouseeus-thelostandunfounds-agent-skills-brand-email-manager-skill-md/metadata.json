@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 984,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 984,
+    "id": "canyouseeus-thelostandunfounds-agent-skills-brand-email-manager-skill-md",
+    "name": "brand-email-manager",
+    "author": "canyouseeus",
+    "stars": 0,
+    "githubUrl": "https://github.com/canyouseeus/thelostandunfounds/tree/main/.agent/skills/brand-email-manager",
+    "skillUrl": "https://skillsmp.com/skills/canyouseeus-thelostandunfounds-agent-skills-brand-email-manager-skill-md",
+    "updatedAt": 1768591325,
+    "description": "Ensures all outgoing emails follow THE LOST+UNFOUNDS branding guidelines using the standardized template in `lib/email-template.ts`."
+  },
+  "github": {
+    "owner": "canyouseeus",
+    "repo": "thelostandunfounds",
+    "ref": "main",
+    "relativePath": ".agent/skills/brand-email-manager",
+    "sourceUrl": "https://github.com/canyouseeus/thelostandunfounds/tree/main/.agent/skills/brand-email-manager"
+  }
+}

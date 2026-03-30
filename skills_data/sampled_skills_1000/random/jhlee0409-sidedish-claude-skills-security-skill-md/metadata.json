@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 30,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 30,
+    "id": "jhlee0409-sidedish-claude-skills-security-skill-md",
+    "name": "security",
+    "author": "jhlee0409",
+    "stars": 0,
+    "githubUrl": "https://github.com/jhlee0409/sidedish/tree/main/.claude/skills/security",
+    "skillUrl": "https://skillsmp.com/skills/jhlee0409-sidedish-claude-skills-security-skill-md",
+    "updatedAt": 1767465681,
+    "description": "Implements security features following OWASP guidelines. Use when validating input, preventing XSS, adding rate limiting, verifying auth, or handling file uploads. Includes security-utils, sanitize-utils, and rate-limiter patterns."
+  },
+  "github": {
+    "owner": "jhlee0409",
+    "repo": "sidedish",
+    "ref": "main",
+    "relativePath": ".claude/skills/security",
+    "sourceUrl": "https://github.com/jhlee0409/sidedish/tree/main/.claude/skills/security"
+  }
+}

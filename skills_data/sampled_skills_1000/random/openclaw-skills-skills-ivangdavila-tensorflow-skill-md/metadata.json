@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 485,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 485,
+    "id": "openclaw-skills-skills-ivangdavila-tensorflow-skill-md",
+    "name": "tensorflow",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/tensorflow",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-ivangdavila-tensorflow-skill-md",
+    "updatedAt": 1770687521,
+    "description": "Avoid common TensorFlow mistakes — tf.function retracing, GPU memory, data pipeline bottlenecks, and gradient traps."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/ivangdavila/tensorflow",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/tensorflow"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 515,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 515,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-tool-builder-skill-md",
+    "name": "hugging-face-tool-builder",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-tool-builder",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-tool-builder-skill-md",
+    "updatedAt": 1769769658,
+    "description": "Use this skill when the user wants to build tool/scripts or achieve a task where using data from the Hugging Face API would help. This is especially useful when chaining or combining API calls or the task will be repeated/automated. This Skill creates a reusable script to fetch, enrich or process data."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-tool-builder",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-tool-builder"
+  }
+}

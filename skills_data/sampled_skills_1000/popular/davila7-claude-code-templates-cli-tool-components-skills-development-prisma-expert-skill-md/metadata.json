@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 907,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 907,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-prisma-expert-skill-md",
+    "name": "prisma-expert",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/prisma-expert",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-prisma-expert-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Prisma ORM expert for schema design, migrations, query optimization, relations modeling, and database operations. Use PROACTIVELY for Prisma schema issues, migration problems, query performance, relation design, or database connection issues."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/prisma-expert",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/prisma-expert"
+  }
+}

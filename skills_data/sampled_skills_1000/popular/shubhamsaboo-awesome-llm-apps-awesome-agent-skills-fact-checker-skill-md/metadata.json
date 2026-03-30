@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 105,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 105,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-fact-checker-skill-md",
+    "name": "fact-checker",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fact-checker",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-fact-checker-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Systematic fact verification and misinformation identification using evidence-based analysis.\nUse when: verifying claims, checking facts, identifying misinformation, evaluating source credibility,\nor when user asks to \"fact check\", \"verify\", \"is this true\", or mentions claims that need validation."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/fact-checker",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/fact-checker"
+  }
+}

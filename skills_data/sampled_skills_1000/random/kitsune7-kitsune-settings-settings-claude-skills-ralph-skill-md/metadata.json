@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 913,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 913,
+    "id": "kitsune7-kitsune-settings-settings-claude-skills-ralph-skill-md",
+    "name": "ralph",
+    "author": "kitsune7",
+    "stars": 2,
+    "githubUrl": "https://github.com/kitsune7/kitsune-settings/tree/main/settings/claude/skills/ralph",
+    "skillUrl": "https://skillsmp.com/skills/kitsune7-kitsune-settings-settings-claude-skills-ralph-skill-md",
+    "updatedAt": 1768950921,
+    "description": "Runs the Ralph autonomous loop. Executes stories from prds/*.json using git worktrees."
+  },
+  "github": {
+    "owner": "kitsune7",
+    "repo": "kitsune-settings",
+    "ref": "main",
+    "relativePath": "settings/claude/skills/ralph",
+    "sourceUrl": "https://github.com/kitsune7/kitsune-settings/tree/main/settings/claude/skills/ralph"
+  }
+}

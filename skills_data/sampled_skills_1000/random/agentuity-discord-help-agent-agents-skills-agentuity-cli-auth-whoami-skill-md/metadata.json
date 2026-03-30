@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 455,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 455,
+    "id": "agentuity-discord-help-agent-agents-skills-agentuity-cli-auth-whoami-skill-md",
+    "name": "agentuity-cli-auth-whoami",
+    "author": "agentuity",
+    "stars": 1,
+    "githubUrl": "https://github.com/agentuity/discord-help-agent/tree/main/.agents/skills/agentuity-cli-auth-whoami",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-discord-help-agent-agents-skills-agentuity-cli-auth-whoami-skill-md",
+    "updatedAt": 1767561823,
+    "description": "Display information about the currently authenticated user. Requires authentication. Use for managing authentication credentials"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "discord-help-agent",
+    "ref": "main",
+    "relativePath": ".agents/skills/agentuity-cli-auth-whoami",
+    "sourceUrl": "https://github.com/agentuity/discord-help-agent/tree/main/.agents/skills/agentuity-cli-auth-whoami"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 21,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 21,
+    "id": "openclaw-openclaw-skills-clawhub-skill-md",
+    "name": "clawhub",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/clawhub",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-clawhub-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Use the ClawHub CLI to search, install, update, and publish agent skills from clawhub.com. Use when you need to fetch new skills on the fly, sync installed skills to latest or a specific version, or publish new/updated skill folders with the npm-installed clawhub CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/clawhub",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/clawhub"
+  }
+}

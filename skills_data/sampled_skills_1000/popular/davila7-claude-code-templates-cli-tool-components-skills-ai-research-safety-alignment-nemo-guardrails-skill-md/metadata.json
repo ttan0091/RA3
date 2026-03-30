@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 740,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 740,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-safety-alignment-nemo-guardrails-skill-md",
+    "name": "nemo-guardrails",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-nemo-guardrails",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-safety-alignment-nemo-guardrails-skill-md",
+    "updatedAt": 1767882269,
+    "description": "NVIDIA's runtime safety framework for LLM applications. Features jailbreak detection, input/output validation, fact-checking, hallucination detection, PII filtering, toxicity detection. Uses Colang 2.0 DSL for programmable rails. Production-ready, runs on T4 GPU."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/safety-alignment-nemo-guardrails",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-nemo-guardrails"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 477,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 477,
+    "id": "wshobson-agents-plugins-quantitative-trading-skills-backtesting-frameworks-skill-md",
+    "name": "backtesting-frameworks",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/quantitative-trading/skills/backtesting-frameworks",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-quantitative-trading-skills-backtesting-frameworks-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build robust backtesting systems for trading strategies with proper handling of look-ahead bias, survivorship bias, and transaction costs. Use when developing trading algorithms, validating strategies, or building backtesting infrastructure."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/quantitative-trading/skills/backtesting-frameworks",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/quantitative-trading/skills/backtesting-frameworks"
+  }
+}

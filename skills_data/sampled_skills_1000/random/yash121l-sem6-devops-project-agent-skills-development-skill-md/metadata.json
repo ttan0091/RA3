@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 113,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 113,
+    "id": "yash121l-sem6-devops-project-agent-skills-development-skill-md",
+    "name": "development",
+    "author": "Yash121l",
+    "stars": 0,
+    "githubUrl": "https://github.com/Yash121l/sem6-devops-project/tree/main/.agent/skills/development",
+    "skillUrl": "https://skillsmp.com/skills/yash121l-sem6-devops-project-agent-skills-development-skill-md",
+    "updatedAt": 1770053359,
+    "description": "Local development environment setup and commands"
+  },
+  "github": {
+    "owner": "Yash121l",
+    "repo": "sem6-devops-project",
+    "ref": "main",
+    "relativePath": ".agent/skills/development",
+    "sourceUrl": "https://github.com/Yash121l/sem6-devops-project/tree/main/.agent/skills/development"
+  }
+}

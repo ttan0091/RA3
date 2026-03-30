@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 903,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 903,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-playwright-skill-md",
+    "name": "playwright",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/playwright",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-playwright-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use when the task requires automating a real browser from the terminal (navigation, form filling, snapshots, screenshots, data extraction, UI-flow debugging) via `playwright-cli` or the bundled wrapper script."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/playwright",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/playwright"
+  }
+}

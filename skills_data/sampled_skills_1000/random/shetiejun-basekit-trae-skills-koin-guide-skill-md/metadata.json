@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 25,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 25,
+    "id": "shetiejun-basekit-trae-skills-koin-guide-skill-md",
+    "name": "koin-guide",
+    "author": "SheTieJun",
+    "stars": 8,
+    "githubUrl": "https://github.com/SheTieJun/BaseKit/tree/master/.trae/skills/koin-guide",
+    "skillUrl": "https://skillsmp.com/skills/shetiejun-basekit-trae-skills-koin-guide-skill-md",
+    "updatedAt": 1770279358,
+    "description": "Expert guide for Koin dependency injection in Kotlin/Android. Invoke when user asks about Koin setup, modules, injection (single/factory/viewModel), or replacing Dagger."
+  },
+  "github": {
+    "owner": "SheTieJun",
+    "repo": "BaseKit",
+    "ref": "master",
+    "relativePath": ".trae/skills/koin-guide",
+    "sourceUrl": "https://github.com/SheTieJun/BaseKit/tree/master/.trae/skills/koin-guide"
+  }
+}

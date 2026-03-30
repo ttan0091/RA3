@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 133,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 133,
+    "id": "ehtbanton-claudeskillsrepo-dependabot-config-generator-skill-md",
+    "name": "dependabot-config-generator",
+    "author": "ehtbanton",
+    "stars": 0,
+    "githubUrl": "https://github.com/ehtbanton/ClaudeSkillsRepo/tree/main/dependabot-config-generator",
+    "skillUrl": "https://skillsmp.com/skills/ehtbanton-claudeskillsrepo-dependabot-config-generator-skill-md",
+    "updatedAt": 1765992672,
+    "description": "Generate Dependabot configuration for GitHub automated dependency updates. Triggers on \"create dependabot config\", \"generate dependabot configuration\", \"dependabot setup\", \"github dependency updates\"."
+  },
+  "github": {
+    "owner": "ehtbanton",
+    "repo": "ClaudeSkillsRepo",
+    "ref": "main",
+    "relativePath": "dependabot-config-generator",
+    "sourceUrl": "https://github.com/ehtbanton/ClaudeSkillsRepo/tree/main/dependabot-config-generator"
+  }
+}

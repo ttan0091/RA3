@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 350,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 350,
+    "id": "slavochek2-claritypledge-claude-commands-awesome-pdf-skill-md",
+    "name": "awesomepdf",
+    "author": "slavochek2",
+    "stars": 0,
+    "githubUrl": "https://github.com/slavochek2/claritypledge/tree/main/.claude/commands/awesome/pdf",
+    "skillUrl": "https://skillsmp.com/skills/slavochek2-claritypledge-claude-commands-awesome-pdf-skill-md",
+    "updatedAt": 1768543917,
+    "description": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmatically process, generate, or analyze PDF documents at scale."
+  },
+  "github": {
+    "owner": "slavochek2",
+    "repo": "claritypledge",
+    "ref": "main",
+    "relativePath": ".claude/commands/awesome/pdf",
+    "sourceUrl": "https://github.com/slavochek2/claritypledge/tree/main/.claude/commands/awesome/pdf"
+  }
+}

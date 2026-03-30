@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 588,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 588,
+    "id": "github-awesome-copilot-skills-azure-static-web-apps-skill-md",
+    "name": "azure-static-web-apps",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-static-web-apps",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-azure-static-web-apps-skill-md",
+    "updatedAt": 1768588947,
+    "description": "Helps create, configure, and deploy Azure Static Web Apps using the SWA CLI. Use when deploying static sites to Azure, setting up SWA local development, configuring staticwebapp.config.json, adding Azure Functions APIs to SWA, or setting up GitHub Actions CI/CD for Static Web Apps."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/azure-static-web-apps",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-static-web-apps"
+  }
+}

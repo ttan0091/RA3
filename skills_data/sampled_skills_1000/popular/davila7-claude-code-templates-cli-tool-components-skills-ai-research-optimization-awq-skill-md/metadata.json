@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 705,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 705,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-awq-skill-md",
+    "name": "awq-quantization",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-awq",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-awq-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Activation-aware weight quantization for 4-bit LLM compression with 3x speedup and minimal accuracy loss. Use when deploying large models (7B-70B) on limited GPU memory, when you need faster inference than GPTQ with better accuracy preservation, or for instruction-tuned and multimodal models. MLSys 2024 Best Paper Award winner."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/optimization-awq",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-awq"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 445,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 445,
+    "id": "breakerofstems-claude-fluid-baseline-claude-skills-add-rule-skill-md",
+    "name": "add-rule",
+    "author": "BreakerOfStems",
+    "stars": 0,
+    "githubUrl": "https://github.com/BreakerOfStems/claude-fluid-baseline/tree/main/.claude/skills/add-rule",
+    "skillUrl": "https://skillsmp.com/skills/breakerofstems-claude-fluid-baseline-claude-skills-add-rule-skill-md",
+    "updatedAt": 1769032745,
+    "description": "Add a new rule to the learned rules file"
+  },
+  "github": {
+    "owner": "BreakerOfStems",
+    "repo": "claude-fluid-baseline",
+    "ref": "main",
+    "relativePath": ".claude/skills/add-rule",
+    "sourceUrl": "https://github.com/BreakerOfStems/claude-fluid-baseline/tree/main/.claude/skills/add-rule"
+  }
+}

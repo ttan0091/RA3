@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 214,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 214,
+    "id": "farmanlab-ai-agent-orchestra-agents-skills-converting-figma-to-html-skill-md",
+    "name": "converting-figma-to-html",
+    "author": "farmanlab",
+    "stars": 1,
+    "githubUrl": "https://github.com/farmanlab/ai_agent_orchestra/tree/main/.agents/skills/converting-figma-to-html",
+    "skillUrl": "https://skillsmp.com/skills/farmanlab-ai-agent-orchestra-agents-skills-converting-figma-to-html-skill-md",
+    "updatedAt": 1768470121,
+    "description": "Provides expertise in converting Figma designs to HTML/CSS using Figma MCP tools, with data attributes for content tracking and comprehensive analysis. Use when converting Figma designs to web code."
+  },
+  "github": {
+    "owner": "farmanlab",
+    "repo": "ai_agent_orchestra",
+    "ref": "main",
+    "relativePath": ".agents/skills/converting-figma-to-html",
+    "sourceUrl": "https://github.com/farmanlab/ai_agent_orchestra/tree/main/.agents/skills/converting-figma-to-html"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 513,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 513,
+    "id": "tencentblueking-bk-bcs-bcs-services-bcs-project-manager-cursor-skills-js-security-check-skill-md",
+    "name": "javascript",
+    "author": "TencentBlueKing",
+    "stars": 836,
+    "githubUrl": "https://github.com/TencentBlueKing/bk-bcs/tree/master/bcs-services/bcs-project-manager/.cursor/skills/js-security-check",
+    "skillUrl": "https://skillsmp.com/skills/tencentblueking-bk-bcs-bcs-services-bcs-project-manager-cursor-skills-js-security-check-skill-md",
+    "updatedAt": 1770101184,
+    "description": "检查 XSS、CSRF、原型污染等安全问题，支持 React/Vue/Angular"
+  },
+  "github": {
+    "owner": "TencentBlueKing",
+    "repo": "bk-bcs",
+    "ref": "master",
+    "relativePath": "bcs-services/bcs-project-manager/.cursor/skills/js-security-check",
+    "sourceUrl": "https://github.com/TencentBlueKing/bk-bcs/tree/master/bcs-services/bcs-project-manager/.cursor/skills/js-security-check"
+  }
+}

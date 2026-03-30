@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 34,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 34,
+    "id": "duclm1x1-dive-ai-skills-library-data-analytics-ec-session-cleaner-skill-md",
+    "name": "session-cleaner",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/data_analytics/ec-session-cleaner",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-data-analytics-ec-session-cleaner-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Convert raw OpenClaw session JSONL transcripts into clean, readable markdown. Strips tool calls, metadata, and system noise. Keeps the conversation."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/data_analytics/ec-session-cleaner",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/data_analytics/ec-session-cleaner"
+  }
+}

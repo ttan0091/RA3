@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 834,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 834,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-avalonia-zafiro-development-skill-md",
+    "name": "avalonia-zafiro-development",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-zafiro-development",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-avalonia-zafiro-development-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/avalonia-zafiro-development",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/avalonia-zafiro-development"
+  }
+}

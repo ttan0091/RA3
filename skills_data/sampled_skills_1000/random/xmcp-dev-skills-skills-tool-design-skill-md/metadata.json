@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 580,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 580,
+    "id": "xmcp-dev-skills-skills-tool-design-skill-md",
+    "name": "create-tool",
+    "author": "xmcp-dev",
+    "stars": 0,
+    "githubUrl": "https://github.com/xmcp-dev/skills/tree/main/skills/tool-design",
+    "skillUrl": "https://skillsmp.com/skills/xmcp-dev-skills-skills-tool-design-skill-md",
+    "updatedAt": 1769015926,
+    "description": "Create a new xmcp tool with schema, metadata, and handler. Use when the user wants to add a new tool to their xmcp project."
+  },
+  "github": {
+    "owner": "xmcp-dev",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/tool-design",
+    "sourceUrl": "https://github.com/xmcp-dev/skills/tree/main/skills/tool-design"
+  }
+}

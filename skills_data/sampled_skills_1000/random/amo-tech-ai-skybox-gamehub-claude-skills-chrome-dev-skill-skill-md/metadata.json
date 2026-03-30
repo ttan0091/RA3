@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 541,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 541,
+    "id": "amo-tech-ai-skybox-gamehub-claude-skills-chrome-dev-skill-skill-md",
+    "name": "chrome-devtools-automation",
+    "author": "amo-tech-ai",
+    "stars": 0,
+    "githubUrl": "https://github.com/amo-tech-ai/skybox-gamehub/tree/main/.claude/skills/chrome-dev-skill",
+    "skillUrl": "https://skillsmp.com/skills/amo-tech-ai-skybox-gamehub-claude-skills-chrome-dev-skill-skill-md",
+    "updatedAt": 1764725665,
+    "description": "Control Chrome browser through MCP for testing, debugging, network analysis, and performance profiling. Use when testing web apps, measuring Core Web Vitals, analyzing network requests, debugging console errors, or when the user mentions Chrome DevTools, performance traces, or browser automation."
+  },
+  "github": {
+    "owner": "amo-tech-ai",
+    "repo": "skybox-gamehub",
+    "ref": "main",
+    "relativePath": ".claude/skills/chrome-dev-skill",
+    "sourceUrl": "https://github.com/amo-tech-ai/skybox-gamehub/tree/main/.claude/skills/chrome-dev-skill"
+  }
+}

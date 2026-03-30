@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 545,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 545,
+    "id": "rodribm10-chatwoot-develop-skills-researching-codebase-skill-md",
+    "name": "researching-codebase",
+    "author": "Rodribm10",
+    "stars": 0,
+    "githubUrl": "https://github.com/Rodribm10/chatwoot-develop/tree/chatwoot-jasmine/skills/researching-codebase",
+    "skillUrl": "https://skillsmp.com/skills/rodribm10-chatwoot-develop-skills-researching-codebase-skill-md",
+    "updatedAt": 1769362743,
+    "description": "Conducts comprehensive research across the codebase to document current implementation and historical context, without suggesting changes."
+  },
+  "github": {
+    "owner": "Rodribm10",
+    "repo": "chatwoot-develop",
+    "ref": "chatwoot-jasmine",
+    "relativePath": "skills/researching-codebase",
+    "sourceUrl": "https://github.com/Rodribm10/chatwoot-develop/tree/chatwoot-jasmine/skills/researching-codebase"
+  }
+}

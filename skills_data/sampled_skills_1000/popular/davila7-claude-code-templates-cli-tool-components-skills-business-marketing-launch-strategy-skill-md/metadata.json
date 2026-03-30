@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 764,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 764,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-launch-strategy-skill-md",
+    "name": "launch-strategy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/launch-strategy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-launch-strategy-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to plan a product launch, feature announcement, or release strategy. Also use when the user mentions 'launch,' 'Product Hunt,' 'feature release,' 'announcement,' 'go-to-market,' 'beta launch,' 'early access,' 'waitlist,' or 'product update.' This skill covers phased launches, channel strategy, and ongoing launch momentum."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/launch-strategy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/launch-strategy"
+  }
+}

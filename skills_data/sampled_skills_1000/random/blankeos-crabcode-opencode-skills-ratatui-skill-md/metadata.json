@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 723,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 723,
+    "id": "blankeos-crabcode-opencode-skills-ratatui-skill-md",
+    "name": "ratatui",
+    "author": "Blankeos",
+    "stars": 8,
+    "githubUrl": "https://github.com/Blankeos/crabcode/tree/main/.opencode/skills/ratatui",
+    "skillUrl": "https://skillsmp.com/skills/blankeos-crabcode-opencode-skills-ratatui-skill-md",
+    "updatedAt": 1769337024,
+    "description": "Build terminal UIs in Rust with Ratatui. Use when creating TUI applications, immediate-mode rendering, high-performance terminal interfaces, or production Rust CLIs."
+  },
+  "github": {
+    "owner": "Blankeos",
+    "repo": "crabcode",
+    "ref": "main",
+    "relativePath": ".opencode/skills/ratatui",
+    "sourceUrl": "https://github.com/Blankeos/crabcode/tree/main/.opencode/skills/ratatui"
+  }
+}

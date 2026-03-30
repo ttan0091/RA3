@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 415,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 415,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-sql-optimization-patterns-skill-md",
+    "name": "sql-optimization-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/sql-optimization-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-sql-optimization-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master SQL query optimization, indexing strategies, and EXPLAIN analysis to dramatically improve database performance and eliminate slow queries. Use when debugging slow queries, designing database schemas, or optimizing application performance."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/sql-optimization-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/sql-optimization-patterns"
+  }
+}

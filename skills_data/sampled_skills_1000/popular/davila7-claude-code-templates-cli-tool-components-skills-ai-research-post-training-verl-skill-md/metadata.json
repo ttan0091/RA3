@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 720,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 720,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-verl-skill-md",
+    "name": "verl-rl-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-verl",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-verl-skill-md",
+    "updatedAt": 1769665019,
+    "description": "Provides guidance for training LLMs with reinforcement learning using verl (Volcano Engine RL). Use when implementing RLHF, GRPO, PPO, or other RL algorithms for LLM post-training at scale with flexible infrastructure backends."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/post-training-verl",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-verl"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 180,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 180,
+    "id": "obra-superpowers-skills-subagent-driven-development-skill-md",
+    "name": "subagent-driven-development",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-subagent-driven-development-skill-md",
+    "updatedAt": 1769728370,
+    "description": "Use when executing implementation plans with independent tasks in the current session"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/subagent-driven-development",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development"
+  }
+}

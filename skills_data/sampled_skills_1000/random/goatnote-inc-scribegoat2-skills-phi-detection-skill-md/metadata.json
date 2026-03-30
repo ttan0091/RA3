@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 658,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 658,
+    "id": "goatnote-inc-scribegoat2-skills-phi-detection-skill-md",
+    "name": "phi-detection",
+    "author": "GOATnote-Inc",
+    "stars": 3,
+    "githubUrl": "https://github.com/GOATnote-Inc/scribegoat2/tree/main/skills/phi_detection",
+    "skillUrl": "https://skillsmp.com/skills/goatnote-inc-scribegoat2-skills-phi-detection-skill-md",
+    "updatedAt": 1770610524,
+    "description": "Scan repository for Protected Health Information (PHI) using HIPAA Safe Harbor patterns. Ensures evaluation data remains synthetic-only."
+  },
+  "github": {
+    "owner": "GOATnote-Inc",
+    "repo": "scribegoat2",
+    "ref": "main",
+    "relativePath": "skills/phi_detection",
+    "sourceUrl": "https://github.com/GOATnote-Inc/scribegoat2/tree/main/skills/phi_detection"
+  }
+}

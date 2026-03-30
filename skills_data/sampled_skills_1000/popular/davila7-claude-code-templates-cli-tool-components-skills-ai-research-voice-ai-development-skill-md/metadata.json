@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 745,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 745,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-voice-ai-development-skill-md",
+    "name": "voice-ai-development",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/voice-ai-development",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-voice-ai-development-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in building voice AI applications - from real-time voice agents to voice-enabled apps. Covers OpenAI Realtime API, Vapi for voice agents, Deepgram for transcription, ElevenLabs for synthesis, LiveKit for real-time infrastructure, and WebRTC fundamentals. Knows how to build low-latency, production-ready voice experiences. Use when: voice ai, voice agent, speech to text, text to speech, realtime voice."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/voice-ai-development",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/voice-ai-development"
+  }
+}

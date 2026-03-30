@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 834,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 834,
+    "id": "travisjneuman-claude-skills-generic-fullstack-code-reviewer-skill-md",
+    "name": "generic-fullstack-code-reviewer",
+    "author": "travisjneuman",
+    "stars": 8,
+    "githubUrl": "https://github.com/travisjneuman/.claude/tree/master/skills/generic-fullstack-code-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/travisjneuman-claude-skills-generic-fullstack-code-reviewer-skill-md",
+    "updatedAt": 1768318082,
+    "description": "Review full-stack code for bugs, security vulnerabilities, performance issues, accessibility gaps, and CLAUDE.md compliance. Enforces TypeScript strict mode, input validation, GPU-accelerated animations, and design system consistency. Use when completing features, before commits, or reviewing pull requests."
+  },
+  "github": {
+    "owner": "travisjneuman",
+    "repo": ".claude",
+    "ref": "master",
+    "relativePath": "skills/generic-fullstack-code-reviewer",
+    "sourceUrl": "https://github.com/travisjneuman/.claude/tree/master/skills/generic-fullstack-code-reviewer"
+  }
+}

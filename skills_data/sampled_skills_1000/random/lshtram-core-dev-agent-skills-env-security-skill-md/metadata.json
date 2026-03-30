@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 206,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 206,
+    "id": "lshtram-core-dev-agent-skills-env-security-skill-md",
+    "name": "env-security",
+    "author": "lshtram",
+    "stars": 0,
+    "githubUrl": "https://github.com/lshtram/core_dev/tree/main/.agent/skills/env-security",
+    "skillUrl": "https://skillsmp.com/skills/lshtram-core-dev-agent-skills-env-security-skill-md",
+    "updatedAt": 1769020898,
+    "description": "Prevent secret leakage and implement robust error monitoring."
+  },
+  "github": {
+    "owner": "lshtram",
+    "repo": "core_dev",
+    "ref": "main",
+    "relativePath": ".agent/skills/env-security",
+    "sourceUrl": "https://github.com/lshtram/core_dev/tree/main/.agent/skills/env-security"
+  }
+}

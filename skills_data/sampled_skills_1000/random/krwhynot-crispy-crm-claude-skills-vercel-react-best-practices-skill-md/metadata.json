@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 753,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 753,
+    "id": "krwhynot-crispy-crm-claude-skills-vercel-react-best-practices-skill-md",
+    "name": "vercel-react-best-practices",
+    "author": "krwhynot",
+    "stars": 1,
+    "githubUrl": "https://github.com/krwhynot/crispy-crm/tree/main/.claude/skills/vercel-react-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/krwhynot-crispy-crm-claude-skills-vercel-react-best-practices-skill-md",
+    "updatedAt": 1769971764,
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements."
+  },
+  "github": {
+    "owner": "krwhynot",
+    "repo": "crispy-crm",
+    "ref": "main",
+    "relativePath": ".claude/skills/vercel-react-best-practices",
+    "sourceUrl": "https://github.com/krwhynot/crispy-crm/tree/main/.claude/skills/vercel-react-best-practices"
+  }
+}

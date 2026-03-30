@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 399,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 399,
+    "id": "wshobson-agents-plugins-conductor-skills-track-management-skill-md",
+    "name": "track-management",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/track-management",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-conductor-skills-track-management-skill-md",
+    "updatedAt": 1768527297,
+    "description": "Use this skill when creating, managing, or working with Conductor tracks - the logical work units for features, bugs, and refactors. Applies to spec.md, plan.md, and track lifecycle operations."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/conductor/skills/track-management",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/track-management"
+  }
+}

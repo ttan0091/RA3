@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 935,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 935,
+    "id": "jonathanbelolo-composable-rust-claude-skills-composable-rust-architecture-skill-md",
+    "name": "composable-rust-architecture",
+    "author": "jonathanbelolo",
+    "stars": 0,
+    "githubUrl": "https://github.com/jonathanbelolo/composable-rust/tree/main/.claude/skills/composable-rust-architecture",
+    "skillUrl": "https://skillsmp.com/skills/jonathanbelolo-composable-rust-claude-skills-composable-rust-architecture-skill-md",
+    "updatedAt": 1765178307,
+    "description": "Expert knowledge for building event-driven systems with Composable Rust framework. Use when implementing reducers, designing state machines, working with effects, creating environment traits for dependency injection, building stores, or answering questions about core architectural patterns and the unidirectional data flow model."
+  },
+  "github": {
+    "owner": "jonathanbelolo",
+    "repo": "composable-rust",
+    "ref": "main",
+    "relativePath": ".claude/skills/composable-rust-architecture",
+    "sourceUrl": "https://github.com/jonathanbelolo/composable-rust/tree/main/.claude/skills/composable-rust-architecture"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 44,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 44,
+    "id": "hmcts-opal-frontend-codex-skills-opal-frontend-opal-frontend-execplan-skill-md",
+    "name": "opal-frontend-execplan",
+    "author": "hmcts",
+    "stars": 8,
+    "githubUrl": "https://github.com/hmcts/opal-frontend/tree/master/.codex/skills/opal-frontend/opal-frontend-execplan",
+    "skillUrl": "https://skillsmp.com/skills/hmcts-opal-frontend-codex-skills-opal-frontend-opal-frontend-execplan-skill-md",
+    "updatedAt": 1770388029,
+    "description": "Guidance for creating and maintaining ExecPlans. Use when asked to create, update, or discuss an ExecPlan."
+  },
+  "github": {
+    "owner": "hmcts",
+    "repo": "opal-frontend",
+    "ref": "master",
+    "relativePath": ".codex/skills/opal-frontend/opal-frontend-execplan",
+    "sourceUrl": "https://github.com/hmcts/opal-frontend/tree/master/.codex/skills/opal-frontend/opal-frontend-execplan"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 567,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 567,
+    "id": "refractionpoint-lc-ai-marketplace-plugins-lc-essentials-skills-fp-pattern-finder-skill-md",
+    "name": "fp-pattern-finder",
+    "author": "refractionPOINT",
+    "stars": 6,
+    "githubUrl": "https://github.com/refractionPOINT/lc-ai/tree/master/marketplace/plugins/lc-essentials/skills/fp-pattern-finder",
+    "skillUrl": "https://skillsmp.com/skills/refractionpoint-lc-ai-marketplace-plugins-lc-essentials-skills-fp-pattern-finder-skill-md",
+    "updatedAt": 1768428025,
+    "description": "Automatically detect false positive patterns in detections using deterministic analysis. Fetches historic detections for a time window, runs pattern detection script to identify noisy patterns (single-host concentration, identical command-lines, service accounts, same hash, temporal periodicity, etc.), generates narrow FP rules for each pattern, and presents for user approval before deployment. Use for bulk FP tuning, detection noise analysis, or automated alert fatigue reduction."
+  },
+  "github": {
+    "owner": "refractionPOINT",
+    "repo": "lc-ai",
+    "ref": "master",
+    "relativePath": "marketplace/plugins/lc-essentials/skills/fp-pattern-finder",
+    "sourceUrl": "https://github.com/refractionPOINT/lc-ai/tree/master/marketplace/plugins/lc-essentials/skills/fp-pattern-finder"
+  }
+}

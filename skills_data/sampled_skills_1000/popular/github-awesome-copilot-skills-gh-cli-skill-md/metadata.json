@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 593,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 593,
+    "id": "github-awesome-copilot-skills-gh-cli-skill-md",
+    "name": "gh-cli",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/gh-cli",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-gh-cli-skill-md",
+    "updatedAt": 1770628016,
+    "description": "GitHub CLI (gh) comprehensive reference for repositories, issues, pull requests, Actions, projects, releases, gists, codespaces, organizations, extensions, and all GitHub operations from the command line."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/gh-cli",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/gh-cli"
+  }
+}

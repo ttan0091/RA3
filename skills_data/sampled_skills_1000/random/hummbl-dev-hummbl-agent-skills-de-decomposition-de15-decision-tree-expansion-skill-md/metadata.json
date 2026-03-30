@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 964,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 964,
+    "id": "hummbl-dev-hummbl-agent-skills-de-decomposition-de15-decision-tree-expansion-skill-md",
+    "name": "de15-decision-tree-expansion",
+    "author": "hummbl-dev",
+    "stars": 1,
+    "githubUrl": "https://github.com/hummbl-dev/hummbl-agent/tree/main/skills/DE-decomposition/de15-decision-tree-expansion",
+    "skillUrl": "https://skillsmp.com/skills/hummbl-dev-hummbl-agent-skills-de-decomposition-de15-decision-tree-expansion-skill-md",
+    "updatedAt": 1769821127,
+    "description": "Apply DE15 Decision Tree Expansion to map choices and their consequences as branching paths."
+  },
+  "github": {
+    "owner": "hummbl-dev",
+    "repo": "hummbl-agent",
+    "ref": "main",
+    "relativePath": "skills/DE-decomposition/de15-decision-tree-expansion",
+    "sourceUrl": "https://github.com/hummbl-dev/hummbl-agent/tree/main/skills/DE-decomposition/de15-decision-tree-expansion"
+  }
+}

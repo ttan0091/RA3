@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 558,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 558,
+    "id": "peparhugo-github-copilot-command-demo-github-skills-writing-skills-skill-md",
+    "name": "writing-skills",
+    "author": "peparhugo",
+    "stars": 1,
+    "githubUrl": "https://github.com/peparhugo/github-copilot-command-demo/tree/main/.github/skills/writing-skills",
+    "skillUrl": "https://skillsmp.com/skills/peparhugo-github-copilot-command-demo-github-skills-writing-skills-skill-md",
+    "updatedAt": 1770338639,
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment"
+  },
+  "github": {
+    "owner": "peparhugo",
+    "repo": "github-copilot-command-demo",
+    "ref": "main",
+    "relativePath": ".github/skills/writing-skills",
+    "sourceUrl": "https://github.com/peparhugo/github-copilot-command-demo/tree/main/.github/skills/writing-skills"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 139,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 139,
+    "id": "jscraik-agent-skills-interview-deep-interview-skill-md",
+    "name": "deep-interview",
+    "author": "jscraik",
+    "stars": 2,
+    "githubUrl": "https://github.com/jscraik/Agent-Skills/tree/main/interview/deep-interview",
+    "skillUrl": "https://skillsmp.com/skills/jscraik-agent-skills-interview-deep-interview-skill-md",
+    "updatedAt": 1770491377,
+    "description": "Deep, gap-filling interview that enhances an existing doc/spec (preferred) or explores a topic. Use when deepening PRDs, ADRs, tickets, notes, or draft specs; if given a doc path, update it in-place with Delta/Interview Insights and an approval gate."
+  },
+  "github": {
+    "owner": "jscraik",
+    "repo": "Agent-Skills",
+    "ref": "main",
+    "relativePath": "interview/deep-interview",
+    "sourceUrl": "https://github.com/jscraik/Agent-Skills/tree/main/interview/deep-interview"
+  }
+}

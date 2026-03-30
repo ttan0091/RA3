@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 16,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 16,
+    "id": "openclaw-openclaw-skills-bear-notes-skill-md",
+    "name": "bear-notes",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/bear-notes",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-bear-notes-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Create, search, and manage Bear notes via grizzly CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/bear-notes",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/bear-notes"
+  }
+}

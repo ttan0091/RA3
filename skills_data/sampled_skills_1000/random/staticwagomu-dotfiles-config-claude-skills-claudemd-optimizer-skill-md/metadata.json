@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 431,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 431,
+    "id": "staticwagomu-dotfiles-config-claude-skills-claudemd-optimizer-skill-md",
+    "name": "claudemd-optimizer",
+    "author": "staticWagomU",
+    "stars": 6,
+    "githubUrl": "https://github.com/staticWagomU/dotfiles/tree/master/config/claude/skills/claudemd-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/staticwagomu-dotfiles-config-claude-skills-claudemd-optimizer-skill-md",
+    "updatedAt": 1769225949,
+    "description": "Optimize CLAUDE.md files based on Claude 4 best practices from Anthropic's official documentation. Use when reviewing or improving CLAUDE.md, creating new project instructions, analyzing prompt effectiveness, or applying Claude 4 model-specific optimizations. Triggers: \"CLAUDE.mdを最適化\", \"プロジェクト指示を改善\", \"optimize CLAUDE.md\", \"review system prompt\"."
+  },
+  "github": {
+    "owner": "staticWagomU",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": "config/claude/skills/claudemd-optimizer",
+    "sourceUrl": "https://github.com/staticWagomU/dotfiles/tree/master/config/claude/skills/claudemd-optimizer"
+  }
+}

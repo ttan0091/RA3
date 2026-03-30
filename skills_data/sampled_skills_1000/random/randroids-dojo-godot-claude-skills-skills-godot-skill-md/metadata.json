@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 260,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 260,
+    "id": "randroids-dojo-godot-claude-skills-skills-godot-skill-md",
+    "name": "godot",
+    "author": "Randroids-Dojo",
+    "stars": 7,
+    "githubUrl": "https://github.com/Randroids-Dojo/Godot-Claude-Skills/tree/main/skills/godot",
+    "skillUrl": "https://skillsmp.com/skills/randroids-dojo-godot-claude-skills-skills-godot-skill-md",
+    "updatedAt": 1768838236,
+    "description": "Develop, test, build, and deploy Godot 4.x games. Includes GdUnit4 for GDScript unit tests and PlayGodot for game automation and E2E testing. Supports web/desktop exports, CI/CD pipelines, and deployment to Vercel/GitHub Pages/itch.io."
+  },
+  "github": {
+    "owner": "Randroids-Dojo",
+    "repo": "Godot-Claude-Skills",
+    "ref": "main",
+    "relativePath": "skills/godot",
+    "sourceUrl": "https://github.com/Randroids-Dojo/Godot-Claude-Skills/tree/main/skills/godot"
+  }
+}

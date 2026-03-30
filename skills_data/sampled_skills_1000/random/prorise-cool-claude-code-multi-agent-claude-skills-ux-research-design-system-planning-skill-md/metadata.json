@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 386,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 386,
+    "id": "prorise-cool-claude-code-multi-agent-claude-skills-ux-research-design-system-planning-skill-md",
+    "name": "design-system-planning",
+    "author": "Prorise-cool",
+    "stars": 215,
+    "githubUrl": "https://github.com/Prorise-cool/Claude-Code-Multi-Agent/tree/master/.claude/skills/ux-research/design-system-planning",
+    "skillUrl": "https://skillsmp.com/skills/prorise-cool-claude-code-multi-agent-claude-skills-ux-research-design-system-planning-skill-md",
+    "updatedAt": 1768785642,
+    "description": "Plan design systems - component libraries, design tokens, documentation strategies, versioning, governance, and adoption frameworks."
+  },
+  "github": {
+    "owner": "Prorise-cool",
+    "repo": "Claude-Code-Multi-Agent",
+    "ref": "master",
+    "relativePath": ".claude/skills/ux-research/design-system-planning",
+    "sourceUrl": "https://github.com/Prorise-cool/Claude-Code-Multi-Agent/tree/master/.claude/skills/ux-research/design-system-planning"
+  }
+}

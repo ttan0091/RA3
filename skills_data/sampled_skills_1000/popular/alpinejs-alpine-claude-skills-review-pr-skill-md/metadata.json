@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 355,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 355,
+    "id": "alpinejs-alpine-claude-skills-review-pr-skill-md",
+    "name": "review-pr",
+    "author": "alpinejs",
+    "stars": 31140,
+    "githubUrl": "https://github.com/alpinejs/alpine/tree/main/.claude/skills/review-pr",
+    "skillUrl": "https://skillsmp.com/skills/alpinejs-alpine-claude-skills-review-pr-skill-md",
+    "updatedAt": 1770601100,
+    "description": "Review an open PR like a maintainer — checkout, fix issues, push changes, post a structured verdict comment. You just merge or close."
+  },
+  "github": {
+    "owner": "alpinejs",
+    "repo": "alpine",
+    "ref": "main",
+    "relativePath": ".claude/skills/review-pr",
+    "sourceUrl": "https://github.com/alpinejs/alpine/tree/main/.claude/skills/review-pr"
+  }
+}

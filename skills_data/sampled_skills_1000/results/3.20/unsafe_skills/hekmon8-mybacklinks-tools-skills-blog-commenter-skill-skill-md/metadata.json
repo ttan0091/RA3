@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 798,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 798,
+    "id": "hekmon8-mybacklinks-tools-skills-blog-commenter-skill-skill-md",
+    "name": "blog-commenter",
+    "author": "hekmon8",
+    "stars": 0,
+    "githubUrl": "https://github.com/hekmon8/mybacklinks-tools/tree/main/skills/blog-commenter-skill",
+    "skillUrl": "https://skillsmp.com/skills/hekmon8-mybacklinks-tools-skills-blog-commenter-skill-skill-md",
+    "updatedAt": 1765370809,
+    "description": "Automated blog comment posting for marketing and outreach"
+  },
+  "github": {
+    "owner": "hekmon8",
+    "repo": "mybacklinks-tools",
+    "ref": "main",
+    "relativePath": "skills/blog-commenter-skill",
+    "sourceUrl": "https://github.com/hekmon8/mybacklinks-tools/tree/main/skills/blog-commenter-skill"
+  }
+}

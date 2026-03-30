@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 184,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 184,
+    "id": "obra-superpowers-skills-using-superpowers-skill-md",
+    "name": "using-superpowers",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-using-superpowers-skill-md",
+    "updatedAt": 1766810482,
+    "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/using-superpowers",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers"
+  }
+}

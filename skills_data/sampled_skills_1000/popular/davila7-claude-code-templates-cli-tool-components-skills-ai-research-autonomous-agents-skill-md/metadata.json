@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 638,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 638,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-autonomous-agents-skill-md",
+    "name": "autonomous-agents",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agents",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-autonomous-agents-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The challenge isn't making them capable - it's making them reliable. Every extra decision multiplies failure probability.  This skill covers agent loops (ReAct, Plan-Execute), goal decomposition, reflection patterns, and production reliability. Key insight: compounding error rates kill autonomous agents. A 95% success rate per step drops to 60% b"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/autonomous-agents",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/autonomous-agents"
+  }
+}

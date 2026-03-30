@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 13,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 13,
+    "id": "openclaw-skills-skills-poiley-whatisxlistening-to-skills-lastfm-skill-md",
+    "name": "lastfm",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/poiley/whatisxlistening-to/skills/lastfm",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-poiley-whatisxlistening-to-skills-lastfm-skill-md",
+    "updatedAt": 1769535453,
+    "description": "Access Last.fm listening history, music stats, and discovery. Query recent tracks, top artists/albums/tracks, loved tracks, similar artists, and global charts."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/poiley/whatisxlistening-to/skills/lastfm",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/poiley/whatisxlistening-to/skills/lastfm"
+  }
+}

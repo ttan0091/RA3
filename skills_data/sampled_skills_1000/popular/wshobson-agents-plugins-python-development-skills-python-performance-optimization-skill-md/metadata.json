@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 470,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 470,
+    "id": "wshobson-agents-plugins-python-development-skills-python-performance-optimization-skill-md",
+    "name": "python-performance-optimization",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-performance-optimization",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-performance-optimization-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-performance-optimization",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-performance-optimization"
+  }
+}

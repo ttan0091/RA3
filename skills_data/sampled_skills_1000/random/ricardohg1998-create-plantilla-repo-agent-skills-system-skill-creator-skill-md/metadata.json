@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 518,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 518,
+    "id": "ricardohg1998-create-plantilla-repo-agent-skills-system-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "ricardohg1998-create",
+    "stars": 0,
+    "githubUrl": "https://github.com/ricardohg1998-create/Plantilla-repo/tree/main/.agent/skills/.system/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/ricardohg1998-create-plantilla-repo-agent-skills-system-skill-creator-skill-md",
+    "updatedAt": 1770307627,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Codex's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "ricardohg1998-create",
+    "repo": "Plantilla-repo",
+    "ref": "main",
+    "relativePath": ".agent/skills/.system/skill-creator",
+    "sourceUrl": "https://github.com/ricardohg1998-create/Plantilla-repo/tree/main/.agent/skills/.system/skill-creator"
+  }
+}

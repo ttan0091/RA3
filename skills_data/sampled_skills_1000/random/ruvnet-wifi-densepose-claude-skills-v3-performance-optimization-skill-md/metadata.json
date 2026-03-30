@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 736,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 736,
+    "id": "ruvnet-wifi-densepose-claude-skills-v3-performance-optimization-skill-md",
+    "name": "v3-performance-optimization",
+    "author": "ruvnet",
+    "stars": 5845,
+    "githubUrl": "https://github.com/ruvnet/wifi-densepose/tree/main/.claude/skills/v3-performance-optimization",
+    "skillUrl": "https://skillsmp.com/skills/ruvnet-wifi-densepose-claude-skills-v3-performance-optimization-skill-md",
+    "updatedAt": 1768415618,
+    "description": "Achieve aggressive v3 performance targets: 2.49x-7.47x Flash Attention speedup, 150x-12,500x search improvements, 50-75% memory reduction. Comprehensive benchmarking and optimization suite."
+  },
+  "github": {
+    "owner": "ruvnet",
+    "repo": "wifi-densepose",
+    "ref": "main",
+    "relativePath": ".claude/skills/v3-performance-optimization",
+    "sourceUrl": "https://github.com/ruvnet/wifi-densepose/tree/main/.claude/skills/v3-performance-optimization"
+  }
+}

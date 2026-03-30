@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 254,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 254,
+    "id": "pdovhomilja-dovhomilja-cz-claude-skills-frontend-responsive-skill-md",
+    "name": "frontend-responsive",
+    "author": "pdovhomilja",
+    "stars": 0,
+    "githubUrl": "https://github.com/pdovhomilja/dovhomilja-cz/tree/main/.claude/skills/frontend-responsive",
+    "skillUrl": "https://skillsmp.com/skills/pdovhomilja-dovhomilja-cz-claude-skills-frontend-responsive-skill-md",
+    "updatedAt": 1766646919,
+    "description": "Build responsive layouts that adapt seamlessly across devices using mobile-first design, fluid layouts, and standard breakpoints. Use this skill when implementing responsive designs, creating mobile-first layouts, defining breakpoint styles, working with responsive components and pages, using relative units (rem, em) instead of fixed pixels, implementing media queries, ensuring touch-friendly tap targets, optimizing images and assets for different screen sizes, maintaining readable typography across breakpoints, prioritizing content for smaller screens, testing UI across mobile, tablet, and desktop devices, or building fluid container layouts. Apply this skill when building responsive UI components, optimizing layouts for different screen sizes, or reviewing mobile and tablet user experiences."
+  },
+  "github": {
+    "owner": "pdovhomilja",
+    "repo": "dovhomilja-cz",
+    "ref": "main",
+    "relativePath": ".claude/skills/frontend-responsive",
+    "sourceUrl": "https://github.com/pdovhomilja/dovhomilja-cz/tree/main/.claude/skills/frontend-responsive"
+  }
+}

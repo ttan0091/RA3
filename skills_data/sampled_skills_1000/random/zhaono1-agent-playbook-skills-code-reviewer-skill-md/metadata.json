@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 829,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 829,
+    "id": "zhaono1-agent-playbook-skills-code-reviewer-skill-md",
+    "name": "code-reviewer",
+    "author": "zhaono1",
+    "stars": 4,
+    "githubUrl": "https://github.com/zhaono1/agent-playbook/tree/main/skills/code-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/zhaono1-agent-playbook-skills-code-reviewer-skill-md",
+    "updatedAt": 1769079630,
+    "description": "Reviews pull requests and code changes for quality, security, and best practices. Use when user asks for code review, PR review, or mentions reviewing changes."
+  },
+  "github": {
+    "owner": "zhaono1",
+    "repo": "agent-playbook",
+    "ref": "main",
+    "relativePath": "skills/code-reviewer",
+    "sourceUrl": "https://github.com/zhaono1/agent-playbook/tree/main/skills/code-reviewer"
+  }
+}

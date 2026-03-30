@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 995,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 995,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-crafting-effective-readmes-skill-md",
+    "name": "crafting-effective-readmes",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/crafting-effective-readmes",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-crafting-effective-readmes-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Use when writing or improving README files. Not all READMEs are the same — provides templates and guidance matched to your audience and project type."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/crafting-effective-readmes",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/crafting-effective-readmes"
+  }
+}

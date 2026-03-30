@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 42,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 42,
+    "id": "openclaw-openclaw-skills-openhue-skill-md",
+    "name": "openhue",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openhue",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-openhue-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Control Philips Hue lights/scenes via the OpenHue CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/openhue",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openhue"
+  }
+}

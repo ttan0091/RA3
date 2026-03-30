@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 993,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 993,
+    "id": "easymailing-easymailing-skills-release-skill-md",
+    "name": "em-release",
+    "author": "easymailing",
+    "stars": 0,
+    "githubUrl": "https://github.com/easymailing/easymailing-skills/tree/main/release",
+    "skillUrl": "https://skillsmp.com/skills/easymailing-easymailing-skills-release-skill-md",
+    "updatedAt": 1770286752,
+    "description": "Use when the user wants to publish changes, create a release, commit to git, or says \"haz release\", \"publica los cambios\", \"sube a git\", \"crear release\"."
+  },
+  "github": {
+    "owner": "easymailing",
+    "repo": "easymailing-skills",
+    "ref": "main",
+    "relativePath": "release",
+    "sourceUrl": "https://github.com/easymailing/easymailing-skills/tree/main/release"
+  }
+}

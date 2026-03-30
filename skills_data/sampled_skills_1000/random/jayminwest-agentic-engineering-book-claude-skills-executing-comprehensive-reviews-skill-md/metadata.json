@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 814,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 814,
+    "id": "jayminwest-agentic-engineering-book-claude-skills-executing-comprehensive-reviews-skill-md",
+    "name": "executing-comprehensive-reviews",
+    "author": "jayminwest",
+    "stars": 24,
+    "githubUrl": "https://github.com/jayminwest/agentic-engineering-book/tree/main/.claude/skills/executing-comprehensive-reviews",
+    "skillUrl": "https://skillsmp.com/skills/jayminwest-agentic-engineering-book-claude-skills-executing-comprehensive-reviews-skill-md",
+    "updatedAt": 1769033070,
+    "description": "Use when reviewing content for clarity, generating questions, or checking alignment. Triggers on \"review for clarity\", \"suggest questions\", \"check alignment\", \"comprehensive review\"."
+  },
+  "github": {
+    "owner": "jayminwest",
+    "repo": "agentic-engineering-book",
+    "ref": "main",
+    "relativePath": ".claude/skills/executing-comprehensive-reviews",
+    "sourceUrl": "https://github.com/jayminwest/agentic-engineering-book/tree/main/.claude/skills/executing-comprehensive-reviews"
+  }
+}

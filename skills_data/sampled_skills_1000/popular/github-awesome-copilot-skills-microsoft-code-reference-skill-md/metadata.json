@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 603,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 603,
+    "id": "github-awesome-copilot-skills-microsoft-code-reference-skill-md",
+    "name": "microsoft-code-reference",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/microsoft-code-reference",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-microsoft-code-reference-skill-md",
+    "updatedAt": 1768378051,
+    "description": "Look up Microsoft API references, find working code samples, and verify SDK code is correct. Use when working with Azure SDKs, .NET libraries, or Microsoft APIs—to find the right method, check parameters, get working examples, or troubleshoot errors. Catches hallucinated methods, wrong signatures, and deprecated patterns by querying official docs."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/microsoft-code-reference",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/microsoft-code-reference"
+  }
+}

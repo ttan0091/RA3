@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 833,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 833,
+    "id": "nymbo-skills-hugging-face-hugging-face-dataset-creator-skill-md",
+    "name": "hugging-face-dataset-creator",
+    "author": "Nymbo",
+    "stars": 3,
+    "githubUrl": "https://github.com/Nymbo/Skills/tree/master/HUGGING FACE/hugging-face-dataset-creator",
+    "skillUrl": "https://skillsmp.com/skills/nymbo-skills-hugging-face-hugging-face-dataset-creator-skill-md",
+    "updatedAt": 1767734703,
+    "description": "Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, and streaming row updates. Designed to work alongside HF MCP server for comprehensive dataset workflows."
+  },
+  "github": {
+    "owner": "Nymbo",
+    "repo": "Skills",
+    "ref": "master",
+    "relativePath": "HUGGING FACE/hugging-face-dataset-creator",
+    "sourceUrl": "https://github.com/Nymbo/Skills/tree/master/HUGGING FACE/hugging-face-dataset-creator"
+  }
+}

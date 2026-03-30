@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 302,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 302,
+    "id": "payloadcms-payload-claude-skills-generate-translations-skill-md",
+    "name": "generate-translations",
+    "author": "payloadcms",
+    "stars": 40485,
+    "githubUrl": "https://github.com/payloadcms/payload/tree/main/.claude/skills/generate-translations",
+    "skillUrl": "https://skillsmp.com/skills/payloadcms-payload-claude-skills-generate-translations-skill-md",
+    "updatedAt": 1768504094,
+    "description": "Use when new translation keys are added to packages to generate new translations strings"
+  },
+  "github": {
+    "owner": "payloadcms",
+    "repo": "payload",
+    "ref": "main",
+    "relativePath": ".claude/skills/generate-translations",
+    "sourceUrl": "https://github.com/payloadcms/payload/tree/main/.claude/skills/generate-translations"
+  }
+}

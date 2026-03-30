@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 263,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 263,
+    "id": "tkgally-je-dict-1-claude-skills-polish-entries-skill-md",
+    "name": "polish-entries",
+    "author": "tkgally",
+    "stars": 0,
+    "githubUrl": "https://github.com/tkgally/je-dict-1/tree/main/.claude/skills/polish-entries",
+    "skillUrl": "https://skillsmp.com/skills/tkgally-je-dict-1-claude-skills-polish-entries-skill-md",
+    "updatedAt": 1769155188,
+    "description": "Systematic review and improvement of dictionary entries. Use when starting a polishing session to review entries for accuracy, completeness, and consistency."
+  },
+  "github": {
+    "owner": "tkgally",
+    "repo": "je-dict-1",
+    "ref": "main",
+    "relativePath": ".claude/skills/polish-entries",
+    "sourceUrl": "https://github.com/tkgally/je-dict-1/tree/main/.claude/skills/polish-entries"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 999,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 999,
+    "id": "yuens1002-ecomm-ai-app-claude-skills-release-skill-md",
+    "name": "release",
+    "author": "yuens1002",
+    "stars": 0,
+    "githubUrl": "https://github.com/yuens1002/ecomm-ai-app/tree/main/.claude/skills/release",
+    "skillUrl": "https://skillsmp.com/skills/yuens1002-ecomm-ai-app-claude-skills-release-skill-md",
+    "updatedAt": 1770347830,
+    "description": "Git release workflow for creating patches and releases with proper versioning"
+  },
+  "github": {
+    "owner": "yuens1002",
+    "repo": "ecomm-ai-app",
+    "ref": "main",
+    "relativePath": ".claude/skills/release",
+    "sourceUrl": "https://github.com/yuens1002/ecomm-ai-app/tree/main/.claude/skills/release"
+  }
+}

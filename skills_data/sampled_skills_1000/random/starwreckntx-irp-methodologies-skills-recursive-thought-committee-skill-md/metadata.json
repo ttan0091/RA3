@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 460,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 460,
+    "id": "starwreckntx-irp-methodologies-skills-recursive-thought-committee-skill-md",
+    "name": "recursive-thought-committee",
+    "author": "starwreckntx",
+    "stars": 2,
+    "githubUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/recursive-thought-committee",
+    "skillUrl": "https://skillsmp.com/skills/starwreckntx-irp-methodologies-skills-recursive-thought-committee-skill-md",
+    "updatedAt": 1764144955,
+    "description": "Execute recursive thought committee multi-perspective analysis."
+  },
+  "github": {
+    "owner": "starwreckntx",
+    "repo": "IRP__METHODOLOGIES-",
+    "ref": "main",
+    "relativePath": "skills/recursive-thought-committee",
+    "sourceUrl": "https://github.com/starwreckntx/IRP__METHODOLOGIES-/tree/main/skills/recursive-thought-committee"
+  }
+}

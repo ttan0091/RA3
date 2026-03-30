@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 960,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 960,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-capa-officer-skill-md",
+    "name": "capa-officer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/capa-officer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-capa-officer-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Senior CAPA Officer specialist for managing Corrective and Preventive Actions within Quality Management Systems. Provides CAPA process management, root cause analysis, effectiveness verification, and continuous improvement coordination. Use for CAPA investigations, corrective action planning, preventive action implementation, and CAPA system optimization."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/capa-officer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/capa-officer"
+  }
+}

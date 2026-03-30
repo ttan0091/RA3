@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 457,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 457,
+    "id": "naveedtechlab-naveed-tech-lab-skills-claude-skills-todo-ai-mcp-agent-skill-md",
+    "name": "todo-ai-mcp-agent",
+    "author": "NaveedTechLab",
+    "stars": 0,
+    "githubUrl": "https://github.com/NaveedTechLab/Naveed-Tech-Lab_Skills/tree/main/.claude/skills/todo-ai-mcp-agent",
+    "skillUrl": "https://skillsmp.com/skills/naveedtechlab-naveed-tech-lab-skills-claude-skills-todo-ai-mcp-agent-skill-md",
+    "updatedAt": 1767423056,
+    "description": "Enable AI-driven Todo management using natural language via MCP tools. Use when building conversational todo agents, implementing natural language task management, designing AI assistants for todo apps, or creating MCP-based tool integrations. Covers intent interpretation, safe tool invocation, and stateless agent design."
+  },
+  "github": {
+    "owner": "NaveedTechLab",
+    "repo": "Naveed-Tech-Lab_Skills",
+    "ref": "main",
+    "relativePath": ".claude/skills/todo-ai-mcp-agent",
+    "sourceUrl": "https://github.com/NaveedTechLab/Naveed-Tech-Lab_Skills/tree/main/.claude/skills/todo-ai-mcp-agent"
+  }
+}

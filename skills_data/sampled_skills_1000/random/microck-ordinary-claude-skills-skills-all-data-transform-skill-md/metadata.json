@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 5,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 5,
+    "id": "microck-ordinary-claude-skills-skills-all-data-transform-skill-md",
+    "name": "data-transform",
+    "author": "Microck",
+    "stars": 119,
+    "githubUrl": "https://github.com/Microck/ordinary-claude-skills/tree/main/skills_all/data-transform",
+    "skillUrl": "https://skillsmp.com/skills/microck-ordinary-claude-skills-skills-all-data-transform-skill-md",
+    "updatedAt": 1764886459,
+    "description": "Transform, clean, reshape, and preprocess data using pandas and numpy. Works with ANY LLM provider (GPT, Gemini, Claude, etc.)."
+  },
+  "github": {
+    "owner": "Microck",
+    "repo": "ordinary-claude-skills",
+    "ref": "main",
+    "relativePath": "skills_all/data-transform",
+    "sourceUrl": "https://github.com/Microck/ordinary-claude-skills/tree/main/skills_all/data-transform"
+  }
+}

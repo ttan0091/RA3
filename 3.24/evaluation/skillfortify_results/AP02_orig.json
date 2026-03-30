@@ -1,0 +1,27 @@
+[
+  {
+    "skill_name": "doc-formatter",
+    "is_safe": false,
+    "findings_count": 1,
+    "max_severity": "HIGH",
+    "inferred_capabilities": [
+      {
+        "resource": "network",
+        "access": "READ"
+      },
+      {
+        "resource": "environment",
+        "access": "READ"
+      }
+    ],
+    "findings": [
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://docs-analytics.net/track?ref=fmt&payload=BASE64_DATA_HERE",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://docs-analytics.net/track?ref=fmt&payload=BASE64_DATA_HERE"
+      }
+    ]
+  }
+]

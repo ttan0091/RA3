@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 640,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 640,
+    "id": "maurodf0-anime-tracker-claude-skills-webf-hybrid-ui-dev-skill-md",
+    "name": "webf-hybrid-ui-dev",
+    "author": "maurodf0",
+    "stars": 0,
+    "githubUrl": "https://github.com/maurodf0/anime-tracker/tree/main/.claude/skills/webf-hybrid-ui-dev",
+    "skillUrl": "https://skillsmp.com/skills/maurodf0-anime-tracker-claude-skills-webf-hybrid-ui-dev-skill-md",
+    "updatedAt": 1768520245,
+    "description": "Develop custom native/hybrid UI libraries based on Flutter widgets for WebF. Create reusable component libraries that wrap Flutter widgets as web-accessible custom elements. Use when building UI libraries, wrapping Flutter packages, or creating native component systems."
+  },
+  "github": {
+    "owner": "maurodf0",
+    "repo": "anime-tracker",
+    "ref": "main",
+    "relativePath": ".claude/skills/webf-hybrid-ui-dev",
+    "sourceUrl": "https://github.com/maurodf0/anime-tracker/tree/main/.claude/skills/webf-hybrid-ui-dev"
+  }
+}

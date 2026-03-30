@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 1000,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 1000,
+    "id": "bobmatnyc-claude-mpm-src-claude-mpm-skills-bundled-pm-mpm-help-skill-md",
+    "name": "mpm-help",
+    "author": "bobmatnyc",
+    "stars": 71,
+    "githubUrl": "https://github.com/bobmatnyc/claude-mpm/tree/main/src/claude_mpm/skills/bundled/pm/mpm-help",
+    "skillUrl": "https://skillsmp.com/skills/bobmatnyc-claude-mpm-src-claude-mpm-skills-bundled-pm-mpm-help-skill-md",
+    "updatedAt": 1768154586,
+    "description": "Display help for Claude MPM commands"
+  },
+  "github": {
+    "owner": "bobmatnyc",
+    "repo": "claude-mpm",
+    "ref": "main",
+    "relativePath": "src/claude_mpm/skills/bundled/pm/mpm-help",
+    "sourceUrl": "https://github.com/bobmatnyc/claude-mpm/tree/main/src/claude_mpm/skills/bundled/pm/mpm-help"
+  }
+}

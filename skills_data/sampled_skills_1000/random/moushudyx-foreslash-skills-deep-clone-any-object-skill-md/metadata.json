@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 270,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 270,
+    "id": "moushudyx-foreslash-skills-deep-clone-any-object-skill-md",
+    "name": "deep-clone-any-object",
+    "author": "Moushudyx",
+    "stars": 2,
+    "githubUrl": "https://github.com/Moushudyx/foreslash/tree/master/skills/deep-clone-any-object",
+    "skillUrl": "https://skillsmp.com/skills/moushudyx-foreslash-skills-deep-clone-any-object-skill-md",
+    "updatedAt": 1770287030,
+    "description": "foreslash 的 deepClone 默认不支持复制部分对象, 如 HTMLElement, 但可通过自定义复制方法实现复制任意对象"
+  },
+  "github": {
+    "owner": "Moushudyx",
+    "repo": "foreslash",
+    "ref": "master",
+    "relativePath": "skills/deep-clone-any-object",
+    "sourceUrl": "https://github.com/Moushudyx/foreslash/tree/master/skills/deep-clone-any-object"
+  }
+}

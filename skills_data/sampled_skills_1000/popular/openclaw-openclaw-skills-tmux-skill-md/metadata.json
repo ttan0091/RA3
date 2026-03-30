@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 56,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 56,
+    "id": "openclaw-openclaw-skills-tmux-skill-md",
+    "name": "tmux",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/tmux",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-tmux-skill-md",
+    "updatedAt": 1770185027,
+    "description": "Remote-control tmux sessions for interactive CLIs by sending keystrokes and scraping pane output."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/tmux",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/tmux"
+  }
+}

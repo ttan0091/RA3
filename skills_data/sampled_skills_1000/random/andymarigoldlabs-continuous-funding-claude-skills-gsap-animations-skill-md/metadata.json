@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 862,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 862,
+    "id": "andymarigoldlabs-continuous-funding-claude-skills-gsap-animations-skill-md",
+    "name": "gsap-animations",
+    "author": "AndyMarigoldLabs",
+    "stars": 0,
+    "githubUrl": "https://github.com/AndyMarigoldLabs/continuous-funding/tree/main/.claude/skills/gsap-animations",
+    "skillUrl": "https://skillsmp.com/skills/andymarigoldlabs-continuous-funding-claude-skills-gsap-animations-skill-md",
+    "updatedAt": 1769246320,
+    "description": "GSAP animation best practices for web design - scroll triggers, performance optimization, accessibility, responsive animations, and testing integration. Use when implementing or reviewing animations on WordPress or any web project."
+  },
+  "github": {
+    "owner": "AndyMarigoldLabs",
+    "repo": "continuous-funding",
+    "ref": "main",
+    "relativePath": ".claude/skills/gsap-animations",
+    "sourceUrl": "https://github.com/AndyMarigoldLabs/continuous-funding/tree/main/.claude/skills/gsap-animations"
+  }
+}

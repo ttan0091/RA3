@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 360,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 360,
+    "id": "code-yeongyu-oh-my-opencode-src-features-builtin-skills-git-master-skill-md",
+    "name": "git-master",
+    "author": "code-yeongyu",
+    "stars": 30231,
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/git-master",
+    "skillUrl": "https://skillsmp.com/skills/code-yeongyu-oh-my-opencode-src-features-builtin-skills-git-master-skill-md",
+    "updatedAt": 1770381330,
+    "description": "MUST USE for ANY git operations. Atomic commits, rebase/squash, history search (blame, bisect, log -S). STRONGLY RECOMMENDED: Use with task(category='quick', load_skills=['git-master'], ...) to save context. Triggers: 'commit', 'rebase', 'squash', 'who wrote', 'when was X added', 'find the commit that'."
+  },
+  "github": {
+    "owner": "code-yeongyu",
+    "repo": "oh-my-opencode",
+    "ref": "dev",
+    "relativePath": "src/features/builtin-skills/git-master",
+    "sourceUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/src/features/builtin-skills/git-master"
+  }
+}

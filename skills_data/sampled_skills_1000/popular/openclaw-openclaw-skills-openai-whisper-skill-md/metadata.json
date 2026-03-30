@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 41,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 41,
+    "id": "openclaw-openclaw-skills-openai-whisper-skill-md",
+    "name": "openai-whisper",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-openai-whisper-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Local speech-to-text with the Whisper CLI (no API key)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/openai-whisper",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/openai-whisper"
+  }
+}

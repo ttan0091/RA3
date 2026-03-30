@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 765,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 765,
+    "id": "ktita10-muebleriairis-github-skills-react-hooks-patterns-skill-md",
+    "name": "react-hooks-patterns",
+    "author": "Ktita10",
+    "stars": 0,
+    "githubUrl": "https://github.com/Ktita10/MuebleriaIris/tree/master/.github/skills/react-hooks-patterns",
+    "skillUrl": "https://skillsmp.com/skills/ktita10-muebleriairis-github-skills-react-hooks-patterns-skill-md",
+    "updatedAt": 1770303232,
+    "description": "Patrones correctos para React hooks, especialmente useCallback y useMemo con hooks custom. Usa esta skill cuando trabajes con hooks custom que retornan objetos, al optimizar renders con useCallback/useMemo, o cuando experimentes bucles infinitos de re-renders. Cubre dependencias correctas, estabilidad de referencias, y patrones anti-fragilidad."
+  },
+  "github": {
+    "owner": "Ktita10",
+    "repo": "MuebleriaIris",
+    "ref": "master",
+    "relativePath": ".github/skills/react-hooks-patterns",
+    "sourceUrl": "https://github.com/Ktita10/MuebleriaIris/tree/master/.github/skills/react-hooks-patterns"
+  }
+}

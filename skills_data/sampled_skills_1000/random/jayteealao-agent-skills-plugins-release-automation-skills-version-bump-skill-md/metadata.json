@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 826,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 826,
+    "id": "jayteealao-agent-skills-plugins-release-automation-skills-version-bump-skill-md",
+    "name": "version-bump",
+    "author": "jayteealao",
+    "stars": 0,
+    "githubUrl": "https://github.com/jayteealao/agent-skills/tree/master/plugins/release-automation/skills/version-bump",
+    "skillUrl": "https://skillsmp.com/skills/jayteealao-agent-skills-plugins-release-automation-skills-version-bump-skill-md",
+    "updatedAt": 1768255772,
+    "description": "Calculate semantic version bumps for any project type using version file adapters"
+  },
+  "github": {
+    "owner": "jayteealao",
+    "repo": "agent-skills",
+    "ref": "master",
+    "relativePath": "plugins/release-automation/skills/version-bump",
+    "sourceUrl": "https://github.com/jayteealao/agent-skills/tree/master/plugins/release-automation/skills/version-bump"
+  }
+}

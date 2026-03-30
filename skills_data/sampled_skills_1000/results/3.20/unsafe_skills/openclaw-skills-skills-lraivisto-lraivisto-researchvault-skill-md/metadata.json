@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 698,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 698,
+    "id": "openclaw-skills-skills-lraivisto-lraivisto-researchvault-skill-md",
+    "name": "researchvault",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/lraivisto/lraivisto-researchvault",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-lraivisto-lraivisto-researchvault-skill-md",
+    "updatedAt": 1770370813,
+    "description": "High-velocity research orchestration engine. Manages persistent state, synthesis, and autonomous verification for agents."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/lraivisto/lraivisto-researchvault",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/lraivisto/lraivisto-researchvault"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 302,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 302,
+    "id": "houfu-blog-alt-counsel-claude-skills-backlink-curating-skill-md",
+    "name": "curating-backlinks-for-a-post",
+    "author": "houfu",
+    "stars": 1,
+    "githubUrl": "https://github.com/houfu/blog-alt-counsel/tree/main/.claude/skills/backlink_curating",
+    "skillUrl": "https://skillsmp.com/skills/houfu-blog-alt-counsel-claude-skills-backlink-curating-skill-md",
+    "updatedAt": 1760917878,
+    "description": "Find suitable pieces from the blog to use as links in a post when requested at the stage of final draft."
+  },
+  "github": {
+    "owner": "houfu",
+    "repo": "blog-alt-counsel",
+    "ref": "main",
+    "relativePath": ".claude/skills/backlink_curating",
+    "sourceUrl": "https://github.com/houfu/blog-alt-counsel/tree/main/.claude/skills/backlink_curating"
+  }
+}

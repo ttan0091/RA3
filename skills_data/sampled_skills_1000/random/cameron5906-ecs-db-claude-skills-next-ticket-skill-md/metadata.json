@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 535,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 535,
+    "id": "cameron5906-ecs-db-claude-skills-next-ticket-skill-md",
+    "name": "next-ticket",
+    "author": "cameron5906",
+    "stars": 0,
+    "githubUrl": "https://github.com/cameron5906/ecs-db/tree/main/.claude/skills/next-ticket",
+    "skillUrl": "https://skillsmp.com/skills/cameron5906-ecs-db-claude-skills-next-ticket-skill-md",
+    "updatedAt": 1769558754,
+    "description": "Find and load the next ticket to work on based on dependencies and priority"
+  },
+  "github": {
+    "owner": "cameron5906",
+    "repo": "ecs-db",
+    "ref": "main",
+    "relativePath": ".claude/skills/next-ticket",
+    "sourceUrl": "https://github.com/cameron5906/ecs-db/tree/main/.claude/skills/next-ticket"
+  }
+}

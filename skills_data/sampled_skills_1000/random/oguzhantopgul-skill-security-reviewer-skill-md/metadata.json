@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 278,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 278,
+    "id": "oguzhantopgul-skill-security-reviewer-skill-md",
+    "name": "skill-security-reviewer",
+    "author": "oguzhantopgul",
+    "stars": 4,
+    "githubUrl": "https://github.com/oguzhantopgul/skill-security-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/oguzhantopgul-skill-security-reviewer-skill-md",
+    "updatedAt": 1770750478,
+    "description": "Security review and threat analysis for agent skills. Use when reviewing, auditing, or validating skills for security issues including prompt injection, code execution risks, data exfiltration, supply chain vulnerabilities, and policy violations. Triggers on requests to \"review a skill\", \"audit skill security\", \"check skill for vulnerabilities\", \"validate skill safety\", or any security assessment of SKILL.md files and their associated scripts/assets."
+  },
+  "github": {
+    "owner": "oguzhantopgul",
+    "repo": "skill-security-reviewer",
+    "ref": null,
+    "relativePath": "",
+    "sourceUrl": "https://github.com/oguzhantopgul/skill-security-reviewer"
+  }
+}

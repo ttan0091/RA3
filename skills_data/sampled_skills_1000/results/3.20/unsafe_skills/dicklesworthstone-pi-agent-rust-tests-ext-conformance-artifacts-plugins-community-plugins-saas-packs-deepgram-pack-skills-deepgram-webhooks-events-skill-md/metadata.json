@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 619,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 619,
+    "id": "dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-community-plugins-saas-packs-deepgram-pack-skills-deepgram-webhooks-events-skill-md",
+    "name": "deepgram-webhooks-events",
+    "author": "Dicklesworthstone",
+    "stars": 38,
+    "githubUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-community/plugins/saas-packs/deepgram-pack/skills/deepgram-webhooks-events",
+    "skillUrl": "https://skillsmp.com/skills/dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-community-plugins-saas-packs-deepgram-pack-skills-deepgram-webhooks-events-skill-md",
+    "updatedAt": 1770274565,
+    "description": "Implement Deepgram callback and webhook handling for async transcription.\nUse when implementing callback URLs, processing async transcription results,\nor handling Deepgram event notifications.\nTrigger with phrases like \"deepgram callback\", \"deepgram webhook\",\n\"async transcription deepgram\", \"deepgram events\", \"deepgram notifications\"."
+  },
+  "github": {
+    "owner": "Dicklesworthstone",
+    "repo": "pi_agent_rust",
+    "ref": "main",
+    "relativePath": "tests/ext_conformance/artifacts/plugins-community/plugins/saas-packs/deepgram-pack/skills/deepgram-webhooks-events",
+    "sourceUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-community/plugins/saas-packs/deepgram-pack/skills/deepgram-webhooks-events"
+  }
+}

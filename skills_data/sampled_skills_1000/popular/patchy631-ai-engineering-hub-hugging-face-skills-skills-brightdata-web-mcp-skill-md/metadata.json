@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 508,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 508,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-brightdata-web-mcp-skill-md",
+    "name": "brightdata-web-mcp",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/brightdata-web-mcp",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-brightdata-web-mcp-skill-md",
+    "updatedAt": 1769769658,
+    "description": "Search the web, scrape websites, extract structured data from URLs, and automate browsers using Bright Data's Web MCP. Use when fetching live web content, bypassing blocks/CAPTCHAs, getting product data from Amazon/eBay, social media posts, or when standard requests fail."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/brightdata-web-mcp",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/brightdata-web-mcp"
+  }
+}

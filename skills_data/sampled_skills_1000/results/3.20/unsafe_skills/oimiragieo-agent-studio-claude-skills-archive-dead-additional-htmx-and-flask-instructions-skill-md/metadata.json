@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 283,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 283,
+    "id": "oimiragieo-agent-studio-claude-skills-archive-dead-additional-htmx-and-flask-instructions-skill-md",
+    "name": "additional-htmx-and-flask-instructions",
+    "author": "oimiragieo",
+    "stars": 5,
+    "githubUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/_archive/dead/additional-htmx-and-flask-instructions",
+    "skillUrl": "https://skillsmp.com/skills/oimiragieo-agent-studio-claude-skills-archive-dead-additional-htmx-and-flask-instructions-skill-md",
+    "updatedAt": 1770497754,
+    "description": "Provides additional instructions for HTMX and Flask, primarily related to templating."
+  },
+  "github": {
+    "owner": "oimiragieo",
+    "repo": "agent-studio",
+    "ref": "main",
+    "relativePath": ".claude/skills/_archive/dead/additional-htmx-and-flask-instructions",
+    "sourceUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/_archive/dead/additional-htmx-and-flask-instructions"
+  }
+}

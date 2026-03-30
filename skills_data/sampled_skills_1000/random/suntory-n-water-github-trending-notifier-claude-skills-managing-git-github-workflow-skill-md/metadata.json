@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 1,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 1,
+    "id": "suntory-n-water-github-trending-notifier-claude-skills-managing-git-github-workflow-skill-md",
+    "name": "managing-git-github-workflow",
+    "author": "Suntory-N-Water",
+    "stars": 0,
+    "githubUrl": "https://github.com/Suntory-N-Water/github-trending-notifier/tree/main/.claude/skills/managing-git-github-workflow",
+    "skillUrl": "https://skillsmp.com/skills/suntory-n-water-github-trending-notifier-claude-skills-managing-git-github-workflow-skill-md",
+    "updatedAt": 1769094944,
+    "description": "Git操作(add, commit, switch, push)とGitHub CLI(PR作成・編集、Issue作成、コメント取得)を実行。コミット作成、ブランチ管理、プルリクエスト作成・編集、Issue管理が必要な場合に使用。「コミットして」「PRを作成」「Issueを作成」「ブランチを切って」などのリクエストで起動。"
+  },
+  "github": {
+    "owner": "Suntory-N-Water",
+    "repo": "github-trending-notifier",
+    "ref": "main",
+    "relativePath": ".claude/skills/managing-git-github-workflow",
+    "sourceUrl": "https://github.com/Suntory-N-Water/github-trending-notifier/tree/main/.claude/skills/managing-git-github-workflow"
+  }
+}

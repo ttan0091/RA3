@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 724,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 724,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-guidance-skill-md",
+    "name": "guidance",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-guidance",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-guidance-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Research's constrained generation framework"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-engineering-guidance",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-guidance"
+  }
+}

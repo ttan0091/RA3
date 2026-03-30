@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 346,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 346,
+    "id": "wynautbhav-silvoraa-jewelry-agent-skills-design-md-skill-md",
+    "name": "design-md",
+    "author": "WynautBhav",
+    "stars": 0,
+    "githubUrl": "https://github.com/WynautBhav/silvoraa-jewelry/tree/main/.agent/skills/design-md",
+    "skillUrl": "https://skillsmp.com/skills/wynautbhav-silvoraa-jewelry-agent-skills-design-md-skill-md",
+    "updatedAt": 1769624642,
+    "description": "Standards for creating Product Requirement Documents (PRD) and Architecture docs. Use when planning a new feature or project."
+  },
+  "github": {
+    "owner": "WynautBhav",
+    "repo": "silvoraa-jewelry",
+    "ref": "main",
+    "relativePath": ".agent/skills/design-md",
+    "sourceUrl": "https://github.com/WynautBhav/silvoraa-jewelry/tree/main/.agent/skills/design-md"
+  }
+}

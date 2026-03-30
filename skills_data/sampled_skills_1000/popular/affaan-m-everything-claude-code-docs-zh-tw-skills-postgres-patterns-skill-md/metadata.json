@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 255,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 255,
+    "id": "affaan-m-everything-claude-code-docs-zh-tw-skills-postgres-patterns-skill-md",
+    "name": "postgres-patterns",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-TW/skills/postgres-patterns",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-tw-skills-postgres-patterns-skill-md",
+    "updatedAt": 1769670389,
+    "description": "PostgreSQL database patterns for query optimization, schema design, indexing, and security. Based on Supabase best practices."
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-TW/skills/postgres-patterns",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-TW/skills/postgres-patterns"
+  }
+}

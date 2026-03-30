@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 329,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 329,
+    "id": "michaelmechenko-dotfiles-opencode-skill-improve-prompt-skill-md",
+    "name": "improve-prompt",
+    "author": "michaelmechenko",
+    "stars": 1,
+    "githubUrl": "https://github.com/michaelmechenko/dotfiles/tree/main/opencode/skill/improve-prompt",
+    "skillUrl": "https://skillsmp.com/skills/michaelmechenko-dotfiles-opencode-skill-improve-prompt-skill-md",
+    "updatedAt": 1770009067,
+    "description": "Prompt engineering patterns for LLM optimization. Load when crafting complex prompts, teaching prompt structure, or reviewing prompt quality."
+  },
+  "github": {
+    "owner": "michaelmechenko",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "opencode/skill/improve-prompt",
+    "sourceUrl": "https://github.com/michaelmechenko/dotfiles/tree/main/opencode/skill/improve-prompt"
+  }
+}

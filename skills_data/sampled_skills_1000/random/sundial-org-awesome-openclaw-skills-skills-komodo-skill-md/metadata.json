@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 220,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 220,
+    "id": "sundial-org-awesome-openclaw-skills-skills-komodo-skill-md",
+    "name": "komodo",
+    "author": "sundial-org",
+    "stars": 35,
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/komodo",
+    "skillUrl": "https://skillsmp.com/skills/sundial-org-awesome-openclaw-skills-skills-komodo-skill-md",
+    "updatedAt": 1769996135,
+    "description": "Manage Komodo infrastructure - servers, Docker deployments, stacks, builds, and procedures. Use when user asks about server status, container management, deployments, builds, or any Komodo-related infrastructure tasks."
+  },
+  "github": {
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "ref": "main",
+    "relativePath": "skills/komodo",
+    "sourceUrl": "https://github.com/sundial-org/awesome-openclaw-skills/tree/main/skills/komodo"
+  }
+}

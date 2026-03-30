@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 471,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 471,
+    "id": "wshobson-agents-plugins-python-development-skills-python-project-structure-skill-md",
+    "name": "python-project-structure",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-project-structure",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-python-development-skills-python-project-structure-skill-md",
+    "updatedAt": 1769791934,
+    "description": "Python project organization, module architecture, and public API design. Use when setting up new projects, organizing modules, defining public interfaces with __all__, or planning directory layouts."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/python-development/skills/python-project-structure",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/python-development/skills/python-project-structure"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 464,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 464,
+    "id": "datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-1-ddc-toolkit-cwicr-database-cwicr-takeoff-helper-skill-md",
+    "name": "cwicr-takeoff-helper",
+    "author": "datadrivenconstruction",
+    "stars": 18,
+    "githubUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/1_DDC_Toolkit/CWICR-Database/cwicr-takeoff-helper",
+    "skillUrl": "https://skillsmp.com/skills/datadrivenconstruction-ddc-skills-for-ai-agents-in-construction-1-ddc-toolkit-cwicr-database-cwicr-takeoff-helper-skill-md",
+    "updatedAt": 1769681759,
+    "description": "Assist with quantity takeoff using CWICR data. Calculate quantities from dimensions, apply waste factors, and suggest related work items."
+  },
+  "github": {
+    "owner": "datadrivenconstruction",
+    "repo": "DDC_Skills_for_AI_Agents_in_Construction",
+    "ref": "main",
+    "relativePath": "1_DDC_Toolkit/CWICR-Database/cwicr-takeoff-helper",
+    "sourceUrl": "https://github.com/datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction/tree/main/1_DDC_Toolkit/CWICR-Database/cwicr-takeoff-helper"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 51,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 51,
+    "id": "openclaw-openclaw-skills-songsee-skill-md",
+    "name": "songsee",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/songsee",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-songsee-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Generate spectrograms and feature-panel visualizations from audio with the songsee CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/songsee",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/songsee"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 951,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 951,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-document-processing-doc-skill-md",
+    "name": "doc",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/doc",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-document-processing-doc-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use when the task involves reading, creating, or editing `.docx` documents, especially when formatting or layout fidelity matters; prefer `python-docx` plus the bundled `scripts/render_docx.py` for visual checks."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/document-processing/doc",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/doc"
+  }
+}

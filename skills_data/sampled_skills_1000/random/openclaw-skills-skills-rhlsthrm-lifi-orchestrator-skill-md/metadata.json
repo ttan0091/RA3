@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 902,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 902,
+    "id": "openclaw-skills-skills-rhlsthrm-lifi-orchestrator-skill-md",
+    "name": "lifi-orchestrator",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/lifi-orchestrator",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-rhlsthrm-lifi-orchestrator-skill-md",
+    "updatedAt": 1769866367,
+    "description": "Cross-chain bridging and swapping via LI.FI — the leading bridge aggregator that routes across 30+ bridges and DEXs for optimal rates. Use when you need to: (1) Get quotes for moving tokens between chains, (2) Execute cross-chain swaps with best pricing, (3) Track bridge transaction status, (4) Compare routes across protocols like Stargate, Across, Hop, Celer, etc. Supports Ethereum, Polygon, Arbitrum, Optimism, Base, BSC, Avalanche, Solana, and 15+ other chains. Handles native tokens and ERC-20s with automatic slippage protection."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/rhlsthrm/lifi-orchestrator",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/rhlsthrm/lifi-orchestrator"
+  }
+}

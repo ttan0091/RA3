@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 393,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 393,
+    "id": "wshobson-agents-plugins-cloud-infrastructure-skills-linkerd-patterns-skill-md",
+    "name": "linkerd-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/linkerd-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cloud-infrastructure-skills-linkerd-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement Linkerd service mesh patterns for lightweight, security-focused service mesh deployments. Use when setting up Linkerd, configuring traffic policies, or implementing zero-trust networking with minimal overhead."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cloud-infrastructure/skills/linkerd-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/linkerd-patterns"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 304,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 304,
+    "id": "mahamaneharouna9-cpu-apex-invoice-billing-automation-opencode-skill-css-expert-skill-md",
+    "name": "css-styling-expert",
+    "author": "mahamaneharouna9-cpu",
+    "stars": 0,
+    "githubUrl": "https://github.com/mahamaneharouna9-cpu/Apex-invoice-billing-automation/tree/main/.opencode/skill/css-expert",
+    "skillUrl": "https://skillsmp.com/skills/mahamaneharouna9-cpu-apex-invoice-billing-automation-opencode-skill-css-expert-skill-md",
+    "updatedAt": 1768970032,
+    "description": "CSS architecture and styling expert with deep knowledge of modern CSS features, responsive design, CSS-in-JS optimization, performance, accessibility, and design systems. Use PROACTIVELY for CSS layout issues, styling architecture, responsive design problems, CSS-in-JS performance, theme implementation, cross-browser compatibility, and design system development. If a specialized expert is better fit, I will recommend switching and stop."
+  },
+  "github": {
+    "owner": "mahamaneharouna9-cpu",
+    "repo": "Apex-invoice-billing-automation",
+    "ref": "main",
+    "relativePath": ".opencode/skill/css-expert",
+    "sourceUrl": "https://github.com/mahamaneharouna9-cpu/Apex-invoice-billing-automation/tree/main/.opencode/skill/css-expert"
+  }
+}

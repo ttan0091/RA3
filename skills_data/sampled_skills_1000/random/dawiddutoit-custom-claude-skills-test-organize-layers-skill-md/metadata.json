@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 883,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 883,
+    "id": "dawiddutoit-custom-claude-skills-test-organize-layers-skill-md",
+    "name": "test-organize-layers",
+    "author": "dawiddutoit",
+    "stars": 0,
+    "githubUrl": "https://github.com/dawiddutoit/custom-claude/tree/main/skills/test-organize-layers",
+    "skillUrl": "https://skillsmp.com/skills/dawiddutoit-custom-claude-skills-test-organize-layers-skill-md",
+    "updatedAt": 1768935482,
+    "description": "Guide test placement in correct test pyramid layer (unit/integration/e2e).\nUse when creating new test files, deciding test layer, organizing test structure,\nor determining fixture scope. Analyzes mocking patterns, dependencies, and test scope\nto recommend correct layer placement. Works with pytest test files (test_*.py)."
+  },
+  "github": {
+    "owner": "dawiddutoit",
+    "repo": "custom-claude",
+    "ref": "main",
+    "relativePath": "skills/test-organize-layers",
+    "sourceUrl": "https://github.com/dawiddutoit/custom-claude/tree/main/skills/test-organize-layers"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 43,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 43,
+    "id": "marcd35-health-tracker-9000-claude-skills-git-commit-skill-md",
+    "name": "git-commit",
+    "author": "marcd35",
+    "stars": 0,
+    "githubUrl": "https://github.com/marcd35/health-tracker-9000/tree/main/.claude/skills/git-commit",
+    "skillUrl": "https://skillsmp.com/skills/marcd35-health-tracker-9000-claude-skills-git-commit-skill-md",
+    "updatedAt": 1770255757,
+    "description": "Create atomic, conventional git commits following the .gitmessage template. Enforces type checking and linting before commit."
+  },
+  "github": {
+    "owner": "marcd35",
+    "repo": "health-tracker-9000",
+    "ref": "main",
+    "relativePath": ".claude/skills/git-commit",
+    "sourceUrl": "https://github.com/marcd35/health-tracker-9000/tree/main/.claude/skills/git-commit"
+  }
+}

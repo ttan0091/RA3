@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 666,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 666,
+    "id": "duclm1x1-dive-ai-skills-library-communication-temp-mail-skill-md",
+    "name": "temp-mail",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/communication/temp-mail",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-communication-temp-mail-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Temporary email helper backed by Vortex (vortex.email). Use when needing disposable addresses for signup flows: create a mailbox (random localpart), poll for messages, fetch and clear mailboxes."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/communication/temp-mail",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/communication/temp-mail"
+  }
+}

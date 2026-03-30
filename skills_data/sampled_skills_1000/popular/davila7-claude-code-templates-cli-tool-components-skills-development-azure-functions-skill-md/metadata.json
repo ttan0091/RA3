@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 836,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 836,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-azure-functions-skill-md",
+    "name": "azure-functions",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/azure-functions",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-azure-functions-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js programming models. Use when: azure function, azure functions, durable functions, azure serverless, function app."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/azure-functions",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/azure-functions"
+  }
+}

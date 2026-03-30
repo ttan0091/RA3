@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 710,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 710,
+    "id": "patrickhaahr-dotfiles-opencode-config-opencode-skills-solidjs-tests-skill-md",
+    "name": "solidjs-tests",
+    "author": "patrickhaahr",
+    "stars": 0,
+    "githubUrl": "https://github.com/patrickhaahr/dotfiles/tree/main/opencode/.config/opencode/skills/solidjs-tests",
+    "skillUrl": "https://skillsmp.com/skills/patrickhaahr-dotfiles-opencode-config-opencode-skills-solidjs-tests-skill-md",
+    "updatedAt": 1768835308,
+    "description": "MUST USE SKILL when creating, modify, validating solidjs code. Following best patterns for SolidJS tests."
+  },
+  "github": {
+    "owner": "patrickhaahr",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "opencode/.config/opencode/skills/solidjs-tests",
+    "sourceUrl": "https://github.com/patrickhaahr/dotfiles/tree/main/opencode/.config/opencode/skills/solidjs-tests"
+  }
+}

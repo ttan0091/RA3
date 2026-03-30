@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 11,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 11,
+    "id": "openclaw-skills-skills-regalstreak-luma-skill-md",
+    "name": "luma",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/regalstreak/luma",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-regalstreak-luma-skill-md",
+    "updatedAt": 1769672274,
+    "description": "Fetch upcoming events from Luma (lu.ma) for any city. Use when the user asks about tech events, startup meetups, networking events, conferences, or things happening in cities like Bangalore, Mumbai, Delhi, San Francisco, New York, etc."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/regalstreak/luma",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/regalstreak/luma"
+  }
+}

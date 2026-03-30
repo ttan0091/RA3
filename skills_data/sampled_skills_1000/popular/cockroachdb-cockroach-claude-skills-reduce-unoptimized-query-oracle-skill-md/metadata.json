@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 352,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 352,
+    "id": "cockroachdb-cockroach-claude-skills-reduce-unoptimized-query-oracle-skill-md",
+    "name": "reduce-unoptimized-query-oracle",
+    "author": "cockroachdb",
+    "stars": 31833,
+    "githubUrl": "https://github.com/cockroachdb/cockroach/tree/master/.claude/skills/reduce-unoptimized-query-oracle",
+    "skillUrl": "https://skillsmp.com/skills/cockroachdb-cockroach-claude-skills-reduce-unoptimized-query-oracle-skill-md",
+    "updatedAt": 1770099060,
+    "description": "Reduce an unoptimized-query-oracle test failure log to the simplest possible reproduction case. Use when you have unoptimized-query-oracle*.log files from a failed roachtest and need to find the minimal SQL to reproduce the bug."
+  },
+  "github": {
+    "owner": "cockroachdb",
+    "repo": "cockroach",
+    "ref": "master",
+    "relativePath": ".claude/skills/reduce-unoptimized-query-oracle",
+    "sourceUrl": "https://github.com/cockroachdb/cockroach/tree/master/.claude/skills/reduce-unoptimized-query-oracle"
+  }
+}

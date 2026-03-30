@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 859,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 859,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-create-plan-skill-md",
+    "name": "create-plan",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/create-plan",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-create-plan-skill-md",
+    "updatedAt": 1767012349,
+    "description": "Create a concise plan. Use when a user explicitly asks for a plan related to a coding task."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/create-plan",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/create-plan"
+  }
+}

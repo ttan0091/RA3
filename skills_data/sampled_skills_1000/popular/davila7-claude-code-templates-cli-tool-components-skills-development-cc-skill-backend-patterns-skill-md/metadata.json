@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 842,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 842,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-backend-patterns-skill-md",
+    "name": "backend-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-backend-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cc-skill-backend-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cc-skill-backend-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cc-skill-backend-patterns"
+  }
+}

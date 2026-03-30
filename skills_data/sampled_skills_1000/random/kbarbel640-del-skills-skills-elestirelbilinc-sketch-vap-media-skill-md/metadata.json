@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 516,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 516,
+    "id": "kbarbel640-del-skills-skills-elestirelbilinc-sketch-vap-media-skill-md",
+    "name": "vap-media",
+    "author": "kbarbel640-del",
+    "stars": 0,
+    "githubUrl": "https://github.com/kbarbel640-del/skills/tree/main/skills/elestirelbilinc-sketch/vap-media",
+    "skillUrl": "https://skillsmp.com/skills/kbarbel640-del-skills-skills-elestirelbilinc-sketch-vap-media-skill-md",
+    "updatedAt": 1770501741,
+    "description": "AI image, video, and music generation + editing. Flux, Veo 3.1, Suno V5."
+  },
+  "github": {
+    "owner": "kbarbel640-del",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/elestirelbilinc-sketch/vap-media",
+    "sourceUrl": "https://github.com/kbarbel640-del/skills/tree/main/skills/elestirelbilinc-sketch/vap-media"
+  }
+}

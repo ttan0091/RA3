@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 352,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 352,
+    "id": "bl1nk-bot-agent-library-gemini-skills-ui-ux-pro-max-skill-md",
+    "name": "ui-ux-pro-max",
+    "author": "bl1nk-bot",
+    "stars": 1,
+    "githubUrl": "https://github.com/bl1nk-bot/agent-library/tree/main/.gemini/skills/ui-ux-pro-max",
+    "skillUrl": "https://skillsmp.com/skills/bl1nk-bot-agent-library-gemini-skills-ui-ux-pro-max-skill-md",
+    "updatedAt": 1770234369,
+    "description": "UI/UX design intelligence with searchable database"
+  },
+  "github": {
+    "owner": "bl1nk-bot",
+    "repo": "agent-library",
+    "ref": "main",
+    "relativePath": ".gemini/skills/ui-ux-pro-max",
+    "sourceUrl": "https://github.com/bl1nk-bot/agent-library/tree/main/.gemini/skills/ui-ux-pro-max"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 9,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 9,
+    "id": "openclaw-skills-skills-ivangdavila-vietnamese-skill-md",
+    "name": "vietnamese",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/vietnamese",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-ivangdavila-vietnamese-skill-md",
+    "updatedAt": 1770752261,
+    "description": "Write Vietnamese that sounds human. Not formal, not robotic, not AI-generated."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/ivangdavila/vietnamese",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/ivangdavila/vietnamese"
+  }
+}

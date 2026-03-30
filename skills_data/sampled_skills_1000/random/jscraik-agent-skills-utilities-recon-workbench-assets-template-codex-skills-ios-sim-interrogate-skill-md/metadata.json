@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 282,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 282,
+    "id": "jscraik-agent-skills-utilities-recon-workbench-assets-template-codex-skills-ios-sim-interrogate-skill-md",
+    "name": "ios-sim-interrogate",
+    "author": "jscraik",
+    "stars": 2,
+    "githubUrl": "https://github.com/jscraik/Agent-Skills/tree/main/utilities/recon-workbench/assets/template/.codex/skills/ios_sim_interrogate",
+    "skillUrl": "https://skillsmp.com/skills/jscraik-agent-skills-utilities-recon-workbench-assets-template-codex-skills-ios-sim-interrogate-skill-md",
+    "updatedAt": 1770491377,
+    "description": "Analyze iOS Simulator behavior using simctl captures, Web Inspector, and Instruments. Use when you need evidence from iOS simulator runs."
+  },
+  "github": {
+    "owner": "jscraik",
+    "repo": "Agent-Skills",
+    "ref": "main",
+    "relativePath": "utilities/recon-workbench/assets/template/.codex/skills/ios_sim_interrogate",
+    "sourceUrl": "https://github.com/jscraik/Agent-Skills/tree/main/utilities/recon-workbench/assets/template/.codex/skills/ios_sim_interrogate"
+  }
+}

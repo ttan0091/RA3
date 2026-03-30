@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 944,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 944,
+    "id": "gptomics-bioskills-read-qc-quality-reports-skill-md",
+    "name": "bio-read-qc-quality-reports",
+    "author": "GPTomics",
+    "stars": 226,
+    "githubUrl": "https://github.com/GPTomics/bioSkills/tree/main/read-qc/quality-reports",
+    "skillUrl": "https://skillsmp.com/skills/gptomics-bioskills-read-qc-quality-reports-skill-md",
+    "updatedAt": 1770093398,
+    "description": "Generate and interpret quality reports from FASTQ files using FastQC and MultiQC. Assess per-base quality, adapter content, GC bias, duplication levels, and overrepresented sequences. Use when performing initial QC on raw sequencing data or validating preprocessing results."
+  },
+  "github": {
+    "owner": "GPTomics",
+    "repo": "bioSkills",
+    "ref": "main",
+    "relativePath": "read-qc/quality-reports",
+    "sourceUrl": "https://github.com/GPTomics/bioSkills/tree/main/read-qc/quality-reports"
+  }
+}

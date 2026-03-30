@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 591,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 591,
+    "id": "dknight203-aesopide-agent-skills-distributed-tracing-skill-md",
+    "name": "distributed-tracing",
+    "author": "Dknight203",
+    "stars": 0,
+    "githubUrl": "https://github.com/Dknight203/AesopIDE/tree/main/.agent/skills/distributed-tracing",
+    "skillUrl": "https://skillsmp.com/skills/dknight203-aesopide-agent-skills-distributed-tracing-skill-md",
+    "updatedAt": 1769213787,
+    "description": "Implement distributed tracing with Jaeger and Tempo to track requests across microservices and identify performance bottlenecks. Use when debugging microservices, analyzing request flows, or implementing observability for distributed systems."
+  },
+  "github": {
+    "owner": "Dknight203",
+    "repo": "AesopIDE",
+    "ref": "main",
+    "relativePath": ".agent/skills/distributed-tracing",
+    "sourceUrl": "https://github.com/Dknight203/AesopIDE/tree/main/.agent/skills/distributed-tracing"
+  }
+}

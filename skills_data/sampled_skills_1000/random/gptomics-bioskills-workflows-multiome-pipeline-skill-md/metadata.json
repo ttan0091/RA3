@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 946,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 946,
+    "id": "gptomics-bioskills-workflows-multiome-pipeline-skill-md",
+    "name": "bio-workflows-multiome-pipeline",
+    "author": "GPTomics",
+    "stars": 226,
+    "githubUrl": "https://github.com/GPTomics/bioSkills/tree/main/workflows/multiome-pipeline",
+    "skillUrl": "https://skillsmp.com/skills/gptomics-bioskills-workflows-multiome-pipeline-skill-md",
+    "updatedAt": 1769298957,
+    "description": "End-to-end multiome workflow for joint scRNA-seq + scATAC-seq analysis. Covers data loading, separate modality processing, and WNN integration with Seurat/Signac. Use when analyzing joint scRNA+scATAC data."
+  },
+  "github": {
+    "owner": "GPTomics",
+    "repo": "bioSkills",
+    "ref": "main",
+    "relativePath": "workflows/multiome-pipeline",
+    "sourceUrl": "https://github.com/GPTomics/bioSkills/tree/main/workflows/multiome-pipeline"
+  }
+}

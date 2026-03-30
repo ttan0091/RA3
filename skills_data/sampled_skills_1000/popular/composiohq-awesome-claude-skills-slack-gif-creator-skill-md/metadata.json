@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 342,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 342,
+    "id": "composiohq-awesome-claude-skills-slack-gif-creator-skill-md",
+    "name": "slack-gif-creator",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-gif-creator",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-slack-gif-creator-skill-md",
+    "updatedAt": 1761135276,
+    "description": "Toolkit for creating animated GIFs optimized for Slack, with validators for size constraints and composable animation primitives. This skill applies when users request animated GIFs or emoji animations for Slack from descriptions like \"make me a GIF for Slack of X doing Y\"."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "slack-gif-creator",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-gif-creator"
+  }
+}

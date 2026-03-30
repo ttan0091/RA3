@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 37,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 37,
+    "id": "akornmeier-claude-config-skills-mcp-builder-skill-md",
+    "name": "mcp-builder",
+    "author": "akornmeier",
+    "stars": 2,
+    "githubUrl": "https://github.com/akornmeier/claude-config/tree/main/skills/mcp-builder",
+    "skillUrl": "https://skillsmp.com/skills/akornmeier-claude-config-skills-mcp-builder-skill-md",
+    "updatedAt": 1766947509,
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+  },
+  "github": {
+    "owner": "akornmeier",
+    "repo": "claude-config",
+    "ref": "main",
+    "relativePath": "skills/mcp-builder",
+    "sourceUrl": "https://github.com/akornmeier/claude-config/tree/main/skills/mcp-builder"
+  }
+}

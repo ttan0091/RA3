@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-03-09T12:55:45.285601+00:00",
+  "comparison_scope": [
+    "popular",
+    "random"
+  ],
+  "sample_dir": "/Users/tan/Desktop/RA3/skills_data/sampled_skills_1000",
+  "output_dir": "/Users/tan/Desktop/RA3/skills_data/sampled_skills_1000/analysis_baseline",
+  "docs_dir": "/Users/tan/Desktop/RA3/3.2",
+  "sample_counts": {
+    "popular": 1000,
+    "random": 1000
+  },
+  "source_files": {
+    "metadata": "skills_data/skills_metadata.json",
+    "popular_manifest": "/Users/tan/Desktop/RA3/skills_data/sampled_skills_1000/manifests/popular_top.json",
+    "random_manifest": "/Users/tan/Desktop/RA3/skills_data/sampled_skills_1000/manifests/random_sample.json",
+    "combined_manifest": "/Users/tan/Desktop/RA3/skills_data/sampled_skills_1000/manifests/combined_sample.json"
+  },
+  "pipeline_scripts": {
+    "baseline_analysis": "analyze_sampled_skills.py",
+    "review_pack": "prepare_review_pack.py",
+    "skillmd_method": "analyze_skillmd_method.py",
+    "dependency_audit": "audit_skill_dependencies.py",
+    "artifact_analysis": "analyze_skill_artifacts.py"
+  },
+  "step_execution": {
+    "wp3_skillmd_method": true,
+    "wp1_dependency_audit": true,
+    "wp4_artifact_analysis": true
+  },
+  "baseline_contract_files": [
+    "features_all.csv",
+    "summary_metrics.json",
+    "taxonomy_distribution.csv",
+    "manual_review_candidates.csv",
+    "manual_review_template.csv",
+    "empirical_brief.md"
+  ],
+  "optional_outputs_present": {
+    "dependency_candidates.csv": true,
+    "dependency_audit.md": true,
+    "script_ops.csv": true,
+    "example_stats.csv": true,
+    "data_asset_stats.csv": true,
+    "artifact_profile.md": true,
+    "structuredness_score.csv": true,
+    "manual_labels.csv": true,
+    "method_results_skillmd.md": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 455,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 455,
+    "id": "wshobson-agents-plugins-observability-monitoring-skills-prometheus-configuration-skill-md",
+    "name": "prometheus-configuration",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/prometheus-configuration",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-observability-monitoring-skills-prometheus-configuration-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or configuring alerting systems."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/observability-monitoring/skills/prometheus-configuration",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/observability-monitoring/skills/prometheus-configuration"
+  }
+}

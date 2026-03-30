@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 761,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 761,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-email-systems-skill-md",
+    "name": "email-systems",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/email-systems",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-email-systems-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Email has the highest ROI of any marketing channel. $36 for every $1 spent. Yet most startups treat it as an afterthought - bulk blasts, no personalization, landing in spam folders.  This skill covers transactional email that works, marketing automation that converts, deliverability that reaches inboxes, and the infrastructure decisions that scale. Use when: keywords, file_patterns, code_patterns."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/email-systems",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/email-systems"
+  }
+}

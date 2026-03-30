@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 308,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 308,
+    "id": "krovomi-ai-agent-kit-ai-agents-skills-loop-skill-md",
+    "name": "loop",
+    "author": "krovomi",
+    "stars": 2,
+    "githubUrl": "https://github.com/krovomi/ai-agent-kit/tree/main/.ai-agents/skills/loop",
+    "skillUrl": "https://skillsmp.com/skills/krovomi-ai-agent-kit-ai-agents-skills-loop-skill-md",
+    "updatedAt": 1769511316,
+    "description": "Ralph Loop v2.0 - Développement itératif modulaire, optimisé en tokens"
+  },
+  "github": {
+    "owner": "krovomi",
+    "repo": "ai-agent-kit",
+    "ref": "main",
+    "relativePath": ".ai-agents/skills/loop",
+    "sourceUrl": "https://github.com/krovomi/ai-agent-kit/tree/main/.ai-agents/skills/loop"
+  }
+}

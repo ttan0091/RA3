@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 414,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 414,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-nx-workspace-patterns-skill-md",
+    "name": "nx-workspace-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/nx-workspace-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-nx-workspace-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/nx-workspace-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/nx-workspace-patterns"
+  }
+}

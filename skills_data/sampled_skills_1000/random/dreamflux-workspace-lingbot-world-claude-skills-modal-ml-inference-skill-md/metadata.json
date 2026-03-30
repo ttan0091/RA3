@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 506,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 506,
+    "id": "dreamflux-workspace-lingbot-world-claude-skills-modal-ml-inference-skill-md",
+    "name": "modal-ml-inference",
+    "author": "DreamFlux-Workspace",
+    "stars": 0,
+    "githubUrl": "https://github.com/DreamFlux-Workspace/lingbot-world/tree/main/.claude/skills/modal-ml-inference",
+    "skillUrl": "https://skillsmp.com/skills/dreamflux-workspace-lingbot-world-claude-skills-modal-ml-inference-skill-md",
+    "updatedAt": 1770294634,
+    "description": "Modal GPU deployment for ML model inference. Use when deploying diffusion models, video generation models, ComfyUI workflows, or custom ML pipelines with high-performance serverless GPU scaling and API endpoints."
+  },
+  "github": {
+    "owner": "DreamFlux-Workspace",
+    "repo": "lingbot-world",
+    "ref": "main",
+    "relativePath": ".claude/skills/modal-ml-inference",
+    "sourceUrl": "https://github.com/DreamFlux-Workspace/lingbot-world/tree/main/.claude/skills/modal-ml-inference"
+  }
+}

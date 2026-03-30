@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 957,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 957,
+    "id": "duclm1x1-dive-ai-skills-library-marketing-sales-cold-email-skill-md",
+    "name": "cold-email",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/marketing_sales/cold-email",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-marketing-sales-cold-email-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Generate hyper-personalized cold email sequences using AI. Turn lead data into high-converting outreach campaigns."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/marketing_sales/cold-email",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/marketing_sales/cold-email"
+  }
+}

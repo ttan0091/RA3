@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 587,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 587,
+    "id": "itsmealee-nova-agent-skills-git-workflow-skill-md",
+    "name": "git-workflow",
+    "author": "itsmeAlee",
+    "stars": 0,
+    "githubUrl": "https://github.com/itsmeAlee/Nova/tree/main/.agent/skills/git-workflow",
+    "skillUrl": "https://skillsmp.com/skills/itsmealee-nova-agent-skills-git-workflow-skill-md",
+    "updatedAt": 1768686484,
+    "description": "Standards for commit messages and version control."
+  },
+  "github": {
+    "owner": "itsmeAlee",
+    "repo": "Nova",
+    "ref": "main",
+    "relativePath": ".agent/skills/git-workflow",
+    "sourceUrl": "https://github.com/itsmeAlee/Nova/tree/main/.agent/skills/git-workflow"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 254,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 254,
+    "id": "affaan-m-everything-claude-code-docs-zh-tw-skills-iterative-retrieval-skill-md",
+    "name": "iterative-retrieval",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-TW/skills/iterative-retrieval",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-docs-zh-tw-skills-iterative-retrieval-skill-md",
+    "updatedAt": 1769670389,
+    "description": "Pattern for progressively refining context retrieval to solve the subagent context problem"
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "docs/zh-TW/skills/iterative-retrieval",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/docs/zh-TW/skills/iterative-retrieval"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 377,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 377,
+    "id": "wshobson-agents-plugins-backend-development-skills-saga-orchestration-skill-md",
+    "name": "saga-orchestration",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/saga-orchestration",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-backend-development-skills-saga-orchestration-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Implement saga patterns for distributed transactions and cross-aggregate workflows. Use when coordinating multi-step business processes, handling compensating transactions, or managing long-running workflows."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/backend-development/skills/saga-orchestration",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/saga-orchestration"
+  }
+}

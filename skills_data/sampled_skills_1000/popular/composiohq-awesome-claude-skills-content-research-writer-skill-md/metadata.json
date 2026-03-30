@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 325,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 325,
+    "id": "composiohq-awesome-claude-skills-content-research-writer-skill-md",
+    "name": "content-research-writer",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-content-research-writer-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "content-research-writer",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 501,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 501,
+    "id": "wshobson-agents-plugins-ui-design-skills-interaction-design-skill-md",
+    "name": "interaction-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/interaction-design",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-interaction-design-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Design and implement microinteractions, motion design, transitions, and user feedback patterns. Use when adding polish to UI interactions, implementing loading states, or creating delightful user experiences."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/interaction-design",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/interaction-design"
+  }
+}

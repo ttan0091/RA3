@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 508,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 508,
+    "id": "yzavyas-claude-1337-plugins-arch-guild-skills-architecture-skill-md",
+    "name": "architecture",
+    "author": "yzavyas",
+    "stars": 3,
+    "githubUrl": "https://github.com/yzavyas/claude-1337/tree/main/plugins/arch-guild/skills/architecture",
+    "skillUrl": "https://skillsmp.com/skills/yzavyas-claude-1337-plugins-arch-guild-skills-architecture-skill-md",
+    "updatedAt": 1769183996,
+    "description": "This skill should be used when the user asks to \"review architecture\", \"evaluate system design\", \"scaffold a service\", \"check boundaries\", \"convene the guild\", \"design async system\", \"implement hexagonal\", \"coordinate agents\", or discusses architectural decisions, service structure, event-driven patterns, or multi-agent coordination."
+  },
+  "github": {
+    "owner": "yzavyas",
+    "repo": "claude-1337",
+    "ref": "main",
+    "relativePath": "plugins/arch-guild/skills/architecture",
+    "sourceUrl": "https://github.com/yzavyas/claude-1337/tree/main/plugins/arch-guild/skills/architecture"
+  }
+}

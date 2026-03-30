@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 426,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 426,
+    "id": "kryota-dev-dotfiles-bin-claude-skills-pr-review-skill-md",
+    "name": "pr-review",
+    "author": "kryota-dev",
+    "stars": 0,
+    "githubUrl": "https://github.com/kryota-dev/dotfiles/tree/main/.bin/.claude/skills/pr-review",
+    "skillUrl": "https://skillsmp.com/skills/kryota-dev-dotfiles-bin-claude-skills-pr-review-skill-md",
+    "updatedAt": 1770709715,
+    "description": "Pull Requestに対して、コードレビューを行う。"
+  },
+  "github": {
+    "owner": "kryota-dev",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": ".bin/.claude/skills/pr-review",
+    "sourceUrl": "https://github.com/kryota-dev/dotfiles/tree/main/.bin/.claude/skills/pr-review"
+  }
+}

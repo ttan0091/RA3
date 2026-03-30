@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 838,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 838,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-bash-linux-skill-md",
+    "name": "bash-linux",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/bash-linux",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-bash-linux-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/bash-linux",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/bash-linux"
+  }
+}

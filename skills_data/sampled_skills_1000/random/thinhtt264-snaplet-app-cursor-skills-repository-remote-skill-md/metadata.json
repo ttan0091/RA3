@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 536,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 536,
+    "id": "thinhtt264-snaplet-app-cursor-skills-repository-remote-skill-md",
+    "name": "repository-remote",
+    "author": "thinhtt264",
+    "stars": 0,
+    "githubUrl": "https://github.com/thinhtt264/Snaplet-App/tree/main/.cursor/skills/repository-remote",
+    "skillUrl": "https://skillsmp.com/skills/thinhtt264-snaplet-app-cursor-skills-repository-remote-skill-md",
+    "updatedAt": 1770634738,
+    "description": "Implements Repository with remote API only. Use when the user asks to write RepositoryImpl for API, create repository for network calls, Retrofit, HTTP, backend, safeApiCall, ApiResult, fold, onSuccess, onFailure, or add a new API-backed repository. Enforces interface + RepositoryImpl, safeApiCall for all remote calls only (not Room/DAO), Hilt binding. Use fold for returning/transforming values; use onSuccess/onFailure for side effects only."
+  },
+  "github": {
+    "owner": "thinhtt264",
+    "repo": "Snaplet-App",
+    "ref": "main",
+    "relativePath": ".cursor/skills/repository-remote",
+    "sourceUrl": "https://github.com/thinhtt264/Snaplet-App/tree/main/.cursor/skills/repository-remote"
+  }
+}

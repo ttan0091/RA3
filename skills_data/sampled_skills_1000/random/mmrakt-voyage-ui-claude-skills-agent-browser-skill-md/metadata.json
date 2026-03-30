@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 847,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 847,
+    "id": "mmrakt-voyage-ui-claude-skills-agent-browser-skill-md",
+    "name": "agent-browser",
+    "author": "mmrakt",
+    "stars": 0,
+    "githubUrl": "https://github.com/mmrakt/voyage-ui/tree/main/.claude/skills/agent-browser",
+    "skillUrl": "https://skillsmp.com/skills/mmrakt-voyage-ui-claude-skills-agent-browser-skill-md",
+    "updatedAt": 1769868461,
+    "description": "Automates browser interactions for web testing, form filling, screenshots, and data extraction. Use when the user needs to navigate websites, interact with web pages, fill forms, take screenshots, test web applications, or extract information from web pages."
+  },
+  "github": {
+    "owner": "mmrakt",
+    "repo": "voyage-ui",
+    "ref": "main",
+    "relativePath": ".claude/skills/agent-browser",
+    "sourceUrl": "https://github.com/mmrakt/voyage-ui/tree/main/.claude/skills/agent-browser"
+  }
+}

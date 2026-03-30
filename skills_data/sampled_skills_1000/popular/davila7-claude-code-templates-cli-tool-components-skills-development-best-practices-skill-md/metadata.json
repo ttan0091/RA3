@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 839,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 839,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-best-practices-skill-md",
+    "name": "best-practices",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/best-practices",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-best-practices-skill-md",
+    "updatedAt": 1769895150,
+    "description": "Apply modern web development best practices for security, compatibility, and code quality. Use when asked to \"apply best practices\", \"security audit\", \"modernize code\", \"code quality review\", or \"check for vulnerabilities\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/best-practices",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/best-practices"
+  }
+}

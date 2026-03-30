@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 740,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 740,
+    "id": "secondsky-claude-skills-plugins-google-gemini-file-search-skills-google-gemini-file-search-skill-md",
+    "name": "google-gemini-file-search",
+    "author": "secondsky",
+    "stars": 44,
+    "githubUrl": "https://github.com/secondsky/claude-skills/tree/main/plugins/google-gemini-file-search/skills/google-gemini-file-search",
+    "skillUrl": "https://skillsmp.com/skills/secondsky-claude-skills-plugins-google-gemini-file-search-skills-google-gemini-file-search-skill-md",
+    "updatedAt": 1766542380,
+    "description": "Google Gemini File Search for managed RAG with 100+ file formats. Use for document Q&A, knowledge bases, or encountering immutability errors, quota issues, polling failures. Supports Gemini 3 Pro/Flash (Gemini 2.5 legacy)."
+  },
+  "github": {
+    "owner": "secondsky",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "plugins/google-gemini-file-search/skills/google-gemini-file-search",
+    "sourceUrl": "https://github.com/secondsky/claude-skills/tree/main/plugins/google-gemini-file-search/skills/google-gemini-file-search"
+  }
+}

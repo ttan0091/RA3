@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 310,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 310,
+    "id": "neptaco-uniforge-claude-skills-commit-conventions-skill-md",
+    "name": "commit-conventions",
+    "author": "neptaco",
+    "stars": 2,
+    "githubUrl": "https://github.com/neptaco/UniForge/tree/main/.claude/skills/commit-conventions",
+    "skillUrl": "https://skillsmp.com/skills/neptaco-uniforge-claude-skills-commit-conventions-skill-md",
+    "updatedAt": 1769355843,
+    "description": "コミットメッセージの規約。git commit、コミット作成時に参照。feat/fix/chore/ci の使い分けを定義。"
+  },
+  "github": {
+    "owner": "neptaco",
+    "repo": "UniForge",
+    "ref": "main",
+    "relativePath": ".claude/skills/commit-conventions",
+    "sourceUrl": "https://github.com/neptaco/UniForge/tree/main/.claude/skills/commit-conventions"
+  }
+}

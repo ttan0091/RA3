@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 71,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 71,
+    "id": "dokhacgiakhoa-antigravity-ide-agent-skills-intelligent-routing-skill-md",
+    "name": "intelligent-routing",
+    "author": "Dokhacgiakhoa",
+    "stars": 201,
+    "githubUrl": "https://github.com/Dokhacgiakhoa/antigravity-ide/tree/main/.agent/skills/intelligent-routing",
+    "skillUrl": "https://skillsmp.com/skills/dokhacgiakhoa-antigravity-ide-agent-skills-intelligent-routing-skill-md",
+    "updatedAt": 1770523636,
+    "description": "Automatic agent selection and intelligent task routing."
+  },
+  "github": {
+    "owner": "Dokhacgiakhoa",
+    "repo": "antigravity-ide",
+    "ref": "main",
+    "relativePath": ".agent/skills/intelligent-routing",
+    "sourceUrl": "https://github.com/Dokhacgiakhoa/antigravity-ide/tree/main/.agent/skills/intelligent-routing"
+  }
+}

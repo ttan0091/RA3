@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 869,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 869,
+    "id": "redth-mauidevflow-claude-skills-maui-ai-debugging-skill-md",
+    "name": "maui-ai-debugging",
+    "author": "Redth",
+    "stars": 7,
+    "githubUrl": "https://github.com/Redth/MauiDevFlow/tree/main/.claude/skills/maui-ai-debugging",
+    "skillUrl": "https://skillsmp.com/skills/redth-mauidevflow-claude-skills-maui-ai-debugging-skill-md",
+    "updatedAt": 1770681851,
+    "description": "End-to-end workflow for building, deploying, inspecting, and debugging .NET MAUI and MAUI Blazor Hybrid apps as an AI agent. Use when: (1) Building or running a MAUI app on iOS simulator, Android emulator, or Mac Catalyst, (2) Deploying a MAUI app to a device/emulator/simulator, (3) Inspecting or interacting with a running MAUI app's UI (visual tree, element tapping, filling text, screenshots, property queries), (4) Debugging Blazor WebView content inside a MAUI app via CDP, (5) Managing iOS simulators or Android emulators (create, boot, list, install), (6) Setting up the MauiDevFlow agent and CLI in a MAUI project, (7) Completing a build-deploy-inspect-fix feedback loop for MAUI app development, (8) Handling iOS permission dialogs, system alerts, and app-level alerts via simctl privacy or accessibility tree detection. Covers: maui-devflow CLI, androidsdk.tool (android), appledev.tools (apple), adb, xcrun simctl, and dotnet build/run for all MAUI target platforms."
+  },
+  "github": {
+    "owner": "Redth",
+    "repo": "MauiDevFlow",
+    "ref": "main",
+    "relativePath": ".claude/skills/maui-ai-debugging",
+    "sourceUrl": "https://github.com/Redth/MauiDevFlow/tree/main/.claude/skills/maui-ai-debugging"
+  }
+}

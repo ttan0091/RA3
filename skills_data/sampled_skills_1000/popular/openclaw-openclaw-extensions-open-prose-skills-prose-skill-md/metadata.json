@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 12,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 12,
+    "id": "openclaw-openclaw-extensions-open-prose-skills-prose-skill-md",
+    "name": "prose",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/open-prose/skills/prose",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-extensions-open-prose-skills-prose-skill-md",
+    "updatedAt": 1769862085,
+    "description": "OpenProse VM skill pack. Activate on any `prose` command, .prose files, or OpenProse mentions; orchestrates multi-agent workflows."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "extensions/open-prose/skills/prose",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/extensions/open-prose/skills/prose"
+  }
+}

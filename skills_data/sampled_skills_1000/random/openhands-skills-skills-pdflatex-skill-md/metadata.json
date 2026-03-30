@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 463,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 463,
+    "id": "openhands-skills-skills-pdflatex-skill-md",
+    "name": "pdflatex",
+    "author": "OpenHands",
+    "stars": 49,
+    "githubUrl": "https://github.com/OpenHands/skills/tree/main/skills/pdflatex",
+    "skillUrl": "https://skillsmp.com/skills/openhands-skills-skills-pdflatex-skill-md",
+    "updatedAt": 1770228725,
+    "description": "Install and use pdflatex to compile LaTeX documents into PDFs on Linux. Use when generating academic papers, research publications, or any documents written in LaTeX."
+  },
+  "github": {
+    "owner": "OpenHands",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/pdflatex",
+    "sourceUrl": "https://github.com/OpenHands/skills/tree/main/skills/pdflatex"
+  }
+}

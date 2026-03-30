@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 354,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 354,
+    "id": "continuedev-continue-skills-cn-check-skill-md",
+    "name": "cn-check",
+    "author": "continuedev",
+    "stars": 31333,
+    "githubUrl": "https://github.com/continuedev/continue/tree/main/skills/cn-check",
+    "skillUrl": "https://skillsmp.com/skills/continuedev-continue-skills-cn-check-skill-md",
+    "updatedAt": 1770026179,
+    "description": "Install and run the Continue CLI (`cn`) to execute AI agent checks on local code changes. Use when asked to \"run checks\", \"lint with AI\", \"review my changes with cn\", or set up Continue CI locally."
+  },
+  "github": {
+    "owner": "continuedev",
+    "repo": "continue",
+    "ref": "main",
+    "relativePath": "skills/cn-check",
+    "sourceUrl": "https://github.com/continuedev/continue/tree/main/skills/cn-check"
+  }
+}

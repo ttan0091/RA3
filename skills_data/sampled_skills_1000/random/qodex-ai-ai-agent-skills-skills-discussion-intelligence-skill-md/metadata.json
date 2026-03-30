@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 313,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 313,
+    "id": "qodex-ai-ai-agent-skills-skills-discussion-intelligence-skill-md",
+    "name": "discussion-intelligence",
+    "author": "qodex-ai",
+    "stars": 1,
+    "githubUrl": "https://github.com/qodex-ai/ai-agent-skills/tree/main/skills/discussion-intelligence",
+    "skillUrl": "https://skillsmp.com/skills/qodex-ai-ai-agent-skills-skills-discussion-intelligence-skill-md",
+    "updatedAt": 1767614160,
+    "description": "Extract insights and intelligence from meeting discussions. Identifies key decisions, action items, and patterns from meeting content."
+  },
+  "github": {
+    "owner": "qodex-ai",
+    "repo": "ai-agent-skills",
+    "ref": "main",
+    "relativePath": "skills/discussion-intelligence",
+    "sourceUrl": "https://github.com/qodex-ai/ai-agent-skills/tree/main/skills/discussion-intelligence"
+  }
+}

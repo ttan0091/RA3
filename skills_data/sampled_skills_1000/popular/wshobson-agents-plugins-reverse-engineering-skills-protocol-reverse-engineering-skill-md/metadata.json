@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 482,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 482,
+    "id": "wshobson-agents-plugins-reverse-engineering-skills-protocol-reverse-engineering-skill-md",
+    "name": "protocol-reverse-engineering",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/protocol-reverse-engineering",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-reverse-engineering-skills-protocol-reverse-engineering-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network traffic, understanding proprietary protocols, or debugging network communication."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/reverse-engineering/skills/protocol-reverse-engineering",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/reverse-engineering/skills/protocol-reverse-engineering"
+  }
+}

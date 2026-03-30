@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 193,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 193,
+    "id": "kubony-openclaw-gcp-setup-claude-skills-gcp-alerts-skill-md",
+    "name": "gcp-alerts",
+    "author": "kubony",
+    "stars": 7,
+    "githubUrl": "https://github.com/kubony/openclaw-gcp-setup/tree/main/.claude/skills/gcp-alerts",
+    "skillUrl": "https://skillsmp.com/skills/kubony-openclaw-gcp-setup-claude-skills-gcp-alerts-skill-md",
+    "updatedAt": 1770129143,
+    "description": "GCP 알림 정책 설정 (비용/에러/성능)"
+  },
+  "github": {
+    "owner": "kubony",
+    "repo": "openclaw-gcp-setup",
+    "ref": "main",
+    "relativePath": ".claude/skills/gcp-alerts",
+    "sourceUrl": "https://github.com/kubony/openclaw-gcp-setup/tree/main/.claude/skills/gcp-alerts"
+  }
+}

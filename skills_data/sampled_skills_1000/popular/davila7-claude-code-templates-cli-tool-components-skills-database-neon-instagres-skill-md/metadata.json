@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 821,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 821,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-database-neon-instagres-skill-md",
+    "name": "neon-instagres",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/neon-instagres",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-database-neon-instagres-skill-md",
+    "updatedAt": 1769554120,
+    "description": "Instantly provision production-ready Postgres databases with Neon Instagres. Use when setting up databases, when users mention PostgreSQL/Postgres, database setup, or need a development database. Works with Drizzle, Prisma, raw SQL."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/database/neon-instagres",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/database/neon-instagres"
+  }
+}

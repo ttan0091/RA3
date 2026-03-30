@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 50,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 50,
+    "id": "samarv-shanon-claude-skills-crossing-the-chasm-beachhead-strategy-skill-md",
+    "name": "crossing-the-chasm-beachhead-strategy",
+    "author": "samarv",
+    "stars": 13,
+    "githubUrl": "https://github.com/samarv/Shanon/tree/main/.claude/skills/crossing-the-chasm-beachhead-strategy",
+    "skillUrl": "https://skillsmp.com/skills/samarv-shanon-claude-skills-crossing-the-chasm-beachhead-strategy-skill-md",
+    "updatedAt": 1769337738,
+    "description": "Transition a B2B product from visionary early adopters to pragmatic mainstream customers. Use this when early growth stalls, when you need to create a repeatable sales motion, or when you are struggling to win customers who demand references before buying."
+  },
+  "github": {
+    "owner": "samarv",
+    "repo": "Shanon",
+    "ref": "main",
+    "relativePath": ".claude/skills/crossing-the-chasm-beachhead-strategy",
+    "sourceUrl": "https://github.com/samarv/Shanon/tree/main/.claude/skills/crossing-the-chasm-beachhead-strategy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 59,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 59,
+    "id": "openclaw-openclaw-skills-voice-call-skill-md",
+    "name": "voice-call",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/voice-call",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-voice-call-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Start voice calls via the OpenClaw voice-call plugin."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/voice-call",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/voice-call"
+  }
+}

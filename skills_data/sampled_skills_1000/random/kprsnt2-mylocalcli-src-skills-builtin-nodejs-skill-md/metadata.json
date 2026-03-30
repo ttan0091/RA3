@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 293,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 293,
+    "id": "kprsnt2-mylocalcli-src-skills-builtin-nodejs-skill-md",
+    "name": "nodejs",
+    "author": "kprsnt2",
+    "stars": 0,
+    "githubUrl": "https://github.com/kprsnt2/MyLocalCLI/tree/main/src/skills/builtin/nodejs",
+    "skillUrl": "https://skillsmp.com/skills/kprsnt2-mylocalcli-src-skills-builtin-nodejs-skill-md",
+    "updatedAt": 1768381048,
+    "description": "Node.js server development patterns including async patterns, error handling, and security best practices."
+  },
+  "github": {
+    "owner": "kprsnt2",
+    "repo": "MyLocalCLI",
+    "ref": "main",
+    "relativePath": "src/skills/builtin/nodejs",
+    "sourceUrl": "https://github.com/kprsnt2/MyLocalCLI/tree/main/src/skills/builtin/nodejs"
+  }
+}

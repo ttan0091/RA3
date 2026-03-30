@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 405,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 405,
+    "id": "wshobson-agents-plugins-database-design-skills-postgresql-skill-md",
+    "name": "postgresql-table-design",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/database-design/skills/postgresql",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-database-design-skills-postgresql-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features"
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/database-design/skills/postgresql",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/database-design/skills/postgresql"
+  }
+}

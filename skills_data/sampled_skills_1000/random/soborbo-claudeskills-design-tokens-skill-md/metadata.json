@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 381,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 381,
+    "id": "soborbo-claudeskills-design-tokens-skill-md",
+    "name": "design-tokens",
+    "author": "Soborbo",
+    "stars": 1,
+    "githubUrl": "https://github.com/Soborbo/claudeskills/tree/main/design-tokens",
+    "skillUrl": "https://skillsmp.com/skills/soborbo-claudeskills-design-tokens-skill-md",
+    "updatedAt": 1768518469,
+    "description": "Design system foundation. Colors, typography, spacing. Single source of truth. No raw values."
+  },
+  "github": {
+    "owner": "Soborbo",
+    "repo": "claudeskills",
+    "ref": "main",
+    "relativePath": "design-tokens",
+    "sourceUrl": "https://github.com/Soborbo/claudeskills/tree/main/design-tokens"
+  }
+}

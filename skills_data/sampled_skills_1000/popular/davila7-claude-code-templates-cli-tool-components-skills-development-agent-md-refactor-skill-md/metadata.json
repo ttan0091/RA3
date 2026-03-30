@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 826,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 826,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-agent-md-refactor-skill-md",
+    "name": "agent-md-refactor",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/agent-md-refactor",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-agent-md-refactor-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Refactor bloated AGENTS.md, CLAUDE.md, or similar agent instruction files to follow progressive disclosure principles. Splits monolithic files into organized, linked documentation."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/agent-md-refactor",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/agent-md-refactor"
+  }
+}

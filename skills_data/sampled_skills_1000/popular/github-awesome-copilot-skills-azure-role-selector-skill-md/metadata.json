@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 587,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 587,
+    "id": "github-awesome-copilot-skills-azure-role-selector-skill-md",
+    "name": "azure-role-selector",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-role-selector",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-azure-role-selector-skill-md",
+    "updatedAt": 1767641466,
+    "description": "When user is asking for guidance for which role to assign to an identity given desired permissions, this agent helps them understand the role that will meet the requirements with least privilege access and how to apply that role."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/azure-role-selector",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/azure-role-selector"
+  }
+}

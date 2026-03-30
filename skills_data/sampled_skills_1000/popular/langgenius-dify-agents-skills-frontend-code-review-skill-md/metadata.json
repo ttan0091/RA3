@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 72,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 72,
+    "id": "langgenius-dify-agents-skills-frontend-code-review-skill-md",
+    "name": "frontend-code-review",
+    "author": "langgenius",
+    "stars": 129325,
+    "githubUrl": "https://github.com/langgenius/dify/tree/main/.agents/skills/frontend-code-review",
+    "skillUrl": "https://skillsmp.com/skills/langgenius-dify-agents-skills-frontend-code-review-skill-md",
+    "updatedAt": 1768978138,
+    "description": "Trigger when the user requests a review of frontend files (e.g., `.tsx`, `.ts`, `.js`). Support both pending-change reviews and focused file reviews while applying the checklist rules."
+  },
+  "github": {
+    "owner": "langgenius",
+    "repo": "dify",
+    "ref": "main",
+    "relativePath": ".agents/skills/frontend-code-review",
+    "sourceUrl": "https://github.com/langgenius/dify/tree/main/.agents/skills/frontend-code-review"
+  }
+}

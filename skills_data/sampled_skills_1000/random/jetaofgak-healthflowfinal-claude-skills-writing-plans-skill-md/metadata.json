@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 273,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 273,
+    "id": "jetaofgak-healthflowfinal-claude-skills-writing-plans-skill-md",
+    "name": "writing-plans",
+    "author": "Jetaofgak",
+    "stars": 0,
+    "githubUrl": "https://github.com/Jetaofgak/HealthFlowFinal/tree/main/.claude/skills/writing-plans",
+    "skillUrl": "https://skillsmp.com/skills/jetaofgak-healthflowfinal-claude-skills-writing-plans-skill-md",
+    "updatedAt": 1767787376,
+    "description": "Use when design is complete and you need detailed implementation tasks for engineers with zero codebase context - creates comprehensive implementation plans with exact file paths, complete code examples, and verification steps assuming engineer has minimal domain knowledge"
+  },
+  "github": {
+    "owner": "Jetaofgak",
+    "repo": "HealthFlowFinal",
+    "ref": "main",
+    "relativePath": ".claude/skills/writing-plans",
+    "sourceUrl": "https://github.com/Jetaofgak/HealthFlowFinal/tree/main/.claude/skills/writing-plans"
+  }
+}

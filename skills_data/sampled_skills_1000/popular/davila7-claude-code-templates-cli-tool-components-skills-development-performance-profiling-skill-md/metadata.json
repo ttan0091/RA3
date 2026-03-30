@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 900,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 900,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-performance-profiling-skill-md",
+    "name": "performance-profiling",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/performance-profiling",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-performance-profiling-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Performance profiling principles. Measurement, analysis, and optimization techniques."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/performance-profiling",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/performance-profiling"
+  }
+}

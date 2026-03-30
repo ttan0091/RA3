@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 15,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 15,
+    "id": "openclaw-skills-skills-imthatcarlos-clawdvine-skill-latest-skill-md",
+    "name": "clawdvine",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/clawdvine-skill-latest",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-imthatcarlos-clawdvine-skill-latest-skill-md",
+    "updatedAt": 1770336355,
+    "description": "Short-form video for AI agents. Generate videos using the latest models, pay with USDC via x402."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/imthatcarlos/clawdvine-skill-latest",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/imthatcarlos/clawdvine-skill-latest"
+  }
+}

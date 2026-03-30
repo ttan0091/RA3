@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 985,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 985,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-telegram-mini-app-skill-md",
+    "name": "telegram-mini-app",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/telegram-mini-app",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-telegram-mini-app-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in building Telegram Mini Apps (TWA) - web apps that run inside Telegram with native-like experience. Covers the TON ecosystem, Telegram Web App API, payments, user authentication, and building viral mini apps that monetize. Use when: telegram mini app, TWA, telegram web app, TON app, mini app."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/telegram-mini-app",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/telegram-mini-app"
+  }
+}

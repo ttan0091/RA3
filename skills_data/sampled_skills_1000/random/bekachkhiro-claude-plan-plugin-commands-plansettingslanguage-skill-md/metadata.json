@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 250,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 250,
+    "id": "bekachkhiro-claude-plan-plugin-commands-plansettingslanguage-skill-md",
+    "name": "plansettingslanguage",
+    "author": "BekaChkhiro",
+    "stars": 0,
+    "githubUrl": "https://github.com/BekaChkhiro/claude-plan-plugin/tree/master/commands/planSettingsLanguage",
+    "skillUrl": "https://skillsmp.com/skills/bekachkhiro-claude-plan-plugin-commands-plansettingslanguage-skill-md",
+    "updatedAt": 1770062551,
+    "description": "Change language preference for the plugin"
+  },
+  "github": {
+    "owner": "BekaChkhiro",
+    "repo": "claude-plan-plugin",
+    "ref": "master",
+    "relativePath": "commands/planSettingsLanguage",
+    "sourceUrl": "https://github.com/BekaChkhiro/claude-plan-plugin/tree/master/commands/planSettingsLanguage"
+  }
+}

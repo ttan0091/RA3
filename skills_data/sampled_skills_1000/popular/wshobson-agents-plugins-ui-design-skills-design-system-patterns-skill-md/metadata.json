@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 500,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 500,
+    "id": "wshobson-agents-plugins-ui-design-skills-design-system-patterns-skill-md",
+    "name": "design-system-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/design-system-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-ui-design-skills-design-system-patterns-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build scalable design systems with design tokens, theming infrastructure, and component architecture patterns. Use when creating design tokens, implementing theme switching, building component libraries, or establishing design system foundations."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/ui-design/skills/design-system-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/ui-design/skills/design-system-patterns"
+  }
+}

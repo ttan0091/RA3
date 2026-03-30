@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 798,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 798,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-3d-games-skill-md",
+    "name": "3d-games",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/3d-games",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-game-development-3d-games-skill-md",
+    "updatedAt": 1769353274,
+    "description": "3D game development principles. Rendering, shaders, physics, cameras."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/game-development/3d-games",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/game-development/3d-games"
+  }
+}

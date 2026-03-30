@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 131,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 131,
+    "id": "julianobarbosa-claude-code-skills-skills-loki-skill-skill-md",
+    "name": "loki",
+    "author": "julianobarbosa",
+    "stars": 14,
+    "githubUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/loki-skill",
+    "skillUrl": "https://skillsmp.com/skills/julianobarbosa-claude-code-skills-skills-loki-skill-skill-md",
+    "updatedAt": 1765911532,
+    "description": "Guide for implementing Grafana Loki - a horizontally scalable, highly available log aggregation system. Use when configuring Loki deployments, setting up storage backends (S3, Azure Blob, GCS), writing LogQL queries, configuring retention and compaction, deploying via Helm, integrating with OpenTelemetry, or troubleshooting Loki issues on Kubernetes."
+  },
+  "github": {
+    "owner": "julianobarbosa",
+    "repo": "claude-code-skills",
+    "ref": "main",
+    "relativePath": "skills/loki-skill",
+    "sourceUrl": "https://github.com/julianobarbosa/claude-code-skills/tree/main/skills/loki-skill"
+  }
+}

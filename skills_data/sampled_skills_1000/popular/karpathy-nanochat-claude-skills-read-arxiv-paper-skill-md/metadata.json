@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 292,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 292,
+    "id": "karpathy-nanochat-claude-skills-read-arxiv-paper-skill-md",
+    "name": "read-arxiv-paper",
+    "author": "karpathy",
+    "stars": 42825,
+    "githubUrl": "https://github.com/karpathy/nanochat/tree/master/.claude/skills/read-arxiv-paper",
+    "skillUrl": "https://skillsmp.com/skills/karpathy-nanochat-claude-skills-read-arxiv-paper-skill-md",
+    "updatedAt": 1769646864,
+    "description": "Use this skill when when asked to read an arxiv paper given an arxiv URL"
+  },
+  "github": {
+    "owner": "karpathy",
+    "repo": "nanochat",
+    "ref": "master",
+    "relativePath": ".claude/skills/read-arxiv-paper",
+    "sourceUrl": "https://github.com/karpathy/nanochat/tree/master/.claude/skills/read-arxiv-paper"
+  }
+}

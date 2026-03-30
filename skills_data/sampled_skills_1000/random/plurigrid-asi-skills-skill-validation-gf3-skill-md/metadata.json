@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 553,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 553,
+    "id": "plurigrid-asi-skills-skill-validation-gf3-skill-md",
+    "name": "skill-validation-gf3",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/skill-validation-gf3",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-skill-validation-gf3-skill-md",
+    "updatedAt": 1770551662,
+    "description": "Skill Validation GF(3) - SLAVE (-1)"
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/skill-validation-gf3",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/skill-validation-gf3"
+  }
+}

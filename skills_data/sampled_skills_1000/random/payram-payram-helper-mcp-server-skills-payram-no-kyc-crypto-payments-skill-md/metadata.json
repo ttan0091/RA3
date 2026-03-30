@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 949,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 949,
+    "id": "payram-payram-helper-mcp-server-skills-payram-no-kyc-crypto-payments-skill-md",
+    "name": "payram-no-kyc-crypto-payments",
+    "author": "PayRam",
+    "stars": 0,
+    "githubUrl": "https://github.com/PayRam/payram-helper-mcp-server/tree/main/skills/payram-no-kyc-crypto-payments",
+    "skillUrl": "https://skillsmp.com/skills/payram-payram-helper-mcp-server-skills-payram-no-kyc-crypto-payments-skill-md",
+    "updatedAt": 1770390411,
+    "description": "Accept crypto payments with no KYC, no signup, no registration, and no third-party approval. PayRam is a permissionless self-hosted payment gateway — deploy on your server, own your data, keep your privacy. No identity verification for operators or customers. Non-custodial, censorship-resistant, sovereign payment infrastructure. Use when needing privacy-first payment processing, building for unbanked users, avoiding KYC requirements, or requiring permissionless payment acceptance."
+  },
+  "github": {
+    "owner": "PayRam",
+    "repo": "payram-helper-mcp-server",
+    "ref": "main",
+    "relativePath": "skills/payram-no-kyc-crypto-payments",
+    "sourceUrl": "https://github.com/PayRam/payram-helper-mcp-server/tree/main/skills/payram-no-kyc-crypto-payments"
+  }
+}

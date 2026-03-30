@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 301,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 301,
+    "id": "ccxt-ccxt-claude-skills-ccxt-typescript-skill-md",
+    "name": "ccxt-typescript",
+    "author": "ccxt",
+    "stars": 40891,
+    "githubUrl": "https://github.com/ccxt/ccxt/tree/master/.claude/skills/ccxt-typescript",
+    "skillUrl": "https://skillsmp.com/skills/ccxt-ccxt-claude-skills-ccxt-typescript-skill-md",
+    "updatedAt": 1770028077,
+    "description": "CCXT cryptocurrency exchange library for TypeScript and JavaScript developers (Node.js and browser). Covers both REST API (standard) and WebSocket API (real-time). Helps install CCXT, connect to exchanges, fetch market data, place orders, stream live tickers/orderbooks, handle authentication, and manage errors. Use when working with crypto exchanges in TypeScript/JavaScript projects, trading bots, arbitrage systems, or portfolio management tools. Includes both REST and WebSocket examples."
+  },
+  "github": {
+    "owner": "ccxt",
+    "repo": "ccxt",
+    "ref": "master",
+    "relativePath": ".claude/skills/ccxt-typescript",
+    "sourceUrl": "https://github.com/ccxt/ccxt/tree/master/.claude/skills/ccxt-typescript"
+  }
+}

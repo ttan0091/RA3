@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 174,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 174,
+    "id": "obra-superpowers-skills-brainstorming-skill-md",
+    "name": "brainstorming",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/brainstorming",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-brainstorming-skill-md",
+    "updatedAt": 1766018692,
+    "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/brainstorming",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/brainstorming"
+  }
+}

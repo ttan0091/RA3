@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 914,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 914,
+    "id": "partme-ai-full-stack-skills-skills-uizard-skill-md",
+    "name": "uizard",
+    "author": "partme-ai",
+    "stars": 67,
+    "githubUrl": "https://github.com/partme-ai/full-stack-skills/tree/main/skills/uizard",
+    "skillUrl": "https://skillsmp.com/skills/partme-ai-full-stack-skills-skills-uizard-skill-md",
+    "updatedAt": 1768812208,
+    "description": "Provides comprehensive guidance for Uizard AI design tool including AI-powered design generation, wireframing, and design automation. Use when the user asks about Uizard, needs to generate designs with AI, create wireframes, or automate design tasks."
+  },
+  "github": {
+    "owner": "partme-ai",
+    "repo": "full-stack-skills",
+    "ref": "main",
+    "relativePath": "skills/uizard",
+    "sourceUrl": "https://github.com/partme-ai/full-stack-skills/tree/main/skills/uizard"
+  }
+}

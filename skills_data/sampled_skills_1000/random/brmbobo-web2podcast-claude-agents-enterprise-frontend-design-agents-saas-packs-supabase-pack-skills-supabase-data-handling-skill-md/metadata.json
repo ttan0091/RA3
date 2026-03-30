@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 471,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 471,
+    "id": "brmbobo-web2podcast-claude-agents-enterprise-frontend-design-agents-saas-packs-supabase-pack-skills-supabase-data-handling-skill-md",
+    "name": "supabase-data-handling",
+    "author": "Brmbobo",
+    "stars": 0,
+    "githubUrl": "https://github.com/Brmbobo/Web2podcast/tree/master/.claude/agents/enterprise-frontend-design/agents/saas-packs/supabase-pack/skills/supabase-data-handling",
+    "skillUrl": "https://skillsmp.com/skills/brmbobo-web2podcast-claude-agents-enterprise-frontend-design-agents-saas-packs-supabase-pack-skills-supabase-data-handling-skill-md",
+    "updatedAt": 1769386690,
+    "description": "Implement Supabase PII handling, data retention, and GDPR/CCPA compliance patterns.\nUse when handling sensitive data, implementing data redaction, configuring retention policies,\nor ensuring compliance with privacy regulations for Supabase integrations.\nTrigger with phrases like \"supabase data\", \"supabase PII\",\n\"supabase GDPR\", \"supabase data retention\", \"supabase privacy\", \"supabase CCPA\"."
+  },
+  "github": {
+    "owner": "Brmbobo",
+    "repo": "Web2podcast",
+    "ref": "master",
+    "relativePath": ".claude/agents/enterprise-frontend-design/agents/saas-packs/supabase-pack/skills/supabase-data-handling",
+    "sourceUrl": "https://github.com/Brmbobo/Web2podcast/tree/master/.claude/agents/enterprise-frontend-design/agents/saas-packs/supabase-pack/skills/supabase-data-handling"
+  }
+}

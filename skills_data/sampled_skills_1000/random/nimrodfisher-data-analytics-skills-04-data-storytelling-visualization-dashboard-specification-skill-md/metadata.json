@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 530,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 530,
+    "id": "nimrodfisher-data-analytics-skills-04-data-storytelling-visualization-dashboard-specification-skill-md",
+    "name": "dashboard-specification",
+    "author": "nimrodfisher",
+    "stars": 0,
+    "githubUrl": "https://github.com/nimrodfisher/data-analytics-skills/tree/main/04-data-storytelling-visualization/dashboard-specification",
+    "skillUrl": "https://skillsmp.com/skills/nimrodfisher-data-analytics-skills-04-data-storytelling-visualization-dashboard-specification-skill-md",
+    "updatedAt": 1768360725,
+    "description": "Design specifications for effective dashboards. Use when planning new dashboards, improving existing ones, or documenting dashboard requirements before development."
+  },
+  "github": {
+    "owner": "nimrodfisher",
+    "repo": "data-analytics-skills",
+    "ref": "main",
+    "relativePath": "04-data-storytelling-visualization/dashboard-specification",
+    "sourceUrl": "https://github.com/nimrodfisher/data-analytics-skills/tree/main/04-data-storytelling-visualization/dashboard-specification"
+  }
+}

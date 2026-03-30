@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 457,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 457,
+    "id": "wshobson-agents-plugins-payment-processing-skills-billing-automation-skill-md",
+    "name": "billing-automation",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/billing-automation",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-payment-processing-skills-billing-automation-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recurring payment systems."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/payment-processing/skills/billing-automation",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/payment-processing/skills/billing-automation"
+  }
+}

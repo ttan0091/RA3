@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 985,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 985,
+    "id": "diskd-ai-redmine-cli-skill-md",
+    "name": "redmine-cli",
+    "author": "diskd-ai",
+    "stars": 1,
+    "githubUrl": "https://github.com/diskd-ai/redmine-cli",
+    "skillUrl": "https://skillsmp.com/skills/diskd-ai-redmine-cli-skill-md",
+    "updatedAt": 1770570914,
+    "description": "Manage Redmine issues/tickets from the command line via the Redmine REST API using a `red-cli`-style interface. Uses `~/.red/config.json` for auth (server + api-key) with optional local overrides in `./.red/config.json`. Use when you need to create issues (defaults to Task tracker), list issues/projects, view issues (with journals), add journal notes/comments (public or private), edit issue fields (subject, description, status, priority, tracker, parent, assigned-to), manage issue relations (relates, blocks, duplicates, precedes, follows), update/remove existing comments (journals) by journal id, filter/sort/paginate lists, or troubleshoot Redmine CLI configuration (project-id/user-id, multi-instance `--rid`). Triggers on Redmine, red-cli, issue create/list/view/note/edit/relate/comment, subtask, parent, relation, `--rid`, `.red/config.json`, `api-key`, `project-id`, `user-id`, or requests to automate Redmine from a CLI."
+  },
+  "github": {
+    "owner": "diskd-ai",
+    "repo": "redmine-cli",
+    "ref": null,
+    "relativePath": "",
+    "sourceUrl": "https://github.com/diskd-ai/redmine-cli"
+  }
+}

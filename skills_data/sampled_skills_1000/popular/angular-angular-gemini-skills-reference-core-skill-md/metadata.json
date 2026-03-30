@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 78,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 78,
+    "id": "angular-angular-gemini-skills-reference-core-skill-md",
+    "name": "reference-core",
+    "author": "angular",
+    "stars": 99821,
+    "githubUrl": "https://github.com/angular/angular/tree/main/.gemini/skills/reference-core",
+    "skillUrl": "https://skillsmp.com/skills/angular-angular-gemini-skills-reference-core-skill-md",
+    "updatedAt": 1770668055,
+    "description": "Explains the mental model and architecture of the code under `packages/core`. You MUST use this skill any time you plan to work with code in `packages/core`"
+  },
+  "github": {
+    "owner": "angular",
+    "repo": "angular",
+    "ref": "main",
+    "relativePath": ".gemini/skills/reference-core",
+    "sourceUrl": "https://github.com/angular/angular/tree/main/.gemini/skills/reference-core"
+  }
+}

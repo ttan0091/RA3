@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 989,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 989,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-media-speech-skill-md",
+    "name": "speech",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/speech",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-media-speech-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use when the user asks for text-to-speech narration or voiceover, accessibility reads, audio prompts, or batch speech generation via the OpenAI Audio API; run the bundled CLI (`scripts/text_to_speech.py`) with built-in voices and require `OPENAI_API_KEY` for live calls. Custom voice creation is out of scope."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/media/speech",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/media/speech"
+  }
+}

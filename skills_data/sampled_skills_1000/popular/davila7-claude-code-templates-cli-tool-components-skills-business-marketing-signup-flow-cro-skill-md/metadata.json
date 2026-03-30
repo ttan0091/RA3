@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 784,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 784,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-signup-flow-cro-skill-md",
+    "name": "signup-flow-cro",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/signup-flow-cro",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-signup-flow-cro-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup form optimization,\" \"free trial signup,\" \"reduce signup dropoff,\" or \"account creation flow.\" For post-signup onboarding, see onboarding-cro. For lead capture forms (not account creation), see form-cro."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/signup-flow-cro",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/signup-flow-cro"
+  }
+}

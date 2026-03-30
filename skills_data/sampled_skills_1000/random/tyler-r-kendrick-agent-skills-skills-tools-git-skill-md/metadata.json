@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 692,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 692,
+    "id": "tyler-r-kendrick-agent-skills-skills-tools-git-skill-md",
+    "name": "git",
+    "author": "Tyler-R-Kendrick",
+    "stars": 0,
+    "githubUrl": "https://github.com/Tyler-R-Kendrick/agent-skills/tree/main/skills/tools/git",
+    "skillUrl": "https://skillsmp.com/skills/tyler-r-kendrick-agent-skills-skills-tools-git-skill-md",
+    "updatedAt": 1770751370,
+    "description": "Use when working with Git version control — branching strategies, common workflows, conflict resolution, history manipulation, hooks, and configuration. Covers everyday commands through advanced operations like rebase, cherry-pick, bisect, and worktrees.\nUSE FOR: git, version control, branching, merging, rebasing, git hooks, git workflows, Gitflow, trunk-based development, cherry-pick, bisect, stash, worktrees, git configuration, .gitignore, git aliases\nDO NOT USE FOR: GitHub/GitLab platform features (use platform-specific skills), CI/CD pipeline configuration, Git LFS administration"
+  },
+  "github": {
+    "owner": "Tyler-R-Kendrick",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "skills/tools/git",
+    "sourceUrl": "https://github.com/Tyler-R-Kendrick/agent-skills/tree/main/skills/tools/git"
+  }
+}

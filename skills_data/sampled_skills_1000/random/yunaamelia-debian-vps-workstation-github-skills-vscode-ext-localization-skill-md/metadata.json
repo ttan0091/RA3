@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 792,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 792,
+    "id": "yunaamelia-debian-vps-workstation-github-skills-vscode-ext-localization-skill-md",
+    "name": "vscode-ext-localization",
+    "author": "yunaamelia",
+    "stars": 0,
+    "githubUrl": "https://github.com/yunaamelia/debian-vps-workstation/tree/main/.github/skills/vscode-ext-localization",
+    "skillUrl": "https://skillsmp.com/skills/yunaamelia-debian-vps-workstation-github-skills-vscode-ext-localization-skill-md",
+    "updatedAt": 1769535865,
+    "description": "Guidelines for proper localization of VS Code extensions, following VS Code extension development guidelines, libraries and good practices"
+  },
+  "github": {
+    "owner": "yunaamelia",
+    "repo": "debian-vps-workstation",
+    "ref": "main",
+    "relativePath": ".github/skills/vscode-ext-localization",
+    "sourceUrl": "https://github.com/yunaamelia/debian-vps-workstation/tree/main/.github/skills/vscode-ext-localization"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 230,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 230,
+    "id": "take566-kubernetes-claude-skills-document-processing-skill-md",
+    "name": "document-processing",
+    "author": "take566",
+    "stars": 0,
+    "githubUrl": "https://github.com/take566/kubernetes/tree/master/.claude/skills/document-processing",
+    "skillUrl": "https://skillsmp.com/skills/take566-kubernetes-claude-skills-document-processing-skill-md",
+    "updatedAt": 1767660416,
+    "description": "PDF、Excel、Wordドキュメントの読み取り・作成・編集・変換。テキスト抽出、フォーム入力、レポート生成、データ変換。「PDF」「Excel」「Word」「ドキュメント」「レポート」「スプレッドシート」に関する質問で使用。"
+  },
+  "github": {
+    "owner": "take566",
+    "repo": "kubernetes",
+    "ref": "master",
+    "relativePath": ".claude/skills/document-processing",
+    "sourceUrl": "https://github.com/take566/kubernetes/tree/master/.claude/skills/document-processing"
+  }
+}

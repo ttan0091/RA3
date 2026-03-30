@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 878,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 878,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-github-workflow-automation-skill-md",
+    "name": "github-workflow-automation",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/github-workflow-automation",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-github-workflow-automation-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Automate GitHub workflows with AI assistance. Includes PR reviews, issue triage, CI/CD integration, and Git operations. Use when automating GitHub workflows, setting up PR review automation, creating GitHub Actions, or triaging issues."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/github-workflow-automation",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/github-workflow-automation"
+  }
+}

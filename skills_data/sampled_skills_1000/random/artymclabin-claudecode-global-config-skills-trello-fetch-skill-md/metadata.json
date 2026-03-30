@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 877,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 877,
+    "id": "artymclabin-claudecode-global-config-skills-trello-fetch-skill-md",
+    "name": "trello-fetch",
+    "author": "ArtyMcLabin",
+    "stars": 2,
+    "githubUrl": "https://github.com/ArtyMcLabin/ClaudeCode-global-config/tree/master/skills/trello-fetch",
+    "skillUrl": "https://skillsmp.com/skills/artymclabin-claudecode-global-config-skills-trello-fetch-skill-md",
+    "updatedAt": 1770126670,
+    "description": "Fetch Trello board JSON exports. Use when downloading Trello boards, exporting Trello data, fetching Trello JSON, or when a training/retraining workflow requires fresh Trello board data. Covers both private and public boards."
+  },
+  "github": {
+    "owner": "ArtyMcLabin",
+    "repo": "ClaudeCode-global-config",
+    "ref": "master",
+    "relativePath": "skills/trello-fetch",
+    "sourceUrl": "https://github.com/ArtyMcLabin/ClaudeCode-global-config/tree/master/skills/trello-fetch"
+  }
+}

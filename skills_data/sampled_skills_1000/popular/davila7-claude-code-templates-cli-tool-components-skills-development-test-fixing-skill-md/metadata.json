@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 940,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 940,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-test-fixing-skill-md",
+    "name": "test-fixing",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/test-fixing",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-test-fixing-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Run tests and systematically fix all failing tests using smart error grouping. Use when user asks to fix failing tests, mentions test failures, runs test suite and failures occur, or requests to make tests pass."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/test-fixing",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/test-fixing"
+  }
+}

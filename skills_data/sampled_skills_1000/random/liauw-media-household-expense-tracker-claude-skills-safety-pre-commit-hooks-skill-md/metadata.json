@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 494,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 494,
+    "id": "liauw-media-household-expense-tracker-claude-skills-safety-pre-commit-hooks-skill-md",
+    "name": "pre-commit-hooks",
+    "author": "liauw-media",
+    "stars": 0,
+    "githubUrl": "https://github.com/liauw-media/household-expense-tracker/tree/main/.claude/skills/safety/pre-commit-hooks",
+    "skillUrl": "https://skillsmp.com/skills/liauw-media-household-expense-tracker-claude-skills-safety-pre-commit-hooks-skill-md",
+    "updatedAt": 1767820131,
+    "description": "MANDATORY setup for all projects. Automated code quality enforcement before commits. Prevents bad code from entering repository."
+  },
+  "github": {
+    "owner": "liauw-media",
+    "repo": "household-expense-tracker",
+    "ref": "main",
+    "relativePath": ".claude/skills/safety/pre-commit-hooks",
+    "sourceUrl": "https://github.com/liauw-media/household-expense-tracker/tree/main/.claude/skills/safety/pre-commit-hooks"
+  }
+}

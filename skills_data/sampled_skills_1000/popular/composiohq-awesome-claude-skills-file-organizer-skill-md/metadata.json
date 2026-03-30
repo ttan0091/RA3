@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 332,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 332,
+    "id": "composiohq-awesome-claude-skills-file-organizer-skill-md",
+    "name": "file-organizer",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-file-organizer-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "file-organizer",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer"
+  }
+}

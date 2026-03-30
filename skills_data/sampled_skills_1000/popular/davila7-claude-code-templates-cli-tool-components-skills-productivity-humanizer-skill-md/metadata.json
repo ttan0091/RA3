@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 999,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 999,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-humanizer-skill-md",
+    "name": "humanizer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/humanizer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-humanizer-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Remove signs of AI-generated writing from text. Use when editing or reviewing\ntext to make it sound more natural and human-written. Based on Wikipedia's\ncomprehensive \"Signs of AI writing\" guide. Detects and fixes patterns including:\ninflated symbolism, promotional language, superficial -ing analyses, vague\nattributions, em dash overuse, rule of three, AI vocabulary words, negative\nparallelisms, and excessive conjunctive phrases.\n\nCredits: Original skill by @blader - https://github.com/blader/humanizer"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/humanizer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/humanizer"
+  }
+}

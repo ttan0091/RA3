@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 166,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 166,
+    "id": "jikime-jikime-adk-templates-claude-skills-jikime-lang-go-skill-md",
+    "name": "jikime-lang-go",
+    "author": "jikime",
+    "stars": 2,
+    "githubUrl": "https://github.com/jikime/jikime-adk/tree/main/templates/.claude/skills/jikime-lang-go",
+    "skillUrl": "https://skillsmp.com/skills/jikime-jikime-adk-templates-claude-skills-jikime-lang-go-skill-md",
+    "updatedAt": 1769314673,
+    "description": "Go 1.23+ development specialist covering Fiber, Gin, GORM, and concurrent programming patterns. Use when building high-performance microservices, CLI tools, or cloud-native applications."
+  },
+  "github": {
+    "owner": "jikime",
+    "repo": "jikime-adk",
+    "ref": "main",
+    "relativePath": "templates/.claude/skills/jikime-lang-go",
+    "sourceUrl": "https://github.com/jikime/jikime-adk/tree/main/templates/.claude/skills/jikime-lang-go"
+  }
+}

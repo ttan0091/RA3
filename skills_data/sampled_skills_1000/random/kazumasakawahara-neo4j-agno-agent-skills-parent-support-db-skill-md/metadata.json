@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 650,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 650,
+    "id": "kazumasakawahara-neo4j-agno-agent-skills-parent-support-db-skill-md",
+    "name": "parent-support-db",
+    "author": "kazumasakawahara",
+    "stars": 0,
+    "githubUrl": "https://github.com/kazumasakawahara/neo4j-agno-agent/tree/main/skills/parent_support_db",
+    "skillUrl": "https://skillsmp.com/skills/kazumasakawahara-neo4j-agno-agent-skills-parent-support-db-skill-md",
+    "updatedAt": 1769837603,
+    "description": "Access the Post-Parent Support Database (Neo4j) to manage client profiles, check safety, and orchestrate support."
+  },
+  "github": {
+    "owner": "kazumasakawahara",
+    "repo": "neo4j-agno-agent",
+    "ref": "main",
+    "relativePath": "skills/parent_support_db",
+    "sourceUrl": "https://github.com/kazumasakawahara/neo4j-agno-agent/tree/main/skills/parent_support_db"
+  }
+}

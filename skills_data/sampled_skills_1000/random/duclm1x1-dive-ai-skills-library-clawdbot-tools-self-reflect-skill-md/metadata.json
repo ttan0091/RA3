@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 960,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 960,
+    "id": "duclm1x1-dive-ai-skills-library-clawdbot-tools-self-reflect-skill-md",
+    "name": "reflect",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/clawdbot_tools/self-reflect",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-clawdbot-tools-self-reflect-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Self-improvement through conversation analysis. Extracts learnings from corrections and success patterns, permanently encoding them into agent definitions. Philosophy - Correct once, never again."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/clawdbot_tools/self-reflect",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/clawdbot_tools/self-reflect"
+  }
+}

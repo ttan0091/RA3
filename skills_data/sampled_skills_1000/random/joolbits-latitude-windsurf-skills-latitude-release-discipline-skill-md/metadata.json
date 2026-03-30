@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 99,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 99,
+    "id": "joolbits-latitude-windsurf-skills-latitude-release-discipline-skill-md",
+    "name": "latitude-release-discipline",
+    "author": "joolbits",
+    "stars": 0,
+    "githubUrl": "https://github.com/joolbits/latitude/tree/main/.windsurf/skills/latitude-release-discipline",
+    "skillUrl": "https://skillsmp.com/skills/joolbits-latitude-windsurf-skills-latitude-release-discipline-skill-md",
+    "updatedAt": 1770343070,
+    "description": "Release guardrails for Latitude. Prevents tagging/building/uploading from the wrong branch, mismatched version strings, dirty working trees, or shipping dev/debug artifacts. Enforces one-step-at-a-time release checklist."
+  },
+  "github": {
+    "owner": "joolbits",
+    "repo": "latitude",
+    "ref": "main",
+    "relativePath": ".windsurf/skills/latitude-release-discipline",
+    "sourceUrl": "https://github.com/joolbits/latitude/tree/main/.windsurf/skills/latitude-release-discipline"
+  }
+}

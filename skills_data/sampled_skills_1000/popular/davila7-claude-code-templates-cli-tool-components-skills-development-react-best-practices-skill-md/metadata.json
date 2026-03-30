@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 910,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 910,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-react-best-practices-skill-md",
+    "name": "vercel-react-best-practices",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-react-best-practices-skill-md",
+    "updatedAt": 1769353274,
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/react-best-practices",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-best-practices"
+  }
+}

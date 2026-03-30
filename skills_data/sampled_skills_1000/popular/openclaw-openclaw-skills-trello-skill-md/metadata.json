@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 57,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 57,
+    "id": "openclaw-openclaw-skills-trello-skill-md",
+    "name": "trello",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/trello",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-trello-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Manage Trello boards, lists, and cards via the Trello REST API."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/trello",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/trello"
+  }
+}

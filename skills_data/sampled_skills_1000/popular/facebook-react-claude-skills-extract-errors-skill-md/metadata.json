@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 1,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 1,
+    "id": "facebook-react-claude-skills-extract-errors-skill-md",
+    "name": "extract-errors",
+    "author": "facebook",
+    "stars": 242927,
+    "githubUrl": "https://github.com/facebook/react/tree/main/.claude/skills/extract-errors",
+    "skillUrl": "https://skillsmp.com/skills/facebook-react-claude-skills-extract-errors-skill-md",
+    "updatedAt": 1769217366,
+    "description": "Use when adding new error messages to React, or seeing \"unknown error code\" warnings."
+  },
+  "github": {
+    "owner": "facebook",
+    "repo": "react",
+    "ref": "main",
+    "relativePath": ".claude/skills/extract-errors",
+    "sourceUrl": "https://github.com/facebook/react/tree/main/.claude/skills/extract-errors"
+  }
+}

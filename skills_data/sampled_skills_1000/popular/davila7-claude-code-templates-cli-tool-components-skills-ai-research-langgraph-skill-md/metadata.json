@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 679,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 679,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-langgraph-skill-md",
+    "name": "langgraph",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langgraph",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-langgraph-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in LangGraph - the production-grade framework for building stateful, multi-actor AI applications. Covers graph construction, state management, cycles and branches, persistence with checkpointers, human-in-the-loop patterns, and the ReAct agent pattern. Used in production at LinkedIn, Uber, and 400+ companies. This is LangChain's recommended approach for building agents. Use when: langgraph, langchain agent, stateful agent, agent graph, react agent."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/langgraph",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/langgraph"
+  }
+}

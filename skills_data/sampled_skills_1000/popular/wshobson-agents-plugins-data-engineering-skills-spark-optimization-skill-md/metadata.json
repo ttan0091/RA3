@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 404,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 404,
+    "id": "wshobson-agents-plugins-data-engineering-skills-spark-optimization-skill-md",
+    "name": "spark-optimization",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/spark-optimization",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-data-engineering-skills-spark-optimization-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Optimize Apache Spark jobs with partitioning, caching, shuffle optimization, and memory tuning. Use when improving Spark performance, debugging slow jobs, or scaling data processing pipelines."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/data-engineering/skills/spark-optimization",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/data-engineering/skills/spark-optimization"
+  }
+}

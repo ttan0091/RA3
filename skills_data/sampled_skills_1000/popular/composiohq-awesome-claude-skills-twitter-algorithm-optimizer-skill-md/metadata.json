@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 344,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 344,
+    "id": "composiohq-awesome-claude-skills-twitter-algorithm-optimizer-skill-md",
+    "name": "twitter-algorithm-optimizer",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-twitter-algorithm-optimizer-skill-md",
+    "updatedAt": 1768976653,
+    "description": "Analyze and optimize tweets for maximum reach using Twitter's open-source algorithm insights. Rewrite and edit user tweets to improve engagement and visibility based on how the recommendation system ranks content."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "twitter-algorithm-optimizer",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-algorithm-optimizer"
+  }
+}

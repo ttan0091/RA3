@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 149,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 149,
+    "id": "anthropics-skills-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "anthropics",
+    "stars": 67303,
+    "githubUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/anthropics-skills-skills-skill-creator-skill-md",
+    "updatedAt": 1770412772,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "anthropics",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/skill-creator",
+    "sourceUrl": "https://github.com/anthropics/skills/tree/main/skills/skill-creator"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 130,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 130,
+    "id": "a4b-corporation-xtalent-docs-00-global-note-ontology-builder-pipeline-skills-phase-2-analyze-skill-md",
+    "name": "ontology-phase-2-analyze",
+    "author": "a4b-corporation",
+    "stars": 0,
+    "githubUrl": "https://github.com/a4b-corporation/xTalent/tree/main/docs/00-global/note/ontology-builder-pipeline/skills/phase-2-analyze",
+    "skillUrl": "https://skillsmp.com/skills/a4b-corporation-xtalent-docs-00-global-note-ontology-builder-pipeline-skills-phase-2-analyze-skill-md",
+    "updatedAt": 1766380118,
+    "description": "Phase 2 of Ontology Builder Pipeline. AI acts as domain SME to analyze raw inputs,\nextract entities/workflows/rules, fill knowledge gaps using market expertise.\nUse after Phase 1 ingestion is complete."
+  },
+  "github": {
+    "owner": "a4b-corporation",
+    "repo": "xTalent",
+    "ref": "main",
+    "relativePath": "docs/00-global/note/ontology-builder-pipeline/skills/phase-2-analyze",
+    "sourceUrl": "https://github.com/a4b-corporation/xTalent/tree/main/docs/00-global/note/ontology-builder-pipeline/skills/phase-2-analyze"
+  }
+}

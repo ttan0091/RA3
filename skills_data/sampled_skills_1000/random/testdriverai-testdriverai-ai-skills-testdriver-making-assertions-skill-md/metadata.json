@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 948,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 948,
+    "id": "testdriverai-testdriverai-ai-skills-testdriver-making-assertions-skill-md",
+    "name": "testdrivermaking-assertions",
+    "author": "testdriverai",
+    "stars": 212,
+    "githubUrl": "https://github.com/testdriverai/testdriverai/tree/main/ai/skills/testdriver:making-assertions",
+    "skillUrl": "https://skillsmp.com/skills/testdriverai-testdriverai-ai-skills-testdriver-making-assertions-skill-md",
+    "updatedAt": 1770050560,
+    "description": "Verify application state with AI-powered assertions"
+  },
+  "github": {
+    "owner": "testdriverai",
+    "repo": "testdriverai",
+    "ref": "main",
+    "relativePath": "ai/skills/testdriver:making-assertions",
+    "sourceUrl": "https://github.com/testdriverai/testdriverai/tree/main/ai/skills/testdriver:making-assertions"
+  }
+}

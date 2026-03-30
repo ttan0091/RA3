@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 974,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 974,
+    "id": "tkersey-dotfiles-codex-skills-logophile-skill-md",
+    "name": "logophile",
+    "author": "tkersey",
+    "stars": 41,
+    "githubUrl": "https://github.com/tkersey/dotfiles/tree/main/codex/skills/logophile",
+    "skillUrl": "https://skillsmp.com/skills/tkersey-dotfiles-codex-skills-logophile-skill-md",
+    "updatedAt": 1769910654,
+    "description": "Editing mode for clarity and semantic density; use for prompts, docs, specs, emails, and naming."
+  },
+  "github": {
+    "owner": "tkersey",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "codex/skills/logophile",
+    "sourceUrl": "https://github.com/tkersey/dotfiles/tree/main/codex/skills/logophile"
+  }
+}

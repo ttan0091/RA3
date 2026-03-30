@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 443,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 443,
+    "id": "wshobson-agents-plugins-kubernetes-operations-skills-k8s-security-policies-skill-md",
+    "name": "k8s-security-policies",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-security-policies",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-kubernetes-operations-skills-k8s-security-policies-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Implement Kubernetes security policies including NetworkPolicy, PodSecurityPolicy, and RBAC for production-grade security. Use when securing Kubernetes clusters, implementing network isolation, or enforcing pod security standards."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/kubernetes-operations/skills/k8s-security-policies",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/kubernetes-operations/skills/k8s-security-policies"
+  }
+}

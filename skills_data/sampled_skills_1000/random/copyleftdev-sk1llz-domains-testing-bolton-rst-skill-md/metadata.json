@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 750,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 750,
+    "id": "copyleftdev-sk1llz-domains-testing-bolton-rst-skill-md",
+    "name": "bolton-rapid-software-testing",
+    "author": "copyleftdev",
+    "stars": 3,
+    "githubUrl": "https://github.com/copyleftdev/sk1llz/tree/master/domains/testing/bolton-rst",
+    "skillUrl": "https://skillsmp.com/skills/copyleftdev-sk1llz-domains-testing-bolton-rst-skill-md",
+    "updatedAt": 1769453130,
+    "description": "Test software in the style of Michael Bolton, Rapid Software Testing co-creator with James Bach. Emphasizes the distinction between testing and checking, critical thinking, oracles, and the social nature of quality. Use when designing test strategies, evaluating test automation, or developing critical thinking in testers."
+  },
+  "github": {
+    "owner": "copyleftdev",
+    "repo": "sk1llz",
+    "ref": "master",
+    "relativePath": "domains/testing/bolton-rst",
+    "sourceUrl": "https://github.com/copyleftdev/sk1llz/tree/master/domains/testing/bolton-rst"
+  }
+}

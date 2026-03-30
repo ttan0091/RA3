@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 880,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 880,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-heygen-best-practices-skill-md",
+    "name": "heygen-best-practices",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/heygen-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-heygen-best-practices-skill-md",
+    "updatedAt": 1769313554,
+    "description": "Best practices for HeyGen - AI avatar video creation API"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/heygen-best-practices",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/heygen-best-practices"
+  }
+}

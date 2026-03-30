@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 860,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 860,
+    "id": "agentient-vibekit-plugins-research-tools-skills-research-interviewer-skill-md",
+    "name": "research-interviewer",
+    "author": "Agentient",
+    "stars": 0,
+    "githubUrl": "https://github.com/Agentient/vibekit/tree/master/plugins/research-tools/skills/research-interviewer",
+    "skillUrl": "https://skillsmp.com/skills/agentient-vibekit-plugins-research-tools-skills-research-interviewer-skill-md",
+    "updatedAt": 1769972068,
+    "description": "Systematic knowledge elicitation through structured interviewing with epistemic confidence tracking, MECE coverage verification, and bias-protected questioning. PROACTIVELY activate for: (1) Gather research requirements, (2) Elicit problem statements, (3) Extract domain knowledge, (4) Clarify research goals, (5) Generate requirements through discovery. Triggers: \"interview me\", \"elicit knowledge\", \"extract information\", \"research interview\", \"gather requirements\", \"conduct interview\", \"knowledge extraction\""
+  },
+  "github": {
+    "owner": "Agentient",
+    "repo": "vibekit",
+    "ref": "master",
+    "relativePath": "plugins/research-tools/skills/research-interviewer",
+    "sourceUrl": "https://github.com/Agentient/vibekit/tree/master/plugins/research-tools/skills/research-interviewer"
+  }
+}

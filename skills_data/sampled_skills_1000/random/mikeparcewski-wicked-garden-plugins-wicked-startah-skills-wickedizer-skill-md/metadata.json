@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 143,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 143,
+    "id": "mikeparcewski-wicked-garden-plugins-wicked-startah-skills-wickedizer-skill-md",
+    "name": "wickedizer",
+    "author": "mikeparcewski",
+    "stars": 1,
+    "githubUrl": "https://github.com/mikeparcewski/wicked-garden/tree/main/plugins/wicked-startah/skills/wickedizer",
+    "skillUrl": "https://skillsmp.com/skills/mikeparcewski-wicked-garden-plugins-wicked-startah-skills-wickedizer-skill-md",
+    "updatedAt": 1770664621,
+    "description": "Use this skill when writing, rewriting, or humanizing content. Removes AI tells while preserving meaning. Aligns output to team voice: direct, practical, action-oriented.\n\nUse when:\n- Writing or rewriting prose, technical docs, PRDs, slides\n- Humanizing AI-generated content or de-AI-ing text\n- Creating work items (Jira/Linear/GitHub Issues)\n- Drafting PR descriptions, commit messages, ADRs\n- Writing code comments, docstrings, READMEs"
+  },
+  "github": {
+    "owner": "mikeparcewski",
+    "repo": "wicked-garden",
+    "ref": "main",
+    "relativePath": "plugins/wicked-startah/skills/wickedizer",
+    "sourceUrl": "https://github.com/mikeparcewski/wicked-garden/tree/main/plugins/wicked-startah/skills/wickedizer"
+  }
+}

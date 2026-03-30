@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 14,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 14,
+    "id": "openclaw-openclaw-skills-apple-notes-skill-md",
+    "name": "apple-notes",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/apple-notes",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-apple-notes-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Manage Apple Notes via the `memo` CLI on macOS (create, view, edit, delete, search, move, and export notes). Use when a user asks OpenClaw to add a note, list notes, search notes, or manage note folders."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/apple-notes",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/apple-notes"
+  }
+}

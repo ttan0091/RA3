@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 307,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 307,
+    "id": "rafaie-codex-home-skills-project-intake-skill-md",
+    "name": "project-intake",
+    "author": "rafaie",
+    "stars": 1,
+    "githubUrl": "https://github.com/rafaie/codex_home/tree/main/skills/project-intake",
+    "skillUrl": "https://skillsmp.com/skills/rafaie-codex-home-skills-project-intake-skill-md",
+    "updatedAt": 1769489050,
+    "description": "Turn a rough project idea into a concise Project Brief and a starting spec/index.md."
+  },
+  "github": {
+    "owner": "rafaie",
+    "repo": "codex_home",
+    "ref": "main",
+    "relativePath": "skills/project-intake",
+    "sourceUrl": "https://github.com/rafaie/codex_home/tree/main/skills/project-intake"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 983,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 983,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-slack-bot-builder-skill-md",
+    "name": "slack-bot-builder",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/slack-bot-builder",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-slack-bot-builder-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event handling, OAuth installation flows, and Workflow Builder integration. Focus on best practices for production-ready Slack apps. Use when: slack bot, slack app, bolt framework, block kit, slash command."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/slack-bot-builder",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/slack-bot-builder"
+  }
+}

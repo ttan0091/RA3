@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 716,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 716,
+    "id": "khopilot-bit-trand-skill-trad-bot-skill-md",
+    "name": "btc-trading-bot",
+    "author": "khopilot",
+    "stars": 0,
+    "githubUrl": "https://github.com/khopilot/bit-trand/tree/main/skill-trad-bot",
+    "skillUrl": "https://skillsmp.com/skills/khopilot-bit-trand-skill-trad-bot-skill-md",
+    "updatedAt": 1766975452,
+    "description": "Bitcoin trading simulation with technical analysis (EMA/RSI/Bollinger), Monte Carlo projections, and Telegram alerts. Cambodian market focus (USD/KHR 4050).\n\nTRIGGERS: BTC backtesting, indicator calculations, Fear & Greed integration, crypto strategy development, CoinGecko/Alternative.me APIs, portfolio simulation, trailing stop optimization, Sharpe/drawdown metrics.\n\nENTRY POINTS: btc_trader.py (365d backtest), btc_simulation.py (60d Monte Carlo), backtest_runner.py (advanced metrics)."
+  },
+  "github": {
+    "owner": "khopilot",
+    "repo": "bit-trand",
+    "ref": "main",
+    "relativePath": "skill-trad-bot",
+    "sourceUrl": "https://github.com/khopilot/bit-trand/tree/main/skill-trad-bot"
+  }
+}

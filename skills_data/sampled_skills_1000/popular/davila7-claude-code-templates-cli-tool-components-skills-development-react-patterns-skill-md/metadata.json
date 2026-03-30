@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 912,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 912,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-react-patterns-skill-md",
+    "name": "react-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-react-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/react-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/react-patterns"
+  }
+}

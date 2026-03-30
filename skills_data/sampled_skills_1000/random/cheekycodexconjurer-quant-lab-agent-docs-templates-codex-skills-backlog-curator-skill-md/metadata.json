@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 322,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 322,
+    "id": "cheekycodexconjurer-quant-lab-agent-docs-templates-codex-skills-backlog-curator-skill-md",
+    "name": "backlog-curator",
+    "author": "CheekyCodexConjurer",
+    "stars": 0,
+    "githubUrl": "https://github.com/CheekyCodexConjurer/quant-lab/tree/main/.agent-docs/templates/.codex/skills/backlog_curator",
+    "skillUrl": "https://skillsmp.com/skills/cheekycodexconjurer-quant-lab-agent-docs-templates-codex-skills-backlog-curator-skill-md",
+    "updatedAt": 1767707482,
+    "description": "Maintain a lightweight backlog of high-value tasks discovered during work."
+  },
+  "github": {
+    "owner": "CheekyCodexConjurer",
+    "repo": "quant-lab",
+    "ref": "main",
+    "relativePath": ".agent-docs/templates/.codex/skills/backlog_curator",
+    "sourceUrl": "https://github.com/CheekyCodexConjurer/quant-lab/tree/main/.agent-docs/templates/.codex/skills/backlog_curator"
+  }
+}

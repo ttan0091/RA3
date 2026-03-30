@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 894,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 894,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-netlify-deploy-skill-md",
+    "name": "netlify-deploy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/netlify-deploy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-netlify-deploy-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Deploy web projects to Netlify using the Netlify CLI (`npx netlify`). Use when the user asks to deploy, host, publish, or link a site/repo on Netlify, including preview and production deploys."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/netlify-deploy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/netlify-deploy"
+  }
+}

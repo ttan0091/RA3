@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 725,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 725,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-instructor-skill-md",
+    "name": "instructor",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-instructor",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-prompt-engineering-instructor-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse complex JSON with type safety, and stream partial results with Instructor - battle-tested structured output library"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/prompt-engineering-instructor",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/prompt-engineering-instructor"
+  }
+}

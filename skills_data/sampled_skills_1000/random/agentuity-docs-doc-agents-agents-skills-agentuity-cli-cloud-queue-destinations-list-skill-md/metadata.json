@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 845,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 845,
+    "id": "agentuity-docs-doc-agents-agents-skills-agentuity-cli-cloud-queue-destinations-list-skill-md",
+    "name": "agentuity-cli-cloud-queue-destinations-list",
+    "author": "agentuity",
+    "stars": 4,
+    "githubUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-cloud-queue-destinations-list",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-docs-doc-agents-agents-skills-agentuity-cli-cloud-queue-destinations-list-skill-md",
+    "updatedAt": 1769137511,
+    "description": "List destinations for a queue. Requires authentication. Use for Agentuity cloud platform operations"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "docs",
+    "ref": "main",
+    "relativePath": "doc-agents/.agents/skills/agentuity-cli-cloud-queue-destinations-list",
+    "sourceUrl": "https://github.com/agentuity/docs/tree/main/doc-agents/.agents/skills/agentuity-cli-cloud-queue-destinations-list"
+  }
+}

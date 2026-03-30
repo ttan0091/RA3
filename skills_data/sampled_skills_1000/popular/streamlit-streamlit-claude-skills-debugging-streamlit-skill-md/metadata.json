@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 288,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 288,
+    "id": "streamlit-streamlit-claude-skills-debugging-streamlit-skill-md",
+    "name": "debugging-streamlit",
+    "author": "streamlit",
+    "stars": 43433,
+    "githubUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/debugging-streamlit",
+    "skillUrl": "https://skillsmp.com/skills/streamlit-streamlit-claude-skills-debugging-streamlit-skill-md",
+    "updatedAt": 1770384303,
+    "description": "Debug Streamlit frontend and backend changes using make debug with hot-reload. Use when testing code changes, investigating bugs, checking UI behavior, or needing screenshots of the running app."
+  },
+  "github": {
+    "owner": "streamlit",
+    "repo": "streamlit",
+    "ref": "develop",
+    "relativePath": ".claude/skills/debugging-streamlit",
+    "sourceUrl": "https://github.com/streamlit/streamlit/tree/develop/.claude/skills/debugging-streamlit"
+  }
+}

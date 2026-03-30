@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 373,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 373,
+    "id": "wshobson-agents-plugins-backend-development-skills-cqrs-implementation-skill-md",
+    "name": "cqrs-implementation",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/cqrs-implementation",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-backend-development-skills-cqrs-implementation-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/backend-development/skills/cqrs-implementation",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/backend-development/skills/cqrs-implementation"
+  }
+}

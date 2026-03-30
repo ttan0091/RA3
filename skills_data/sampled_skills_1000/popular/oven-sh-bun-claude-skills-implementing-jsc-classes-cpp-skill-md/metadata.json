@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 114,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 114,
+    "id": "oven-sh-bun-claude-skills-implementing-jsc-classes-cpp-skill-md",
+    "name": "implementing-jsc-classes-cpp",
+    "author": "oven-sh",
+    "stars": 87226,
+    "githubUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/implementing-jsc-classes-cpp",
+    "skillUrl": "https://skillsmp.com/skills/oven-sh-bun-claude-skills-implementing-jsc-classes-cpp-skill-md",
+    "updatedAt": 1766648246,
+    "description": "Implements JavaScript classes in C++ using JavaScriptCore. Use when creating new JS classes with C++ bindings, prototypes, or constructors."
+  },
+  "github": {
+    "owner": "oven-sh",
+    "repo": "bun",
+    "ref": "main",
+    "relativePath": ".claude/skills/implementing-jsc-classes-cpp",
+    "sourceUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/implementing-jsc-classes-cpp"
+  }
+}

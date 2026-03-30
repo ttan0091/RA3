@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 224,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 224,
+    "id": "narphorium-agent-patch-skills-agent-diff-skill-md",
+    "name": "agent-diff",
+    "author": "narphorium",
+    "stars": 1,
+    "githubUrl": "https://github.com/narphorium/agent-patch/tree/main/skills/agent-diff",
+    "skillUrl": "https://skillsmp.com/skills/narphorium-agent-patch-skills-agent-diff-skill-md",
+    "updatedAt": 1768870706,
+    "description": "Creates semantic agent patches by comparing prompts or describing changes. Use when you need to capture prompt modifications as reusable patches, document breaking changes, or share best practices across agent skills."
+  },
+  "github": {
+    "owner": "narphorium",
+    "repo": "agent-patch",
+    "ref": "main",
+    "relativePath": "skills/agent-diff",
+    "sourceUrl": "https://github.com/narphorium/agent-patch/tree/main/skills/agent-diff"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 662,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 662,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-evaluation-lm-evaluation-harness-skill-md",
+    "name": "evaluating-llms-harness",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/evaluation-lm-evaluation-harness",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-evaluation-lm-evaluation-harness-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQA, HellaSwag). Use when benchmarking model quality, comparing models, reporting academic results, or tracking training progress. Industry standard used by EleutherAI, HuggingFace, and major labs. Supports HuggingFace, vLLM, APIs."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/evaluation-lm-evaluation-harness",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/evaluation-lm-evaluation-harness"
+  }
+}

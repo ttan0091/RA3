@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 415,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 415,
+    "id": "openshift-online-maestro-claude-skills-trace-resource-request-skill-md",
+    "name": "trace-resource-request",
+    "author": "openshift-online",
+    "stars": 17,
+    "githubUrl": "https://github.com/openshift-online/maestro/tree/main/.claude/skills/trace-resource-request",
+    "skillUrl": "https://skillsmp.com/skills/openshift-online-maestro-claude-skills-trace-resource-request-skill-md",
+    "updatedAt": 1768894670,
+    "description": "This skill should be used when tracing resource requests through the Maestro system to debug resource lifecycle issues, track request flow from client to agent and back, or troubleshoot failures in resource creation, update, or deletion operations across the server-agent-server pipeline. Supports both Kubernetes log files and ARO HCP Kusto CSV exports."
+  },
+  "github": {
+    "owner": "openshift-online",
+    "repo": "maestro",
+    "ref": "main",
+    "relativePath": ".claude/skills/trace-resource-request",
+    "sourceUrl": "https://github.com/openshift-online/maestro/tree/main/.claude/skills/trace-resource-request"
+  }
+}

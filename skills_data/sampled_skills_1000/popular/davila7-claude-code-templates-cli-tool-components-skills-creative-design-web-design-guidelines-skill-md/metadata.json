@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 820,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 820,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-web-design-guidelines-skill-md",
+    "name": "web-design-guidelines",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/web-design-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-web-design-guidelines-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\"."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/web-design-guidelines",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/web-design-guidelines"
+  }
+}

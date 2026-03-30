@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 329,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 329,
+    "id": "composiohq-awesome-claude-skills-document-skills-pptx-skill-md",
+    "name": "pptx",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-document-skills-pptx-skill-md",
+    "updatedAt": 1761135276,
+    "description": "Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3) Working with layouts, (4) Adding comments or speaker notes, or any other presentation tasks"
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "document-skills/pptx",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx"
+  }
+}

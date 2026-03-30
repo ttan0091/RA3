@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 74,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 74,
+    "id": "atilamedeiros-skills-segment-automation-skill-md",
+    "name": "segment-automation",
+    "author": "AtilaMedeiros",
+    "stars": 0,
+    "githubUrl": "https://github.com/AtilaMedeiros/skills/tree/main/segment-automation",
+    "skillUrl": "https://skillsmp.com/skills/atilamedeiros-skills-segment-automation-skill-md",
+    "updatedAt": 1770648740,
+    "description": "Automate Segment tasks via Rube MCP (Composio): track events, identify users, manage groups, page views, aliases, batch operations. Always search tools first for current schemas."
+  },
+  "github": {
+    "owner": "AtilaMedeiros",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "segment-automation",
+    "sourceUrl": "https://github.com/AtilaMedeiros/skills/tree/main/segment-automation"
+  }
+}

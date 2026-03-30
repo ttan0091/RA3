@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 538,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 538,
+    "id": "dsantiagomj-dsmj-ai-toolkit-skills-stack-express-skill-md",
+    "name": "express",
+    "author": "Dsantiagomj",
+    "stars": 0,
+    "githubUrl": "https://github.com/Dsantiagomj/DSMJ-Ai-Toolkit/tree/main/skills/stack/express",
+    "skillUrl": "https://skillsmp.com/skills/dsantiagomj-dsmj-ai-toolkit-skills-stack-express-skill-md",
+    "updatedAt": 1768837557,
+    "description": "Express.js patterns for routing, middleware, error handling, and RESTful API development. Trigger: When building Express servers, when implementing REST APIs, when setting up middleware, when handling authentication in Express, when structuring Node.js backends."
+  },
+  "github": {
+    "owner": "Dsantiagomj",
+    "repo": "DSMJ-Ai-Toolkit",
+    "ref": "main",
+    "relativePath": "skills/stack/express",
+    "sourceUrl": "https://github.com/Dsantiagomj/DSMJ-Ai-Toolkit/tree/main/skills/stack/express"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 350,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 350,
+    "id": "cockroachdb-cockroach-claude-skills-backport-pr-assistant-skill-md",
+    "name": "backport-pr-assistant",
+    "author": "cockroachdb",
+    "stars": 31833,
+    "githubUrl": "https://github.com/cockroachdb/cockroach/tree/master/.claude/skills/backport-pr-assistant",
+    "skillUrl": "https://skillsmp.com/skills/cockroachdb-cockroach-claude-skills-backport-pr-assistant-skill-md",
+    "updatedAt": 1765224092,
+    "description": "Help backport PRs to release branches using the backport CLI tool. Use when backporting changes that have merge conflicts requiring manual resolution."
+  },
+  "github": {
+    "owner": "cockroachdb",
+    "repo": "cockroach",
+    "ref": "master",
+    "relativePath": ".claude/skills/backport-pr-assistant",
+    "sourceUrl": "https://github.com/cockroachdb/cockroach/tree/master/.claude/skills/backport-pr-assistant"
+  }
+}

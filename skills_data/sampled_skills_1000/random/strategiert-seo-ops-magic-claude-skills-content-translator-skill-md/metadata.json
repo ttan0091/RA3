@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 394,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 394,
+    "id": "strategiert-seo-ops-magic-claude-skills-content-translator-skill-md",
+    "name": "content-translator",
+    "author": "strategiert",
+    "stars": 0,
+    "githubUrl": "https://github.com/strategiert/seo-ops-magic/tree/main/.claude/skills/content-translator",
+    "skillUrl": "https://skillsmp.com/skills/strategiert-seo-ops-magic-claude-skills-content-translator-skill-md",
+    "updatedAt": 1768772464,
+    "description": "Translates marketing content while preserving SEO value, brand voice, and cultural nuances. Handles localization of keywords, CTAs, and formatting conventions. Supports DE-EN bidirectional translation with focus on marketing/technical content. Use when translating articles, ads, or other marketing materials."
+  },
+  "github": {
+    "owner": "strategiert",
+    "repo": "seo-ops-magic",
+    "ref": "main",
+    "relativePath": ".claude/skills/content-translator",
+    "sourceUrl": "https://github.com/strategiert/seo-ops-magic/tree/main/.claude/skills/content-translator"
+  }
+}

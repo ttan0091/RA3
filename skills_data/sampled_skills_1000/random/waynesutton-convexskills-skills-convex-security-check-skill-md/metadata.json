@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 739,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 739,
+    "id": "waynesutton-convexskills-skills-convex-security-check-skill-md",
+    "name": "convex-security-check",
+    "author": "waynesutton",
+    "stars": 299,
+    "githubUrl": "https://github.com/waynesutton/convexskills/tree/main/skills/convex-security-check",
+    "skillUrl": "https://skillsmp.com/skills/waynesutton-convexskills-skills-convex-security-check-skill-md",
+    "updatedAt": 1770094724,
+    "description": "Quick security audit checklist covering authentication, function exposure, argument validation, row-level access control, and environment variable handling"
+  },
+  "github": {
+    "owner": "waynesutton",
+    "repo": "convexskills",
+    "ref": "main",
+    "relativePath": "skills/convex-security-check",
+    "sourceUrl": "https://github.com/waynesutton/convexskills/tree/main/skills/convex-security-check"
+  }
+}

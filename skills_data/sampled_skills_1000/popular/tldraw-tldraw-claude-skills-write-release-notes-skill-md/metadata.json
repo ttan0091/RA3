@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 209,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 209,
+    "id": "tldraw-tldraw-claude-skills-write-release-notes-skill-md",
+    "name": "write-release-notes",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-release-notes",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-release-notes-skill-md",
+    "updatedAt": 1769884930,
+    "description": "Writing release notes articles for tldraw SDK releases. Use when creating new release documentation, drafting release notes from scratch, or reviewing release note quality. Provides guidance on structure, voice, and content for release files in `apps/docs/content/releases/`."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-release-notes",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-release-notes"
+  }
+}

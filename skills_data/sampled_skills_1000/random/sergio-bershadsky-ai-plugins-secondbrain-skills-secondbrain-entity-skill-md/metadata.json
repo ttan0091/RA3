@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 936,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 936,
+    "id": "sergio-bershadsky-ai-plugins-secondbrain-skills-secondbrain-entity-skill-md",
+    "name": "secondbrain-entity",
+    "author": "sergio-bershadsky",
+    "stars": 4,
+    "githubUrl": "https://github.com/sergio-bershadsky/ai/tree/main/plugins/secondbrain/skills/secondbrain-entity",
+    "skillUrl": "https://skillsmp.com/skills/sergio-bershadsky-ai-plugins-secondbrain-skills-secondbrain-entity-skill-md",
+    "updatedAt": 1768459902,
+    "description": "This skill should be used when the user asks to \"add entity\", \"create custom entity\",\n\"new entity type\", \"define entity\", or mentions wanting to add a new trackable data type\nto their secondbrain project beyond the predefined ADR, Note, Task, and Discussion types."
+  },
+  "github": {
+    "owner": "sergio-bershadsky",
+    "repo": "ai",
+    "ref": "main",
+    "relativePath": "plugins/secondbrain/skills/secondbrain-entity",
+    "sourceUrl": "https://github.com/sergio-bershadsky/ai/tree/main/plugins/secondbrain/skills/secondbrain-entity"
+  }
+}

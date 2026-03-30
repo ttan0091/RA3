@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 180,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 180,
+    "id": "wisterx-spec-openspec-fullstack-template-skills-openspec-ff-done-skill-md",
+    "name": "openspec-ff-done",
+    "author": "wisterx-spec",
+    "stars": 1,
+    "githubUrl": "https://github.com/wisterx-spec/openspec-fullstack-template/tree/main/skills/openspec-ff-done",
+    "skillUrl": "https://skillsmp.com/skills/wisterx-spec-openspec-fullstack-template-skills-openspec-ff-done-skill-md",
+    "updatedAt": 1770634365,
+    "description": "完成 Frontend-First 集成与归档。在 Step 7 使用——检查契约测试是否通过，生成前端切换指南，创建归档文档。标志着一个功能从 Mock 驱动到真实 API 的完整过渡。"
+  },
+  "github": {
+    "owner": "wisterx-spec",
+    "repo": "openspec-fullstack-template",
+    "ref": "main",
+    "relativePath": "skills/openspec-ff-done",
+    "sourceUrl": "https://github.com/wisterx-spec/openspec-fullstack-template/tree/main/skills/openspec-ff-done"
+  }
+}

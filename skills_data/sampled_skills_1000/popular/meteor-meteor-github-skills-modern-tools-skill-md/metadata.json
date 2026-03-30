@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 215,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 215,
+    "id": "meteor-meteor-github-skills-modern-tools-skill-md",
+    "name": "modern-tools",
+    "author": "meteor",
+    "stars": 44774,
+    "githubUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/modern-tools",
+    "skillUrl": "https://skillsmp.com/skills/meteor-meteor-github-skills-modern-tools-skill-md",
+    "updatedAt": 1770379062,
+    "description": "Use when working with tools-core utilities, rspack integration, or modern tooling. Covers logging, npm management, process spawning, git helpers, and Meteor app configuration APIs."
+  },
+  "github": {
+    "owner": "meteor",
+    "repo": "meteor",
+    "ref": "devel",
+    "relativePath": ".github/skills/modern-tools",
+    "sourceUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/modern-tools"
+  }
+}

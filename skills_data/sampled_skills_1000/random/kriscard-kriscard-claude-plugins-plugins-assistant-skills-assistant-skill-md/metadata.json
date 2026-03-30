@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 505,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 505,
+    "id": "kriscard-kriscard-claude-plugins-plugins-assistant-skills-assistant-skill-md",
+    "name": "assistant",
+    "author": "kriscard",
+    "stars": 1,
+    "githubUrl": "https://github.com/kriscard/kriscard-claude-plugins/tree/main/plugins/assistant/skills/assistant",
+    "skillUrl": "https://skillsmp.com/skills/kriscard-kriscard-claude-plugins-plugins-assistant-skills-assistant-skill-md",
+    "updatedAt": 1770405873,
+    "description": "Workflow: Use for /standup, /weekly-summary, /context-save, /staff-progress, or Staff Engineer career tracking. NOT for general coding help."
+  },
+  "github": {
+    "owner": "kriscard",
+    "repo": "kriscard-claude-plugins",
+    "ref": "main",
+    "relativePath": "plugins/assistant/skills/assistant",
+    "sourceUrl": "https://github.com/kriscard/kriscard-claude-plugins/tree/main/plugins/assistant/skills/assistant"
+  }
+}

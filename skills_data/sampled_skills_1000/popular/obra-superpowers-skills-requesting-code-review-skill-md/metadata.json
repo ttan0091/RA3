@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 179,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 179,
+    "id": "obra-superpowers-skills-requesting-code-review-skill-md",
+    "name": "requesting-code-review",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-requesting-code-review-skill-md",
+    "updatedAt": 1766018692,
+    "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/requesting-code-review",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review"
+  }
+}

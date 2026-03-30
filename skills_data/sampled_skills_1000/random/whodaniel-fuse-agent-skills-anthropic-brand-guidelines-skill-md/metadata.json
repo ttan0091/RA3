@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 581,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 581,
+    "id": "whodaniel-fuse-agent-skills-anthropic-brand-guidelines-skill-md",
+    "name": "brand-guidelines",
+    "author": "whodaniel",
+    "stars": 2,
+    "githubUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/brand-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/whodaniel-fuse-agent-skills-anthropic-brand-guidelines-skill-md",
+    "updatedAt": 1767040547,
+    "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply."
+  },
+  "github": {
+    "owner": "whodaniel",
+    "repo": "fuse",
+    "ref": "main",
+    "relativePath": ".agent/skills/anthropic/brand-guidelines",
+    "sourceUrl": "https://github.com/whodaniel/fuse/tree/main/.agent/skills/anthropic/brand-guidelines"
+  }
+}

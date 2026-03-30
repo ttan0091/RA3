@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 870,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 870,
+    "id": "neontowel-oh-my-taskfiles-dotfiles-crush-skills-exec-plan-skill-md",
+    "name": "exec-plan",
+    "author": "NeonTowel",
+    "stars": 0,
+    "githubUrl": "https://github.com/NeonTowel/oh-my-taskfiles/tree/main/dotfiles/crush/skills/exec-plan",
+    "skillUrl": "https://skillsmp.com/skills/neontowel-oh-my-taskfiles-dotfiles-crush-skills-exec-plan-skill-md",
+    "updatedAt": 1767864667,
+    "description": "Create or resume an execution plan - a design document that a coding agent can follow to deliver a working feature or system change"
+  },
+  "github": {
+    "owner": "NeonTowel",
+    "repo": "oh-my-taskfiles",
+    "ref": "main",
+    "relativePath": "dotfiles/crush/skills/exec-plan",
+    "sourceUrl": "https://github.com/NeonTowel/oh-my-taskfiles/tree/main/dotfiles/crush/skills/exec-plan"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 421,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 421,
+    "id": "nsuberi-code-dojo-claude-skills-breadboarding-skill-md",
+    "name": "breadboarding",
+    "author": "nsuberi",
+    "stars": 0,
+    "githubUrl": "https://github.com/nsuberi/code-dojo/tree/main/.claude/skills/breadboarding",
+    "skillUrl": "https://skillsmp.com/skills/nsuberi-code-dojo-claude-skills-breadboarding-skill-md",
+    "updatedAt": 1768878537,
+    "description": "Technical shaping and breadboarding for software projects using Ryan Singer's methodology. Use when users need to: (1) Shape a feature or project before implementation, (2) Create breadboards showing places, affordances, and wiring, (3) Map UI affordances to code affordances, (4) Document requirements and fit analysis, (5) Generate wiring diagrams showing data flow between components. Triggers include phrases like 'breadboard this', 'shape this feature', 'what are the affordances', 'wire up', 'technical shaping', or any request to plan/design a feature before building it."
+  },
+  "github": {
+    "owner": "nsuberi",
+    "repo": "code-dojo",
+    "ref": "main",
+    "relativePath": ".claude/skills/breadboarding",
+    "sourceUrl": "https://github.com/nsuberi/code-dojo/tree/main/.claude/skills/breadboarding"
+  }
+}

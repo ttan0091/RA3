@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 713,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 713,
+    "id": "whoabuddy-claude-knowledge-claude-config-skills-react-perf-skill-md",
+    "name": "react-perf",
+    "author": "whoabuddy",
+    "stars": 0,
+    "githubUrl": "https://github.com/whoabuddy/claude-knowledge/tree/main/claude-config/skills/react-perf",
+    "skillUrl": "https://skillsmp.com/skills/whoabuddy-claude-knowledge-claude-config-skills-react-perf-skill-md",
+    "updatedAt": 1768861639,
+    "description": "React/Next.js performance optimization guidelines from Vercel Engineering. Use when reviewing performance, optimizing bundles, or fixing waterfalls."
+  },
+  "github": {
+    "owner": "whoabuddy",
+    "repo": "claude-knowledge",
+    "ref": "main",
+    "relativePath": "claude-config/skills/react-perf",
+    "sourceUrl": "https://github.com/whoabuddy/claude-knowledge/tree/main/claude-config/skills/react-perf"
+  }
+}

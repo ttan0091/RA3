@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 416,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 416,
+    "id": "wshobson-agents-plugins-developer-essentials-skills-turborepo-caching-skill-md",
+    "name": "turborepo-caching",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/turborepo-caching",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-developer-essentials-skills-turborepo-caching-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Configure Turborepo for efficient monorepo builds with local and remote caching. Use when setting up Turborepo, optimizing build pipelines, or implementing distributed caching."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/developer-essentials/skills/turborepo-caching",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/developer-essentials/skills/turborepo-caching"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 654,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 654,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-ray-train-skill-md",
+    "name": "ray-train",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-ray-train",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-distributed-training-ray-train-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Distributed training orchestration across clusters. Scales PyTorch/TensorFlow/HuggingFace from laptop to 1000s of nodes. Built-in hyperparameter tuning with Ray Tune, fault tolerance, elastic scaling. Use when training massive models across multiple machines or running distributed hyperparameter sweeps."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/distributed-training-ray-train",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/distributed-training-ray-train"
+  }
+}

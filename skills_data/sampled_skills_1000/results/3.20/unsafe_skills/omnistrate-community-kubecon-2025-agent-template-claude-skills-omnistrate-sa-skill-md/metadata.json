@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 392,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 392,
+    "id": "omnistrate-community-kubecon-2025-agent-template-claude-skills-omnistrate-sa-skill-md",
+    "name": "omnistrate-solutions-architect",
+    "author": "omnistrate-community",
+    "stars": 1,
+    "githubUrl": "https://github.com/omnistrate-community/kubecon-2025-agent-template/tree/main/.claude/skills/omnistrate-sa",
+    "skillUrl": "https://skillsmp.com/skills/omnistrate-community-kubecon-2025-agent-template-claude-skills-omnistrate-sa-skill-md",
+    "updatedAt": 1763681983,
+    "description": "Guide users through designing application architectures from scratch for SaaS deployment on Omnistrate. Focuses on technology selection, domain-specific architecture patterns, compliance and SLA requirements, and iterative compose spec development. The output is a production-ready compose spec that can be handed off to the FDE skill for Omnistrate-native onboarding."
+  },
+  "github": {
+    "owner": "omnistrate-community",
+    "repo": "kubecon-2025-agent-template",
+    "ref": "main",
+    "relativePath": ".claude/skills/omnistrate-sa",
+    "sourceUrl": "https://github.com/omnistrate-community/kubecon-2025-agent-template/tree/main/.claude/skills/omnistrate-sa"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 393,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 393,
+    "id": "maslennikov-ig-mc-2-claude-skills-render-template-skill-md",
+    "name": "render-template",
+    "author": "maslennikov-ig",
+    "stars": 1,
+    "githubUrl": "https://github.com/maslennikov-ig/MC-2/tree/master/.claude/skills/render-template",
+    "skillUrl": "https://skillsmp.com/skills/maslennikov-ig-mc-2-claude-skills-render-template-skill-md",
+    "updatedAt": 1767609434,
+    "description": "Render templates with variable substitution using {{variable}} or ${variable} syntax. Use for generating formatted output, reports, commit messages, or any text requiring variable interpolation."
+  },
+  "github": {
+    "owner": "maslennikov-ig",
+    "repo": "MC-2",
+    "ref": "master",
+    "relativePath": ".claude/skills/render-template",
+    "sourceUrl": "https://github.com/maslennikov-ig/MC-2/tree/master/.claude/skills/render-template"
+  }
+}

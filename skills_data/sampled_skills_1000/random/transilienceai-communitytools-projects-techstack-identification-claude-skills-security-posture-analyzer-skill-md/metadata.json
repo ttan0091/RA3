@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 482,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 482,
+    "id": "transilienceai-communitytools-projects-techstack-identification-claude-skills-security-posture-analyzer-skill-md",
+    "name": "security-posture-analyzer",
+    "author": "transilienceai",
+    "stars": 26,
+    "githubUrl": "https://github.com/transilienceai/communitytools/tree/main/projects/techstack_identification/.claude/skills/security_posture_analyzer",
+    "skillUrl": "https://skillsmp.com/skills/transilienceai-communitytools-projects-techstack-identification-claude-skills-security-posture-analyzer-skill-md",
+    "updatedAt": 1770191933,
+    "description": "Analyzes security headers, CSP, HSTS, WAF presence, and security.txt"
+  },
+  "github": {
+    "owner": "transilienceai",
+    "repo": "communitytools",
+    "ref": "main",
+    "relativePath": "projects/techstack_identification/.claude/skills/security_posture_analyzer",
+    "sourceUrl": "https://github.com/transilienceai/communitytools/tree/main/projects/techstack_identification/.claude/skills/security_posture_analyzer"
+  }
+}

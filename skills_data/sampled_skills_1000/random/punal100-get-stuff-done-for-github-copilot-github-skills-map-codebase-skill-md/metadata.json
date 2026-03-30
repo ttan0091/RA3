@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 294,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 294,
+    "id": "punal100-get-stuff-done-for-github-copilot-github-skills-map-codebase-skill-md",
+    "name": "map-codebase",
+    "author": "punal100",
+    "stars": 51,
+    "githubUrl": "https://github.com/punal100/get-stuff-done-for-github-copilot/tree/main/.github/skills/map-codebase",
+    "skillUrl": "https://skillsmp.com/skills/punal100-get-stuff-done-for-github-copilot-github-skills-map-codebase-skill-md",
+    "updatedAt": 1770193643,
+    "description": "Orchestrate parallel codebase mapper agents to analyze codebase and produce structured documents in .gsd/codebase/ with 7 structured documents."
+  },
+  "github": {
+    "owner": "punal100",
+    "repo": "get-stuff-done-for-github-copilot",
+    "ref": "main",
+    "relativePath": ".github/skills/map-codebase",
+    "sourceUrl": "https://github.com/punal100/get-stuff-done-for-github-copilot/tree/main/.github/skills/map-codebase"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 458,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 458,
+    "id": "m43nu-marvin-skills-skill-creator-skill-md",
+    "name": "skill-creator",
+    "author": "m43nu",
+    "stars": 0,
+    "githubUrl": "https://github.com/m43nu/MARVIN/tree/main/skills/skill-creator",
+    "skillUrl": "https://skillsmp.com/skills/m43nu-marvin-skills-skill-creator-skill-md",
+    "updatedAt": 1769695891,
+    "description": "Create new MARVIN skills on request. Use when user says \"give yourself the ability to X\" or \"create a skill for Y\". Generates proper skill structure with SKILL.md."
+  },
+  "github": {
+    "owner": "m43nu",
+    "repo": "MARVIN",
+    "ref": "main",
+    "relativePath": "skills/skill-creator",
+    "sourceUrl": "https://github.com/m43nu/MARVIN/tree/main/skills/skill-creator"
+  }
+}

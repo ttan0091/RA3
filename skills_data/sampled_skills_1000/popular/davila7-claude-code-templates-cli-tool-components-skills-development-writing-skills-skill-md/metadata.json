@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 949,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 949,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-writing-skills-skill-md",
+    "name": "writing-skills",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/writing-skills",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-writing-skills-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/writing-skills",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/writing-skills"
+  }
+}

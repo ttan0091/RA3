@@ -1,0 +1,19 @@
+Mood to pacing:
+calm = slow
+curious = exploratory
+restless = short bursts
+focused = deliberate
+
+Location obstacle seeds:
+- hallway echo
+- cluttered table
+- late notification
+- passing crowd
+- time pressure
+
+Reward seeds:
+- one clean note
+- a small drawing
+- a re-labeled folder
+- a new shortcut
+- a short breath break

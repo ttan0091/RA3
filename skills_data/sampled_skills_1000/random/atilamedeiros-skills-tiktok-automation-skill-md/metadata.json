@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 918,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 918,
+    "id": "atilamedeiros-skills-tiktok-automation-skill-md",
+    "name": "tiktok-automation",
+    "author": "AtilaMedeiros",
+    "stars": 0,
+    "githubUrl": "https://github.com/AtilaMedeiros/skills/tree/main/tiktok-automation",
+    "skillUrl": "https://skillsmp.com/skills/atilamedeiros-skills-tiktok-automation-skill-md",
+    "updatedAt": 1770648740,
+    "description": "Automate TikTok tasks via Rube MCP (Composio): upload/publish videos, post photos, manage content, and view user profiles/stats. Always search tools first for current schemas."
+  },
+  "github": {
+    "owner": "AtilaMedeiros",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "tiktok-automation",
+    "sourceUrl": "https://github.com/AtilaMedeiros/skills/tree/main/tiktok-automation"
+  }
+}

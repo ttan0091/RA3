@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 375,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 375,
+    "id": "rmyndharis-antigravity-skills-skills-hybrid-cloud-architect-skill-md",
+    "name": "hybrid-cloud-architect",
+    "author": "rmyndharis",
+    "stars": 285,
+    "githubUrl": "https://github.com/rmyndharis/antigravity-skills/tree/main/skills/hybrid-cloud-architect",
+    "skillUrl": "https://skillsmp.com/skills/rmyndharis-antigravity-skills-skills-hybrid-cloud-architect-skill-md",
+    "updatedAt": 1768724111,
+    "description": "Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware). Masters hybrid connectivity, workload placement optimization, edge computing, and cross-cloud automation. Handles compliance, cost optimization, disaster recovery, and migration strategies. Use PROACTIVELY for hybrid architecture, multi-cloud strategy, or complex infrastructure integration."
+  },
+  "github": {
+    "owner": "rmyndharis",
+    "repo": "antigravity-skills",
+    "ref": "main",
+    "relativePath": "skills/hybrid-cloud-architect",
+    "sourceUrl": "https://github.com/rmyndharis/antigravity-skills/tree/main/skills/hybrid-cloud-architect"
+  }
+}

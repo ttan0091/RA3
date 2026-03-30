@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 825,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 825,
+    "id": "thewoolleyman-tab-groups-windows-list-codex-skills-bmad-agent-cis-creative-problem-solver-skill-md",
+    "name": "creative-problem-solver",
+    "author": "thewoolleyman",
+    "stars": 0,
+    "githubUrl": "https://github.com/thewoolleyman/tab-groups-windows-list/tree/master/.codex/skills/bmad-agent-cis-creative-problem-solver",
+    "skillUrl": "https://skillsmp.com/skills/thewoolleyman-tab-groups-windows-list-codex-skills-bmad-agent-cis-creative-problem-solver-skill-md",
+    "updatedAt": 1770069124,
+    "description": "creative-problem-solver agent"
+  },
+  "github": {
+    "owner": "thewoolleyman",
+    "repo": "tab-groups-windows-list",
+    "ref": "master",
+    "relativePath": ".codex/skills/bmad-agent-cis-creative-problem-solver",
+    "sourceUrl": "https://github.com/thewoolleyman/tab-groups-windows-list/tree/master/.codex/skills/bmad-agent-cis-creative-problem-solver"
+  }
+}

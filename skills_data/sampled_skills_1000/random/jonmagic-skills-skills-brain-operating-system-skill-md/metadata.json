@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 91,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 91,
+    "id": "jonmagic-skills-skills-brain-operating-system-skill-md",
+    "name": "brain-operating-system",
+    "author": "jonmagic",
+    "stars": 4,
+    "githubUrl": "https://github.com/jonmagic/skills/tree/main/skills/brain-operating-system",
+    "skillUrl": "https://skillsmp.com/skills/jonmagic-skills-skills-brain-operating-system-skill-md",
+    "updatedAt": 1770399977,
+    "description": "Quick reference for operating within jonmagic's second-brain workspace. Use when working with files in the brain repository—provides directory structure, naming conventions, append-only norms, wikilink patterns, and file organization rules. Essential for understanding where to create files, how to name them, and how to maintain continuity with existing structures."
+  },
+  "github": {
+    "owner": "jonmagic",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/brain-operating-system",
+    "sourceUrl": "https://github.com/jonmagic/skills/tree/main/skills/brain-operating-system"
+  }
+}

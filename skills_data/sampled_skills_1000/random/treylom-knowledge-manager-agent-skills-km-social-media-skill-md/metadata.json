@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 521,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 521,
+    "id": "treylom-knowledge-manager-agent-skills-km-social-media-skill-md",
+    "name": "social-media-content-extraction",
+    "author": "treylom",
+    "stars": 24,
+    "githubUrl": "https://github.com/treylom/knowledge-manager/tree/master/.agent/skills/km-social-media",
+    "skillUrl": "https://skillsmp.com/skills/treylom-knowledge-manager-agent-skills-km-social-media-skill-md",
+    "updatedAt": 1768838536,
+    "description": "Extract content from Threads, Instagram with reply collection and depth control"
+  },
+  "github": {
+    "owner": "treylom",
+    "repo": "knowledge-manager",
+    "ref": "master",
+    "relativePath": ".agent/skills/km-social-media",
+    "sourceUrl": "https://github.com/treylom/knowledge-manager/tree/master/.agent/skills/km-social-media"
+  }
+}

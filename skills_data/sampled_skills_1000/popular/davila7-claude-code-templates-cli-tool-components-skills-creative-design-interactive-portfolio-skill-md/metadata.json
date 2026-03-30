@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 809,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 809,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-interactive-portfolio-skill-md",
+    "name": "interactive-portfolio",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/interactive-portfolio",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-interactive-portfolio-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios, and portfolios that convert visitors into opportunities. Use when: portfolio, personal website, showcase work, developer portfolio, designer portfolio."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/interactive-portfolio",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/interactive-portfolio"
+  }
+}

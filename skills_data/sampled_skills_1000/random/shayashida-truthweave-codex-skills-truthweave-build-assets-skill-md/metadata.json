@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 256,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 256,
+    "id": "shayashida-truthweave-codex-skills-truthweave-build-assets-skill-md",
+    "name": "truthweave-build-assets",
+    "author": "SHayashida",
+    "stars": 0,
+    "githubUrl": "https://github.com/SHayashida/TruthWeave/tree/main/.codex/skills/truthweave-build-assets",
+    "skillUrl": "https://skillsmp.com/skills/shayashida-truthweave-codex-skills-truthweave-build-assets-skill-md",
+    "updatedAt": 1770135074,
+    "description": "Rebuild paper assets (figures/tables/variables) deterministically for a paper_id and confirm synchronization with checks."
+  },
+  "github": {
+    "owner": "SHayashida",
+    "repo": "TruthWeave",
+    "ref": "main",
+    "relativePath": ".codex/skills/truthweave-build-assets",
+    "sourceUrl": "https://github.com/SHayashida/TruthWeave/tree/main/.codex/skills/truthweave-build-assets"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 940,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 940,
+    "id": "garrickgarcia-slideshow-agent-claude-skills-slideshow-video-agent-skill-md",
+    "name": "slideshow-video-agent",
+    "author": "GarrickGarcia",
+    "stars": 0,
+    "githubUrl": "https://github.com/GarrickGarcia/SlideShow-Agent/tree/main/.claude/skills/slideshow-video-agent",
+    "skillUrl": "https://skillsmp.com/skills/garrickgarcia-slideshow-agent-claude-skills-slideshow-video-agent-skill-md",
+    "updatedAt": 1769092168,
+    "description": "Creates video presentations with static AI-generated slides and animated transitions. Auto-trigger when users ask to create presentations, slideshows, video presentations, pitch decks, training videos, or animated slide shows. Supports brand consistency via reference images (logos, colors) from the Reference Images folder. Uses fal.ai APIs (Nano Banana Pro for slides, Eleven Labs for voiceover, Kling 2.6 Pro for transitions) and FFmpeg for assembly."
+  },
+  "github": {
+    "owner": "GarrickGarcia",
+    "repo": "SlideShow-Agent",
+    "ref": "main",
+    "relativePath": ".claude/skills/slideshow-video-agent",
+    "sourceUrl": "https://github.com/GarrickGarcia/SlideShow-Agent/tree/main/.claude/skills/slideshow-video-agent"
+  }
+}

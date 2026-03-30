@@ -1,0 +1,70 @@
+UX DESIGN TIPS (UIDESIGN.TIPS/UX-TIPS) - CURATED ACTION RULES
+Captured on January 11, 2026
+
+TIP INDEX (27)
+1. Use Value Calculators - /ux-tips/use-value-calculators
+2. Use Red on Important Actions - /ux-tips/use-red-for-important-actions
+3. Use Real Mockups - /ux-tips/use-real-mockups
+4. Use More Numbers - /ux-tips/use-more-numbers
+5. The Power of Faces - /ux-tips/the-power-of-faces
+6. Testimonials In Signup Forms - /ux-tips/testimonials-signup-form
+7. Show Product Value with Visuals - /ux-tips/show-product-value-with-visuals
+8. Preview Product's Value near the CTA - /ux-tips/preview-product-value-near-cta
+9. Prefer Social Auth - /ux-tips/prefer-social-auth
+10. Personalize Content For Live Demo - /ux-tips/personalize-content
+11. Personalize Content - /ux-tips/personalize-content-2
+12. Overlay Modal to Hint Your Product - /ux-tips/overlay-modal-to-hint-product
+13. Offer Easy Migration - /ux-tips/offer-easy-migration
+14. Leverage Social Proof - /ux-tips/leverage-social-proof
+15. Upgrade The Login Screen - /ux-tips/leverage-login-screen
+16. Leverage Branding - /ux-tips/leverage-branding
+17. Explain Clearly Permissions - /ux-tips/explain-clearly-permissions
+18. Distinguish Pricing Plans - /ux-tips/distinguish-pricingplans
+19. Direct Users With Faces - /ux-tips/direct-users-with-faces
+20. Cute Branding Helps - /ux-tips/cute-branding-helps
+21. CTA Copy Matters - /ux-tips/cta-copy-matters
+22. Before-After Visuals - /ux-tips/before-after-visuals
+23. Be Unique! - /ux-tips/be-unique
+24. Be Funny! - /ux-tips/be-funny
+25. Easter Eggs - /ux-tips/easter-egg
+26. Better Pricing Plans - /ux-tips/better-pricing-plans
+27. Adapt your header CTA - /ux-tips/adapt-your-header-cta
+
+NOTE: Keep each tip once in the goal sections below. If a question spans multiple goals, select a primary goal and add a cross-reference in your answer instead of duplicating tips.
+
+GOAL: BUILD TRUST AND CREDIBILITY
+- Use More Numbers: Support claims with real metrics; prefer specific, non-rounded numbers to feel more honest.
+- Leverage Social Proof: Use recognizable customers, logos, or expert authority to reduce perceived risk.
+- Testimonials In Signup Forms: Place the strongest testimonial right in the signup step to reduce last-mile doubt.
+- Explain Clearly Permissions: Tell users why you need each permission to build transparency for sensitive data.
+- The Power of Faces: Use relatable faces to increase attention and emotional connection to the product.
+
+GOAL: SHOW VALUE AND OUTCOMES
+- Use Value Calculators: Quantify time or money saved with a simple calculator so value is concrete.
+- Show Product Value with Visuals: Use real product visuals/screens that highlight results and advantage.
+- Before-After Visuals: Show a transformation so users can compare outcomes at a glance.
+- Use Real Mockups: Display realistic mockups; add interactive feature pickers to spark curiosity.
+- Preview Product's Value near the CTA: Add a small preview near the CTA to remind users what they get.
+- Distinguish Pricing Plans: Use distinct icons or personas to make plan differences obvious.
+- Better Pricing Plans: Add visual indicators that clarify each plan's persona and value.
+- Personalize Content For Live Demo: Use location or session details to make the product feel live.
+- Personalize Content: Localize screenshots and examples based on location to increase relevance.
+
+GOAL: DRIVE ACTION AND CONVERSION
+- CTA Copy Matters: Use action verbs and explain the benefit of clicking; hint at the free value.
+- Use Red on Important Actions: Reserve red for destructive or high-stakes actions to signal caution.
+- Direct Users With Faces: Use gaze direction to guide attention toward CTA or key info.
+- Overlay Modal to Hint Your Product: Blur/lock value areas to create curiosity before upgrade/signup.
+- Adapt your header CTA: Segment CTA for new vs returning users; match each goal.
+
+GOAL: REDUCE FRICTION AND ONBOARDING RISK
+- Prefer Social Auth: Offer social login as the primary path; keep email/password as a secondary option.
+- Offer Easy Migration: Provide a clear migration path to reduce switching anxiety.
+- Upgrade The Login Screen: Use the login screen to remind users of the core value and proof.
+
+GOAL: STRENGTHEN BRAND AND MEMORABILITY
+- Leverage Branding: Use mascots or branded characters in routine moments to make interactions warmer.
+- Cute Branding Helps: Add a friendly character or visual hook to make the brand more personal.
+- Be Unique!: Use a distinctive interface pattern that fits your audience's mental model.
+- Be Funny!: Use tasteful humor in headlines or copy to stand out and be remembered.
+- Easter Eggs: Hide discoverable features to create delight and word-of-mouth.

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Development Lifecycle</title>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({
+            startOnLoad: true,
+            theme: 'default',
+            flowchart: {
+                useMaxWidth: true,
+                htmlLabels: true,
+                curve: 'basis'
+            }
+        });
+    </script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="diagram-panel">
+            <div class="mermaid">
+flowchart TD
+    Start("Project Initiation"):::startNode
+    Req["Requirements Analysis"]:::processNode
+    Design["System Design"]:::processNode
+    Impl["Implementation"]:::processNode
+    Test["Testing"]:::processNode
+    Review{"Passed QA?"}:::decisionNode
+    Deploy["Deployment"]:::processNode
+    Maint["Maintenance"]:::processNode
+    End("Project Complete"):::endNode
+
+    Start --> Req
+    Req --> Design
+    Design --> Impl
+    Impl --> Test
+    Test --> Review
+    Review -->|Yes| Deploy
+    Review -->|No| Impl
+    Deploy --> Maint
+    Maint --> End
+
+    classDef startNode fill:#667eea,stroke:#333,stroke-width:2px,color:#fff,font-size:16px
+    classDef processNode fill:#764ba2,stroke:#333,stroke-width:2px,color:#fff,font-size:16px
+    classDef decisionNode fill:#f093fb,stroke:#333,stroke-width:2px,color:#333,font-size:16px
+    classDef endNode fill:#4facfe,stroke:#333,stroke-width:2px,color:#fff,font-size:16px
+
+    linkStyle default stroke:#999,stroke-width:2px,font-size:16px
+            </div>
+        </div>
+        <div class="info-panel">
+            <h3>Details</h3>
+            <div id="info-display">
+                <p class="info-placeholder">Hover over a node to see details</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Node information data for this diagram -->
+    <script>
+        const nodeInfo = {
+            'Start': {
+                title: 'Project Initiation',
+                description: 'The project begins with stakeholder identification, feasibility studies, and initial planning. This phase establishes the project scope, objectives, and constraints.'
+            },
+            'Req': {
+                title: 'Requirements Analysis',
+                description: 'Gather and document functional and non-functional requirements from stakeholders. Create use cases, user stories, and acceptance criteria.'
+            },
+            'Design': {
+                title: 'System Design',
+                description: 'Create architectural blueprints, database schemas, and interface designs. Choose technology stack and define system components.'
+            },
+            'Impl': {
+                title: 'Implementation',
+                description: 'Write code according to design specifications. Follow coding standards, conduct code reviews, and integrate components.'
+            },
+            'Test': {
+                title: 'Testing',
+                description: 'Execute unit tests, integration tests, and system tests. Verify functionality against requirements and identify defects.'
+            },
+            'Review': {
+                title: 'Quality Assurance Review',
+                description: 'Evaluate test results against quality criteria. Decide if the software meets acceptance criteria or needs more work.'
+            },
+            'Deploy': {
+                title: 'Deployment',
+                description: 'Release software to production environment. Configure servers, migrate data, and train users.'
+            },
+            'Maint': {
+                title: 'Maintenance',
+                description: 'Monitor system performance, fix bugs, and implement enhancements. Provide ongoing support to users.'
+            },
+            'End': {
+                title: 'Project Complete',
+                description: 'Project objectives achieved. Document lessons learned and archive project artifacts for future reference.'
+            }
+        };
+    </script>
+    <!-- Load interaction script after nodeInfo is defined -->
+    <script src="script.js"></script>
+</body>
+</html>

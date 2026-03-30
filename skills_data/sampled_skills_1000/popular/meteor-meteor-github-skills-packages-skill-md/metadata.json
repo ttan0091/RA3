@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 216,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 216,
+    "id": "meteor-meteor-github-skills-packages-skill-md",
+    "name": "packages",
+    "author": "meteor",
+    "stars": 44774,
+    "githubUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/packages",
+    "skillUrl": "https://skillsmp.com/skills/meteor-meteor-github-skills-packages-skill-md",
+    "updatedAt": 1770379062,
+    "description": "Use when exploring the package ecosystem, finding which package handles a feature, understanding package relationships, or adding dependencies. Lists all core packages by domain."
+  },
+  "github": {
+    "owner": "meteor",
+    "repo": "meteor",
+    "ref": "devel",
+    "relativePath": ".github/skills/packages",
+    "sourceUrl": "https://github.com/meteor/meteor/tree/devel/.github/skills/packages"
+  }
+}

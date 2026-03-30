@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 107,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 107,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-meeting-notes-skill-md",
+    "name": "meeting-notes",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/meeting-notes",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-meeting-notes-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Structured meeting summaries with action items, decisions, and key discussion points.\nUse when: taking meeting notes, summarizing discussions, tracking action items, or when user\nmentions meeting notes, minutes, action items, or needs structured meeting documentation."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/meeting-notes",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/meeting-notes"
+  }
+}

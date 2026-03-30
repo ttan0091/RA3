@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 133,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 133,
+    "id": "lobehub-lobehub-agents-skills-react-skill-md",
+    "name": "react",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/react",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-react-skill-md",
+    "updatedAt": 1769178618,
+    "description": "React component development guide. Use when working with React components (.tsx files), creating UI, using @lobehub/ui components, implementing routing, or building frontend features. Triggers on React component creation, modification, layout implementation, or navigation tasks."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/react",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/react"
+  }
+}

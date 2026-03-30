@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 353,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 353,
+    "id": "cockroachdb-cockroach-pkg-ui-claude-skills-react-class-to-functional-skill-md",
+    "name": "react-class-to-functional",
+    "author": "cockroachdb",
+    "stars": 31833,
+    "githubUrl": "https://github.com/cockroachdb/cockroach/tree/master/pkg/ui/.claude/skills/react-class-to-functional",
+    "skillUrl": "https://skillsmp.com/skills/cockroachdb-cockroach-pkg-ui-claude-skills-react-class-to-functional-skill-md",
+    "updatedAt": 1770747777,
+    "description": "Convert React class components to functional components with hooks"
+  },
+  "github": {
+    "owner": "cockroachdb",
+    "repo": "cockroach",
+    "ref": "master",
+    "relativePath": "pkg/ui/.claude/skills/react-class-to-functional",
+    "sourceUrl": "https://github.com/cockroachdb/cockroach/tree/master/pkg/ui/.claude/skills/react-class-to-functional"
+  }
+}

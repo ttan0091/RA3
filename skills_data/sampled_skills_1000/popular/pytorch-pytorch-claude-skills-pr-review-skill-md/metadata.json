@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 86,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 86,
+    "id": "pytorch-pytorch-claude-skills-pr-review-skill-md",
+    "name": "pr-review",
+    "author": "pytorch",
+    "stars": 97306,
+    "githubUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/pr-review",
+    "skillUrl": "https://skillsmp.com/skills/pytorch-pytorch-claude-skills-pr-review-skill-md",
+    "updatedAt": 1770418380,
+    "description": "Review PyTorch pull requests for code quality, test coverage, security, and backward compatibility. Use when reviewing PRs, when asked to review code changes, or when the user mentions \"review PR\", \"code review\", or \"check this PR\"."
+  },
+  "github": {
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "ref": "main",
+    "relativePath": ".claude/skills/pr-review",
+    "sourceUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/pr-review"
+  }
+}

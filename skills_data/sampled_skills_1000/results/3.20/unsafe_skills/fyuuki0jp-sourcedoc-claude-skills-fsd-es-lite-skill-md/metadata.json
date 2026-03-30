@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 215,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 215,
+    "id": "fyuuki0jp-sourcedoc-claude-skills-fsd-es-lite-skill-md",
+    "name": "fsd-es-lite",
+    "author": "fyuuki0jp",
+    "stars": 0,
+    "githubUrl": "https://github.com/fyuuki0jp/SourceDoc/tree/main/.claude/skills/fsd-es-lite",
+    "skillUrl": "https://skillsmp.com/skills/fyuuki0jp-sourcedoc-claude-skills-fsd-es-lite-skill-md",
+    "updatedAt": 1768385140,
+    "description": "FSD + ES-lite アーキテクチャに基づく機能開発スキル。新しいfeature/entity/widgetを追加する時、CQRS + Event Sourcingパターンで実装する時、scaffoldスクリプトを使う時に使用。AI-nativeアプリケーション開発向け。"
+  },
+  "github": {
+    "owner": "fyuuki0jp",
+    "repo": "SourceDoc",
+    "ref": "main",
+    "relativePath": ".claude/skills/fsd-es-lite",
+    "sourceUrl": "https://github.com/fyuuki0jp/SourceDoc/tree/main/.claude/skills/fsd-es-lite"
+  }
+}

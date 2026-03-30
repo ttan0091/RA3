@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 118,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 118,
+    "id": "oven-sh-bun-claude-skills-zig-system-calls-skill-md",
+    "name": "zig-system-calls",
+    "author": "oven-sh",
+    "stars": 87226,
+    "githubUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/zig-system-calls",
+    "skillUrl": "https://skillsmp.com/skills/oven-sh-bun-claude-skills-zig-system-calls-skill-md",
+    "updatedAt": 1766648246,
+    "description": "Guides using bun.sys for system calls and file I/O in Zig. Use when implementing file operations instead of std.fs or std.posix."
+  },
+  "github": {
+    "owner": "oven-sh",
+    "repo": "bun",
+    "ref": "main",
+    "relativePath": ".claude/skills/zig-system-calls",
+    "sourceUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/zig-system-calls"
+  }
+}

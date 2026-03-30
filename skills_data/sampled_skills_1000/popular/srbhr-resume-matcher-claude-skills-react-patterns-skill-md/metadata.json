@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 528,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 528,
+    "id": "srbhr-resume-matcher-claude-skills-react-patterns-skill-md",
+    "name": "react-patterns",
+    "author": "srbhr",
+    "stars": 25936,
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.claude/skills/react-patterns",
+    "skillUrl": "https://skillsmp.com/skills/srbhr-resume-matcher-claude-skills-react-patterns-skill-md",
+    "updatedAt": 1769413908,
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering, tuned for local/offline or docker-deployed apps."
+  },
+  "github": {
+    "owner": "srbhr",
+    "repo": "Resume-Matcher",
+    "ref": "main",
+    "relativePath": ".claude/skills/react-patterns",
+    "sourceUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.claude/skills/react-patterns"
+  }
+}

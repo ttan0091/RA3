@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 76,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 76,
+    "id": "munlucky-mirae-financial-aicc-claude-skills-completion-verifier-skill-md",
+    "name": "completion-verifier",
+    "author": "munlucky",
+    "stars": 0,
+    "githubUrl": "https://github.com/munlucky/mirae-financial-aicc/tree/main/.claude/skills/completion-verifier",
+    "skillUrl": "https://skillsmp.com/skills/munlucky-mirae-financial-aicc-claude-skills-completion-verifier-skill-md",
+    "updatedAt": 1769518820,
+    "description": "Verifies implementation completion by running acceptance tests and triggers retry loop on failure."
+  },
+  "github": {
+    "owner": "munlucky",
+    "repo": "mirae-financial-aicc",
+    "ref": "main",
+    "relativePath": ".claude/skills/completion-verifier",
+    "sourceUrl": "https://github.com/munlucky/mirae-financial-aicc/tree/main/.claude/skills/completion-verifier"
+  }
+}

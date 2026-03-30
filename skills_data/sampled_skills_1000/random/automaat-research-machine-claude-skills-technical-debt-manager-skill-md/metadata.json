@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 561,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 561,
+    "id": "automaat-research-machine-claude-skills-technical-debt-manager-skill-md",
+    "name": "technical-debt-manager",
+    "author": "Automaat",
+    "stars": 0,
+    "githubUrl": "https://github.com/Automaat/research-machine/tree/main/.claude/skills/technical-debt-manager",
+    "skillUrl": "https://skillsmp.com/skills/automaat-research-machine-claude-skills-technical-debt-manager-skill-md",
+    "updatedAt": 1770623358,
+    "description": "Analyze repo for technical debt, research language-specific best practices, create prioritized GitHub issue"
+  },
+  "github": {
+    "owner": "Automaat",
+    "repo": "research-machine",
+    "ref": "main",
+    "relativePath": ".claude/skills/technical-debt-manager",
+    "sourceUrl": "https://github.com/Automaat/research-machine/tree/main/.claude/skills/technical-debt-manager"
+  }
+}

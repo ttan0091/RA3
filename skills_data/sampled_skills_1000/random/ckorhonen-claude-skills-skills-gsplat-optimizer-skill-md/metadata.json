@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 741,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 741,
+    "id": "ckorhonen-claude-skills-skills-gsplat-optimizer-skill-md",
+    "name": "gsplat-optimizer",
+    "author": "ckorhonen",
+    "stars": 1,
+    "githubUrl": "https://github.com/ckorhonen/claude-skills/tree/main/skills/gsplat-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/ckorhonen-claude-skills-skills-gsplat-optimizer-skill-md",
+    "updatedAt": 1768700800,
+    "description": "Optimize 3D Gaussian Splat scenes for real-time rendering on iOS, macOS, and visionOS. Use when working with .ply or .splat files, targeting mobile/Apple GPU performance, or needing LOD, pruning, or compression strategies for 3DGS scenes."
+  },
+  "github": {
+    "owner": "ckorhonen",
+    "repo": "claude-skills",
+    "ref": "main",
+    "relativePath": "skills/gsplat-optimizer",
+    "sourceUrl": "https://github.com/ckorhonen/claude-skills/tree/main/skills/gsplat-optimizer"
+  }
+}

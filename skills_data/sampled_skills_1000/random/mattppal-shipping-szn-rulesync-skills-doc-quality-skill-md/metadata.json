@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 734,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 734,
+    "id": "mattppal-shipping-szn-rulesync-skills-doc-quality-skill-md",
+    "name": "doc-quality",
+    "author": "mattppal",
+    "stars": 2,
+    "githubUrl": "https://github.com/mattppal/shipping-szn/tree/main/.rulesync/skills/doc-quality",
+    "skillUrl": "https://skillsmp.com/skills/mattppal-shipping-szn-rulesync-skills-doc-quality-skill-md",
+    "updatedAt": 1769197248,
+    "description": "Review and improve documentation quality using best practices. Use when reviewing changelogs, documentation, or any written content to ensure clarity, accuracy, and helpfulness."
+  },
+  "github": {
+    "owner": "mattppal",
+    "repo": "shipping-szn",
+    "ref": "main",
+    "relativePath": ".rulesync/skills/doc-quality",
+    "sourceUrl": "https://github.com/mattppal/shipping-szn/tree/main/.rulesync/skills/doc-quality"
+  }
+}

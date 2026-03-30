@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 639,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 639,
+    "id": "avra-cadavra-avrai-cursor-skills-signal-protocol-integration-skill-md",
+    "name": "signal-protocol-integration",
+    "author": "AVRA-CADAVRA",
+    "stars": 0,
+    "githubUrl": "https://github.com/AVRA-CADAVRA/avrai/tree/main/.cursor/skills/signal-protocol-integration",
+    "skillUrl": "https://skillsmp.com/skills/avra-cadavra-avrai-cursor-skills-signal-protocol-integration-skill-md",
+    "updatedAt": 1768949921,
+    "description": "Guides Signal protocol integration: encryption/decryption, key management, session management, FFI bindings, security best practices. Use when implementing encryption, secure communication, or Signal protocol features."
+  },
+  "github": {
+    "owner": "AVRA-CADAVRA",
+    "repo": "avrai",
+    "ref": "main",
+    "relativePath": ".cursor/skills/signal-protocol-integration",
+    "sourceUrl": "https://github.com/AVRA-CADAVRA/avrai/tree/main/.cursor/skills/signal-protocol-integration"
+  }
+}

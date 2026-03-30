@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 761,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 761,
+    "id": "shynlee04-idumb-plugin-claude-skills-opencode-plugin-compliance-skill-md",
+    "name": "opencode-plugin-compliance",
+    "author": "shynlee04",
+    "stars": 0,
+    "githubUrl": "https://github.com/shynlee04/idumb-plugin/tree/main/.claude/skills/opencode-plugin-compliance",
+    "skillUrl": "https://skillsmp.com/skills/shynlee04-idumb-plugin-claude-skills-opencode-plugin-compliance-skill-md",
+    "updatedAt": 1770207266,
+    "description": "OpenCode plugin development compliance - hook system, event subscriptions, tool interception, SDK usage, storage boundaries, and plugin architecture. Use when creating, modifying, or validating OpenCode plugins to ensure compliance with official plugin capabilities and limitations."
+  },
+  "github": {
+    "owner": "shynlee04",
+    "repo": "idumb-plugin",
+    "ref": "main",
+    "relativePath": ".claude/skills/opencode-plugin-compliance",
+    "sourceUrl": "https://github.com/shynlee04/idumb-plugin/tree/main/.claude/skills/opencode-plugin-compliance"
+  }
+}

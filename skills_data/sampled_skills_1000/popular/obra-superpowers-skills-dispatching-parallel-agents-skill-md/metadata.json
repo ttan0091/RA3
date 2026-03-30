@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 175,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 175,
+    "id": "obra-superpowers-skills-dispatching-parallel-agents-skill-md",
+    "name": "dispatching-parallel-agents",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-dispatching-parallel-agents-skill-md",
+    "updatedAt": 1766018692,
+    "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/dispatching-parallel-agents",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 183,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 183,
+    "id": "obra-superpowers-skills-using-git-worktrees-skill-md",
+    "name": "using-git-worktrees",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-using-git-worktrees-skill-md",
+    "updatedAt": 1769726805,
+    "description": "Use when starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safety verification"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/using-git-worktrees",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees"
+  }
+}

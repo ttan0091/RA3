@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 218,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 218,
+    "id": "slidevjs-slidev-skills-slidev-skill-md",
+    "name": "slidev",
+    "author": "slidevjs",
+    "stars": 44272,
+    "githubUrl": "https://github.com/slidevjs/slidev/tree/main/skills/slidev",
+    "skillUrl": "https://skillsmp.com/skills/slidevjs-slidev-skills-slidev-skill-md",
+    "updatedAt": 1769468788,
+    "description": "Create and present web-based slides for developers using Markdown, Vue components, code highlighting, animations, and interactive features. Use when building technical presentations, conference talks, or teaching materials."
+  },
+  "github": {
+    "owner": "slidevjs",
+    "repo": "slidev",
+    "ref": "main",
+    "relativePath": "skills/slidev",
+    "sourceUrl": "https://github.com/slidevjs/slidev/tree/main/skills/slidev"
+  }
+}

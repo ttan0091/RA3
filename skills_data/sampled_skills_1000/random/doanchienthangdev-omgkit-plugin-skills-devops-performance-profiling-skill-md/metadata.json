@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 855,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 855,
+    "id": "doanchienthangdev-omgkit-plugin-skills-devops-performance-profiling-skill-md",
+    "name": "profiling-performance",
+    "author": "doanchienthangdev",
+    "stars": 2,
+    "githubUrl": "https://github.com/doanchienthangdev/omgkit/tree/main/plugin/skills/devops/performance-profiling",
+    "skillUrl": "https://skillsmp.com/skills/doanchienthangdev-omgkit-plugin-skills-devops-performance-profiling-skill-md",
+    "updatedAt": 1767886962,
+    "description": "Performs browser performance profiling with Lighthouse, Core Web Vitals, and DevTools analysis. Use when auditing page performance, optimizing Core Web Vitals, analyzing bundle sizes, or implementing performance budgets."
+  },
+  "github": {
+    "owner": "doanchienthangdev",
+    "repo": "omgkit",
+    "ref": "main",
+    "relativePath": "plugin/skills/devops/performance-profiling",
+    "sourceUrl": "https://github.com/doanchienthangdev/omgkit/tree/main/plugin/skills/devops/performance-profiling"
+  }
+}

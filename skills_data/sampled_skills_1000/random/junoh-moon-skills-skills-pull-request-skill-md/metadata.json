@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 840,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 840,
+    "id": "junoh-moon-skills-skills-pull-request-skill-md",
+    "name": "pull-request",
+    "author": "junoh-moon",
+    "stars": 0,
+    "githubUrl": "https://github.com/junoh-moon/skills/tree/master/skills/pull-request",
+    "skillUrl": "https://skillsmp.com/skills/junoh-moon-skills-skills-pull-request-skill-md",
+    "updatedAt": 1770008039,
+    "description": "AUTOMATICALLY invoke this skill whenever PR creation is needed - no user request required.\nDirect gh pr create will FAIL validation. This skill contains required PR setup.\nTriggers: \"PR 만들어줘\", \"풀리퀘스트 생성해줘\", \"create a pull request\", or ANY situation requiring PR.\nFor bucketplace organization repos, adds PR-by-AI label."
+  },
+  "github": {
+    "owner": "junoh-moon",
+    "repo": "skills",
+    "ref": "master",
+    "relativePath": "skills/pull-request",
+    "sourceUrl": "https://github.com/junoh-moon/skills/tree/master/skills/pull-request"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 248,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 248,
+    "id": "dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-community-plugins-crypto-crypto-news-aggregator-skills-aggregating-crypto-news-skill-md",
+    "name": "aggregating-crypto-news",
+    "author": "Dicklesworthstone",
+    "stars": 38,
+    "githubUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-community/plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news",
+    "skillUrl": "https://skillsmp.com/skills/dicklesworthstone-pi-agent-rust-tests-ext-conformance-artifacts-plugins-community-plugins-crypto-crypto-news-aggregator-skills-aggregating-crypto-news-skill-md",
+    "updatedAt": 1770274565,
+    "description": "Aggregate breaking cryptocurrency news from 50+ sources including CoinDesk, CoinTelegraph, The Block, and Decrypt.\nUse when needing to monitor crypto market news, track announcements, or find coin-specific updates.\nTrigger with phrases like \"get crypto news\", \"latest Bitcoin headlines\", \"DeFi announcements\", \"scan for breaking news\", or \"check crypto updates\"."
+  },
+  "github": {
+    "owner": "Dicklesworthstone",
+    "repo": "pi_agent_rust",
+    "ref": "main",
+    "relativePath": "tests/ext_conformance/artifacts/plugins-community/plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news",
+    "sourceUrl": "https://github.com/Dicklesworthstone/pi_agent_rust/tree/main/tests/ext_conformance/artifacts/plugins-community/plugins/crypto/crypto-news-aggregator/skills/aggregating-crypto-news"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 529,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 529,
+    "id": "doravidan-supreme-ralph-templates-ralph-skills-ralph-run-skill-md",
+    "name": "ralph-run",
+    "author": "doravidan",
+    "stars": 0,
+    "githubUrl": "https://github.com/doravidan/supreme-ralph/tree/main/templates/ralph/skills/ralph-run",
+    "skillUrl": "https://skillsmp.com/skills/doravidan-supreme-ralph-templates-ralph-skills-ralph-run-skill-md",
+    "updatedAt": 1769451514,
+    "description": "Run RALPH autonomous development loop to implement features from the PRD."
+  },
+  "github": {
+    "owner": "doravidan",
+    "repo": "supreme-ralph",
+    "ref": "main",
+    "relativePath": "templates/ralph/skills/ralph-run",
+    "sourceUrl": "https://github.com/doravidan/supreme-ralph/tree/main/templates/ralph/skills/ralph-run"
+  }
+}

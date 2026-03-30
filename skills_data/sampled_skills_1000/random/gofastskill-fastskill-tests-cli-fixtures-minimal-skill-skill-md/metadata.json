@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 170,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 170,
+    "id": "gofastskill-fastskill-tests-cli-fixtures-minimal-skill-skill-md",
+    "name": "test-skill-minimal",
+    "author": "gofastskill",
+    "stars": 1,
+    "githubUrl": "https://github.com/gofastskill/fastskill/tree/main/tests/cli/fixtures/minimal-skill",
+    "skillUrl": "https://skillsmp.com/skills/gofastskill-fastskill-tests-cli-fixtures-minimal-skill-skill-md",
+    "updatedAt": 1770149424,
+    "description": "A minimal test skill for E2E testing"
+  },
+  "github": {
+    "owner": "gofastskill",
+    "repo": "fastskill",
+    "ref": "main",
+    "relativePath": "tests/cli/fixtures/minimal-skill",
+    "sourceUrl": "https://github.com/gofastskill/fastskill/tree/main/tests/cli/fixtures/minimal-skill"
+  }
+}

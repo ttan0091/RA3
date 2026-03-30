@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 444,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 444,
+    "id": "wshobson-agents-plugins-llm-application-dev-skills-embedding-strategies-skill-md",
+    "name": "embedding-strategies",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/embedding-strategies",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-embedding-strategies-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific domains."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/llm-application-dev/skills/embedding-strategies",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/embedding-strategies"
+  }
+}

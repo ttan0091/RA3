@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 986,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 986,
+    "id": "danielbodnar-nushell-dev-plugins-nushell-dev-skills-nushell-cloudflare-skill-md",
+    "name": "nushell-cloudflare",
+    "author": "danielbodnar",
+    "stars": 1,
+    "githubUrl": "https://github.com/danielbodnar/nushell-dev/tree/main/plugins/nushell-dev/skills/nushell-cloudflare",
+    "skillUrl": "https://skillsmp.com/skills/danielbodnar-nushell-dev-plugins-nushell-dev-skills-nushell-cloudflare-skill-md",
+    "updatedAt": 1769748502,
+    "description": "This skill should be used when the user asks to \"use Cloudflare from Nushell\", \"deploy Workers\", \"access R2 storage\", \"work with KV\", \"manage D1 database\", \"use Cloudflare Queues\", \"create Durable Objects\", \"run wrangler commands\", \"call Cloudflare API\", or mentions Cloudflare Workers, R2, KV, D1, Queues, Workflows, or Durable Objects in a Nushell context."
+  },
+  "github": {
+    "owner": "danielbodnar",
+    "repo": "nushell-dev",
+    "ref": "main",
+    "relativePath": "plugins/nushell-dev/skills/nushell-cloudflare",
+    "sourceUrl": "https://github.com/danielbodnar/nushell-dev/tree/main/plugins/nushell-dev/skills/nushell-cloudflare"
+  }
+}

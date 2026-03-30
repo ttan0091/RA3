@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 53,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 53,
+    "id": "openclaw-openclaw-skills-spotify-player-skill-md",
+    "name": "spotify-player",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/spotify-player",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-spotify-player-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Terminal Spotify playback/search via spogo (preferred) or spotify_player."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/spotify-player",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/spotify-player"
+  }
+}

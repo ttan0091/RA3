@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 313,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 313,
+    "id": "remotion-dev-remotion-claude-skills-pr-skill-md",
+    "name": "make-pr",
+    "author": "remotion-dev",
+    "stars": 36019,
+    "githubUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/pr",
+    "skillUrl": "https://skillsmp.com/skills/remotion-dev-remotion-claude-skills-pr-skill-md",
+    "updatedAt": 1767774532,
+    "description": "Open a pull request for the current feature"
+  },
+  "github": {
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "ref": "main",
+    "relativePath": ".claude/skills/pr",
+    "sourceUrl": "https://github.com/remotion-dev/remotion/tree/main/.claude/skills/pr"
+  }
+}

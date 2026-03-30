@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 337,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 337,
+    "id": "charleswiltgen-axiom-claude-plugin-plugins-axiom-skills-axiom-swift-concurrency-skill-md",
+    "name": "axiom-swift-concurrency",
+    "author": "CharlesWiltgen",
+    "stars": 440,
+    "githubUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swift-concurrency",
+    "skillUrl": "https://skillsmp.com/skills/charleswiltgen-axiom-claude-plugin-plugins-axiom-skills-axiom-swift-concurrency-skill-md",
+    "updatedAt": 1770149697,
+    "description": "Use when you see 'actor-isolated', 'Sendable', 'data race', '@MainActor' errors, or when asking 'why is this not thread safe', 'how do I use async/await', 'what is @MainActor for', 'my app is crashing with concurrency errors', 'how do I fix data races' - Swift 6 strict concurrency patterns with actor isolation and async/await"
+  },
+  "github": {
+    "owner": "CharlesWiltgen",
+    "repo": "Axiom",
+    "ref": "main",
+    "relativePath": ".claude-plugin/plugins/axiom/skills/axiom-swift-concurrency",
+    "sourceUrl": "https://github.com/CharlesWiltgen/Axiom/tree/main/.claude-plugin/plugins/axiom/skills/axiom-swift-concurrency"
+  }
+}

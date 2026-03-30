@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 429,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 429,
+    "id": "hopecollector-proj-piercer-github-skills-piercer-integration-test-skill-md",
+    "name": "piercer-integration-test",
+    "author": "HopeCollector",
+    "stars": 0,
+    "githubUrl": "https://github.com/HopeCollector/proj_piercer/tree/main/.github/skills/piercer-integration-test",
+    "skillUrl": "https://skillsmp.com/skills/hopecollector-proj-piercer-github-skills-piercer-integration-test-skill-md",
+    "updatedAt": 1769658486,
+    "description": "Piercer 服务端到端集成测试技能。用于验证 Piercer API 和 DNS 服务在生产环境中的完整性。与单元测试不同，这是黑盒测试，直接调用真实 API。当用户要求测试服务、验证部署、检查功能是否正常时使用此技能。"
+  },
+  "github": {
+    "owner": "HopeCollector",
+    "repo": "proj_piercer",
+    "ref": "main",
+    "relativePath": ".github/skills/piercer-integration-test",
+    "sourceUrl": "https://github.com/HopeCollector/proj_piercer/tree/main/.github/skills/piercer-integration-test"
+  }
+}

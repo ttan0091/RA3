@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 401,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 401,
+    "id": "robdtaylor-personal-ai-infrastructure-skills-shippinglogistics-skill-md",
+    "name": "shippinglogistics",
+    "author": "robdtaylor",
+    "stars": 0,
+    "githubUrl": "https://github.com/robdtaylor/personal-ai-infrastructure/tree/main/skills/ShippingLogistics",
+    "skillUrl": "https://skillsmp.com/skills/robdtaylor-personal-ai-infrastructure-skills-shippinglogistics-skill-md",
+    "updatedAt": 1769092277,
+    "description": "UK, US, and Canadian shipping, logistics, customs, duties, and tariff expert with automotive commodity code expertise. Covers import/export documentation, HS/HTS codes, rules of origin, FTAs, and landed cost calculations.  USE WHEN user says 'shipping', 'customs', 'tariff', 'duty', 'import', 'export', 'HS code', 'HTS code', 'commodity code', 'landed cost', 'incoterms', 'customs broker', 'freight', 'logistics', 'rules of origin', 'CUSMA', 'USMCA', 'TCA', or needs help with international trade compliance."
+  },
+  "github": {
+    "owner": "robdtaylor",
+    "repo": "personal-ai-infrastructure",
+    "ref": "main",
+    "relativePath": "skills/ShippingLogistics",
+    "sourceUrl": "https://github.com/robdtaylor/personal-ai-infrastructure/tree/main/skills/ShippingLogistics"
+  }
+}

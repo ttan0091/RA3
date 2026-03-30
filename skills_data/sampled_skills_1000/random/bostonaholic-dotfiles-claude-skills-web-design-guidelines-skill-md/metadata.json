@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 118,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 118,
+    "id": "bostonaholic-dotfiles-claude-skills-web-design-guidelines-skill-md",
+    "name": "web-design-guidelines",
+    "author": "bostonaholic",
+    "stars": 6,
+    "githubUrl": "https://github.com/bostonaholic/dotfiles/tree/main/claude/skills/web-design-guidelines",
+    "skillUrl": "https://skillsmp.com/skills/bostonaholic-dotfiles-claude-skills-web-design-guidelines-skill-md",
+    "updatedAt": 1770138979,
+    "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\"."
+  },
+  "github": {
+    "owner": "bostonaholic",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "claude/skills/web-design-guidelines",
+    "sourceUrl": "https://github.com/bostonaholic/dotfiles/tree/main/claude/skills/web-design-guidelines"
+  }
+}

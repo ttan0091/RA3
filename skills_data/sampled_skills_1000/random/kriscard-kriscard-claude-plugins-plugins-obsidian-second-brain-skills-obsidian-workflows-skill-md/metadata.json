@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 803,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 803,
+    "id": "kriscard-kriscard-claude-plugins-plugins-obsidian-second-brain-skills-obsidian-workflows-skill-md",
+    "name": "obsidian-workflows-second-brain-methodology",
+    "author": "kriscard",
+    "stars": 1,
+    "githubUrl": "https://github.com/kriscard/kriscard-claude-plugins/tree/main/plugins/obsidian-second-brain/skills/obsidian-workflows",
+    "skillUrl": "https://skillsmp.com/skills/kriscard-kriscard-claude-plugins-plugins-obsidian-second-brain-skills-obsidian-workflows-skill-md",
+    "updatedAt": 1770405873,
+    "description": "Obsidian: Use when organizing vault with PARA method, PKM workflows, or note-taking systems. NOT for vault-specific structure (use vault-structure)."
+  },
+  "github": {
+    "owner": "kriscard",
+    "repo": "kriscard-claude-plugins",
+    "ref": "main",
+    "relativePath": "plugins/obsidian-second-brain/skills/obsidian-workflows",
+    "sourceUrl": "https://github.com/kriscard/kriscard-claude-plugins/tree/main/plugins/obsidian-second-brain/skills/obsidian-workflows"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 547,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 547,
+    "id": "dotnet-maui-github-skills-run-integration-tests-skill-md",
+    "name": "run-integration-tests",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/run-integration-tests",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-run-integration-tests-skill-md",
+    "updatedAt": 1769785094,
+    "description": "Build, pack, and run .NET MAUI integration tests locally. Validates templates, samples, and end-to-end scenarios using the local workload."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/run-integration-tests",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/run-integration-tests"
+  }
+}

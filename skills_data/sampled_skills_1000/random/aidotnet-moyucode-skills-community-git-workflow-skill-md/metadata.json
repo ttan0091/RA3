@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 425,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 425,
+    "id": "aidotnet-moyucode-skills-community-git-workflow-skill-md",
+    "name": "git-workflow",
+    "author": "AIDotNet",
+    "stars": 70,
+    "githubUrl": "https://github.com/AIDotNet/MoYuCode/tree/main/skills/community/git-workflow",
+    "skillUrl": "https://skillsmp.com/skills/aidotnet-moyucode-skills-community-git-workflow-skill-md",
+    "updatedAt": 1769541352,
+    "description": "自动化Git操作，智能生成遵循Conventional Commits的提交信息、分支管理和PR描述生成。"
+  },
+  "github": {
+    "owner": "AIDotNet",
+    "repo": "MoYuCode",
+    "ref": "main",
+    "relativePath": "skills/community/git-workflow",
+    "sourceUrl": "https://github.com/AIDotNet/MoYuCode/tree/main/skills/community/git-workflow"
+  }
+}

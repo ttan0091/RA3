@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 188,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 188,
+    "id": "metabase-metabase-claude-skills-add-malli-schemas-skill-md",
+    "name": "add-malli-schemas",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/add-malli-schemas",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-add-malli-schemas-skill-md",
+    "updatedAt": 1766070812,
+    "description": "Efficiently add Malli schemas to API endpoints in the Metabase codebase with proper patterns, validation timing, and error handling"
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/add-malli-schemas",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/add-malli-schemas"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 484,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 484,
+    "id": "wshobson-agents-plugins-security-scanning-skills-sast-configuration-skill-md",
+    "name": "sast-configuration",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/sast-configuration",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-security-scanning-skills-sast-configuration-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/security-scanning/skills/sast-configuration",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/security-scanning/skills/sast-configuration"
+  }
+}

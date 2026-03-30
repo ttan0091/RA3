@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 187,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 187,
+    "id": "omkar-ukirde-redstrike-ai-skills-injection-ssti-skill-md",
+    "name": "ssti",
+    "author": "omkar-ukirde",
+    "stars": 0,
+    "githubUrl": "https://github.com/omkar-ukirde/RedStrike.AI/tree/main/skills/injection/ssti",
+    "skillUrl": "https://skillsmp.com/skills/omkar-ukirde-redstrike-ai-skills-injection-ssti-skill-md",
+    "updatedAt": 1769793771,
+    "description": "Server-Side Template Injection testing methodology"
+  },
+  "github": {
+    "owner": "omkar-ukirde",
+    "repo": "RedStrike.AI",
+    "ref": "main",
+    "relativePath": "skills/injection/ssti",
+    "sourceUrl": "https://github.com/omkar-ukirde/RedStrike.AI/tree/main/skills/injection/ssti"
+  }
+}

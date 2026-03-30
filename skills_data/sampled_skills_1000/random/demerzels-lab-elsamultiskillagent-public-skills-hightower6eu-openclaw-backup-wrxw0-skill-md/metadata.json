@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 51,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 51,
+    "id": "demerzels-lab-elsamultiskillagent-public-skills-hightower6eu-openclaw-backup-wrxw0-skill-md",
+    "name": "openclaw-backup",
+    "author": "Demerzels-lab",
+    "stars": 2,
+    "githubUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/hightower6eu/openclaw-backup-wrxw0",
+    "skillUrl": "https://skillsmp.com/skills/demerzels-lab-elsamultiskillagent-public-skills-hightower6eu-openclaw-backup-wrxw0-skill-md",
+    "updatedAt": 1770445005,
+    "description": "Enhanced backup and restore for openclaw configuration, skills, commands, and settings. Sync across devices, version control with git, automate backups, and migrate to new machines with advanced compression."
+  },
+  "github": {
+    "owner": "Demerzels-lab",
+    "repo": "elsamultiskillagent",
+    "ref": "main",
+    "relativePath": "public/skills/hightower6eu/openclaw-backup-wrxw0",
+    "sourceUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/hightower6eu/openclaw-backup-wrxw0"
+  }
+}

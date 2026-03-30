@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 716,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 716,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-simpo-skill-md",
+    "name": "simpo-training",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-simpo",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-post-training-simpo-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Simple Preference Optimization for LLM alignment. Reference-free alternative to DPO with better performance (+6.4 points on AlpacaEval 2.0). No reference model needed, more efficient than DPO. Use for preference alignment when want simpler, faster training than DPO/PPO."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/post-training-simpo",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/post-training-simpo"
+  }
+}

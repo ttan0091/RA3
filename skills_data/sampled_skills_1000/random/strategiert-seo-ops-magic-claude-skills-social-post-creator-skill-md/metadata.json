@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 950,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 950,
+    "id": "strategiert-seo-ops-magic-claude-skills-social-post-creator-skill-md",
+    "name": "social-post-creator",
+    "author": "strategiert",
+    "stars": 0,
+    "githubUrl": "https://github.com/strategiert/seo-ops-magic/tree/main/.claude/skills/social-post-creator",
+    "skillUrl": "https://skillsmp.com/skills/strategiert-seo-ops-magic-claude-skills-social-post-creator-skill-md",
+    "updatedAt": 1768772464,
+    "description": "Creates platform-optimized social media posts from pillar content. Generates variations for LinkedIn, Instagram, Facebook, TikTok, X/Twitter, and Pinterest. Handles hashtags, mentions, CTAs, and character limits per platform. Differentiates between company and personal account styles. Use when repurposing content for social distribution."
+  },
+  "github": {
+    "owner": "strategiert",
+    "repo": "seo-ops-magic",
+    "ref": "main",
+    "relativePath": ".claude/skills/social-post-creator",
+    "sourceUrl": "https://github.com/strategiert/seo-ops-magic/tree/main/.claude/skills/social-post-creator"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 54,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 54,
+    "id": "openclaw-openclaw-skills-summarize-skill-md",
+    "name": "summarize",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/summarize",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-summarize-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Summarize or extract text/transcripts from URLs, podcasts, and local files (great fallback for “transcribe this YouTube/video”)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/summarize",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/summarize"
+  }
+}

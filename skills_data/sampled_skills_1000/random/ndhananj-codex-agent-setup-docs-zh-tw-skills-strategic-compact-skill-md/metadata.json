@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 49,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 49,
+    "id": "ndhananj-codex-agent-setup-docs-zh-tw-skills-strategic-compact-skill-md",
+    "name": "strategic-compact",
+    "author": "ndhananj",
+    "stars": 0,
+    "githubUrl": "https://github.com/ndhananj/codex-agent-setup/tree/main/docs/zh-TW/skills/strategic-compact",
+    "skillUrl": "https://skillsmp.com/skills/ndhananj-codex-agent-setup-docs-zh-tw-skills-strategic-compact-skill-md",
+    "updatedAt": 1770485530,
+    "description": "Suggests manual context compaction at logical intervals to preserve context through task phases rather than arbitrary auto-compaction."
+  },
+  "github": {
+    "owner": "ndhananj",
+    "repo": "codex-agent-setup",
+    "ref": "main",
+    "relativePath": "docs/zh-TW/skills/strategic-compact",
+    "sourceUrl": "https://github.com/ndhananj/codex-agent-setup/tree/main/docs/zh-TW/skills/strategic-compact"
+  }
+}

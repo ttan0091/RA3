@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 184,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 184,
+    "id": "karma-works-papercraft-web-opencode-skills-texturing-skill-md",
+    "name": "texturing",
+    "author": "karma-works",
+    "stars": 0,
+    "githubUrl": "https://github.com/karma-works/papercraft-web/tree/main/.opencode/skills/texturing",
+    "skillUrl": "https://skillsmp.com/skills/karma-works-papercraft-web-opencode-skills-texturing-skill-md",
+    "updatedAt": 1770021681,
+    "description": "Specialized knowledge for implementing texture mapping in 2D vector exports (SVG/PDF) for the papercraft web application. Use this skill when working on: (1) SVG or PDF texture export issues, (2) Affine texture mapping problems, (3) Face triangulation for correct UV mapping, (4) Debugging texture rendering differences between 3D preview and 2D exports, (5) Understanding the texture pipeline from 3D model to printable output."
+  },
+  "github": {
+    "owner": "karma-works",
+    "repo": "papercraft-web",
+    "ref": "main",
+    "relativePath": ".opencode/skills/texturing",
+    "sourceUrl": "https://github.com/karma-works/papercraft-web/tree/main/.opencode/skills/texturing"
+  }
+}

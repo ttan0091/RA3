@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 601,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 601,
+    "id": "krosebrook-source-of-truth-monorepo-claude-custom-skills-aws-azure-multicloud-skill-md",
+    "name": "aws-azure-multi-cloud-expert",
+    "author": "Krosebrook",
+    "stars": 2,
+    "githubUrl": "https://github.com/Krosebrook/source-of-truth-monorepo/tree/master/.claude-custom/skills/aws-azure-multicloud",
+    "skillUrl": "https://skillsmp.com/skills/krosebrook-source-of-truth-monorepo-claude-custom-skills-aws-azure-multicloud-skill-md",
+    "updatedAt": 1763249958,
+    "description": "Expert guidance for deploying and managing applications across AWS and Azure cloud platforms. Use when deploying to AWS, Azure, managing cloud infrastructure, or implementing multi-cloud strategies."
+  },
+  "github": {
+    "owner": "Krosebrook",
+    "repo": "source-of-truth-monorepo",
+    "ref": "master",
+    "relativePath": ".claude-custom/skills/aws-azure-multicloud",
+    "sourceUrl": "https://github.com/Krosebrook/source-of-truth-monorepo/tree/master/.claude-custom/skills/aws-azure-multicloud"
+  }
+}

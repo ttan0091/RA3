@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 550,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 550,
+    "id": "dotnet-maui-github-skills-write-ui-tests-skill-md",
+    "name": "write-ui-tests",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/write-ui-tests",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-write-ui-tests-skill-md",
+    "updatedAt": 1769533988,
+    "description": "Creates UI tests for a GitHub issue and verifies they reproduce the bug. Iterates until tests actually fail (proving they catch the issue). Use when PR lacks tests or tests need to be created for an issue."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/write-ui-tests",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/write-ui-tests"
+  }
+}

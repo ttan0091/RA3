@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 483,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 483,
+    "id": "openclaw-skills-skills-veeramanikandanr48-spec-miner-skill-md",
+    "name": "spec-miner",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/spec-miner",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-veeramanikandanr48-spec-miner-skill-md",
+    "updatedAt": 1769850458,
+    "description": "Use when understanding legacy or undocumented systems, creating documentation for existing code, or extracting specifications from implementations. Invoke for legacy analysis, code archaeology, undocumented features."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/veeramanikandanr48/spec-miner",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/veeramanikandanr48/spec-miner"
+  }
+}

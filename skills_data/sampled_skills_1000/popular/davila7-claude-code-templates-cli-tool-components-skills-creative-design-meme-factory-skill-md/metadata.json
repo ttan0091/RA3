@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 811,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 811,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-meme-factory-skill-md",
+    "name": "meme-factory",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/meme-factory",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-meme-factory-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Generate memes using the memegen.link API. Use when users request memes, want to add humor to content, or need visual aids for social media. Supports 100+ popular templates with custom text and styling."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/meme-factory",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/meme-factory"
+  }
+}

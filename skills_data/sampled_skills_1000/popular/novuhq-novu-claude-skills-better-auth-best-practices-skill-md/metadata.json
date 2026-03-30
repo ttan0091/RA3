@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 309,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 309,
+    "id": "novuhq-novu-claude-skills-better-auth-best-practices-skill-md",
+    "name": "better-auth-best-practices",
+    "author": "novuhq",
+    "stars": 38539,
+    "githubUrl": "https://github.com/novuhq/novu/tree/next/.claude/skills/better-auth-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/novuhq-novu-claude-skills-better-auth-best-practices-skill-md",
+    "updatedAt": 1769348568,
+    "description": "Skill for integrating Better Auth - the comprehensive TypeScript authentication framework."
+  },
+  "github": {
+    "owner": "novuhq",
+    "repo": "novu",
+    "ref": "next",
+    "relativePath": ".claude/skills/better-auth-best-practices",
+    "sourceUrl": "https://github.com/novuhq/novu/tree/next/.claude/skills/better-auth-best-practices"
+  }
+}

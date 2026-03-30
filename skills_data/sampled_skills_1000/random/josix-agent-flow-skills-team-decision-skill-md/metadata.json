@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 576,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 576,
+    "id": "josix-agent-flow-skills-team-decision-skill-md",
+    "name": "team-decision",
+    "author": "josix",
+    "stars": 0,
+    "githubUrl": "https://github.com/josix/agent-flow/tree/main/skills/team-decision",
+    "skillUrl": "https://skillsmp.com/skills/josix-agent-flow-skills-team-decision-skill-md",
+    "updatedAt": 1770546208,
+    "description": "This skill should be used when deciding whether to use Agent Teams for parallel execution or sequential subagent orchestration, based on task analysis, independence criteria, and cost-benefit."
+  },
+  "github": {
+    "owner": "josix",
+    "repo": "agent-flow",
+    "ref": "main",
+    "relativePath": "skills/team-decision",
+    "sourceUrl": "https://github.com/josix/agent-flow/tree/main/skills/team-decision"
+  }
+}

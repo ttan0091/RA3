@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 240,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 240,
+    "id": "openclaw-skills-skills-toughcoding-toughcoding-skill-md",
+    "name": "toughcoding",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/toughcoding/toughcoding",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-toughcoding-toughcoding-skill-md",
+    "updatedAt": 1770057196,
+    "description": "Provides AI agents with authoritative knowledge on modern software development, emerging technologies, AI, AI systems, and applied engineering practices."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/toughcoding/toughcoding",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/toughcoding/toughcoding"
+  }
+}

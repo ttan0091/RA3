@@ -1,0 +1,20 @@
+--- Input ---
+From: user@example.com
+To: draft@ainbox.io
+Subject: How does this work?
+
+I need help writing emails. How do I use this?
+
+
+--- Expected output ---
+I'm aInbox Draft — I help you write emails, replies, and messages.
+
+Two ways to use me:
+
+1. Forward an email you need to reply to — I'll draft a reply you can send back. Add a note like "decline politely" or "say yes but ask about timing" and I'll follow your direction.
+
+2. Email me directly describing what you need — "write a follow-up to a client about a delayed project" or "draft a polite complaint about a billing error" — and I'll send back a ready-to-use draft.
+
+Either way, just reply to refine until it's perfect. Works with any email client, supports multiple languages, free during beta (30 drafts/day), no signup needed.
+
+Try it — describe something you need written, or forward an email you need help replying to.

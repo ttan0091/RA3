@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 69,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 69,
+    "id": "asiaostrich-universal-dev-standards-locales-zh-cn-skills-code-review-assistant-skill-md",
+    "name": "review",
+    "author": "AsiaOstrich",
+    "stars": 24,
+    "githubUrl": "https://github.com/AsiaOstrich/universal-dev-standards/tree/main/locales/zh-CN/skills/code-review-assistant",
+    "skillUrl": "https://skillsmp.com/skills/asiaostrich-universal-dev-standards-locales-zh-cn-skills-code-review-assistant-skill-md",
+    "updatedAt": 1770260610,
+    "description": "系统化的程序码审查检查清单和提交前品质关卡。\n使用时机：审查 pull request、检查程序码品质、提交程序码前。\n关鍵字：review, PR, pull request, checklist, quality, commit, 审查, 检查, 簽入。"
+  },
+  "github": {
+    "owner": "AsiaOstrich",
+    "repo": "universal-dev-standards",
+    "ref": "main",
+    "relativePath": "locales/zh-CN/skills/code-review-assistant",
+    "sourceUrl": "https://github.com/AsiaOstrich/universal-dev-standards/tree/main/locales/zh-CN/skills/code-review-assistant"
+  }
+}

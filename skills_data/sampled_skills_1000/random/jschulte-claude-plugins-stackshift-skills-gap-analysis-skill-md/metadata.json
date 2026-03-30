@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 333,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 333,
+    "id": "jschulte-claude-plugins-stackshift-skills-gap-analysis-skill-md",
+    "name": "gap-analysis",
+    "author": "jschulte",
+    "stars": 0,
+    "githubUrl": "https://github.com/jschulte/claude-plugins/tree/main/stackshift/skills/gap-analysis",
+    "skillUrl": "https://skillsmp.com/skills/jschulte-claude-plugins-stackshift-skills-gap-analysis-skill-md",
+    "updatedAt": 1767282534,
+    "description": "Route-aware gap analysis. For Brownfield - uses /speckit.analyze to compare specs against implementation. For Greenfield - validates spec completeness and asks about target tech stack for new implementation. This is Step 4 of 6 in the reverse engineering process."
+  },
+  "github": {
+    "owner": "jschulte",
+    "repo": "claude-plugins",
+    "ref": "main",
+    "relativePath": "stackshift/skills/gap-analysis",
+    "sourceUrl": "https://github.com/jschulte/claude-plugins/tree/main/stackshift/skills/gap-analysis"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 793,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 793,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-excalidraw-skill-md",
+    "name": "excalidraw",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/excalidraw",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-excalidraw-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Use when working with *.excalidraw or *.excalidraw.json files, user mentions diagrams/flowcharts, or requests architecture visualization - delegates all Excalidraw operations to subagents to prevent context exhaustion from verbose JSON (single files: 4k-22k tokens, can exceed read limits)"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/excalidraw",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/excalidraw"
+  }
+}

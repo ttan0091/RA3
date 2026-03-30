@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 924,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 924,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-senior-devops-skill-md",
+    "name": "senior-devops",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-devops",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-senior-devops-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Comprehensive DevOps skill for CI/CD, infrastructure automation, containerization, and cloud platforms (AWS, GCP, Azure). Includes pipeline setup, infrastructure as code, deployment automation, and monitoring. Use when setting up pipelines, deploying applications, managing infrastructure, implementing monitoring, or optimizing deployment processes."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/senior-devops",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-devops"
+  }
+}

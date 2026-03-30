@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 775,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 775,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-pricing-strategy-skill-md",
+    "name": "pricing-strategy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/pricing-strategy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-pricing-strategy-skill-md",
+    "updatedAt": 1769353274,
+    "description": "When the user wants help with pricing decisions, packaging, or monetization strategy. Also use when the user mentions 'pricing,' 'pricing tiers,' 'freemium,' 'free trial,' 'packaging,' 'price increase,' 'value metric,' 'Van Westendorp,' 'willingness to pay,' or 'monetization.' This skill covers pricing research, tier structure, and packaging strategy."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/pricing-strategy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/pricing-strategy"
+  }
+}

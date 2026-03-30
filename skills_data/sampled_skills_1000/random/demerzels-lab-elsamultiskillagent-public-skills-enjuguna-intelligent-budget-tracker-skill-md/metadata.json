@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 334,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 334,
+    "id": "demerzels-lab-elsamultiskillagent-public-skills-enjuguna-intelligent-budget-tracker-skill-md",
+    "name": "agent-money-tracker",
+    "author": "Demerzels-lab",
+    "stars": 2,
+    "githubUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/enjuguna/intelligent-budget-tracker",
+    "skillUrl": "https://skillsmp.com/skills/demerzels-lab-elsamultiskillagent-public-skills-enjuguna-intelligent-budget-tracker-skill-md",
+    "updatedAt": 1770445005,
+    "description": "Intelligent budget tracking and financial management library for AI agents - expense tracking, income management, budgets, savings goals, and LLM-powered insights"
+  },
+  "github": {
+    "owner": "Demerzels-lab",
+    "repo": "elsamultiskillagent",
+    "ref": "main",
+    "relativePath": "public/skills/enjuguna/intelligent-budget-tracker",
+    "sourceUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/enjuguna/intelligent-budget-tracker"
+  }
+}

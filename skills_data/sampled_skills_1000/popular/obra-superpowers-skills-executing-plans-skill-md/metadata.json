@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 176,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 176,
+    "id": "obra-superpowers-skills-executing-plans-skill-md",
+    "name": "executing-plans",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/executing-plans",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-executing-plans-skill-md",
+    "updatedAt": 1769728370,
+    "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/executing-plans",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/executing-plans"
+  }
+}

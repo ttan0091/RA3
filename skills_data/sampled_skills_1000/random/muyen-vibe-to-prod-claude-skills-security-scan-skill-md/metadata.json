@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 331,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 331,
+    "id": "muyen-vibe-to-prod-claude-skills-security-scan-skill-md",
+    "name": "security-scan",
+    "author": "muyen",
+    "stars": 25,
+    "githubUrl": "https://github.com/muyen/vibe-to-prod/tree/main/.claude/skills/security-scan",
+    "skillUrl": "https://skillsmp.com/skills/muyen-vibe-to-prod-claude-skills-security-scan-skill-md",
+    "updatedAt": 1767467514,
+    "description": "Proactive security scanning. Triggers when modifying auth, API endpoints, user data, or sensitive operations."
+  },
+  "github": {
+    "owner": "muyen",
+    "repo": "vibe-to-prod",
+    "ref": "main",
+    "relativePath": ".claude/skills/security-scan",
+    "sourceUrl": "https://github.com/muyen/vibe-to-prod/tree/main/.claude/skills/security-scan"
+  }
+}

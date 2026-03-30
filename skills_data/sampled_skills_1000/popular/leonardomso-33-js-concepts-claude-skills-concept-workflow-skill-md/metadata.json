@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 155,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 155,
+    "id": "leonardomso-33-js-concepts-claude-skills-concept-workflow-skill-md",
+    "name": "concept-workflow",
+    "author": "leonardomso",
+    "stars": 66250,
+    "githubUrl": "https://github.com/leonardomso/33-js-concepts/tree/master/.claude/skills/concept-workflow",
+    "skillUrl": "https://skillsmp.com/skills/leonardomso-33-js-concepts-claude-skills-concept-workflow-skill-md",
+    "updatedAt": 1769191334,
+    "description": "End-to-end workflow for creating complete JavaScript concept documentation, orchestrating all skills from research to final review"
+  },
+  "github": {
+    "owner": "leonardomso",
+    "repo": "33-js-concepts",
+    "ref": "master",
+    "relativePath": ".claude/skills/concept-workflow",
+    "sourceUrl": "https://github.com/leonardomso/33-js-concepts/tree/master/.claude/skills/concept-workflow"
+  }
+}

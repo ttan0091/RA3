@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 178,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 178,
+    "id": "mgd34msu-goodvibes-gemini-skills-vite-skill-md",
+    "name": "vite",
+    "author": "mgd34msu",
+    "stars": 1,
+    "githubUrl": "https://github.com/mgd34msu/goodvibes-gemini/tree/main/skills/vite",
+    "skillUrl": "https://skillsmp.com/skills/mgd34msu-goodvibes-gemini-skills-vite-skill-md",
+    "updatedAt": 1768448953,
+    "description": "Builds web applications with Vite including dev server, production builds, plugins, and configuration. Use when scaffolding projects, configuring build tools, optimizing bundles, or setting up development environments."
+  },
+  "github": {
+    "owner": "mgd34msu",
+    "repo": "goodvibes-gemini",
+    "ref": "main",
+    "relativePath": "skills/vite",
+    "sourceUrl": "https://github.com/mgd34msu/goodvibes-gemini/tree/main/skills/vite"
+  }
+}

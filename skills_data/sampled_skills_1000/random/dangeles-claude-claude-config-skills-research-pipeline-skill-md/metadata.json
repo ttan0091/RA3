@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 795,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 795,
+    "id": "dangeles-claude-claude-config-skills-research-pipeline-skill-md",
+    "name": "research-pipeline",
+    "author": "dangeles",
+    "stars": 2,
+    "githubUrl": "https://github.com/dangeles/claude/tree/main/claude-config/skills/research-pipeline",
+    "skillUrl": "https://skillsmp.com/skills/dangeles-claude-claude-config-skills-research-pipeline-skill-md",
+    "updatedAt": 1770497724,
+    "description": "Use when you need a complete research workflow from initial literature search to polished, fact-checked document. Chains researcher -> synthesizer -> devils-advocate -> fact-checker -> editor automatically."
+  },
+  "github": {
+    "owner": "dangeles",
+    "repo": "claude",
+    "ref": "main",
+    "relativePath": "claude-config/skills/research-pipeline",
+    "sourceUrl": "https://github.com/dangeles/claude/tree/main/claude-config/skills/research-pipeline"
+  }
+}

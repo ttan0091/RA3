@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 783,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 783,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-seo-optimizer-skill-md",
+    "name": "seo-optimizer",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/seo-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-seo-optimizer-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Search Engine Optimization specialist for content strategy, technical SEO, keyword research, and ranking improvements. Use when optimizing website content, improving search rankings, conducting keyword analysis, or implementing SEO best practices. Expert in on-page SEO, meta tags, schema markup, and Core Web Vitals."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/seo-optimizer",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/seo-optimizer"
+  }
+}

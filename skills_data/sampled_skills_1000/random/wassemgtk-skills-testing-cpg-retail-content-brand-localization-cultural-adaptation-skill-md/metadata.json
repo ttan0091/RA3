@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 379,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 379,
+    "id": "wassemgtk-skills-testing-cpg-retail-content-brand-localization-cultural-adaptation-skill-md",
+    "name": "localization-cultural-adaptation",
+    "author": "wassemgtk",
+    "stars": 0,
+    "githubUrl": "https://github.com/wassemgtk/skills-testing/tree/main/cpg-retail/content-brand/localization-cultural-adaptation",
+    "skillUrl": "https://skillsmp.com/skills/wassemgtk-skills-testing-cpg-retail-content-brand-localization-cultural-adaptation-skill-md",
+    "updatedAt": 1770504959,
+    "description": "Adapt CPG and retail e-commerce content for target markets with culturally resonant messaging, locale-specific regulatory compliance, and linguistic quality assurance beyond simple translation."
+  },
+  "github": {
+    "owner": "wassemgtk",
+    "repo": "skills-testing",
+    "ref": "main",
+    "relativePath": "cpg-retail/content-brand/localization-cultural-adaptation",
+    "sourceUrl": "https://github.com/wassemgtk/skills-testing/tree/main/cpg-retail/content-brand/localization-cultural-adaptation"
+  }
+}

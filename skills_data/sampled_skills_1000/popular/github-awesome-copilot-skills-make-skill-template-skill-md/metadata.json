@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 599,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 599,
+    "id": "github-awesome-copilot-skills-make-skill-template-skill-md",
+    "name": "make-skill-template",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/make-skill-template",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-make-skill-template-skill-md",
+    "updatedAt": 1768791732,
+    "description": "Create new Agent Skills for GitHub Copilot from prompts or by duplicating this template. Use when asked to \"create a skill\", \"make a new skill\", \"scaffold a skill\", or when building specialized AI capabilities with bundled resources. Generates SKILL.md files with proper frontmatter, directory structure, and optional scripts/references/assets folders."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/make-skill-template",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/make-skill-template"
+  }
+}

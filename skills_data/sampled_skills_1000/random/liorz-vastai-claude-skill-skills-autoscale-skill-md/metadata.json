@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 755,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 755,
+    "id": "liorz-vastai-claude-skill-skills-autoscale-skill-md",
+    "name": "autoscale",
+    "author": "LiorZ",
+    "stars": 0,
+    "githubUrl": "https://github.com/LiorZ/vastai-claude-skill/tree/main/skills/autoscale",
+    "skillUrl": "https://skillsmp.com/skills/liorz-vastai-claude-skill-skills-autoscale-skill-md",
+    "updatedAt": 1770407979,
+    "description": "Manage Vast.ai autoscaling endpoints and worker groups for production deployments. Use when setting up auto-scaling GPU inference, managing worker pools, or deploying services."
+  },
+  "github": {
+    "owner": "LiorZ",
+    "repo": "vastai-claude-skill",
+    "ref": "main",
+    "relativePath": "skills/autoscale",
+    "sourceUrl": "https://github.com/LiorZ/vastai-claude-skill/tree/main/skills/autoscale"
+  }
+}

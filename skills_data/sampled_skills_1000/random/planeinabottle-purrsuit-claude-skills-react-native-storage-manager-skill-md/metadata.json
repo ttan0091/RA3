@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 983,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 983,
+    "id": "planeinabottle-purrsuit-claude-skills-react-native-storage-manager-skill-md",
+    "name": "react-native-storage-manager",
+    "author": "PlaneInABottle",
+    "stars": 0,
+    "githubUrl": "https://github.com/PlaneInABottle/purrsuit/tree/main/.claude/skills/react-native-storage-manager",
+    "skillUrl": "https://skillsmp.com/skills/planeinabottle-purrsuit-claude-skills-react-native-storage-manager-skill-md",
+    "updatedAt": 1766921122,
+    "description": "Handles MMKV storage operations and data persistence patterns with encryption. Use when implementing data persistence, caching, or user preferences in Purrsuit Mobile App."
+  },
+  "github": {
+    "owner": "PlaneInABottle",
+    "repo": "purrsuit",
+    "ref": "main",
+    "relativePath": ".claude/skills/react-native-storage-manager",
+    "sourceUrl": "https://github.com/PlaneInABottle/purrsuit/tree/main/.claude/skills/react-native-storage-manager"
+  }
+}

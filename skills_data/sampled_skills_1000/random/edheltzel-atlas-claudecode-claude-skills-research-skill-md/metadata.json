@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 620,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 620,
+    "id": "edheltzel-atlas-claudecode-claude-skills-research-skill-md",
+    "name": "research",
+    "author": "edheltzel",
+    "stars": 2,
+    "githubUrl": "https://github.com/edheltzel/atlas/tree/master/claudecode/.claude/skills/Research",
+    "skillUrl": "https://skillsmp.com/skills/edheltzel-atlas-claudecode-claude-skills-research-skill-md",
+    "updatedAt": 1769908284,
+    "description": "USE WHEN user says 'research' (ANY form - this is the MANDATORY trigger), 'do research', 'extensive research', 'quick research', 'minor research', 'research this', 'find information', 'investigate', 'extract wisdom', 'extract alpha', 'analyze content', 'can't get this content', 'use fabric', OR requests any web/content research. Supports three research modes (quick/standard/extensive), deep content analysis, intelligent retrieval, and 242+ Fabric patterns. NOTE: For due diligence, OSINT, or background checks, use OSINT skill instead."
+  },
+  "github": {
+    "owner": "edheltzel",
+    "repo": "atlas",
+    "ref": "master",
+    "relativePath": "claudecode/.claude/skills/Research",
+    "sourceUrl": "https://github.com/edheltzel/atlas/tree/master/claudecode/.claude/skills/Research"
+  }
+}

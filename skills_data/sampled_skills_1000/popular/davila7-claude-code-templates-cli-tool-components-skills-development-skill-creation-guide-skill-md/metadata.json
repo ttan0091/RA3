@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 934,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 934,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-skill-creation-guide-skill-md",
+    "name": "skill-creation-guide",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/skill-creation-guide",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-skill-creation-guide-skill-md",
+    "updatedAt": 1767959780,
+    "description": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/skill-creation-guide",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/skill-creation-guide"
+  }
+}

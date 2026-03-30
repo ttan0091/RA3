@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 576,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 576,
+    "id": "mastra-ai-mastra-claude-skills-smoke-test-skill-md",
+    "name": "smoke-test",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/smoke-test",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-claude-skills-smoke-test-skill-md",
+    "updatedAt": 1768935871,
+    "description": "Create a Mastra project using create-mastra and smoke test the studio in Chrome"
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": ".claude/skills/smoke-test",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/smoke-test"
+  }
+}

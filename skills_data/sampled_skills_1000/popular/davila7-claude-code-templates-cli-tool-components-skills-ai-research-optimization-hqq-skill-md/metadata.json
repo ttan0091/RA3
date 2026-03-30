@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 710,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 710,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-hqq-skill-md",
+    "name": "hqq-quantization",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-hqq",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-optimization-hqq-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Half-Quadratic Quantization for LLMs without calibration data. Use when quantizing models to 4/3/2-bit precision without needing calibration datasets, for fast quantization workflows, or when deploying with vLLM or HuggingFace Transformers."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/optimization-hqq",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/optimization-hqq"
+  }
+}

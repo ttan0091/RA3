@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 516,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 516,
+    "id": "patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-trackio-skill-md",
+    "name": "hugging-face-trackio",
+    "author": "patchy631",
+    "stars": 28245,
+    "githubUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-trackio",
+    "skillUrl": "https://skillsmp.com/skills/patchy631-ai-engineering-hub-hugging-face-skills-skills-hugging-face-trackio-skill-md",
+    "updatedAt": 1769769658,
+    "description": "Track and visualize ML training experiments with Trackio. Use when logging metrics during training (Python API) or retrieving/analyzing logged metrics (CLI). Supports real-time dashboard visualization, HF Space syncing, and JSON output for automation."
+  },
+  "github": {
+    "owner": "patchy631",
+    "repo": "ai-engineering-hub",
+    "ref": "main",
+    "relativePath": "hugging-face-skills/skills/hugging-face-trackio",
+    "sourceUrl": "https://github.com/patchy631/ai-engineering-hub/tree/main/hugging-face-skills/skills/hugging-face-trackio"
+  }
+}

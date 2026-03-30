@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 642,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 642,
+    "id": "karthikraju391-writing-interviewer-skill-skills-writing-interviewer-skill-md",
+    "name": "writing-interviewer",
+    "author": "KarthikRaju391",
+    "stars": 0,
+    "githubUrl": "https://github.com/KarthikRaju391/writing-interviewer-skill/tree/master/skills/writing-interviewer",
+    "skillUrl": "https://skillsmp.com/skills/karthikraju391-writing-interviewer-skill-skills-writing-interviewer-skill-md",
+    "updatedAt": 1768497705,
+    "description": "Interviews users to clarify their thinking instead of writing for them. Use when asked to help with writing, content ideas, exploring topics, or reviewing drafts. Reads existing notes to identify themes, asks probing questions one at a time, pushes back on vague thinking, and tracks discussions from exploration to publication."
+  },
+  "github": {
+    "owner": "KarthikRaju391",
+    "repo": "writing-interviewer-skill",
+    "ref": "master",
+    "relativePath": "skills/writing-interviewer",
+    "sourceUrl": "https://github.com/KarthikRaju391/writing-interviewer-skill/tree/master/skills/writing-interviewer"
+  }
+}

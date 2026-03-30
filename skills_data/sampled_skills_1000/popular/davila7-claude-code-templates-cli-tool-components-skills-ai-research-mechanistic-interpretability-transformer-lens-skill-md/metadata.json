@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 685,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 685,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-mechanistic-interpretability-transformer-lens-skill-md",
+    "name": "transformer-lens-interpretability",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-transformer-lens",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-mechanistic-interpretability-transformer-lens-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Provides guidance for mechanistic interpretability research using TransformerLens to inspect and manipulate transformer internals via HookPoints and activation caching. Use when reverse-engineering model algorithms, studying attention patterns, or performing activation patching experiments."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/mechanistic-interpretability-transformer-lens",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/mechanistic-interpretability-transformer-lens"
+  }
+}

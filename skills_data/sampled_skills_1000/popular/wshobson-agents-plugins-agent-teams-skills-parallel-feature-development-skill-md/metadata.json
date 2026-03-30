@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 366,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 366,
+    "id": "wshobson-agents-plugins-agent-teams-skills-parallel-feature-development-skill-md",
+    "name": "parallel-feature-development",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-feature-development",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-agent-teams-skills-parallel-feature-development-skill-md",
+    "updatedAt": 1770331350,
+    "description": "Coordinate parallel feature development with file ownership strategies, conflict avoidance rules, and integration patterns for multi-agent implementation. Use this skill when decomposing features for parallel development, establishing file ownership boundaries, or managing integration between parallel work streams."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/agent-teams/skills/parallel-feature-development",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/agent-teams/skills/parallel-feature-development"
+  }
+}

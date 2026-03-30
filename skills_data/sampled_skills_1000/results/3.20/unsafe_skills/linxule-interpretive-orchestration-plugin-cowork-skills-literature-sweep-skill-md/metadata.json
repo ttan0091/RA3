@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 714,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 714,
+    "id": "linxule-interpretive-orchestration-plugin-cowork-skills-literature-sweep-skill-md",
+    "name": "literature-sweep",
+    "author": "linxule",
+    "stars": 1,
+    "githubUrl": "https://github.com/linxule/interpretive-orchestration/tree/main/plugin-cowork/skills/literature-sweep",
+    "skillUrl": "https://skillsmp.com/skills/linxule-interpretive-orchestration-plugin-cowork-skills-literature-sweep-skill-md",
+    "updatedAt": 1769967384,
+    "description": "This skill should be used when users need to gather foundational literature, mentions 'literature review', 'theoretical patterns', 'Stream A', wants to search for academic papers, or is starting Stage 2 Phase 1 theoretical stream."
+  },
+  "github": {
+    "owner": "linxule",
+    "repo": "interpretive-orchestration",
+    "ref": "main",
+    "relativePath": "plugin-cowork/skills/literature-sweep",
+    "sourceUrl": "https://github.com/linxule/interpretive-orchestration/tree/main/plugin-cowork/skills/literature-sweep"
+  }
+}

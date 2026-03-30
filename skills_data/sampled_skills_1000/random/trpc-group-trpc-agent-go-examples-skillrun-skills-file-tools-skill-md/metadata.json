@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 891,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 891,
+    "id": "trpc-group-trpc-agent-go-examples-skillrun-skills-file-tools-skill-md",
+    "name": "file-tools",
+    "author": "trpc-group",
+    "stars": 869,
+    "githubUrl": "https://github.com/trpc-group/trpc-agent-go/tree/main/examples/skillrun/skills/file_tools",
+    "skillUrl": "https://skillsmp.com/skills/trpc-group-trpc-agent-go-examples-skillrun-skills-file-tools-skill-md",
+    "updatedAt": 1762949321,
+    "description": "Simple shell utilities for files and archives."
+  },
+  "github": {
+    "owner": "trpc-group",
+    "repo": "trpc-agent-go",
+    "ref": "main",
+    "relativePath": "examples/skillrun/skills/file_tools",
+    "sourceUrl": "https://github.com/trpc-group/trpc-agent-go/tree/main/examples/skillrun/skills/file_tools"
+  }
+}

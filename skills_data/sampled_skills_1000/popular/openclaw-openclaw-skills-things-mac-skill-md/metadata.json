@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 55,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 55,
+    "id": "openclaw-openclaw-skills-things-mac-skill-md",
+    "name": "things-mac",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/things-mac",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-things-mac-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Manage Things 3 via the `things` CLI on macOS (add/update projects+todos via URL scheme; read/search/list from the local Things database). Use when a user asks OpenClaw to add a task to Things, list inbox/today/upcoming, search tasks, or inspect projects/areas/tags."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/things-mac",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/things-mac"
+  }
+}

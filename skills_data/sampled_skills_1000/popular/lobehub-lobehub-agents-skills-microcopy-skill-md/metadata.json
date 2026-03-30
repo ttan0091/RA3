@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 130,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 130,
+    "id": "lobehub-lobehub-agents-skills-microcopy-skill-md",
+    "name": "microcopy",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/microcopy",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-microcopy-skill-md",
+    "updatedAt": 1769178618,
+    "description": "UI copy and microcopy guidelines. Use when writing UI text, buttons, error messages, empty states, onboarding, or any user-facing copy. Triggers on i18n translation, UI text writing, or copy improvement tasks. Supports both Chinese and English."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/microcopy",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/microcopy"
+  }
+}

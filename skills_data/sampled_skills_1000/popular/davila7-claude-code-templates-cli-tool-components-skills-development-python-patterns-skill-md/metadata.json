@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 909,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 909,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-python-patterns-skill-md",
+    "name": "python-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/python-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-python-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/python-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/python-patterns"
+  }
+}

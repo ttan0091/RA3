@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "openclaw-openclaw-agents-skills-merge-pr-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/merge-pr",
+    "error": "path_not_found: .agents/skills/merge-pr"
+  },
+  {
+    "id": "openclaw-openclaw-agents-skills-prepare-pr-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/prepare-pr",
+    "error": "path_not_found: .agents/skills/prepare-pr"
+  },
+  {
+    "id": "openclaw-openclaw-agents-skills-review-pr-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/.agents/skills/review-pr",
+    "error": "path_not_found: .agents/skills/review-pr"
+  },
+  {
+    "id": "openclaw-openclaw-skills-food-order-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/food-order",
+    "error": "path_not_found: skills/food-order"
+  },
+  {
+    "id": "openclaw-openclaw-skills-local-places-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/local-places",
+    "error": "path_not_found: skills/local-places"
+  },
+  {
+    "id": "anomalyco-opencode-opencode-skill-bun-file-io-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/anomalyco/opencode/tree/dev/.opencode/skill/bun-file-io",
+    "error": "path_not_found: .opencode/skill/bun-file-io"
+  },
+  {
+    "id": "microsoft-playwright-claude-skills-playwright-api-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-api",
+    "error": "path_not_found: .claude/skills/playwright-api"
+  },
+  {
+    "id": "microsoft-playwright-claude-skills-playwright-mcp-dev-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/microsoft/playwright/tree/main/.claude/skills/playwright-mcp-dev",
+    "error": "path_not_found: .claude/skills/playwright-mcp-dev"
+  },
+  {
+    "id": "openai-codex-codex-rs-core-src-skills-assets-samples-skill-creator-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openai/codex/tree/main/codex-rs/core/src/skills/assets/samples/skill-creator",
+    "error": "path_not_found: codex-rs/core/src/skills/assets/samples/skill-creator"
+  },
+  {
+    "id": "openai-codex-codex-rs-core-src-skills-assets-samples-skill-installer-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/openai/codex/tree/main/codex-rs/core/src/skills/assets/samples/skill-installer",
+    "error": "path_not_found: codex-rs/core/src/skills/assets/samples/skill-installer"
+  },
+  {
+    "id": "cline-cline-cline-skills-create-pull-request-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/cline/cline/tree/main/.cline/skills/create-pull-request",
+    "error": "path_not_found: .cline/skills/create-pull-request"
+  },
+  {
+    "id": "clickhouse-clickhouse-claude-skills-install-skills-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ClickHouse/ClickHouse/tree/master/.claude/skills/install-skills",
+    "error": "path_not_found: .claude/skills/install-skills"
+  },
+  {
+    "id": "tldraw-tldraw-claude-skills-update-release-notes-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/update-release-notes",
+    "error": "path_not_found: .claude/skills/update-release-notes"
+  },
+  {
+    "id": "getsentry-sentry-claude-skills-design-system-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/getsentry/sentry/tree/master/.claude/skills/design-system",
+    "error": "path_not_found: .claude/skills/design-system"
+  },
+  {
+    "id": "getsentry-sentry-claude-skills-generate-migration-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/getsentry/sentry/tree/master/.claude/skills/generate-migration",
+    "error": "path_not_found: .claude/skills/generate-migration"
+  },
+  {
+    "id": "calcom-cal-com-skills-calcom-api-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/calcom/cal.com/tree/main/skills/calcom-api",
+    "error": "path_not_found: skills/calcom-api"
+  },
+  {
+    "id": "pingcap-tidb-github-skills-tidb-test-guidelines-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/pingcap/tidb/tree/master/.github/skills/tidb-test-guidelines",
+    "error": "path_not_found: .github/skills/tidb-test-guidelines"
+  },
+  {
+    "id": "agno-agi-agno-cookbook-02-agents-skills-sample-skills-code-review-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/agno-agi/agno/tree/main/cookbook/02_agents/skills/sample_skills/code-review",
+    "error": "path_not_found: cookbook/02_agents/skills/sample_skills/code-review"
+  },
+  {
+    "id": "agno-agi-agno-cookbook-02-agents-skills-sample-skills-git-workflow-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/agno-agi/agno/tree/main/cookbook/02_agents/skills/sample_skills/git-workflow",
+    "error": "path_not_found: cookbook/02_agents/skills/sample_skills/git-workflow"
+  },
+  {
+    "id": "bmad-code-org-bmad-method-claude-skills-changelog-social-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/bmad-code-org/BMAD-METHOD/tree/main/.claude/skills/changelog-social",
+    "error": "path_not_found: .claude/skills/changelog-social"
+  },
+  {
+    "id": "bmad-code-org-bmad-method-claude-skills-gh-triage-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/bmad-code-org/BMAD-METHOD/tree/main/.claude/skills/gh-triage",
+    "error": "path_not_found: .claude/skills/gh-triage"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-activecampaign-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/activecampaign-automation",
+    "error": "path_not_found: activecampaign-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-airtable-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/airtable-automation",
+    "error": "path_not_found: airtable-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-amplitude-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/amplitude-automation",
+    "error": "path_not_found: amplitude-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-asana-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/asana-automation",
+    "error": "path_not_found: asana-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-bamboohr-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/bamboohr-automation",
+    "error": "path_not_found: bamboohr-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-basecamp-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/basecamp-automation",
+    "error": "path_not_found: basecamp-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-bitbucket-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/bitbucket-automation",
+    "error": "path_not_found: bitbucket-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-box-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/box-automation",
+    "error": "path_not_found: box-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-brevo-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/brevo-automation",
+    "error": "path_not_found: brevo-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-cal-com-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/cal-com-automation",
+    "error": "path_not_found: cal-com-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-calendly-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/calendly-automation",
+    "error": "path_not_found: calendly-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-canva-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/canva-automation",
+    "error": "path_not_found: canva-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-circleci-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/circleci-automation",
+    "error": "path_not_found: circleci-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-clickup-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/clickup-automation",
+    "error": "path_not_found: clickup-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-close-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/close-automation",
+    "error": "path_not_found: close-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-coda-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/coda-automation",
+    "error": "path_not_found: coda-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-composio-sdk-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/composio-sdk",
+    "error": "path_not_found: composio-sdk"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-confluence-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/confluence-automation",
+    "error": "path_not_found: confluence-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-convertkit-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/convertkit-automation",
+    "error": "path_not_found: convertkit-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-datadog-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/datadog-automation",
+    "error": "path_not_found: datadog-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-discord-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/discord-automation",
+    "error": "path_not_found: discord-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-docusign-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/docusign-automation",
+    "error": "path_not_found: docusign-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-dropbox-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/dropbox-automation",
+    "error": "path_not_found: dropbox-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-figma-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/figma-automation",
+    "error": "path_not_found: figma-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-freshdesk-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/freshdesk-automation",
+    "error": "path_not_found: freshdesk-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-freshservice-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/freshservice-automation",
+    "error": "path_not_found: freshservice-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-github-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/github-automation",
+    "error": "path_not_found: github-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-gitlab-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/gitlab-automation",
+    "error": "path_not_found: gitlab-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-gmail-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/gmail-automation",
+    "error": "path_not_found: gmail-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-google-analytics-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/google-analytics-automation",
+    "error": "path_not_found: google-analytics-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-google-calendar-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/google-calendar-automation",
+    "error": "path_not_found: google-calendar-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-google-drive-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/google-drive-automation",
+    "error": "path_not_found: google-drive-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-googlesheets-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/googlesheets-automation",
+    "error": "path_not_found: googlesheets-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-helpdesk-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/helpdesk-automation",
+    "error": "path_not_found: helpdesk-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-hubspot-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/hubspot-automation",
+    "error": "path_not_found: hubspot-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-instagram-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/instagram-automation",
+    "error": "path_not_found: instagram-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-intercom-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/intercom-automation",
+    "error": "path_not_found: intercom-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-jira-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/jira-automation",
+    "error": "path_not_found: jira-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-klaviyo-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/klaviyo-automation",
+    "error": "path_not_found: klaviyo-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-linear-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/linear-automation",
+    "error": "path_not_found: linear-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-linkedin-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/linkedin-automation",
+    "error": "path_not_found: linkedin-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-mailchimp-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mailchimp-automation",
+    "error": "path_not_found: mailchimp-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-make-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/make-automation",
+    "error": "path_not_found: make-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-microsoft-teams-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/microsoft-teams-automation",
+    "error": "path_not_found: microsoft-teams-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-miro-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/miro-automation",
+    "error": "path_not_found: miro-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-mixpanel-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mixpanel-automation",
+    "error": "path_not_found: mixpanel-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-monday-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/monday-automation",
+    "error": "path_not_found: monday-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-notion-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/notion-automation",
+    "error": "path_not_found: notion-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-one-drive-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/one-drive-automation",
+    "error": "path_not_found: one-drive-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-outlook-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/outlook-automation",
+    "error": "path_not_found: outlook-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-outlook-calendar-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/outlook-calendar-automation",
+    "error": "path_not_found: outlook-calendar-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-pagerduty-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/pagerduty-automation",
+    "error": "path_not_found: pagerduty-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-pipedrive-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/pipedrive-automation",
+    "error": "path_not_found: pipedrive-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-posthog-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/posthog-automation",
+    "error": "path_not_found: posthog-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-postmark-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/postmark-automation",
+    "error": "path_not_found: postmark-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-reddit-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/reddit-automation",
+    "error": "path_not_found: reddit-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-render-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/render-automation",
+    "error": "path_not_found: render-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-salesforce-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/salesforce-automation",
+    "error": "path_not_found: salesforce-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-segment-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/segment-automation",
+    "error": "path_not_found: segment-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-sendgrid-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/sendgrid-automation",
+    "error": "path_not_found: sendgrid-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-sentry-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/sentry-automation",
+    "error": "path_not_found: sentry-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-shopify-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/shopify-automation",
+    "error": "path_not_found: shopify-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-slack-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/slack-automation",
+    "error": "path_not_found: slack-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-square-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/square-automation",
+    "error": "path_not_found: square-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-stripe-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/stripe-automation",
+    "error": "path_not_found: stripe-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-supabase-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/supabase-automation",
+    "error": "path_not_found: supabase-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-telegram-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/telegram-automation",
+    "error": "path_not_found: telegram-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-tiktok-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tiktok-automation",
+    "error": "path_not_found: tiktok-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-todoist-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/todoist-automation",
+    "error": "path_not_found: todoist-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-trello-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/trello-automation",
+    "error": "path_not_found: trello-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-twitter-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/twitter-automation",
+    "error": "path_not_found: twitter-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-vercel-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/vercel-automation",
+    "error": "path_not_found: vercel-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-webflow-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/webflow-automation",
+    "error": "path_not_found: webflow-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-whatsapp-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/whatsapp-automation",
+    "error": "path_not_found: whatsapp-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-wrike-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/wrike-automation",
+    "error": "path_not_found: wrike-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-youtube-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/youtube-automation",
+    "error": "path_not_found: youtube-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-zendesk-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/zendesk-automation",
+    "error": "path_not_found: zendesk-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-zoho-crm-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/zoho-crm-automation",
+    "error": "path_not_found: zoho-crm-automation"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-zoom-automation-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/zoom-automation",
+    "error": "path_not_found: zoom-automation"
+  },
+  {
+    "id": "posthog-posthog-claude-skills-clickhouse-migrations-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/PostHog/posthog/tree/master/.claude/skills/clickhouse-migrations",
+    "error": "path_not_found: .claude/skills/clickhouse-migrations"
+  },
+  {
+    "id": "posthog-posthog-claude-skills-implementing-agent-modes-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/PostHog/posthog/tree/master/.claude/skills/implementing-agent-modes",
+    "error": "path_not_found: .claude/skills/implementing-agent-modes"
+  },
+  {
+    "id": "posthog-posthog-claude-skills-setup-web-tests-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/PostHog/posthog/tree/master/.claude/skills/setup-web-tests",
+    "error": "path_not_found: .claude/skills/setup-web-tests"
+  },
+  {
+    "id": "posthog-posthog-claude-skills-survey-sdk-audit-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/PostHog/posthog/tree/master/.claude/skills/survey-sdk-audit",
+    "error": "path_not_found: .claude/skills/survey-sdk-audit"
+  },
+  {
+    "id": "nextlevelbuilder-ui-ux-pro-max-skill-claude-skills-ui-ux-pro-max-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill/tree/main/.claude/skills/ui-ux-pro-max",
+    "error": "copy_failed: [('/tmp/skill_repo_g27_8eky/.claude/skills/ui-ux-pro-max/scripts', 'skills_data/sampled_skills_1000/run_20260226T161504Z/popular/nextlevelbuilder-ui-ux-pro-max-skill-claude-skills-ui-ux-pro-max-skill-md/content/scripts', \"[Errno 2] No such file or directory: '/tmp/skill_repo_g27_8eky/.claude/skills/ui-ux-pro-max/scripts'\"), ('/tmp/skill_repo_g27_8eky/.claude/skills/ui-ux-pro-max/data', 'skills_data/sampled_skills_1000/run_20260226T161504Z/popular/nextlevelbuilder-ui-ux-pro-max-skill-claude-skills-ui-ux-pro-max-skill-md/content/data', \"[Errno 2] No such file or directory: '/tmp/skill_repo_g27_8eky/.claude/skills/ui-ux-pro-max/data'\")]"
+  },
+  {
+    "id": "code-yeongyu-oh-my-opencode-opencode-skills-github-issue-triage-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/.opencode/skills/github-issue-triage",
+    "error": "path_not_found: .opencode/skills/github-issue-triage"
+  },
+  {
+    "id": "code-yeongyu-oh-my-opencode-opencode-skills-github-pr-triage-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode/tree/dev/.opencode/skills/github-pr-triage",
+    "error": "path_not_found: .opencode/skills/github-pr-triage"
+  },
+  {
+    "id": "telegramdesktop-tdesktop-codex-skills-task-think-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/telegramdesktop/tdesktop/tree/dev/.codex/skills/task-think",
+    "error": "path_not_found: .codex/skills/task-think"
+  },
+  {
+    "id": "labring-fastgpt-claude-skills-common-skills-api-development-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/labring/FastGPT/tree/main/.claude/skills/common/skills/api-development",
+    "error": "path_not_found: .claude/skills/common/skills/api-development"
+  },
+  {
+    "id": "labring-fastgpt-claude-skills-core-app-workflow-inteactive-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/labring/FastGPT/tree/main/.claude/skills/core/app/workflow/inteactive",
+    "error": "path_not_found: .claude/skills/core/app/workflow/inteactive"
+  },
+  {
+    "id": "labring-fastgpt-claude-skills-core-app-workflow-stop-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/labring/FastGPT/tree/main/.claude/skills/core/app/workflow/stop",
+    "error": "path_not_found: .claude/skills/core/app/workflow/stop"
+  },
+  {
+    "id": "labring-fastgpt-claude-skills-create-skill-file-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/labring/FastGPT/tree/main/.claude/skills/create-skill-file",
+    "error": "path_not_found: .claude/skills/create-skill-file"
+  },
+  {
+    "id": "labring-fastgpt-claude-skills-pr-review-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/labring/FastGPT/tree/main/.claude/skills/pr-review",
+    "error": "path_not_found: .claude/skills/pr-review"
+  },
+  {
+    "id": "srbhr-resume-matcher-agent-skills-code-review-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.agent/skills/code-review",
+    "error": "path_not_found: .agent/skills/code-review"
+  },
+  {
+    "id": "srbhr-resume-matcher-agent-skills-design-principles-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.agent/skills/design-principles",
+    "error": "path_not_found: .agent/skills/design-principles"
+  },
+  {
+    "id": "srbhr-resume-matcher-agent-skills-fastapi-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.agent/skills/fastapi",
+    "error": "path_not_found: .agent/skills/fastapi"
+  },
+  {
+    "id": "srbhr-resume-matcher-agent-skills-navigator-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.agent/skills/navigator",
+    "error": "path_not_found: .agent/skills/navigator"
+  },
+  {
+    "id": "srbhr-resume-matcher-agent-skills-nextjs-performance-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.agent/skills/nextjs-performance",
+    "error": "path_not_found: .agent/skills/nextjs-performance"
+  },
+  {
+    "id": "srbhr-resume-matcher-agent-skills-tailwind-pattern-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/srbhr/Resume-Matcher/tree/main/.agent/skills/tailwind-pattern",
+    "error": "path_not_found: .agent/skills/tailwind-pattern"
+  },
+  {
+    "id": "roocodeinc-roo-code-src-services-skills-built-in-create-mcp-server-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/RooCodeInc/Roo-Code/tree/main/src/services/skills/built-in/create-mcp-server",
+    "error": "path_not_found: src/services/skills/built-in/create-mcp-server"
+  },
+  {
+    "id": "roocodeinc-roo-code-src-services-skills-built-in-create-mode-skill-md",
+    "sampleType": "popular",
+    "githubUrl": "https://github.com/RooCodeInc/Roo-Code/tree/main/src/services/skills/built-in/create-mode",
+    "error": "path_not_found: src/services/skills/built-in/create-mode"
+  },
+  {
+    "id": "petercowling-base-shop-claude-skills-deploy-brikette-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/PeterCowling/base-shop/tree/main/.claude/skills/deploy-brikette",
+    "error": "path_not_found: .claude/skills/deploy-brikette"
+  },
+  {
+    "id": "openclaw-skills-skills-brucko-neo-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/brucko/neo",
+    "error": "path_not_found: skills/brucko/neo"
+  },
+  {
+    "id": "openclaw-skills-skills-anton-abyzov-sw-brownfield-onboarder-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/anton-abyzov/sw-brownfield-onboarder",
+    "error": "path_not_found: skills/anton-abyzov/sw-brownfield-onboarder"
+  },
+  {
+    "id": "ils15-mythic-agents-skills-docker-deployment-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ils15/mythic-agents/tree/main/skills/docker-deployment",
+    "error": "path_not_found: skills/docker-deployment"
+  },
+  {
+    "id": "dykyi-roman-awesome-claude-code-claude-skills-acc-check-type-juggling-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dykyi-roman/awesome-claude-code/tree/master/.claude/skills/acc-check-type-juggling",
+    "error": "path_not_found: .claude/skills/acc-check-type-juggling"
+  },
+  {
+    "id": "dykyi-roman-awesome-claude-code-claude-skills-acc-check-path-traversal-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dykyi-roman/awesome-claude-code/tree/master/.claude/skills/acc-check-path-traversal",
+    "error": "path_not_found: .claude/skills/acc-check-path-traversal"
+  },
+  {
+    "id": "truongnat-agentic-sdlc-agentic-sdlc-defaults-skills-ba-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/truongnat/agentic-sdlc/tree/main/agentic_sdlc/defaults/skills/ba",
+    "error": "path_not_found: agentic_sdlc/defaults/skills/ba"
+  },
+  {
+    "id": "atrawog-bazzite-ai-plugins-bazzite-ai-jupyter-skills-vision-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/atrawog/bazzite-ai-plugins/tree/main/bazzite-ai-jupyter/skills/vision",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/atrawog/bazzite-ai-plugins.git /tmp/skill_repo_zt9lqlo6\nCloning into '/tmp/skill_repo_zt9lqlo6'...\nremote: Repository not found.\nfatal: repository 'https://github.com/atrawog/bazzite-ai-plugins.git/' not found"
+  },
+  {
+    "id": "maciejgl-shaper-agents-skills-oauth-integrations-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/MaciejGL/shaper/tree/main/.agents/skills/oauth-integrations",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/MaciejGL/shaper.git /tmp/skill_repo_v7hvayv7\nCloning into '/tmp/skill_repo_v7hvayv7'...\nremote: Repository not found.\nfatal: repository 'https://github.com/MaciejGL/shaper.git/' not found"
+  },
+  {
+    "id": "timothyfroehlich-pinpoint-agent-skills-github-monitor-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/timothyfroehlich/PinPoint/tree/main/.agent/skills/github-monitor",
+    "error": "path_not_found: .agent/skills/github-monitor"
+  },
+  {
+    "id": "gitwalter-cursor-agent-factory-cursor-skills-documentation-generation-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/gitwalter/cursor-agent-factory/tree/main/.cursor/skills/documentation-generation",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/gitwalter/cursor-agent-factory.git /tmp/skill_repo_ukmy89vb\nCloning into '/tmp/skill_repo_ukmy89vb'...\nremote: Repository not found.\nfatal: repository 'https://github.com/gitwalter/cursor-agent-factory.git/' not found"
+  },
+  {
+    "id": "gitwalter-cursor-agent-factory-cursor-skills-mcp-selection-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/gitwalter/cursor-agent-factory/tree/main/.cursor/skills/mcp-selection",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/gitwalter/cursor-agent-factory.git /tmp/skill_repo_ukmy89vb\nCloning into '/tmp/skill_repo_ukmy89vb'...\nremote: Repository not found.\nfatal: repository 'https://github.com/gitwalter/cursor-agent-factory.git/' not found"
+  },
+  {
+    "id": "tilework-tech-nori-cli-claude-skills-using-git-worktrees-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/tilework-tech/nori-cli/tree/dev/.claude/skills/using-git-worktrees",
+    "error": "path_not_found: .claude/skills/using-git-worktrees"
+  },
+  {
+    "id": "congwa-embedease-ai-windsurf-skills-skill-maintenance-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/congwa/embedease-ai/tree/main/.windsurf/skills/skill-maintenance",
+    "error": "path_not_found: .windsurf/skills/skill-maintenance"
+  },
+  {
+    "id": "raisedadead-dotplugins-plugins-cowork-skills-coding-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/raisedadead/dotplugins/tree/main/plugins/cowork/skills/coding",
+    "error": "path_not_found: plugins/cowork/skills/coding"
+  },
+  {
+    "id": "datasciencemonkey-claude-code-cli-bricks-claude-skills-spark-declarative-pipelines-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/datasciencemonkey/claude-code-cli-bricks/tree/main/.claude/skills/spark-declarative-pipelines",
+    "error": "path_not_found: .claude/skills/spark-declarative-pipelines"
+  },
+  {
+    "id": "benchflow-ai-skillsbench-analysis-tasks-skills-low-speaker-diarization-subtitles-environment-skills-speaker-clustering-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/benchflow-ai/skillsbench/tree/main/analysis/tasks_skills_low/speaker-diarization-subtitles/environment/skills/speaker-clustering",
+    "error": "path_not_found: analysis/tasks_skills_low/speaker-diarization-subtitles/environment/skills/speaker-clustering"
+  },
+  {
+    "id": "rysweet-amplihack-src-amplihack-claude-skills-backlog-curator-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/rysweet/amplihack/tree/main/src/amplihack/.claude/skills/backlog-curator",
+    "error": "path_not_found: src/amplihack/.claude/skills/backlog-curator"
+  },
+  {
+    "id": "pythoninthegrasses-mt-agents-skills-rust-skills-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/pythoninthegrasses/mt/tree/main/.agents/skills/rust-skills",
+    "error": "copy_failed: [('/tmp/skill_repo_nw68ok0t/.agents/skills/rust-skills/AGENTS.md', 'skills_data/sampled_skills_1000/run_20260226T161504Z/random/pythoninthegrasses-mt-agents-skills-rust-skills-skill-md/content/AGENTS.md', \"[Errno 2] No such file or directory: '/tmp/skill_repo_nw68ok0t/.agents/skills/rust-skills/AGENTS.md'\")]"
+  },
+  {
+    "id": "obsidian-owl-floe-claude-skills-speckit-constitution-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/Obsidian-Owl/floe/tree/main/.claude/skills/speckit-constitution",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/Obsidian-Owl/floe.git /tmp/skill_repo__2xl2xjn\nCloning into '/tmp/skill_repo__2xl2xjn'...\nUpdating files:   9% (2/21)\nUpdating files:  14% (3/21)\nUpdating files:  19% (4/21)\nUpdating files:  23% (5/21)\nUpdating files:  28% (6/21)\nUpdating files:  33% (7/21)\nUpdating files:  38% (8/21)\nUpdating files:  42% (9/21)\nUpdating files:  47% (10/21)\nUpdating files:  52% (11/21)\nUpdating files:  57% (12/21)\nUpdating files:  61% (13/21)\nUpdating files:  66% (14/21)\nUpdating files:  71% (15/21)\nUpdating files:  76% (16/21)\nUpdating files:  80% (17/21)\ngit-lfs filter-process: git-lfs: command not found\nfatal: the remote end hung up unexpectedly\nwarning: Clone succeeded, but checkout failed.\nYou can inspect what was checked out with 'git status'\nand retry with 'git restore --source=HEAD :/'"
+  },
+  {
+    "id": "sonaspo855-lg-electronics-repair-3d-windsurf-skills-home-area-identification-and-protrusion-insertion-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/sonaspo855/lg-electronics-repair-3d/tree/main/.windsurf/skills/home-area-identification-and-protrusion-insertion",
+    "error": "path_not_found: .windsurf/skills/home-area-identification-and-protrusion-insertion"
+  },
+  {
+    "id": "muhammedalkhudiry-ai-concise-guidelines-content-skills-init-prd-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/MuhammedAlkhudiry/ai-concise-guidelines/tree/main/content/skills/init-prd",
+    "error": "path_not_found: content/skills/init-prd"
+  },
+  {
+    "id": "wionch-yivideo-claude-skills-yivideo-docker-testing-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/wionch/YiVideo/tree/master/.claude/skills/yivideo-docker-testing",
+    "error": "path_not_found: .claude/skills/yivideo-docker-testing"
+  },
+  {
+    "id": "openclaw-skills-skills-anton-abyzov-sw-stripe-connect-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/anton-abyzov/sw-stripe-connect",
+    "error": "path_not_found: skills/anton-abyzov/sw-stripe-connect"
+  },
+  {
+    "id": "dakesan-cc-dnawork-plugin-scientific-skills-bam-toolkit-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dakesan/cc-dnawork-plugin/tree/main/scientific-skills/bam-toolkit",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/dakesan/cc-dnawork-plugin.git /tmp/skill_repo_dl8oe0em\nCloning into '/tmp/skill_repo_dl8oe0em'...\nremote: Repository not found.\nfatal: repository 'https://github.com/dakesan/cc-dnawork-plugin.git/' not found"
+  },
+  {
+    "id": "noguchilin-agent-workspaces-workspaces-eguchinatsu-claude-skills-backmarket-create-label-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/NOGUCHILin/agent-workspaces/tree/master/workspaces/eguchinatsu/.claude/skills/backmarket-create-label",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch master https://github.com/NOGUCHILin/agent-workspaces.git /tmp/skill_repo_tpkj00ce\nCloning into '/tmp/skill_repo_tpkj00ce'...\nremote: Repository not found.\nfatal: repository 'https://github.com/NOGUCHILin/agent-workspaces.git/' not found"
+  },
+  {
+    "id": "khaneliman-khanelinix-modules-common-ai-tools-skills-pptx-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/khaneliman/khanelinix/tree/main/modules/common/ai-tools/skills/pptx",
+    "error": "path_not_found: modules/common/ai-tools/skills/pptx"
+  },
+  {
+    "id": "fleetcentric-fleetcentric-skills-fleet-comms-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/fleetcentric/fleetcentric/tree/main/skills/fleet-comms",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/fleetcentric/fleetcentric.git /tmp/skill_repo_j6f52mye\nCloning into '/tmp/skill_repo_j6f52mye'...\nremote: Repository not found.\nfatal: repository 'https://github.com/fleetcentric/fleetcentric.git/' not found"
+  },
+  {
+    "id": "pjt222-development-guides-skills-esoteric-meditate-guidance-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/pjt222/development-guides/tree/main/skills/esoteric/meditate-guidance",
+    "error": "path_not_found: skills/esoteric/meditate-guidance"
+  },
+  {
+    "id": "pjt222-development-guides-skills-observability-define-slo-sli-sla-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/pjt222/development-guides/tree/main/skills/observability/define-slo-sli-sla",
+    "error": "path_not_found: skills/observability/define-slo-sli-sla"
+  },
+  {
+    "id": "dykyi-roman-awesome-claude-code-claude-skills-acc-check-comments-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dykyi-roman/awesome-claude-code/tree/master/.claude/skills/acc-check-comments",
+    "error": "path_not_found: .claude/skills/acc-check-comments"
+  },
+  {
+    "id": "dykyi-roman-awesome-claude-code-claude-skills-acc-trace-request-lifecycle-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dykyi-roman/awesome-claude-code/tree/master/.claude/skills/acc-trace-request-lifecycle",
+    "error": "path_not_found: .claude/skills/acc-trace-request-lifecycle"
+  },
+  {
+    "id": "aznatkoiny-zai-skills-ai-toolkit-prompt-optimizer-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/Aznatkoiny/zAI-Skills/tree/master/AI-Toolkit/prompt-optimizer",
+    "error": "path_not_found: AI-Toolkit/prompt-optimizer"
+  },
+  {
+    "id": "aspiers-ai-config-claude-skills-allow-agent-commands-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/aspiers/ai-config/tree/main/.claude/skills/allow-agent-commands",
+    "error": "path_not_found: .claude/skills/allow-agent-commands"
+  },
+  {
+    "id": "graysurf-agentic-coding-skills-skills-release-workflow-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/graysurf/agentic-coding-skills/tree/main/skills/release-workflow",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/graysurf/agentic-coding-skills.git /tmp/skill_repo_4855emc2\nCloning into '/tmp/skill_repo_4855emc2'...\nremote: Repository not found.\nfatal: repository 'https://github.com/graysurf/agentic-coding-skills.git/' not found"
+  },
+  {
+    "id": "workos-skills-skills-workos-admin-portal-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/workos/skills/tree/main/skills/workos-admin-portal",
+    "error": "path_not_found: skills/workos-admin-portal"
+  },
+  {
+    "id": "7spade-black-tortoise-github-skills-workflows-orchestration-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/7Spade/Black-Tortoise/tree/main/.github/skills/workflows-orchestration",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/7Spade/Black-Tortoise.git /tmp/skill_repo_exvv9rzw\nCloning into '/tmp/skill_repo_exvv9rzw'...\nremote: Repository not found.\nfatal: repository 'https://github.com/7Spade/Black-Tortoise.git/' not found"
+  },
+  {
+    "id": "daiki01234567-ai-fitness-app-claude-skills-defining-requirements-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/Daiki01234567/ai_fitness_app/tree/main/.claude/skills/defining-requirements",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/Daiki01234567/ai_fitness_app.git /tmp/skill_repo_vh2smzes\nCloning into '/tmp/skill_repo_vh2smzes'...\nremote: Repository not found.\nfatal: repository 'https://github.com/Daiki01234567/ai_fitness_app.git/' not found"
+  },
+  {
+    "id": "ludoplex-openclaw-deploy-template-openclaw-deploy-template-agents-sitecraft-skills-deploy-targets-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ludoplex/openclaw-deploy-template/tree/master/openclaw-deploy-template/agents/sitecraft/skills/deploy-targets",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch master https://github.com/ludoplex/openclaw-deploy-template.git /tmp/skill_repo_xpw7y53a\nCloning into '/tmp/skill_repo_xpw7y53a'...\nremote: Repository not found.\nfatal: repository 'https://github.com/ludoplex/openclaw-deploy-template.git/' not found"
+  },
+  {
+    "id": "codealive-ai-claude-code-reflection-skills-plugins-claude-code-reflection-skills-skills-claude-plugins-manager-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/CodeAlive-AI/claude-code-reflection-skills/tree/main/plugins/claude-code-reflection-skills/skills/claude-plugins-manager",
+    "error": "path_not_found: plugins/claude-code-reflection-skills/skills/claude-plugins-manager"
+  },
+  {
+    "id": "ivantorresedge-molcajete-ai-tech-stacks-go-skills-benchmarking-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/IvanTorresEdge/molcajete.ai/tree/master/tech-stacks/go/skills/benchmarking",
+    "error": "path_not_found: tech-stacks/go/skills/benchmarking"
+  },
+  {
+    "id": "robinade-persona-theater-kiro-docs-escape-room-balance-engineer-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/robinade/persona-theater/tree/main/.kiro/docs/escape-room-balance-engineer",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/robinade/persona-theater.git /tmp/skill_repo_evb7ky5f\nCloning into '/tmp/skill_repo_evb7ky5f'...\nremote: Repository not found.\nfatal: repository 'https://github.com/robinade/persona-theater.git/' not found"
+  },
+  {
+    "id": "zjunlp-skillnet-skills-skill-packages-toolathlon-notion-page-content-updater-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/zjunlp/SkillNet/tree/main/skills/skill-packages/toolathlon/notion-page-content-updater",
+    "error": "path_not_found: skills/skill-packages/toolathlon/notion-page-content-updater"
+  },
+  {
+    "id": "planetaryescape-blah-chat-claude-skills-sse-streaming-patterns-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/planetaryescape/blah.chat/tree/main/.claude/skills/sse-streaming-patterns",
+    "error": "path_not_found: .claude/skills/sse-streaming-patterns"
+  },
+  {
+    "id": "alex0158-mother-bear-court-trae-skills-check-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/Alex0158/mother-bear-court/tree/main/.trae/skills/check",
+    "error": "path_not_found: .trae/skills/check"
+  },
+  {
+    "id": "wedsamuel1230-sft-android-studio-agents-skills-n8n-node-configuration-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/wedsamuel1230/SFT/tree/main/Android_Studio/.agents/skills/n8n-node-configuration",
+    "error": "path_not_found: Android_Studio/.agents/skills/n8n-node-configuration"
+  },
+  {
+    "id": "huynhsang2005-delivery-app-lab-opencode-skills-react-hook-form-zod-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/HuynhSang2005/delivery-app-lab/tree/main/.opencode/skills/react-hook-form-zod",
+    "error": "path_not_found: .opencode/skills/react-hook-form-zod"
+  },
+  {
+    "id": "agen-co-agenshield-libs-shield-skills-skills-integration-zapier-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/agen-co/agenshield/tree/main/libs/shield-skills/skills/integration-zapier",
+    "error": "path_not_found: libs/shield-skills/skills/integration-zapier"
+  },
+  {
+    "id": "gwpjp-web3-claude-claude-skills-visual-qa-react-analyzer-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/gwpjp/Web3-Claude/tree/main/.claude/skills/visual-qa-react-analyzer",
+    "error": "path_not_found: .claude/skills/visual-qa-react-analyzer"
+  },
+  {
+    "id": "ushkinaz-cbn-tui-agent-skills-changelog-master-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ushkinaz/cbn-tui/tree/main/.agent/skills/changelog-master",
+    "error": "path_not_found: .agent/skills/changelog-master"
+  },
+  {
+    "id": "fotescodev-portfolio-claude-skills-gandalf-the-prompt-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/fotescodev/portfolio/tree/main/.claude/skills/gandalf-the-prompt",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/fotescodev/portfolio.git /tmp/skill_repo_s8uq9rl3\nCloning into '/tmp/skill_repo_s8uq9rl3'...\nfatal: unable to access 'https://github.com/fotescodev/portfolio.git/': Recv failure: Operation timed out"
+  },
+  {
+    "id": "scizorman-dotfiles-dot-claude-skills-github-pr-creator-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/scizorman/dotfiles/tree/main/dot_claude/skills/github-pr-creator",
+    "error": "path_not_found: dot_claude/skills/github-pr-creator"
+  },
+  {
+    "id": "saintgo7-app-hospital-yoyang-claude-skills-create-component-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/saintgo7/app-hospital-yoyang/tree/main/.claude/skills/create-component",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/saintgo7/app-hospital-yoyang.git /tmp/skill_repo_5g_d5kj2\nCloning into '/tmp/skill_repo_5g_d5kj2'...\nerror: RPC failed; curl 28 Recv failure: Operation timed out\nfatal: expected 'packfile'\nfatal: could not fetch e50a9767ae59a86683da60e0826ac9d43d90615e from promisor remote\nwarning: Clone succeeded, but checkout failed.\nYou can inspect what was checked out with 'git status'\nand retry with 'git restore --source=HEAD :/'"
+  },
+  {
+    "id": "kaewz-manga-n8n-management-mcp-claude-skills-db-migrations-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/kaewz-manga/n8n-management-mcp/tree/main/.claude/skills/db-migrations",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/kaewz-manga/n8n-management-mcp.git /tmp/skill_repo_hv5iniuw\nCloning into '/tmp/skill_repo_hv5iniuw'...\nfatal: unable to access 'https://github.com/kaewz-manga/n8n-management-mcp.git/': Error in the HTTP2 framing layer"
+  },
+  {
+    "id": "zjunlp-skillnet-skills-skill-packages-scienceworld-scienceworld-task-interpreter-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/zjunlp/SkillNet/tree/main/skills/skill-packages/scienceworld/scienceworld-task-interpreter",
+    "error": "path_not_found: skills/skill-packages/scienceworld/scienceworld-task-interpreter"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-science-scientific-discovery-skills-triz-contradiction-solver-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-science-mathematics-skills-sage-math-interface-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-web-development-skills-github-actions-web-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-social-sciences-humanities-humanities-skills-literary-close-reading-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-domains-science-quantum-computing-skills-quantum-kernel-estimator-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-sdk-platform-development-skills-graphql-schema-designer-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-sdk-platform-development-skills-interactive-api-console-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-web-development-skills-esbuild-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild",
+    "error": "sparse_checkout_failed: Command failed (128): git -C /tmp/skill_repo_qzoyu3yg sparse-checkout set --no-cone plugins/babysitter/skills/babysit/process/specializations/domains/science/scientific-discovery/skills/triz-contradiction-solver plugins/babysitter/skills/babysit/process/specializations/domains/science/mathematics/skills/sage-math-interface plugins/babysitter/skills/babysit/process/specializations/web-development/skills/github-actions-web plugins/babysitter/skills/babysit/process/specializations/domains/social-sciences-humanities/humanities/skills/literary-close-reading plugins/babysitter/skills/babysit/process/specializations/domains/science/quantum-computing/skills/quantum-kernel-estimator plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/graphql-schema-designer plugins/babysitter/skills/babysit/process/specializations/sdk-platform-development/skills/interactive-api-console plugins/babysitter/skills/babysit/process/specializations/web-development/skills/esbuild\nfatal: unable to access 'https://github.com/a5c-ai/babysitter.git/': Recv failure: Operation timed out\nfatal: could not fetch 72bc91a3a2d3c531a1c8d3a6e333427855809032 from promisor remote"
+  },
+  {
+    "id": "aretedriver-ai-skills-skills-mentor-linux-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/AreteDriver/ai_skills/tree/main/skills/mentor-linux",
+    "error": "path_not_found: skills/mentor-linux"
+  },
+  {
+    "id": "jzupnick-claude-agents-code-skills-electron-pro-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/jzupnick/claude-agents/tree/main/code/skills/electron-pro",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/jzupnick/claude-agents.git /tmp/skill_repo_lg9xkcaj\nCloning into '/tmp/skill_repo_lg9xkcaj'...\nremote: Repository not found.\nfatal: repository 'https://github.com/jzupnick/claude-agents.git/' not found"
+  },
+  {
+    "id": "bsamiee-parametric-portal-claude-skills-greptile-tools-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/bsamiee/Parametric_Portal/tree/main/.claude/skills/greptile-tools",
+    "error": "path_not_found: .claude/skills/greptile-tools"
+  },
+  {
+    "id": "openclaw-skills-skills-anton-abyzov-sw-data-visualizer-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/anton-abyzov/sw-data-visualizer",
+    "error": "path_not_found: skills/anton-abyzov/sw-data-visualizer"
+  },
+  {
+    "id": "openclaw-skills-skills-anton-abyzov-sw-design-system-architect-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/anton-abyzov/sw-design-system-architect",
+    "error": "path_not_found: skills/anton-abyzov/sw-design-system-architect"
+  },
+  {
+    "id": "wellcomecollection-wc-simd-claude-skills-spark-docker-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/wellcomecollection/wc_simd/tree/main/.claude/skills/spark-docker",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/wellcomecollection/wc_simd.git /tmp/skill_repo_j4txfvu7\nCloning into '/tmp/skill_repo_j4txfvu7'...\nremote: Repository not found.\nfatal: repository 'https://github.com/wellcomecollection/wc_simd.git/' not found"
+  },
+  {
+    "id": "baekenough-oh-my-customcode-templates-codex-skills-help-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/baekenough/oh-my-customcode/tree/develop/templates/.codex/skills/help",
+    "error": "path_not_found: templates/.codex/skills/help"
+  },
+  {
+    "id": "aaronwald-dlawskillz-skills-feature-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/aaronwald/dlawskillz/tree/main/skills/feature",
+    "error": "path_not_found: skills/feature"
+  },
+  {
+    "id": "workos-skills-skills-workos-migrate-supabase-auth-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/workos/skills/tree/main/skills/workos-migrate-supabase-auth",
+    "error": "path_not_found: skills/workos-migrate-supabase-auth"
+  },
+  {
+    "id": "wxy-silentfeed-copilot-skills-traceability-check-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/wxy/SilentFeed/tree/master/.copilot/skills/_traceability-check",
+    "error": "path_not_found: .copilot/skills/_traceability-check"
+  },
+  {
+    "id": "teslavia-arxiv-researcher-skills-arxiv-context-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/teslavia/arxiv-researcher/tree/main/skills/arxiv-context",
+    "error": "path_not_found: skills/arxiv-context"
+  },
+  {
+    "id": "runkids-my-skills-seo-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/runkids/my-skills/tree/main/seo",
+    "error": "path_not_found: seo"
+  },
+  {
+    "id": "varunisrani-hare-erp-indusagi-strix-indusagi-strix-core-skills-vulnerabilities-sql-injection-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/varunisrani/Hare-erp/tree/main/indusagi-strix/indusagi-strix-core/skills/vulnerabilities/sql-injection",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/varunisrani/Hare-erp.git /tmp/skill_repo_qc0owjnv\nCloning into '/tmp/skill_repo_qc0owjnv'...\nremote: Repository not found.\nfatal: repository 'https://github.com/varunisrani/Hare-erp.git/' not found"
+  },
+  {
+    "id": "bigdegenenergy-open-cloud-ops-claude-skills-refactoring-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/bigdegenenergy/open-cloud-ops/tree/master/.claude/skills/refactoring",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch master https://github.com/bigdegenenergy/open-cloud-ops.git /tmp/skill_repo_y9rf39y5\nCloning into '/tmp/skill_repo_y9rf39y5'...\nremote: Repository not found.\nfatal: repository 'https://github.com/bigdegenenergy/open-cloud-ops.git/' not found"
+  },
+  {
+    "id": "lounisbou-claude-code-skills-available-python-python-backend-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/LounisBou/claude-code/tree/main/skills-available/python/python-backend",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/LounisBou/claude-code.git /tmp/skill_repo_hrtdzk6f\nCloning into '/tmp/skill_repo_hrtdzk6f'...\nremote: Repository not found.\nfatal: repository 'https://github.com/LounisBou/claude-code.git/' not found"
+  },
+  {
+    "id": "paxtone-io-openkodo-plugins-kodo-skills-plan-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/paxtone-io/openkodo/tree/main/plugins/kodo/skills/plan",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/paxtone-io/openkodo.git /tmp/skill_repo_48skegqu\nCloning into '/tmp/skill_repo_48skegqu'...\nremote: Repository not found.\nfatal: repository 'https://github.com/paxtone-io/openkodo.git/' not found"
+  },
+  {
+    "id": "zircote-mnemonic-skills-mnemonic-organization-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/zircote/mnemonic/tree/main/skills/mnemonic-organization",
+    "error": "path_not_found: skills/mnemonic-organization"
+  },
+  {
+    "id": "bailey-busc-env-modules-home-develop-ai-claude-code-skills-llm-rules-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/bailey-busc/env/tree/trunk/modules/home/develop/ai/claude-code/skills/llm-rules",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch trunk https://github.com/bailey-busc/env.git /tmp/skill_repo_83ux_flf\nCloning into '/tmp/skill_repo_83ux_flf'...\nremote: Repository not found.\nfatal: repository 'https://github.com/bailey-busc/env.git/' not found"
+  },
+  {
+    "id": "vamseeachanta-digitalmodel-claude-skills-communication-slack-api-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/vamseeachanta/digitalmodel/tree/main/.claude/skills/communication/slack-api",
+    "error": "path_not_found: .claude/skills/communication/slack-api"
+  },
+  {
+    "id": "brennacodes-brenna-plugs-plugins-screenshotr-skills-setup-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/brennacodes/brenna-plugs/tree/main/plugins/screenshotr/skills/setup",
+    "error": "path_not_found: plugins/screenshotr/skills/setup"
+  },
+  {
+    "id": "jaydee829-agentic-librarian-agent-skills-project-memory-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/jaydee829/agentic_librarian/tree/main/.agent/skills/project_memory",
+    "error": "path_not_found: .agent/skills/project_memory"
+  },
+  {
+    "id": "ivantorresedge-molcajete-ai-tech-stacks-js-react-skills-playwright-setup-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/IvanTorresEdge/molcajete.ai/tree/master/tech-stacks/js/react/skills/playwright-setup",
+    "error": "path_not_found: tech-stacks/js/react/skills/playwright-setup"
+  },
+  {
+    "id": "dykyi-roman-awesome-claude-code-claude-skills-acc-create-dockerignore-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dykyi-roman/awesome-claude-code/tree/master/.claude/skills/acc-create-dockerignore",
+    "error": "path_not_found: .claude/skills/acc-create-dockerignore"
+  },
+  {
+    "id": "knowns-dev-knowns-agent-skills-kn-template-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/knowns-dev/knowns/tree/main/.agent/skills/kn-template",
+    "error": "path_not_found: .agent/skills/kn-template"
+  },
+  {
+    "id": "breyta-breyta-cli-skills-breyta-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/breyta/breyta-cli/tree/main/skills/breyta",
+    "error": "path_not_found: skills/breyta"
+  },
+  {
+    "id": "oimiragieo-agent-studio-claude-skills-archive-dead-tauri-svelte-ui-components-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/_archive/dead/tauri-svelte-ui-components",
+    "error": "path_not_found: .claude/skills/_archive/dead/tauri-svelte-ui-components"
+  },
+  {
+    "id": "ivantorresedge-molcajete-ai-tech-stacks-js-react-native-skills-eas-build-setup-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/IvanTorresEdge/molcajete.ai/tree/master/tech-stacks/js/react-native/skills/eas-build-setup",
+    "error": "path_not_found: tech-stacks/js/react-native/skills/eas-build-setup"
+  },
+  {
+    "id": "railsstudent-blog-post-pro-editor-skills-technical-localization-expert-zh-tw-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/railsstudent/blog-post-pro-editor/tree/main/skills/technical-localization-expert-zh-tw",
+    "error": "path_not_found: skills/technical-localization-expert-zh-tw"
+  },
+  {
+    "id": "shreesh-sree-codepro-shreesh-agent-skills-lint-and-validate-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/Shreesh-Sree/CodePro-Shreesh/tree/main/.agent/skills/lint-and-validate",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/Shreesh-Sree/CodePro-Shreesh.git /tmp/skill_repo_srgy46ki\nCloning into '/tmp/skill_repo_srgy46ki'...\nremote: Repository not found.\nfatal: repository 'https://github.com/Shreesh-Sree/CodePro-Shreesh.git/' not found"
+  },
+  {
+    "id": "crestapps-crestapps-agentskills-src-crestapps-agentskills-skills-orchardcore-orchardcore-caching-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/CrestApps/CrestApps.AgentSkills/tree/main/src/CrestApps.AgentSkills.Skills/orchardcore/orchardcore-caching",
+    "error": "path_not_found: src/CrestApps.AgentSkills.Skills/orchardcore/orchardcore-caching"
+  },
+  {
+    "id": "hatayama-uloopmcp-codex-skills-uloop-get-logs-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/hatayama/uLoopMCP/tree/main/.codex/skills/uloop-get-logs",
+    "error": "path_not_found: .codex/skills/uloop-get-logs"
+  },
+  {
+    "id": "dykyi-roman-awesome-claude-code-claude-skills-acc-detect-memory-issues-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dykyi-roman/awesome-claude-code/tree/master/.claude/skills/acc-detect-memory-issues",
+    "error": "path_not_found: .claude/skills/acc-detect-memory-issues"
+  },
+  {
+    "id": "freeplayai-freeplay-skills-dataset-management-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/freeplayai/freeplay-skills/tree/main/dataset-management",
+    "error": "copy_failed: [('/tmp/skill_repo_djbfdh9t/dataset-management/scripts/secrets.py', 'skills_data/sampled_skills_1000/run_20260226T161504Z/random/freeplayai-freeplay-skills-dataset-management-skill-md/content/scripts/secrets.py', \"[Errno 2] No such file or directory: '/tmp/skill_repo_djbfdh9t/dataset-management/scripts/secrets.py'\")]"
+  },
+  {
+    "id": "yulonglin-dotfiles-claude-local-marketplace-plugins-code-toolkit-skills-bulk-edit-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/yulonglin/dotfiles/tree/main/claude/local-marketplace/plugins/code-toolkit/skills/bulk-edit",
+    "error": "path_not_found: claude/local-marketplace/plugins/code-toolkit/skills/bulk-edit"
+  },
+  {
+    "id": "astoeffer-plugin-marketplace-plugins-plugin-builder-skills-manifest-generator-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/astoeffer/plugin-marketplace/tree/master/plugins/plugin-builder/skills/manifest-generator",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch master https://github.com/astoeffer/plugin-marketplace.git /tmp/skill_repo_3qiyo3en\nCloning into '/tmp/skill_repo_3qiyo3en'...\nremote: Repository not found.\nfatal: repository 'https://github.com/astoeffer/plugin-marketplace.git/' not found"
+  },
+  {
+    "id": "yonatangross-orchestkit-plugins-ork-skills-cqrs-patterns-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/yonatangross/orchestkit/tree/main/plugins/ork/skills/cqrs-patterns",
+    "error": "path_not_found: plugins/ork/skills/cqrs-patterns"
+  },
+  {
+    "id": "sitaggart-claude-devbench-plugins-devbench-skills-orchestrating-swarms-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/SiTaggart/claude-devbench/tree/main/plugins/devbench/skills/orchestrating-swarms",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/SiTaggart/claude-devbench.git /tmp/skill_repo_8buyfe59\nCloning into '/tmp/skill_repo_8buyfe59'...\nremote: Repository not found.\nfatal: repository 'https://github.com/SiTaggart/claude-devbench.git/' not found"
+  },
+  {
+    "id": "rozwer-cross2b-pro-claude-skills-langgraph-fundamentals-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/rozwer/cross2B-Pro/tree/master/.claude/skills/langgraph-fundamentals",
+    "error": "path_not_found: .claude/skills/langgraph-fundamentals"
+  },
+  {
+    "id": "agen-co-agenshield-libs-shield-skills-skills-policy-enforce-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/agen-co/agenshield/tree/main/libs/shield-skills/skills/policy-enforce",
+    "error": "path_not_found: libs/shield-skills/skills/policy-enforce"
+  },
+  {
+    "id": "martinopolo-mxp-claude-code-skills-mp-update-instructions-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/MartinoPolo/mxp-claude-code/tree/main/skills/mp-update-instructions",
+    "error": "path_not_found: skills/mp-update-instructions"
+  },
+  {
+    "id": "jacksmack1971-claude-code-learning-flywheel-claude-skills-refactor-legacy-code-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/JackSmack1971/claude-code-learning-flywheel/tree/claude/create-project-scaffold-wiVqZ/.claude/skills/refactor-legacy-code",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch claude https://github.com/JackSmack1971/claude-code-learning-flywheel.git /tmp/skill_repo_hseao4ls\nCloning into '/tmp/skill_repo_hseao4ls'...\nfatal: Remote branch claude not found in upstream origin"
+  },
+  {
+    "id": "slavochek2-claritypledge-claude-commands-slava-prep-spec-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/slavochek2/claritypledge/tree/main/.claude/commands/slava/prep-spec",
+    "error": "path_not_found: .claude/commands/slava/prep-spec"
+  },
+  {
+    "id": "aaaaqwq-agi-super-skills-skills-misc-security-monitor-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/aAAaqwq/AGI-Super-Skills/tree/master/skills/misc/security-monitor",
+    "error": "path_not_found: skills/misc/security-monitor"
+  },
+  {
+    "id": "dadbodgeoff-drift-skills-tier-entitlements-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/dadbodgeoff/drift/tree/main/skills/tier-entitlements",
+    "error": "path_not_found: skills/tier-entitlements"
+  },
+  {
+    "id": "siddharthchauhan-etl-sdtm-pipeline-deepagents-skills-special-purpose-domains-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/siddharthchauhan/ETL/tree/main/sdtm_pipeline/deepagents/skills/special-purpose-domains",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/siddharthchauhan/ETL.git /tmp/skill_repo_fyf9a5ch\nCloning into '/tmp/skill_repo_fyf9a5ch'...\nremote: Repository not found.\nfatal: repository 'https://github.com/siddharthchauhan/ETL.git/' not found"
+  },
+  {
+    "id": "brunoccteixeira-ta-na-mao-claude-skills-pdf-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/brunoccteixeira/ta-na-mao/tree/master/.claude/skills/pdf",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch master https://github.com/brunoccteixeira/ta-na-mao.git /tmp/skill_repo_qx8crnn9\nCloning into '/tmp/skill_repo_qx8crnn9'...\nremote: Repository not found.\nfatal: repository 'https://github.com/brunoccteixeira/ta-na-mao.git/' not found"
+  },
+  {
+    "id": "rhpds-showroom-template-nookbag-claude-skills-generate-agv-description-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/rhpds/showroom_template_nookbag/tree/main/.claude/skills/generate-agv-description",
+    "error": "path_not_found: .claude/skills/generate-agv-description"
+  },
+  {
+    "id": "gwpjp-web3-claude-claude-skills-visual-qa-react-devtools-profiler-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/gwpjp/Web3-Claude/tree/main/.claude/skills/visual-qa-react-devtools-profiler",
+    "error": "path_not_found: .claude/skills/visual-qa-react-devtools-profiler"
+  },
+  {
+    "id": "jzupnick-claude-agents-code-skills-debugging-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/jzupnick/claude-agents/tree/main/code/skills/debugging",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/jzupnick/claude-agents.git /tmp/skill_repo_9tepqihv\nCloning into '/tmp/skill_repo_9tepqihv'...\nremote: Repository not found.\nfatal: repository 'https://github.com/jzupnick/claude-agents.git/' not found"
+  },
+  {
+    "id": "jzupnick-claude-agents-tools-skills-builder-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/jzupnick/claude-agents/tree/main/tools/skills/builder",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/jzupnick/claude-agents.git /tmp/skill_repo_9tepqihv\nCloning into '/tmp/skill_repo_9tepqihv'...\nremote: Repository not found.\nfatal: repository 'https://github.com/jzupnick/claude-agents.git/' not found"
+  },
+  {
+    "id": "openclaw-skills-skills-cyberfront-ai-demo-video-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/cyberfront-ai/demo-video",
+    "error": "path_not_found: skills/cyberfront-ai/demo-video"
+  },
+  {
+    "id": "openclaw-skills-skills-anton-abyzov-sw-cost-optimization-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/anton-abyzov/sw-cost-optimization",
+    "error": "path_not_found: skills/anton-abyzov/sw-cost-optimization"
+  },
+  {
+    "id": "openclaw-skills-skills-barneyjm-research-2-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/barneyjm/research-2",
+    "error": "path_not_found: skills/barneyjm/research-2"
+  },
+  {
+    "id": "ayauxd-pfs-media-gen-claude-skills-shot-audit-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ayauxd/pfs-media-gen/tree/main/.claude/skills/shot-audit",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/ayauxd/pfs-media-gen.git /tmp/skill_repo_db77vvdi\nCloning into '/tmp/skill_repo_db77vvdi'...\nremote: Repository not found.\nfatal: repository 'https://github.com/ayauxd/pfs-media-gen.git/' not found"
+  },
+  {
+    "id": "x-mckay-kubani-claude-skills-testing-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/X-McKay/kubani/tree/main/.claude/skills/testing",
+    "error": "path_not_found: .claude/skills/testing"
+  },
+  {
+    "id": "asa1525-clawd-memory-agents-skills-evaluating-new-technology-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/asa1525/clawd-memory/tree/main/.agents/skills/evaluating-new-technology",
+    "error": "path_not_found: .agents/skills/evaluating-new-technology"
+  },
+  {
+    "id": "databricks-solutions-ai-dev-kit-databricks-skills-model-serving-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/databricks-solutions/ai-dev-kit/tree/main/databricks-skills/model-serving",
+    "error": "path_not_found: databricks-skills/model-serving"
+  },
+  {
+    "id": "ithinkihaveacat-dotfiles-etc-skills-jetpack-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ithinkihaveacat/dotfiles/tree/master/etc/skills/jetpack",
+    "error": "path_not_found: etc/skills/jetpack"
+  },
+  {
+    "id": "composiohq-awesome-claude-skills-calendly-automation-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/calendly-automation",
+    "error": "path_not_found: calendly-automation"
+  },
+  {
+    "id": "vip32-taskflow-agents-skills-blazor-expert-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/vip32/TaskFlow/tree/master/.agents/skills/blazor-expert",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch master https://github.com/vip32/TaskFlow.git /tmp/skill_repo_krlvj0qm\nCloning into '/tmp/skill_repo_krlvj0qm'...\nremote: Repository not found.\nfatal: repository 'https://github.com/vip32/TaskFlow.git/' not found"
+  },
+  {
+    "id": "ksm0709-dotfiles-opencode-config-skills-research-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ksm0709/dotfiles/tree/master/opencode/config/skills/research",
+    "error": "path_not_found: opencode/config/skills/research"
+  },
+  {
+    "id": "benchflow-ai-skillsbench-analysis-tasks-skills-low-dapt-intrusion-detection-environment-skills-pcap-analysis-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/benchflow-ai/skillsbench/tree/main/analysis/tasks_skills_low/dapt-intrusion-detection/environment/skills/pcap-analysis",
+    "error": "path_not_found: analysis/tasks_skills_low/dapt-intrusion-detection/environment/skills/pcap-analysis"
+  },
+  {
+    "id": "benchflow-ai-skillsbench-registry-terminal-bench-2-0-letta-skills-batch-terminal-bench-2-0-sparql-university-environment-skills-sparql-university-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/benchflow-ai/skillsbench/tree/main/registry/terminal_bench_2.0/letta_skills_batch/terminal_bench_2_0_sparql-university/environment/skills/sparql-university",
+    "error": "path_not_found: registry/terminal_bench_2.0/letta_skills_batch/terminal_bench_2_0_sparql-university/environment/skills/sparql-university"
+  },
+  {
+    "id": "seanmcquaid-scaffolding-templates-templates-expo-react-native-skills-deployment-engineering-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/seanmcquaid/scaffolding-templates/tree/main/templates/expo-react-native/skills/deployment-engineering",
+    "error": "path_not_found: templates/expo-react-native/skills/deployment-engineering"
+  },
+  {
+    "id": "zeeshan080-ezee-erp-claude-skills-pptx-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/zeeshan080/ezee-erp/tree/014-comprehensive-specs-audit-001-to-013/.claude/skills/pptx",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch 014-comprehensive-specs-audit-001-to-013 https://github.com/zeeshan080/ezee-erp.git /tmp/skill_repo_7lb6748j\nCloning into '/tmp/skill_repo_7lb6748j'...\nremote: Repository not found.\nfatal: repository 'https://github.com/zeeshan080/ezee-erp.git/' not found"
+  },
+  {
+    "id": "jgtolentino-insightpulse-odoo-docs-claude-code-skills-anthropic-official-skill-creator-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/jgtolentino/insightpulse-odoo/tree/main/docs/claude-code-skills/anthropic-official/skill-creator",
+    "error": "copy_failed: [('/tmp/skill_repo_36jjcxp4/docs/claude-code-skills/anthropic-official/skill-creator/skill-creator', 'skills_data/sampled_skills_1000/run_20260226T161504Z/random/jgtolentino-insightpulse-odoo-docs-claude-code-skills-anthropic-official-skill-creator-skill-md/content/skill-creator', \"[Errno 2] No such file or directory: '/tmp/skill_repo_36jjcxp4/docs/claude-code-skills/anthropic-official/skill-creator/skill-creator'\")]"
+  },
+  {
+    "id": "pidster-project-2501-claude-plugin-evo-skills-dialogue-verify-logging-compliance-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/pidster/project-2501/tree/main/claude-plugin-evo/skills/dialogue-verify-logging-compliance",
+    "error": "clone_failed: Command failed (128): git clone --depth 1 --filter=blob:none --sparse --branch main https://github.com/pidster/project-2501.git /tmp/skill_repo_1grqetb8\nCloning into '/tmp/skill_repo_1grqetb8'...\nremote: Repository not found.\nfatal: repository 'https://github.com/pidster/project-2501.git/' not found"
+  },
+  {
+    "id": "abcfed-claude-marketplace-plugins-abc-development-plugin-skills-apifox-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/ABCFed/claude-marketplace/tree/main/plugins/abc-development-plugin/skills/apifox",
+    "error": "path_not_found: plugins/abc-development-plugin/skills/apifox"
+  },
+  {
+    "id": "jamie8johnson-cqs-claude-skills-cqs-context-skill-md",
+    "sampleType": "random",
+    "githubUrl": "https://github.com/jamie8johnson/cqs/tree/main/.claude/skills/cqs-context",
+    "error": "path_not_found: .claude/skills/cqs-context"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 610,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 610,
+    "id": "rawveg-skillsforge-marketplace-word-count-checker-skill-md",
+    "name": "word-count-checker",
+    "author": "rawveg",
+    "stars": 15,
+    "githubUrl": "https://github.com/rawveg/skillsforge-marketplace/tree/main/word-count-checker",
+    "skillUrl": "https://skillsmp.com/skills/rawveg-skillsforge-marketplace-word-count-checker-skill-md",
+    "updatedAt": 1768476370,
+    "description": "Automatically checks word counts of documents when the user mentions word count in relation to a file. Triggers on phrases like \"Check the word count of X\", \"Stop when the word count is N\", or similar references to document word counts. Use this skill proactively whenever word count is mentioned with a document reference."
+  },
+  "github": {
+    "owner": "rawveg",
+    "repo": "skillsforge-marketplace",
+    "ref": "main",
+    "relativePath": "word-count-checker",
+    "sourceUrl": "https://github.com/rawveg/skillsforge-marketplace/tree/main/word-count-checker"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 532,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 532,
+    "id": "mlflow-mlflow-claude-skills-analyze-ci-skill-md",
+    "name": "analyze-ci",
+    "author": "mlflow",
+    "stars": 24079,
+    "githubUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/analyze-ci",
+    "skillUrl": "https://skillsmp.com/skills/mlflow-mlflow-claude-skills-analyze-ci-skill-md",
+    "updatedAt": 1768570675,
+    "description": "Analyze failed GitHub Action jobs for a pull request."
+  },
+  "github": {
+    "owner": "mlflow",
+    "repo": "mlflow",
+    "ref": "master",
+    "relativePath": ".claude/skills/analyze-ci",
+    "sourceUrl": "https://github.com/mlflow/mlflow/tree/master/.claude/skills/analyze-ci"
+  }
+}

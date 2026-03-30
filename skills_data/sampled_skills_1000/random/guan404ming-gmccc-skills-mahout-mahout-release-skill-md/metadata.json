@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 284,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 284,
+    "id": "guan404ming-gmccc-skills-mahout-mahout-release-skill-md",
+    "name": "mahout-release",
+    "author": "guan404ming",
+    "stars": 1,
+    "githubUrl": "https://github.com/guan404ming/gmccc/tree/main/skills/mahout/mahout-release",
+    "skillUrl": "https://skillsmp.com/skills/guan404ming-gmccc-skills-mahout-mahout-release-skill-md",
+    "updatedAt": 1770540368,
+    "description": "Guide the Apache Mahout release process."
+  },
+  "github": {
+    "owner": "guan404ming",
+    "repo": "gmccc",
+    "ref": "main",
+    "relativePath": "skills/mahout/mahout-release",
+    "sourceUrl": "https://github.com/guan404ming/gmccc/tree/main/skills/mahout/mahout-release"
+  }
+}

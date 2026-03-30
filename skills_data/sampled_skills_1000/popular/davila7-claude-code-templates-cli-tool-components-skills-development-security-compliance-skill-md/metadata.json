@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 918,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 918,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-security-compliance-skill-md",
+    "name": "security-compliance",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/security-compliance",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-security-compliance-skill-md",
+    "updatedAt": 1766259071,
+    "description": "Guides security professionals in implementing defense-in-depth security architectures, achieving compliance with industry frameworks (SOC2, ISO27001, GDPR, HIPAA), conducting threat modeling and risk assessments, managing security operations and incident response, and embedding security throughout the SDLC."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/security-compliance",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/security-compliance"
+  }
+}

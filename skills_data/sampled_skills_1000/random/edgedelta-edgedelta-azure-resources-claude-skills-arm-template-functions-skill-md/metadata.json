@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 579,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 579,
+    "id": "edgedelta-edgedelta-azure-resources-claude-skills-arm-template-functions-skill-md",
+    "name": "arm-template-functions",
+    "author": "edgedelta",
+    "stars": 0,
+    "githubUrl": "https://github.com/edgedelta/edgedelta-azure-resources/tree/main/.claude/skills/arm-template-functions",
+    "skillUrl": "https://skillsmp.com/skills/edgedelta-edgedelta-azure-resources-claude-skills-arm-template-functions-skill-md",
+    "updatedAt": 1760733255,
+    "description": "Expert knowledge for using Azure Resource Manager (ARM) template functions, especially reference(), listKeys(), and resourceId() in subscription-level and nested deployments. Use when working with ARM templates, encountering template validation errors, or implementing cross-scope resource references."
+  },
+  "github": {
+    "owner": "edgedelta",
+    "repo": "edgedelta-azure-resources",
+    "ref": "main",
+    "relativePath": ".claude/skills/arm-template-functions",
+    "sourceUrl": "https://github.com/edgedelta/edgedelta-azure-resources/tree/main/.claude/skills/arm-template-functions"
+  }
+}

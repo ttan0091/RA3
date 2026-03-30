@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 788,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 788,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-accessibility-auditor-skill-md",
+    "name": "accessibility-auditor",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/accessibility-auditor",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-accessibility-auditor-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Web accessibility specialist for WCAG compliance, ARIA implementation, and inclusive design. Use when auditing websites for accessibility issues, implementing WCAG 2.1 AA/AAA standards, testing with screen readers, or ensuring ADA compliance. Expert in semantic HTML, keyboard navigation, and assistive technology compatibility."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/accessibility-auditor",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/accessibility-auditor"
+  }
+}

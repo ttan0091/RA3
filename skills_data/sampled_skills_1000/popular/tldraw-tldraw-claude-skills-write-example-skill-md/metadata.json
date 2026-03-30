@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 206,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 206,
+    "id": "tldraw-tldraw-claude-skills-write-example-skill-md",
+    "name": "write-example",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-example",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-example-skill-md",
+    "updatedAt": 1767786062,
+    "description": "Writing examples for the tldraw SDK examples app. Use when creating new examples, adding SDK demonstrations, or writing example code in apps/examples."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-example",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-example"
+  }
+}

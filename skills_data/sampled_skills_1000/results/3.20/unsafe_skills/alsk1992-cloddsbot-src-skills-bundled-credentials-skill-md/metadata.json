@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 227,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 227,
+    "id": "alsk1992-cloddsbot-src-skills-bundled-credentials-skill-md",
+    "name": "credentials",
+    "author": "alsk1992",
+    "stars": 43,
+    "githubUrl": "https://github.com/alsk1992/CloddsBot/tree/main/src/skills/bundled/credentials",
+    "skillUrl": "https://skillsmp.com/skills/alsk1992-cloddsbot-src-skills-bundled-credentials-skill-md",
+    "updatedAt": 1770736843,
+    "description": "Secure credential management for trading platforms"
+  },
+  "github": {
+    "owner": "alsk1992",
+    "repo": "CloddsBot",
+    "ref": "main",
+    "relativePath": "src/skills/bundled/credentials",
+    "sourceUrl": "https://github.com/alsk1992/CloddsBot/tree/main/src/skills/bundled/credentials"
+  }
+}

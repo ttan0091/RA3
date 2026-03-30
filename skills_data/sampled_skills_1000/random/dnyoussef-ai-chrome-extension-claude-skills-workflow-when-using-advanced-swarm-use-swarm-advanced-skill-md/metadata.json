@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 784,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 784,
+    "id": "dnyoussef-ai-chrome-extension-claude-skills-workflow-when-using-advanced-swarm-use-swarm-advanced-skill-md",
+    "name": "when-using-advanced-swarm-use-swarm-advanced",
+    "author": "DNYoussef",
+    "stars": 2,
+    "githubUrl": "https://github.com/DNYoussef/ai-chrome-extension/tree/main/.claude/skills/workflow/when-using-advanced-swarm-use-swarm-advanced",
+    "skillUrl": "https://skillsmp.com/skills/dnyoussef-ai-chrome-extension-claude-skills-workflow-when-using-advanced-swarm-use-swarm-advanced-skill-md",
+    "updatedAt": 1761928201,
+    "description": "Advanced swarm patterns with dynamic topology switching and self-organizing behaviors for complex multi-agent coordination"
+  },
+  "github": {
+    "owner": "DNYoussef",
+    "repo": "ai-chrome-extension",
+    "ref": "main",
+    "relativePath": ".claude/skills/workflow/when-using-advanced-swarm-use-swarm-advanced",
+    "sourceUrl": "https://github.com/DNYoussef/ai-chrome-extension/tree/main/.claude/skills/workflow/when-using-advanced-swarm-use-swarm-advanced"
+  }
+}

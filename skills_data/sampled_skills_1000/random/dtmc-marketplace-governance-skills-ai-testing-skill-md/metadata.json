@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 60,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 60,
+    "id": "dtmc-marketplace-governance-skills-ai-testing-skill-md",
+    "name": "ai-testing",
+    "author": "DTMC-marketplace",
+    "stars": 0,
+    "githubUrl": "https://github.com/DTMC-marketplace/governance/tree/main/skills/ai-testing",
+    "skillUrl": "https://skillsmp.com/skills/dtmc-marketplace-governance-skills-ai-testing-skill-md",
+    "updatedAt": 1770310438,
+    "description": "An AI tool for automated testing, focusing on output quality, reliability, user trust, regulatory compliance, and security. Use this skill to prevent injection attacks, ensure system integrity, and protect data by integrating LLM-based systems into the Deepeval Framework, running test cases, and generating structured fact-check reports."
+  },
+  "github": {
+    "owner": "DTMC-marketplace",
+    "repo": "governance",
+    "ref": "main",
+    "relativePath": "skills/ai-testing",
+    "sourceUrl": "https://github.com/DTMC-marketplace/governance/tree/main/skills/ai-testing"
+  }
+}

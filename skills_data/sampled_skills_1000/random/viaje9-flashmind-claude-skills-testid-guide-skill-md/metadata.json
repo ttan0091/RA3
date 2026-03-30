@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 768,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 768,
+    "id": "viaje9-flashmind-claude-skills-testid-guide-skill-md",
+    "name": "testid-guide",
+    "author": "Viaje9",
+    "stars": 0,
+    "githubUrl": "https://github.com/Viaje9/FlashMind/tree/main/.claude/skills/testid-guide",
+    "skillUrl": "https://skillsmp.com/skills/viaje9-flashmind-claude-skills-testid-guide-skill-md",
+    "updatedAt": 1768920894,
+    "description": "開發前端頁面時，為可互動元素添加 testId 以支援 E2E 測試"
+  },
+  "github": {
+    "owner": "Viaje9",
+    "repo": "FlashMind",
+    "ref": "main",
+    "relativePath": ".claude/skills/testid-guide",
+    "sourceUrl": "https://github.com/Viaje9/FlashMind/tree/main/.claude/skills/testid-guide"
+  }
+}

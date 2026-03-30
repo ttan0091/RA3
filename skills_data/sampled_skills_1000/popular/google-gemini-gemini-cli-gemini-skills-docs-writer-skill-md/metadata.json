@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 92,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 92,
+    "id": "google-gemini-gemini-cli-gemini-skills-docs-writer-skill-md",
+    "name": "docs-writer",
+    "author": "google-gemini",
+    "stars": 94166,
+    "githubUrl": "https://github.com/google-gemini/gemini-cli/tree/main/.gemini/skills/docs-writer",
+    "skillUrl": "https://skillsmp.com/skills/google-gemini-gemini-cli-gemini-skills-docs-writer-skill-md",
+    "updatedAt": 1770227550,
+    "description": "Always use this skill when the task involves writing, reviewing, or editing files in the `/docs` directory or any `.md` files in the repository."
+  },
+  "github": {
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "ref": "main",
+    "relativePath": ".gemini/skills/docs-writer",
+    "sourceUrl": "https://github.com/google-gemini/gemini-cli/tree/main/.gemini/skills/docs-writer"
+  }
+}

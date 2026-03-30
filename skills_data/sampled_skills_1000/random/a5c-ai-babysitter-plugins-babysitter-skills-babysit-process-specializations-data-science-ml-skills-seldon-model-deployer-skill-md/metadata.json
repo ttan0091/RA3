@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 675,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 675,
+    "id": "a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-data-science-ml-skills-seldon-model-deployer-skill-md",
+    "name": "seldon-model-deployer",
+    "author": "a5c-ai",
+    "stars": 81,
+    "githubUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/data-science-ml/skills/seldon-model-deployer",
+    "skillUrl": "https://skillsmp.com/skills/a5c-ai-babysitter-plugins-babysitter-skills-babysit-process-specializations-data-science-ml-skills-seldon-model-deployer-skill-md",
+    "updatedAt": 1769263287,
+    "description": "Seldon Core deployment skill for model serving, A/B testing, and canary deployments on Kubernetes."
+  },
+  "github": {
+    "owner": "a5c-ai",
+    "repo": "babysitter",
+    "ref": "main",
+    "relativePath": "plugins/babysitter/skills/babysit/process/specializations/data-science-ml/skills/seldon-model-deployer",
+    "sourceUrl": "https://github.com/a5c-ai/babysitter/tree/main/plugins/babysitter/skills/babysit/process/specializations/data-science-ml/skills/seldon-model-deployer"
+  }
+}

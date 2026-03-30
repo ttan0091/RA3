@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 941,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 941,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-testing-patterns-skill-md",
+    "name": "testing-patterns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/testing-patterns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-testing-patterns-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Jest testing patterns, factory functions, mocking strategies, and TDD workflow. Use when writing unit tests, creating test factories, or following TDD red-green-refactor cycle."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/testing-patterns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/testing-patterns"
+  }
+}

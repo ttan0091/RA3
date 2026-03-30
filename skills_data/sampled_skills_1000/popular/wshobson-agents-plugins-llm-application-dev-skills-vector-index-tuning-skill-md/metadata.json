@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 451,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 451,
+    "id": "wshobson-agents-plugins-llm-application-dev-skills-vector-index-tuning-skill-md",
+    "name": "vector-index-tuning",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/vector-index-tuning",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-llm-application-dev-skills-vector-index-tuning-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/llm-application-dev/skills/vector-index-tuning",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/llm-application-dev/skills/vector-index-tuning"
+  }
+}

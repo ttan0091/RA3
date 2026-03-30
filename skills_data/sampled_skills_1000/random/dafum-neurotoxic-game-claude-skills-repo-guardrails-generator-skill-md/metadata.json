@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 890,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 890,
+    "id": "dafum-neurotoxic-game-claude-skills-repo-guardrails-generator-skill-md",
+    "name": "repo-guardrails-generator",
+    "author": "DaFum",
+    "stars": 0,
+    "githubUrl": "https://github.com/DaFum/neurotoxic-game/tree/main/.claude/skills/repo-guardrails-generator",
+    "skillUrl": "https://skillsmp.com/skills/dafum-neurotoxic-game-claude-skills-repo-guardrails-generator-skill-md",
+    "updatedAt": 1770625593,
+    "description": "Generate or update concise repo-specific working agreements (commands, conventions, do/don't rules) for Codex. Use when asked to write or refresh repository guardrails."
+  },
+  "github": {
+    "owner": "DaFum",
+    "repo": "neurotoxic-game",
+    "ref": "main",
+    "relativePath": ".claude/skills/repo-guardrails-generator",
+    "sourceUrl": "https://github.com/DaFum/neurotoxic-game/tree/main/.claude/skills/repo-guardrails-generator"
+  }
+}

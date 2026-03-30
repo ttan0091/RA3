@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 571,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 571,
+    "id": "letta-ai-letta-skills-db-migrations-schema-changes-skill-md",
+    "name": "db-migrations-and-schema-changes",
+    "author": "letta-ai",
+    "stars": 21037,
+    "githubUrl": "https://github.com/letta-ai/letta/tree/main/.skills/db-migrations-schema-changes",
+    "skillUrl": "https://skillsmp.com/skills/letta-ai-letta-skills-db-migrations-schema-changes-skill-md",
+    "updatedAt": 1768787515,
+    "description": "Workflows and commands for managing Alembic database migrations and schema changes in the letta-cloud core app, including using uv, just, LETTA_PG_URI, and switching between SQLite and Postgres."
+  },
+  "github": {
+    "owner": "letta-ai",
+    "repo": "letta",
+    "ref": "main",
+    "relativePath": ".skills/db-migrations-schema-changes",
+    "sourceUrl": "https://github.com/letta-ai/letta/tree/main/.skills/db-migrations-schema-changes"
+  }
+}

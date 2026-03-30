@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 257,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 257,
+    "id": "agentuity-sdk-explorer-agents-skills-agentuity-cli-profile-list-skill-md",
+    "name": "agentuity-cli-profile-list",
+    "author": "agentuity",
+    "stars": 0,
+    "githubUrl": "https://github.com/agentuity/sdk-explorer/tree/main/.agents/skills/agentuity-cli-profile-list",
+    "skillUrl": "https://skillsmp.com/skills/agentuity-sdk-explorer-agents-skills-agentuity-cli-profile-list-skill-md",
+    "updatedAt": 1767834193,
+    "description": "List all available profiles"
+  },
+  "github": {
+    "owner": "agentuity",
+    "repo": "sdk-explorer",
+    "ref": "main",
+    "relativePath": ".agents/skills/agentuity-cli-profile-list",
+    "sourceUrl": "https://github.com/agentuity/sdk-explorer/tree/main/.agents/skills/agentuity-cli-profile-list"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 661,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 661,
+    "id": "jasondocton-rad-claude-claude-skills-naming-conventions-skill-md",
+    "name": "naming-conventions",
+    "author": "JasonDocton",
+    "stars": 2,
+    "githubUrl": "https://github.com/JasonDocton/rad-claude/tree/main/.claude/skills/naming-conventions",
+    "skillUrl": "https://skillsmp.com/skills/jasondocton-rad-claude-claude-skills-naming-conventions-skill-md",
+    "updatedAt": 1769727007,
+    "description": "Naming conventions for files, variables, types, constants, booleans, generics. Applies to new files, refactoring, code review, or inconsistent naming issues."
+  },
+  "github": {
+    "owner": "JasonDocton",
+    "repo": "rad-claude",
+    "ref": "main",
+    "relativePath": ".claude/skills/naming-conventions",
+    "sourceUrl": "https://github.com/JasonDocton/rad-claude/tree/main/.claude/skills/naming-conventions"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 80,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 80,
+    "id": "oimiragieo-agent-studio-claude-skills-scientific-skills-skills-opentargets-database-skill-md",
+    "name": "opentargets-database",
+    "author": "oimiragieo",
+    "stars": 5,
+    "githubUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/scientific-skills/skills/opentargets-database",
+    "skillUrl": "https://skillsmp.com/skills/oimiragieo-agent-studio-claude-skills-scientific-skills-skills-opentargets-database-skill-md",
+    "updatedAt": 1769483079,
+    "description": "Query Open Targets Platform for target-disease associations, drug target discovery, tractability/safety data, genetics/omics evidence, known drugs, for therapeutic target identification."
+  },
+  "github": {
+    "owner": "oimiragieo",
+    "repo": "agent-studio",
+    "ref": "main",
+    "relativePath": ".claude/skills/scientific-skills/skills/opentargets-database",
+    "sourceUrl": "https://github.com/oimiragieo/agent-studio/tree/main/.claude/skills/scientific-skills/skills/opentargets-database"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 400,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 400,
+    "id": "wshobson-agents-plugins-conductor-skills-workflow-patterns-skill-md",
+    "name": "workflow-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/workflow-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-conductor-skills-workflow-patterns-skill-md",
+    "updatedAt": 1768527297,
+    "description": "Use this skill when implementing tasks according to Conductor's TDD workflow, handling phase checkpoints, managing git commits for tasks, or understanding the verification protocol."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/conductor/skills/workflow-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/conductor/skills/workflow-patterns"
+  }
+}

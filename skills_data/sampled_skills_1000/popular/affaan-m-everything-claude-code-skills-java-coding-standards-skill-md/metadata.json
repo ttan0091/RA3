@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 274,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 274,
+    "id": "affaan-m-everything-claude-code-skills-java-coding-standards-skill-md",
+    "name": "java-coding-standards",
+    "author": "affaan-m",
+    "stars": 43586,
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/java-coding-standards",
+    "skillUrl": "https://skillsmp.com/skills/affaan-m-everything-claude-code-skills-java-coding-standards-skill-md",
+    "updatedAt": 1769741659,
+    "description": "Java coding standards for Spring Boot services: naming, immutability, Optional usage, streams, exceptions, generics, and project layout."
+  },
+  "github": {
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "ref": "main",
+    "relativePath": "skills/java-coding-standards",
+    "sourceUrl": "https://github.com/affaan-m/everything-claude-code/tree/main/skills/java-coding-standards"
+  }
+}

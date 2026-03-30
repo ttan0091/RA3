@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 398,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 398,
+    "id": "simhacker-moollm-skills-logistic-container-skill-md",
+    "name": "logistic-container",
+    "author": "SimHacker",
+    "stars": 25,
+    "githubUrl": "https://github.com/SimHacker/moollm/tree/main/skills/logistic-container",
+    "skillUrl": "https://skillsmp.com/skills/simhacker-moollm-skills-logistic-container-skill-md",
+    "updatedAt": 1770671828,
+    "description": "Factorio-style logistics — items flow automatically between containers"
+  },
+  "github": {
+    "owner": "SimHacker",
+    "repo": "moollm",
+    "ref": "main",
+    "relativePath": "skills/logistic-container",
+    "sourceUrl": "https://github.com/SimHacker/moollm/tree/main/skills/logistic-container"
+  }
+}

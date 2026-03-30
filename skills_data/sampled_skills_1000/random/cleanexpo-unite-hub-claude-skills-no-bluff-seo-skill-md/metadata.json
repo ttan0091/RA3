@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 563,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 563,
+    "id": "cleanexpo-unite-hub-claude-skills-no-bluff-seo-skill-md",
+    "name": "no-bluff-seo-skill",
+    "author": "CleanExpo",
+    "stars": 1,
+    "githubUrl": "https://github.com/CleanExpo/Unite-Hub/tree/main/.claude/skills/no-bluff-seo",
+    "skillUrl": "https://skillsmp.com/skills/cleanexpo-unite-hub-claude-skills-no-bluff-seo-skill-md",
+    "updatedAt": 1768449358,
+    "description": "Enforce the No-Bluff SEO/GEO protocol using DataForSEO and SEMRush. Use when generating or modifying any SEO-related copy, claims, or structured data for Synthex or client sites."
+  },
+  "github": {
+    "owner": "CleanExpo",
+    "repo": "Unite-Hub",
+    "ref": "main",
+    "relativePath": ".claude/skills/no-bluff-seo",
+    "sourceUrl": "https://github.com/CleanExpo/Unite-Hub/tree/main/.claude/skills/no-bluff-seo"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 356,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 356,
+    "id": "alpinejs-alpine-claude-skills-summarize-activity-skill-md",
+    "name": "summarize-activity",
+    "author": "alpinejs",
+    "stars": 31140,
+    "githubUrl": "https://github.com/alpinejs/alpine/tree/main/.claude/skills/summarize-activity",
+    "skillUrl": "https://skillsmp.com/skills/alpinejs-alpine-claude-skills-summarize-activity-skill-md",
+    "updatedAt": 1770601100,
+    "description": "Summarize recent GitHub activity — discussions, PRs, issues, events, traffic — into an actionable report so you can stay on top of the project without reading everything."
+  },
+  "github": {
+    "owner": "alpinejs",
+    "repo": "alpine",
+    "ref": "main",
+    "relativePath": ".claude/skills/summarize-activity",
+    "sourceUrl": "https://github.com/alpinejs/alpine/tree/main/.claude/skills/summarize-activity"
+  }
+}

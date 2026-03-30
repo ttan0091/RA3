@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 828,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 828,
+    "id": "peixotorms-odinlayer-skills-plugins-wp-skills-skills-woocommerce-hooks-skill-md",
+    "name": "woocommerce-hooks",
+    "author": "peixotorms",
+    "stars": 0,
+    "githubUrl": "https://github.com/peixotorms/odinlayer-skills/tree/main/plugins/wp-skills/skills/woocommerce-hooks",
+    "skillUrl": "https://skillsmp.com/skills/peixotorms-odinlayer-skills-plugins-wp-skills-skills-woocommerce-hooks-skill-md",
+    "updatedAt": 1769968766,
+    "description": "Use when hooking into WooCommerce events, adding custom checkout fields, modifying cart behavior, or extending WooCommerce admin. Covers woocommerce_new_order, woocommerce_checkout_order_processed, woocommerce_payment_complete, woocommerce_order_status_changed, woocommerce_order_status_{status}, woocommerce_add_to_cart, woocommerce_cart_calculate_fees, woocommerce_before_calculate_totals, woocommerce_checkout_fields, woocommerce_checkout_process, woocommerce_product_options_general_product_data, woocommerce_process_product_meta, woocommerce_email_classes, woocommerce_settings_tabs_array, settings pages, custom WC_Email classes, WP-CLI wc commands, and WC_Unit_Test_Case testing patterns."
+  },
+  "github": {
+    "owner": "peixotorms",
+    "repo": "odinlayer-skills",
+    "ref": "main",
+    "relativePath": "plugins/wp-skills/skills/woocommerce-hooks",
+    "sourceUrl": "https://github.com/peixotorms/odinlayer-skills/tree/main/plugins/wp-skills/skills/woocommerce-hooks"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 767,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 767,
+    "id": "vanman2024-dev-lifecycle-marketplace-plugins-deployment-skills-auto-rollback-triggers-skill-md",
+    "name": "auto-rollback-triggers",
+    "author": "vanman2024",
+    "stars": 1,
+    "githubUrl": "https://github.com/vanman2024/dev-lifecycle-marketplace/tree/master/plugins/deployment/skills/auto-rollback-triggers",
+    "skillUrl": "https://skillsmp.com/skills/vanman2024-dev-lifecycle-marketplace-plugins-deployment-skills-auto-rollback-triggers-skill-md",
+    "updatedAt": 1768330716,
+    "description": "Error rate monitoring, SLO detection, and notification webhooks for automated rollback triggers. Use when setting up automated deployment rollback, monitoring error rates, configuring SLO thresholds, implementing deployment safety nets, setting up alerting webhooks, or when user mentions automated rollback, error rate monitoring, SLO violations, deployment safety, or rollback automation."
+  },
+  "github": {
+    "owner": "vanman2024",
+    "repo": "dev-lifecycle-marketplace",
+    "ref": "master",
+    "relativePath": "plugins/deployment/skills/auto-rollback-triggers",
+    "sourceUrl": "https://github.com/vanman2024/dev-lifecycle-marketplace/tree/master/plugins/deployment/skills/auto-rollback-triggers"
+  }
+}

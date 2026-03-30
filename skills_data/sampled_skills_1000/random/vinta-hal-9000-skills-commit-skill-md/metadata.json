@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 177,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 177,
+    "id": "vinta-hal-9000-skills-commit-skill-md",
+    "name": "commit",
+    "author": "vinta",
+    "stars": 102,
+    "githubUrl": "https://github.com/vinta/hal-9000/tree/master/skills/commit",
+    "skillUrl": "https://skillsmp.com/skills/vinta-hal-9000-skills-commit-skill-md",
+    "updatedAt": 1770712593,
+    "description": "Creates clean, atomic git commits with one logical change per commit. Supports hunk-level staging to split changes across commits and handles pre-commit hook failures. Use when (1) the user asks to commit, (2) completing an implementation task that should be committed, (3) changes need to be split into multiple logical commits (structural vs behavioral vs config)."
+  },
+  "github": {
+    "owner": "vinta",
+    "repo": "hal-9000",
+    "ref": "master",
+    "relativePath": "skills/commit",
+    "sourceUrl": "https://github.com/vinta/hal-9000/tree/master/skills/commit"
+  }
+}

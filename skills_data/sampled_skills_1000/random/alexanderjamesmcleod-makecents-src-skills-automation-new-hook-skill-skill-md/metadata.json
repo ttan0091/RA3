@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 129,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 129,
+    "id": "alexanderjamesmcleod-makecents-src-skills-automation-new-hook-skill-skill-md",
+    "name": "new-hook",
+    "author": "alexanderjamesmcleod",
+    "stars": 0,
+    "githubUrl": "https://github.com/alexanderjamesmcleod/makecents/tree/main/src/skills/automation/new-hook.skill",
+    "skillUrl": "https://skillsmp.com/skills/alexanderjamesmcleod-makecents-src-skills-automation-new-hook-skill-skill-md",
+    "updatedAt": 1767916444,
+    "description": "Create a React Query hook with loading/error states and TypeScript types for data fetching"
+  },
+  "github": {
+    "owner": "alexanderjamesmcleod",
+    "repo": "makecents",
+    "ref": "main",
+    "relativePath": "src/skills/automation/new-hook.skill",
+    "sourceUrl": "https://github.com/alexanderjamesmcleod/makecents/tree/main/src/skills/automation/new-hook.skill"
+  }
+}

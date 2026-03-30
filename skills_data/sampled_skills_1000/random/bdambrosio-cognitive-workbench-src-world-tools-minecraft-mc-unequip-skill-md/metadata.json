@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 364,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 364,
+    "id": "bdambrosio-cognitive-workbench-src-world-tools-minecraft-mc-unequip-skill-md",
+    "name": "mc-unequip",
+    "author": "bdambrosio",
+    "stars": 9,
+    "githubUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-unequip",
+    "skillUrl": "https://skillsmp.com/skills/bdambrosio-cognitive-workbench-src-world-tools-minecraft-mc-unequip-skill-md",
+    "updatedAt": 1768426603,
+    "description": "Clear or swap equipped item. Returns success/failure"
+  },
+  "github": {
+    "owner": "bdambrosio",
+    "repo": "Cognitive_workbench",
+    "ref": "main",
+    "relativePath": "src/world-tools/minecraft/mc-unequip",
+    "sourceUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/world-tools/minecraft/mc-unequip"
+  }
+}

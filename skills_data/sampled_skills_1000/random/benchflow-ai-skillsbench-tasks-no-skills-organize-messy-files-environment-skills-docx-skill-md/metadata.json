@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 534,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 534,
+    "id": "benchflow-ai-skillsbench-tasks-no-skills-organize-messy-files-environment-skills-docx-skill-md",
+    "name": "docx",
+    "author": "benchflow-ai",
+    "stars": 307,
+    "githubUrl": "https://github.com/benchflow-ai/skillsbench/tree/main/tasks-no-skills/organize-messy-files/environment/skills/docx",
+    "skillUrl": "https://skillsmp.com/skills/benchflow-ai-skillsbench-tasks-no-skills-organize-messy-files-environment-skills-docx-skill-md",
+    "updatedAt": 1769495083,
+    "description": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional documents (.docx files) for: (1) Creating new documents, (2) Modifying or editing content, (3) Working with tracked changes, (4) Adding comments, or any other document tasks"
+  },
+  "github": {
+    "owner": "benchflow-ai",
+    "repo": "skillsbench",
+    "ref": "main",
+    "relativePath": "tasks-no-skills/organize-messy-files/environment/skills/docx",
+    "sourceUrl": "https://github.com/benchflow-ai/skillsbench/tree/main/tasks-no-skills/organize-messy-files/environment/skills/docx"
+  }
+}

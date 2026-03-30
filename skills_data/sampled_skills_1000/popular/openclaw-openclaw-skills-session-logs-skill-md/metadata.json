@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 47,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 47,
+    "id": "openclaw-openclaw-skills-session-logs-skill-md",
+    "name": "session-logs",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/session-logs",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-session-logs-skill-md",
+    "updatedAt": 1769967748,
+    "description": "Search and analyze your own session logs (older/parent conversations) using jq."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/session-logs",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/session-logs"
+  }
+}

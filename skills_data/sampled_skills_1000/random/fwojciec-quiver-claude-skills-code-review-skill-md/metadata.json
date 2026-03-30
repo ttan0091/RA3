@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 339,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 339,
+    "id": "fwojciec-quiver-claude-skills-code-review-skill-md",
+    "name": "code-review",
+    "author": "fwojciec",
+    "stars": 1,
+    "githubUrl": "https://github.com/fwojciec/quiver/tree/main/.claude/skills/code-review",
+    "skillUrl": "https://skillsmp.com/skills/fwojciec-quiver-claude-skills-code-review-skill-md",
+    "updatedAt": 1770517226,
+    "description": "Code review against project standards and structural discipline. Returns APPROVE/REJECT verdict."
+  },
+  "github": {
+    "owner": "fwojciec",
+    "repo": "quiver",
+    "ref": "main",
+    "relativePath": ".claude/skills/code-review",
+    "sourceUrl": "https://github.com/fwojciec/quiver/tree/main/.claude/skills/code-review"
+  }
+}

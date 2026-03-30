@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 509,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 509,
+    "id": "curiouslearner-devkit-skills-chart-generator-skill-md",
+    "name": "chart-generator",
+    "author": "CuriousLearner",
+    "stars": 22,
+    "githubUrl": "https://github.com/CuriousLearner/devkit/tree/main/skills/chart-generator",
+    "skillUrl": "https://skillsmp.com/skills/curiouslearner-devkit-skills-chart-generator-skill-md",
+    "updatedAt": 1760923831,
+    "description": "Generate charts and visualizations from data using various charting libraries and formats."
+  },
+  "github": {
+    "owner": "CuriousLearner",
+    "repo": "devkit",
+    "ref": "main",
+    "relativePath": "skills/chart-generator",
+    "sourceUrl": "https://github.com/CuriousLearner/devkit/tree/main/skills/chart-generator"
+  }
+}

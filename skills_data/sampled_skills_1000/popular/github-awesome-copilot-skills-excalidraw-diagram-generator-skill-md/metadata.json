@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 592,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 592,
+    "id": "github-awesome-copilot-skills-excalidraw-diagram-generator-skill-md",
+    "name": "excalidraw-diagram-generator",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/excalidraw-diagram-generator",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-excalidraw-diagram-generator-skill-md",
+    "updatedAt": 1770101499,
+    "description": "Generate Excalidraw diagrams from natural language descriptions. Use when asked to \"create a diagram\", \"make a flowchart\", \"visualize a process\", \"draw a system architecture\", \"create a mind map\", or \"generate an Excalidraw file\". Supports flowcharts, relationship diagrams, mind maps, and system architecture diagrams. Outputs .excalidraw JSON files that can be opened directly in Excalidraw."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/excalidraw-diagram-generator",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/excalidraw-diagram-generator"
+  }
+}

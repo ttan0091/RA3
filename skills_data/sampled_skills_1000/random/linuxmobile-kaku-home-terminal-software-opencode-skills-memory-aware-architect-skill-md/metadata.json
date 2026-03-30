@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 422,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 422,
+    "id": "linuxmobile-kaku-home-terminal-software-opencode-skills-memory-aware-architect-skill-md",
+    "name": "memory-aware-architect",
+    "author": "linuxmobile",
+    "stars": 795,
+    "githubUrl": "https://github.com/linuxmobile/kaku/tree/hjem/home/terminal/software/opencode/skills/memory-aware-architect",
+    "skillUrl": "https://skillsmp.com/skills/linuxmobile-kaku-home-terminal-software-opencode-skills-memory-aware-architect-skill-md",
+    "updatedAt": 1770413638,
+    "description": "Mandatory persistent memory integration for project development. Use when working on any codebase that uses opencode-mem for context persistence. Always searches memory before planning, coding, refactoring, or debugging. Suggests adding new facts after completing significant tasks. Works with any programming language, framework, or architecture style."
+  },
+  "github": {
+    "owner": "linuxmobile",
+    "repo": "kaku",
+    "ref": "hjem",
+    "relativePath": "home/terminal/software/opencode/skills/memory-aware-architect",
+    "sourceUrl": "https://github.com/linuxmobile/kaku/tree/hjem/home/terminal/software/opencode/skills/memory-aware-architect"
+  }
+}

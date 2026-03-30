@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 368,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 368,
+    "id": "namuucy-for-java-python-skills-live-coding-interviewer-skill-md",
+    "name": "live-coding-interviewer",
+    "author": "namuuCY",
+    "stars": 0,
+    "githubUrl": "https://github.com/namuuCY/for-Java-Python/tree/main/skills/live-coding-interviewer",
+    "skillUrl": "https://skillsmp.com/skills/namuucy-for-java-python-skills-live-coding-interviewer-skill-md",
+    "updatedAt": 1767678080,
+    "description": "Run a senior-level Java/Spring backend live-coding interview practice, guiding the user with Socratic prompts, strict code review (readability, edge cases, data structures), and staged hints without giving direct answers."
+  },
+  "github": {
+    "owner": "namuuCY",
+    "repo": "for-Java-Python",
+    "ref": "main",
+    "relativePath": "skills/live-coding-interviewer",
+    "sourceUrl": "https://github.com/namuuCY/for-Java-Python/tree/main/skills/live-coding-interviewer"
+  }
+}

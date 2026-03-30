@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 119,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 119,
+    "id": "freespirits-dr-rogea-plugins-wasp-skills-plugin-help-skill-md",
+    "name": "plugin-help",
+    "author": "Freespirits",
+    "stars": 0,
+    "githubUrl": "https://github.com/Freespirits/Dr-rogea/tree/main/plugins/wasp/skills/plugin-help",
+    "skillUrl": "https://skillsmp.com/skills/freespirits-dr-rogea-plugins-wasp-skills-plugin-help-skill-md",
+    "updatedAt": 1767351775,
+    "description": "Shows the Wasp plugin's available features, commands, and skills."
+  },
+  "github": {
+    "owner": "Freespirits",
+    "repo": "Dr-rogea",
+    "ref": "main",
+    "relativePath": "plugins/wasp/skills/plugin-help",
+    "sourceUrl": "https://github.com/Freespirits/Dr-rogea/tree/main/plugins/wasp/skills/plugin-help"
+  }
+}

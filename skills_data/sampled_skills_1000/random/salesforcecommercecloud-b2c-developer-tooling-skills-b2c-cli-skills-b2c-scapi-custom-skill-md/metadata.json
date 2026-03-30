@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 653,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 653,
+    "id": "salesforcecommercecloud-b2c-developer-tooling-skills-b2c-cli-skills-b2c-scapi-custom-skill-md",
+    "name": "b2c-scapi-custom",
+    "author": "SalesforceCommerceCloud",
+    "stars": 19,
+    "githubUrl": "https://github.com/SalesforceCommerceCloud/b2c-developer-tooling/tree/main/skills/b2c-cli/skills/b2c-scapi-custom",
+    "skillUrl": "https://skillsmp.com/skills/salesforcecommercecloud-b2c-developer-tooling-skills-b2c-cli-skills-b2c-scapi-custom-skill-md",
+    "updatedAt": 1769873765,
+    "description": "Check Custom SCAPI (B2C/SFCC/Demandware) endpoint registration status with the b2c cli. Use when verifying custom API deployment, debugging \"endpoint not found\" errors, or checking if code activation registered new APIs. For creating new custom APIs, use b2c-custom-api-development skill instead."
+  },
+  "github": {
+    "owner": "SalesforceCommerceCloud",
+    "repo": "b2c-developer-tooling",
+    "ref": "main",
+    "relativePath": "skills/b2c-cli/skills/b2c-scapi-custom",
+    "sourceUrl": "https://github.com/SalesforceCommerceCloud/b2c-developer-tooling/tree/main/skills/b2c-cli/skills/b2c-scapi-custom"
+  }
+}

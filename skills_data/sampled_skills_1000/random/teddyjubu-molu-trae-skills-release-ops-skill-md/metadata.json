@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 694,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 694,
+    "id": "teddyjubu-molu-trae-skills-release-ops-skill-md",
+    "name": "release-ops",
+    "author": "TeddyJubu",
+    "stars": 0,
+    "githubUrl": "https://github.com/TeddyJubu/molu/tree/main/.trae/skills/release-ops",
+    "skillUrl": "https://skillsmp.com/skills/teddyjubu-molu-trae-skills-release-ops-skill-md",
+    "updatedAt": 1769086365,
+    "description": "Standardizes staging/prod deploy, CI/CD gates, rollback, and monitoring. Invoke when configuring pipelines, releasing, or handling incidents."
+  },
+  "github": {
+    "owner": "TeddyJubu",
+    "repo": "molu",
+    "ref": "main",
+    "relativePath": ".trae/skills/release-ops",
+    "sourceUrl": "https://github.com/TeddyJubu/molu/tree/main/.trae/skills/release-ops"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 394,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 394,
+    "id": "wshobson-agents-plugins-cloud-infrastructure-skills-mtls-configuration-skill-md",
+    "name": "mtls-configuration",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/mtls-configuration",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-cloud-infrastructure-skills-mtls-configuration-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/cloud-infrastructure/skills/mtls-configuration",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/cloud-infrastructure/skills/mtls-configuration"
+  }
+}

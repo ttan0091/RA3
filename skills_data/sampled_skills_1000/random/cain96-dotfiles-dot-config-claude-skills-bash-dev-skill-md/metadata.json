@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 383,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 383,
+    "id": "cain96-dotfiles-dot-config-claude-skills-bash-dev-skill-md",
+    "name": "bash-dev",
+    "author": "Cain96",
+    "stars": 0,
+    "githubUrl": "https://github.com/Cain96/dotfiles/tree/main/dot_config/claude/skills/bash-dev",
+    "skillUrl": "https://skillsmp.com/skills/cain96-dotfiles-dot-config-claude-skills-bash-dev-skill-md",
+    "updatedAt": 1768558461,
+    "description": "Bash scripting development standards, error handling, and best practices. Activated when working with .sh files or Bash scripts."
+  },
+  "github": {
+    "owner": "Cain96",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "dot_config/claude/skills/bash-dev",
+    "sourceUrl": "https://github.com/Cain96/dotfiles/tree/main/dot_config/claude/skills/bash-dev"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 430,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 430,
+    "id": "rshankras-claude-code-apple-skills-skills-generators-onboarding-generator-skill-md",
+    "name": "onboarding-generator",
+    "author": "rshankras",
+    "stars": 34,
+    "githubUrl": "https://github.com/rshankras/claude-code-apple-skills/tree/main/skills/generators/onboarding-generator",
+    "skillUrl": "https://skillsmp.com/skills/rshankras-claude-code-apple-skills-skills-generators-onboarding-generator-skill-md",
+    "updatedAt": 1768541061,
+    "description": "Generates multi-step onboarding flows with persistence for iOS/macOS apps. Use when user wants to add onboarding, welcome screens, or first-launch experience."
+  },
+  "github": {
+    "owner": "rshankras",
+    "repo": "claude-code-apple-skills",
+    "ref": "main",
+    "relativePath": "skills/generators/onboarding-generator",
+    "sourceUrl": "https://github.com/rshankras/claude-code-apple-skills/tree/main/skills/generators/onboarding-generator"
+  }
+}

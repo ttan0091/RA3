@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 367,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 367,
+    "id": "willyu1007-skill-template-module-ai-skills-features-ui-ui-feature-delivery-skill-md",
+    "name": "ui-feature-delivery",
+    "author": "willyu1007",
+    "stars": 0,
+    "githubUrl": "https://github.com/willyu1007/Skill_Template_Module/tree/main/.ai/skills/features/ui/ui-feature-delivery",
+    "skillUrl": "https://skillsmp.com/skills/willyu1007-skill-template-module-ai-skills-features-ui-ui-feature-delivery-skill-md",
+    "updatedAt": 1768990662,
+    "description": "Implement React UI features using the data-ui contract system and Tailwind B1 (layout-only), including interface/data contract design, evidence capture in .ai/.tmp/ui/<run-id>/, and mandatory governance gate execution."
+  },
+  "github": {
+    "owner": "willyu1007",
+    "repo": "Skill_Template_Module",
+    "ref": "main",
+    "relativePath": ".ai/skills/features/ui/ui-feature-delivery",
+    "sourceUrl": "https://github.com/willyu1007/Skill_Template_Module/tree/main/.ai/skills/features/ui/ui-feature-delivery"
+  }
+}

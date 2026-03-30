@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 275,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 275,
+    "id": "loctime-clawdbot-skills-bitwarden-skill-md",
+    "name": "bitwarden",
+    "author": "loctime",
+    "stars": 0,
+    "githubUrl": "https://github.com/loctime/clawdbot/tree/master/skills/bitwarden",
+    "skillUrl": "https://skillsmp.com/skills/loctime-clawdbot-skills-bitwarden-skill-md",
+    "updatedAt": 1770077204,
+    "description": "Manage passwords and credentials via Bitwarden CLI (bw). Use for storing, retrieving, creating, or updating logins, credit cards, secure notes, and identities. Trigger when automating authentication, filling payment forms, or managing secrets programmatically."
+  },
+  "github": {
+    "owner": "loctime",
+    "repo": "clawdbot",
+    "ref": "master",
+    "relativePath": "skills/bitwarden",
+    "sourceUrl": "https://github.com/loctime/clawdbot/tree/master/skills/bitwarden"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 31,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 31,
+    "id": "digitalsamba-claude-code-video-toolkit-claude-skills-qwen-edit-skill-md",
+    "name": "qwen-edit",
+    "author": "digitalsamba",
+    "stars": 42,
+    "githubUrl": "https://github.com/digitalsamba/claude-code-video-toolkit/tree/main/.claude/skills/qwen-edit",
+    "skillUrl": "https://skillsmp.com/skills/digitalsamba-claude-code-video-toolkit-claude-skills-qwen-edit-skill-md",
+    "updatedAt": 1769472269,
+    "description": "AI image editing prompting patterns for Qwen-Image-Edit. Use when editing photos while preserving identity, reframing cropped images, changing clothing or accessories, adjusting poses, applying style transfers, or character transformations. Provides prompt patterns, parameter tuning, and examples."
+  },
+  "github": {
+    "owner": "digitalsamba",
+    "repo": "claude-code-video-toolkit",
+    "ref": "main",
+    "relativePath": ".claude/skills/qwen-edit",
+    "sourceUrl": "https://github.com/digitalsamba/claude-code-video-toolkit/tree/main/.claude/skills/qwen-edit"
+  }
+}

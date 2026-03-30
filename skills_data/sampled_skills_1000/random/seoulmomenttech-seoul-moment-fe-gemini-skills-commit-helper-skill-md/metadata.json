@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 894,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 894,
+    "id": "seoulmomenttech-seoul-moment-fe-gemini-skills-commit-helper-skill-md",
+    "name": "commit-helper",
+    "author": "SeoulMomentTech",
+    "stars": 1,
+    "githubUrl": "https://github.com/SeoulMomentTech/seoul-moment-fe/tree/develop/.gemini/skills/commit-helper",
+    "skillUrl": "https://skillsmp.com/skills/seoulmomenttech-seoul-moment-fe-gemini-skills-commit-helper-skill-md",
+    "updatedAt": 1770730726,
+    "description": "Git 변경사항을 분석하여 Conventional Commits 형식의 커밋 메시지를 생성합니다. 커밋, commit, 커밋 메시지 요청 시 자동 활성화됩니다."
+  },
+  "github": {
+    "owner": "SeoulMomentTech",
+    "repo": "seoul-moment-fe",
+    "ref": "develop",
+    "relativePath": ".gemini/skills/commit-helper",
+    "sourceUrl": "https://github.com/SeoulMomentTech/seoul-moment-fe/tree/develop/.gemini/skills/commit-helper"
+  }
+}

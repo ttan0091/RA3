@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 258,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 258,
+    "id": "jroslaniec-agent-skills-commit-skill-md",
+    "name": "commit",
+    "author": "jroslaniec",
+    "stars": 1,
+    "githubUrl": "https://github.com/jroslaniec/agent-skills/tree/main/commit",
+    "skillUrl": "https://skillsmp.com/skills/jroslaniec-agent-skills-commit-skill-md",
+    "updatedAt": 1768848481,
+    "description": "Create git commits with appropriate commit messages. Use when the user asks to commit, create a commit, write a commit message, or mentions \"commit\" in the context of saving changes to git."
+  },
+  "github": {
+    "owner": "jroslaniec",
+    "repo": "agent-skills",
+    "ref": "main",
+    "relativePath": "commit",
+    "sourceUrl": "https://github.com/jroslaniec/agent-skills/tree/main/commit"
+  }
+}

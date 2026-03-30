@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 867,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 867,
+    "id": "asimihsan-dotfiles-chezmoi-dot-claude-skills-telemetry-redrive-skill-md",
+    "name": "telemetry-redrive",
+    "author": "asimihsan",
+    "stars": 0,
+    "githubUrl": "https://github.com/asimihsan/dotfiles/tree/master/chezmoi/dot_claude/skills/telemetry-redrive",
+    "skillUrl": "https://skillsmp.com/skills/asimihsan-dotfiles-chezmoi-dot-claude-skills-telemetry-redrive-skill-md",
+    "updatedAt": 1764946523,
+    "description": "Redrive telemetry data through the telemetry-parser-service Lambda. Use when\nreprocessing raw JSONL files, fixing corrupted Parquet output, or validating\nparser changes. Supports single file, prefix-based, Parquet-driven, and surgical\nday-based redrives with automatic Parquet deletion."
+  },
+  "github": {
+    "owner": "asimihsan",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": "chezmoi/dot_claude/skills/telemetry-redrive",
+    "sourceUrl": "https://github.com/asimihsan/dotfiles/tree/master/chezmoi/dot_claude/skills/telemetry-redrive"
+  }
+}

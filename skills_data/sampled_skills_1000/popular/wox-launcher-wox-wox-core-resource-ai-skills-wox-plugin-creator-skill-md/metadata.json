@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 527,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 527,
+    "id": "wox-launcher-wox-wox-core-resource-ai-skills-wox-plugin-creator-skill-md",
+    "name": "wox-plugin-creator",
+    "author": "Wox-launcher",
+    "stars": 26569,
+    "githubUrl": "https://github.com/Wox-launcher/Wox/tree/master/wox.core/resource/ai/skills/wox-plugin-creator",
+    "skillUrl": "https://skillsmp.com/skills/wox-launcher-wox-wox-core-resource-ai-skills-wox-plugin-creator-skill-md",
+    "updatedAt": 1770109302,
+    "description": "Create and scaffold Wox plugins (nodejs, python, script-nodejs, script-python). Use when cloning official SDK templates, generating script plugin templates, or preparing plugins for publish."
+  },
+  "github": {
+    "owner": "Wox-launcher",
+    "repo": "Wox",
+    "ref": "master",
+    "relativePath": "wox.core/resource/ai/skills/wox-plugin-creator",
+    "sourceUrl": "https://github.com/Wox-launcher/Wox/tree/master/wox.core/resource/ai/skills/wox-plugin-creator"
+  }
+}

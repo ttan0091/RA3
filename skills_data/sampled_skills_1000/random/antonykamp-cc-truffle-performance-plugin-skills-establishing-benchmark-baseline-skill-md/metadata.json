@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 791,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 791,
+    "id": "antonykamp-cc-truffle-performance-plugin-skills-establishing-benchmark-baseline-skill-md",
+    "name": "establishing-benchmark-baseline",
+    "author": "antonykamp",
+    "stars": 0,
+    "githubUrl": "https://github.com/antonykamp/cc-truffle-performance-plugin/tree/main/skills/establishing-benchmark-baseline",
+    "skillUrl": "https://skillsmp.com/skills/antonykamp-cc-truffle-performance-plugin-skills-establishing-benchmark-baseline-skill-md",
+    "updatedAt": 1770720320,
+    "description": "[PHASE 1] Creates benchmark suite and performance expectations. Entry: No BENCHMARK_BASELINE.md exists. Outputs: BENCHMARK_BASELINE.md, benchmark files. Next: PHASE 2 (broad-performance-investigation)."
+  },
+  "github": {
+    "owner": "antonykamp",
+    "repo": "cc-truffle-performance-plugin",
+    "ref": "main",
+    "relativePath": "skills/establishing-benchmark-baseline",
+    "sourceUrl": "https://github.com/antonykamp/cc-truffle-performance-plugin/tree/main/skills/establishing-benchmark-baseline"
+  }
+}

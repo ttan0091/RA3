@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 794,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 794,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-executing-marketing-campaigns-skill-md",
+    "name": "executing-marketing-campaigns",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/executing-marketing-campaigns",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-executing-marketing-campaigns-skill-md",
+    "updatedAt": 1766259071,
+    "description": "Plans, creates, and optimizes marketing campaigns including content strategy, social media, email, and analytics. Helps develop go-to-market strategies, campaign messaging, and performance measurement."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/executing-marketing-campaigns",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/executing-marketing-campaigns"
+  }
+}

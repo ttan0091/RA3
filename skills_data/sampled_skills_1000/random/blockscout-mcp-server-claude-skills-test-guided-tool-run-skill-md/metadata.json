@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 517,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 517,
+    "id": "blockscout-mcp-server-claude-skills-test-guided-tool-run-skill-md",
+    "name": "test-guided-tool-run",
+    "author": "blockscout",
+    "stars": 28,
+    "githubUrl": "https://github.com/blockscout/mcp-server/tree/main/.claude/skills/test-guided-tool-run",
+    "skillUrl": "https://skillsmp.com/skills/blockscout-mcp-server-claude-skills-test-guided-tool-run-skill-md",
+    "updatedAt": 1769560072,
+    "description": "Use when user asks to \"run tool as function\", \"test directly\", or \"call standalone\" (outside MCP server). Essential for correct mock Context setup (MagicMock + AsyncMock). Finds integration tests with real test data."
+  },
+  "github": {
+    "owner": "blockscout",
+    "repo": "mcp-server",
+    "ref": "main",
+    "relativePath": ".claude/skills/test-guided-tool-run",
+    "sourceUrl": "https://github.com/blockscout/mcp-server/tree/main/.claude/skills/test-guided-tool-run"
+  }
+}

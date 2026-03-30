@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 573,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 573,
+    "id": "mastra-ai-mastra-claude-skills-e2e-tests-studio-skill-md",
+    "name": "e2e-tests-studio",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/e2e-tests-studio",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-claude-skills-e2e-tests-studio-skill-md",
+    "updatedAt": 1769434489,
+    "description": "REQUIRED when modifying any file in packages/playground-ui or packages/playground. Triggers on: React component creation/modification/refactoring, UI changes, new playground features, bug fixes affecting studio UI. Generates Playwright E2E tests that validate PRODUCT BEHAVIOR, not just UI states."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": ".claude/skills/e2e-tests-studio",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/.claude/skills/e2e-tests-studio"
+  }
+}

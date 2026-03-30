@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 522,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 522,
+    "id": "nrwl-nx-cursor-skills-nx-plugins-skill-md",
+    "name": "nx-plugins",
+    "author": "nrwl",
+    "stars": 28111,
+    "githubUrl": "https://github.com/nrwl/nx/tree/master/.cursor/skills/nx-plugins",
+    "skillUrl": "https://skillsmp.com/skills/nrwl-nx-cursor-skills-nx-plugins-skill-md",
+    "updatedAt": 1769539842,
+    "description": "Find and add Nx plugins. USE WHEN user wants to discover available plugins, install a new plugin, or add support for a specific framework or technology to the workspace."
+  },
+  "github": {
+    "owner": "nrwl",
+    "repo": "nx",
+    "ref": "master",
+    "relativePath": ".cursor/skills/nx-plugins",
+    "sourceUrl": "https://github.com/nrwl/nx/tree/master/.cursor/skills/nx-plugins"
+  }
+}

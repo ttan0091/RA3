@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 36,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 36,
+    "id": "openclaw-openclaw-skills-nano-pdf-skill-md",
+    "name": "nano-pdf",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-nano-pdf-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Edit PDFs with natural-language instructions using the nano-pdf CLI."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/nano-pdf",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/nano-pdf"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 569,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 569,
+    "id": "stpcoder-kakao-terminal-claude-skills-kakao-refresh-skill-md",
+    "name": "kakao-refresh",
+    "author": "stpcoder",
+    "stars": 2,
+    "githubUrl": "https://github.com/stpcoder/kakao-terminal/tree/main/.claude/skills/kakao-refresh",
+    "skillUrl": "https://skillsmp.com/skills/stpcoder-kakao-terminal-claude-skills-kakao-refresh-skill-md",
+    "updatedAt": 1769504043,
+    "description": "카카오톡 메시지 새로고침. \"카톡 새로고침\", \"리프레시\", \"kakao refresh\", \"KakaoTalk reload\" 시 사용."
+  },
+  "github": {
+    "owner": "stpcoder",
+    "repo": "kakao-terminal",
+    "ref": "main",
+    "relativePath": ".claude/skills/kakao-refresh",
+    "sourceUrl": "https://github.com/stpcoder/kakao-terminal/tree/main/.claude/skills/kakao-refresh"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 37,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 37,
+    "id": "openclaw-openclaw-skills-notion-skill-md",
+    "name": "notion",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/notion",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-notion-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Notion API for creating and managing pages, databases, and blocks."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/notion",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/notion"
+  }
+}

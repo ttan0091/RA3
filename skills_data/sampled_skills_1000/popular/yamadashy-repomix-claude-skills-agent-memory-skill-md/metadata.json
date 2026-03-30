@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 559,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 559,
+    "id": "yamadashy-repomix-claude-skills-agent-memory-skill-md",
+    "name": "agent-memory",
+    "author": "yamadashy",
+    "stars": 21805,
+    "githubUrl": "https://github.com/yamadashy/repomix/tree/main/.claude/skills/agent-memory",
+    "skillUrl": "https://skillsmp.com/skills/yamadashy-repomix-claude-skills-agent-memory-skill-md",
+    "updatedAt": 1768150599,
+    "description": "Use this skill when the user asks to save, remember, recall, or organize memories. Triggers on: 'remember this', 'save this', 'note this', 'what did we discuss about...', 'check your notes', 'clean up memories'. Also use proactively when discovering valuable findings worth preserving."
+  },
+  "github": {
+    "owner": "yamadashy",
+    "repo": "repomix",
+    "ref": "main",
+    "relativePath": ".claude/skills/agent-memory",
+    "sourceUrl": "https://github.com/yamadashy/repomix/tree/main/.claude/skills/agent-memory"
+  }
+}

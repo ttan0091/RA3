@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 593,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 593,
+    "id": "thesethrose-peptidecalc-github-skills-marketing-content-strategy-skill-md",
+    "name": "content-strategy",
+    "author": "TheSethRose",
+    "stars": 0,
+    "githubUrl": "https://github.com/TheSethRose/PeptideCalc/tree/main/.github/skills/marketing/content-strategy",
+    "skillUrl": "https://skillsmp.com/skills/thesethrose-peptidecalc-github-skills-marketing-content-strategy-skill-md",
+    "updatedAt": 1770515498,
+    "description": "When the user wants to plan a content strategy, decide what content to create, or figure out what topics to cover. Also use when the user mentions \"content strategy,\" \"what should I write about,\" \"content ideas,\" \"blog strategy,\" \"topic clusters,\" or \"content planning.\" For writing individual pieces, see copywriting. For SEO-specific audits, see seo-audit."
+  },
+  "github": {
+    "owner": "TheSethRose",
+    "repo": "PeptideCalc",
+    "ref": "main",
+    "relativePath": ".github/skills/marketing/content-strategy",
+    "sourceUrl": "https://github.com/TheSethRose/PeptideCalc/tree/main/.github/skills/marketing/content-strategy"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 84,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 84,
+    "id": "pytorch-pytorch-claude-skills-docstring-skill-md",
+    "name": "docstring",
+    "author": "pytorch",
+    "stars": 97306,
+    "githubUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/docstring",
+    "skillUrl": "https://skillsmp.com/skills/pytorch-pytorch-claude-skills-docstring-skill-md",
+    "updatedAt": 1761670167,
+    "description": "Write docstrings for PyTorch functions and methods following PyTorch conventions. Use when writing or updating docstrings in PyTorch code."
+  },
+  "github": {
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "ref": "main",
+    "relativePath": ".claude/skills/docstring",
+    "sourceUrl": "https://github.com/pytorch/pytorch/tree/main/.claude/skills/docstring"
+  }
+}

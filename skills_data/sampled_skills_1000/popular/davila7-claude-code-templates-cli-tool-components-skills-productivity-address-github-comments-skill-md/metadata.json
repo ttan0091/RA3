@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 992,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 992,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-address-github-comments-skill-md",
+    "name": "address-github-comments",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/address-github-comments",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-address-github-comments-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/address-github-comments",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/address-github-comments"
+  }
+}

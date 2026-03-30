@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 476,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 476,
+    "id": "duclm1x1-dive-ai-skills-library-transportation-jwdiario-skill-md",
+    "name": "jwdiario",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/transportation/jwdiario",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-transportation-jwdiario-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Buscar y obtener el texto diario de la página oficial de los Testigos de Jehová en español (wol.jw.org/es/). Utiliza web_fetch para acceder al contenido y extraer el texto del día actual. Use cuando se solicite el texto diario de JW o contenido bíblico diario de fuentes JW."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/transportation/jwdiario",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/transportation/jwdiario"
+  }
+}

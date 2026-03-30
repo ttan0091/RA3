@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 943,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 943,
+    "id": "dcasota-photonos-scripts-habv4simulationenvironment-factory-skills-habv4-context-summarizer-skill-md",
+    "name": "habv4-context-summarizer",
+    "author": "dcasota",
+    "stars": 5,
+    "githubUrl": "https://github.com/dcasota/photonos-scripts/tree/master/HABv4SimulationEnvironment/.factory/skills/habv4-context-summarizer",
+    "skillUrl": "https://skillsmp.com/skills/dcasota-photonos-scripts-habv4simulationenvironment-factory-skills-habv4-context-summarizer-skill-md",
+    "updatedAt": 1769948544,
+    "description": "Creates lightweight, structured summaries of files and directories to dramatically reduce token usage."
+  },
+  "github": {
+    "owner": "dcasota",
+    "repo": "photonos-scripts",
+    "ref": "master",
+    "relativePath": "HABv4SimulationEnvironment/.factory/skills/habv4-context-summarizer",
+    "sourceUrl": "https://github.com/dcasota/photonos-scripts/tree/master/HABv4SimulationEnvironment/.factory/skills/habv4-context-summarizer"
+  }
+}

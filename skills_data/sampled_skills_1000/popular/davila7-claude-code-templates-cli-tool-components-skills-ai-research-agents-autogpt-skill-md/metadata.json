@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 632,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 632,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-agents-autogpt-skill-md",
+    "name": "autogpt-agents",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-autogpt",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-agents-autogpt-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, deploying persistent autonomous agents, or building complex multi-step AI automation systems."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/agents-autogpt",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/agents-autogpt"
+  }
+}

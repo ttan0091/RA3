@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 417,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 417,
+    "id": "wshobson-agents-plugins-documentation-generation-skills-architecture-decision-records-skill-md",
+    "name": "architecture-decision-records",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/architecture-decision-records",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-documentation-generation-skills-architecture-decision-records-skill-md",
+    "updatedAt": 1768860423,
+    "description": "Write and maintain Architecture Decision Records (ADRs) following best practices for technical decision documentation. Use when documenting significant technical decisions, reviewing past architectural choices, or establishing decision processes."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/documentation-generation/skills/architecture-decision-records",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/documentation-generation/skills/architecture-decision-records"
+  }
+}

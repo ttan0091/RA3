@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 700,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 700,
+    "id": "openclaw-skills-skills-icemilo414-cognitive-memory-skill-md",
+    "name": "cognitive-memory",
+    "author": "openclaw",
+    "stars": 834,
+    "githubUrl": "https://github.com/openclaw/skills/tree/main/skills/icemilo414/cognitive-memory",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-skills-skills-icemilo414-cognitive-memory-skill-md",
+    "updatedAt": 1770224563,
+    "description": "Intelligent multi-store memory system with human-like encoding, consolidation, decay, and recall. Use when setting up agent memory, configuring remember/forget triggers, enabling sleep-time reflection, building knowledge graphs, or adding audit trails. Replaces basic flat-file memory with a cognitive architecture featuring episodic, semantic, procedural, and core memory stores. Supports multi-agent systems with shared read, gated write access model. Includes philosophical meta-reflection that deepens understanding over time. Covers MEMORY.md, episode logging, entity graphs, decay scoring, reflection cycles, evolution tracking, and system-wide audit."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "skills/icemilo414/cognitive-memory",
+    "sourceUrl": "https://github.com/openclaw/skills/tree/main/skills/icemilo414/cognitive-memory"
+  }
+}

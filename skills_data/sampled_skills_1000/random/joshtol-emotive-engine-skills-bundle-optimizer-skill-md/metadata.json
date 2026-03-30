@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 411,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 411,
+    "id": "joshtol-emotive-engine-skills-bundle-optimizer-skill-md",
+    "name": "bundle-optimizer",
+    "author": "joshtol",
+    "stars": 11,
+    "githubUrl": "https://github.com/joshtol/emotive-engine/tree/main/skills/bundle-optimizer",
+    "skillUrl": "https://skillsmp.com/skills/joshtol-emotive-engine-skills-bundle-optimizer-skill-md",
+    "updatedAt": 1761079145,
+    "description": "Analyze and reduce bundle size, implement code splitting, optimize dependencies, and improve build performance. Use when bundle is too large, load times are slow, or implementing progressive loading."
+  },
+  "github": {
+    "owner": "joshtol",
+    "repo": "emotive-engine",
+    "ref": "main",
+    "relativePath": "skills/bundle-optimizer",
+    "sourceUrl": "https://github.com/joshtol/emotive-engine/tree/main/skills/bundle-optimizer"
+  }
+}

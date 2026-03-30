@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 654,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 654,
+    "id": "cyotee-compound-v3-comet-skill-opencode-skills-comet-bulker-skill-md",
+    "name": "comet-bulker",
+    "author": "cyotee",
+    "stars": 0,
+    "githubUrl": "https://github.com/cyotee/compound-V3-comet-skill/tree/main/.opencode/skills/comet-bulker",
+    "skillUrl": "https://skillsmp.com/skills/cyotee-compound-v3-comet-skill-opencode-skills-comet-bulker-skill-md",
+    "updatedAt": 1769561217,
+    "description": "This skill should be used when the user asks about \"Bulker\", \"batch operations\", \"invoke\", \"native token\", \"wrap ETH\", \"multicall\", or needs to understand Comet's batching functionality."
+  },
+  "github": {
+    "owner": "cyotee",
+    "repo": "compound-V3-comet-skill",
+    "ref": "main",
+    "relativePath": ".opencode/skills/comet-bulker",
+    "sourceUrl": "https://github.com/cyotee/compound-V3-comet-skill/tree/main/.opencode/skills/comet-bulker"
+  }
+}

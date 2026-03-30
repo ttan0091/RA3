@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 889,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 889,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-moodle-external-api-development-skill-md",
+    "name": "moodle-external-api-development",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/moodle-external-api-development",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-moodle-external-api-development-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Create custom external web service APIs for Moodle LMS. Use when implementing web services for course management, user tracking, quiz operations, or custom plugin functionality. Covers parameter validation, database operations, error handling, service registration, and Moodle coding standards."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/moodle-external-api-development",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/moodle-external-api-development"
+  }
+}

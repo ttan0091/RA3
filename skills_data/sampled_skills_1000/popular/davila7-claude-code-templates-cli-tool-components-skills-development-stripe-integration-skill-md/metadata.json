@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 937,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 937,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-stripe-integration-skill-md",
+    "name": "stripe-integration",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/stripe-integration",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-stripe-integration-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Get paid from day one. Payments, subscriptions, billing portal, webhooks, metered billing, Stripe Connect. The complete guide to implementing Stripe correctly, including all the edge cases that will bite you at 3am.  This isn't just API calls - it's the full payment system: handling failures, managing subscriptions, dealing with dunning, and keeping revenue flowing. Use when: stripe, payments, subscription, billing, checkout."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/stripe-integration",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/stripe-integration"
+  }
+}

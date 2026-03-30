@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 556,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 556,
+    "id": "sabinows-dojoagentes-agent-skills-marp-slides-creator-skill-md",
+    "name": "criador-de-slides-marp",
+    "author": "SabinoWS",
+    "stars": 0,
+    "githubUrl": "https://github.com/SabinoWS/dojoAgentes/tree/master/.agent/skills/marp-slides-creator",
+    "skillUrl": "https://skillsmp.com/skills/sabinows-dojoagentes-agent-skills-marp-slides-creator-skill-md",
+    "updatedAt": 1769049077,
+    "description": "Guia especialista para criar apresentações de alta qualidade e visualmente agradáveis usando Marp (Markdown)."
+  },
+  "github": {
+    "owner": "SabinoWS",
+    "repo": "dojoAgentes",
+    "ref": "master",
+    "relativePath": ".agent/skills/marp-slides-creator",
+    "sourceUrl": "https://github.com/SabinoWS/dojoAgentes/tree/master/.agent/skills/marp-slides-creator"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 644,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 644,
+    "id": "gonglingrui-screen-creative-skills-category-workflow-drama-workflow-skill-md",
+    "name": "drama-workflow",
+    "author": "GongLingRui",
+    "stars": 21,
+    "githubUrl": "https://github.com/GongLingRui/screen-creative-skills/tree/master/category/workflow/drama-workflow",
+    "skillUrl": "https://skillsmp.com/skills/gonglingrui-screen-creative-skills-category-workflow-drama-workflow-skill-md",
+    "updatedAt": 1769194228,
+    "description": "协调情节点戏剧功能分析流程，管理文本预处理、并行分析、结果整合。适用于长文本的情节点和戏剧功能分析、需要结构化分析报告的场景"
+  },
+  "github": {
+    "owner": "GongLingRui",
+    "repo": "screen-creative-skills",
+    "ref": "master",
+    "relativePath": "category/workflow/drama-workflow",
+    "sourceUrl": "https://github.com/GongLingRui/screen-creative-skills/tree/master/category/workflow/drama-workflow"
+  }
+}

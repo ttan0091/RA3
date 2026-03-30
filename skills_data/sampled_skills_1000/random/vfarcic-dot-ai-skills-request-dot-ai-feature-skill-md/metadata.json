@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 848,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 848,
+    "id": "vfarcic-dot-ai-skills-request-dot-ai-feature-skill-md",
+    "name": "request-dot-ai-feature",
+    "author": "vfarcic",
+    "stars": 0,
+    "githubUrl": "https://github.com/vfarcic/dot-ai-skills/tree/main/request-dot-ai-feature",
+    "skillUrl": "https://skillsmp.com/skills/vfarcic-dot-ai-skills-request-dot-ai-feature-skill-md",
+    "updatedAt": 1769653119,
+    "description": "Generate a feature request prompt for another dot-ai project. Use when you need a feature implemented in a sibling project (MCP server, controller, etc.) to unblock work in the current project."
+  },
+  "github": {
+    "owner": "vfarcic",
+    "repo": "dot-ai-skills",
+    "ref": "main",
+    "relativePath": "request-dot-ai-feature",
+    "sourceUrl": "https://github.com/vfarcic/dot-ai-skills/tree/main/request-dot-ai-feature"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 993,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 993,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-productivity-commit-work-skill-md",
+    "name": "commit-work",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/commit-work",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-productivity-commit-work-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Create high-quality git commits: review/stage intended changes, split into logical commits, and write clear commit messages (including Conventional Commits). Use when the user asks to commit, craft a commit message, stage changes, or split work into multiple commits."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/productivity/commit-work",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/productivity/commit-work"
+  }
+}

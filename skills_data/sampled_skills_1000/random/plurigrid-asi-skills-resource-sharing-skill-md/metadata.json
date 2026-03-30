@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 721,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 721,
+    "id": "plurigrid-asi-skills-resource-sharing-skill-md",
+    "name": "resource-sharing",
+    "author": "plurigrid",
+    "stars": 6,
+    "githubUrl": "https://github.com/plurigrid/asi/tree/main/skills/resource-sharing",
+    "skillUrl": "https://skillsmp.com/skills/plurigrid-asi-skills-resource-sharing-skill-md",
+    "updatedAt": 1767317816,
+    "description": "Resource Sharing Skill"
+  },
+  "github": {
+    "owner": "plurigrid",
+    "repo": "asi",
+    "ref": "main",
+    "relativePath": "skills/resource-sharing",
+    "sourceUrl": "https://github.com/plurigrid/asi/tree/main/skills/resource-sharing"
+  }
+}

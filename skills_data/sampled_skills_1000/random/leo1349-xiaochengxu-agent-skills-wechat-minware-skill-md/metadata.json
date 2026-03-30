@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 868,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 868,
+    "id": "leo1349-xiaochengxu-agent-skills-wechat-minware-skill-md",
+    "name": "wechat-minware",
+    "author": "Leo1349",
+    "stars": 0,
+    "githubUrl": "https://github.com/Leo1349/xiaochengxu/tree/master/.agent/skills/wechat-minware",
+    "skillUrl": "https://skillsmp.com/skills/leo1349-xiaochengxu-agent-skills-wechat-minware-skill-md",
+    "updatedAt": 1768911184,
+    "description": "Build, review, and refactor WeChat Mini Program (微信小程序) frontends. Use for tasks like WXML/WXSS/JS/TS structure, page routing, componentization, state management patterns, API requests, login/openid flows integration points, performance optimization (setData), security/privacy compliance, and release/QA checklists."
+  },
+  "github": {
+    "owner": "Leo1349",
+    "repo": "xiaochengxu",
+    "ref": "master",
+    "relativePath": ".agent/skills/wechat-minware",
+    "sourceUrl": "https://github.com/Leo1349/xiaochengxu/tree/master/.agent/skills/wechat-minware"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 962,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 962,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-data-privacy-compliance-skill-md",
+    "name": "data-privacy-compliance",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/data-privacy-compliance",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-data-privacy-compliance-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Data privacy and regulatory compliance specialist for GDPR, CCPA, HIPAA, and international data protection laws. Use when implementing privacy controls, conducting data protection impact assessments, ensuring regulatory compliance, or managing data subject rights. Expert in consent management, data minimization, and privacy-by-design principles."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/data-privacy-compliance",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/data-privacy-compliance"
+  }
+}

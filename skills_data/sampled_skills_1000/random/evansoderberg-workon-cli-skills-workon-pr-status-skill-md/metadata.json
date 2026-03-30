@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 128,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 128,
+    "id": "evansoderberg-workon-cli-skills-workon-pr-status-skill-md",
+    "name": "workon-pr-status",
+    "author": "evansoderberg",
+    "stars": 3,
+    "githubUrl": "https://github.com/evansoderberg/workon-cli/tree/main/skills/workon-pr-status",
+    "skillUrl": "https://skillsmp.com/skills/evansoderberg-workon-cli-skills-workon-pr-status-skill-md",
+    "updatedAt": 1769480408,
+    "description": "Check the status of a pull request including CI checks and approvals."
+  },
+  "github": {
+    "owner": "evansoderberg",
+    "repo": "workon-cli",
+    "ref": "main",
+    "relativePath": "skills/workon-pr-status",
+    "sourceUrl": "https://github.com/evansoderberg/workon-cli/tree/main/skills/workon-pr-status"
+  }
+}

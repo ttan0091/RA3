@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 157,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 157,
+    "id": "leonardomso-33-js-concepts-claude-skills-resource-curator-skill-md",
+    "name": "resource-curator",
+    "author": "leonardomso",
+    "stars": 66250,
+    "githubUrl": "https://github.com/leonardomso/33-js-concepts/tree/master/.claude/skills/resource-curator",
+    "skillUrl": "https://skillsmp.com/skills/leonardomso-33-js-concepts-claude-skills-resource-curator-skill-md",
+    "updatedAt": 1769191334,
+    "description": "Find, evaluate, and maintain high-quality external resources for JavaScript concept documentation, including auditing for broken and outdated links"
+  },
+  "github": {
+    "owner": "leonardomso",
+    "repo": "33-js-concepts",
+    "ref": "master",
+    "relativePath": ".claude/skills/resource-curator",
+    "sourceUrl": "https://github.com/leonardomso/33-js-concepts/tree/master/.claude/skills/resource-curator"
+  }
+}

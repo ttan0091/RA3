@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 668,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 668,
+    "id": "duclm1x1-dive-ai-skills-library-productivity-tasks-skill-hexmem-skill-md",
+    "name": "hexmem",
+    "author": "duclm1x1",
+    "stars": 0,
+    "githubUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/productivity_tasks/skill-hexmem",
+    "skillUrl": "https://skillsmp.com/skills/duclm1x1-dive-ai-skills-library-productivity-tasks-skill-hexmem-skill-md",
+    "updatedAt": 1770745846,
+    "description": "Structured memory database for AI agent identity, tasks, events, lessons, and persistent continuity. Use whenever the user says remember this, log this, track this, what should I do next, recap, summarize, what changed, or when you need to store/retrieve decisions, incidents, fleet ops notes, reminders, TODOs, goals, values, or facts about people/systems/projects across sessions."
+  },
+  "github": {
+    "owner": "duclm1x1",
+    "repo": "Dive-Ai",
+    "ref": "main",
+    "relativePath": "skills_library/productivity_tasks/skill-hexmem",
+    "sourceUrl": "https://github.com/duclm1x1/Dive-Ai/tree/main/skills_library/productivity_tasks/skill-hexmem"
+  }
+}

@@ -1,0 +1,23 @@
+--- Input ---
+From: user@example.com
+To: draft@ainbox.io
+Subject: Need a follow-up email
+
+I had a job interview last Tuesday with the hiring manager at Acme Corp.
+It went well and I want to send a thank-you follow-up. The role is
+Senior Product Manager. Her name is Lisa Chen.
+
+
+--- Expected output ---
+Subject: Thank you — Senior Product Manager conversation
+
+Hi Lisa,
+
+Thank you for taking the time to meet with me last Tuesday. I really enjoyed learning more about the Senior Product Manager role and the team's priorities at Acme Corp.
+
+Our conversation reinforced my excitement about the opportunity — particularly [specific topic you discussed]. I'm confident my experience in [relevant area] would allow me to contribute meaningfully from day one.
+
+Please don't hesitate to reach out if you need any additional information. I look forward to hearing about next steps.
+
+Best regards,
+[Your Name]

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 791,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 791,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-creative-design-develop-web-game-skill-md",
+    "name": "develop-web-game",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/develop-web-game",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-creative-design-develop-web-game-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Use when Codex is building or iterating on a web game (HTML/JS) and needs a reliable development + testing loop: implement small changes, run a Playwright-based test script with short input bursts and intentional pauses, inspect screenshots/text, and review console errors with render_game_to_text."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/creative-design/develop-web-game",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/develop-web-game"
+  }
+}

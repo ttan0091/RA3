@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 581,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 581,
+    "id": "mastra-ai-mastra-examples-unified-workspace-skills-customer-support-skill-md",
+    "name": "customer-support",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/skills/customer-support",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-examples-unified-workspace-skills-customer-support-skill-md",
+    "updatedAt": 1769718852,
+    "description": "Guidelines for handling customer support interactions. Use when responding to user inquiries, troubleshooting issues, or escalating problems."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": "examples/unified-workspace/skills/customer-support",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/skills/customer-support"
+  }
+}

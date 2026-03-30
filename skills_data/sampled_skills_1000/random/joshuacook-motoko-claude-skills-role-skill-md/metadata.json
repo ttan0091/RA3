@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 752,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 752,
+    "id": "joshuacook-motoko-claude-skills-role-skill-md",
+    "name": "role",
+    "author": "joshuacook",
+    "stars": 1,
+    "githubUrl": "https://github.com/joshuacook/motoko/tree/main/.claude/skills/role",
+    "skillUrl": "https://skillsmp.com/skills/joshuacook-motoko-claude-skills-role-skill-md",
+    "updatedAt": 1766270670,
+    "description": "Load specific role(s) for focused work. Use when user says \"role [name]\" or wants to work with specific roles. Supports single or multiple roles."
+  },
+  "github": {
+    "owner": "joshuacook",
+    "repo": "motoko",
+    "ref": "main",
+    "relativePath": ".claude/skills/role",
+    "sourceUrl": "https://github.com/joshuacook/motoko/tree/main/.claude/skills/role"
+  }
+}

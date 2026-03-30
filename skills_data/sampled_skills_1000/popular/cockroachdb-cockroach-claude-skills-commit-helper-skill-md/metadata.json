@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 351,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 351,
+    "id": "cockroachdb-cockroach-claude-skills-commit-helper-skill-md",
+    "name": "commit-helper",
+    "author": "cockroachdb",
+    "stars": 31833,
+    "githubUrl": "https://github.com/cockroachdb/cockroach/tree/master/.claude/skills/commit-helper",
+    "skillUrl": "https://skillsmp.com/skills/cockroachdb-cockroach-claude-skills-commit-helper-skill-md",
+    "updatedAt": 1765224092,
+    "description": "Help create git commits and PRs with properly formatted messages and release notes following CockroachDB conventions. Use when committing changes or creating pull requests."
+  },
+  "github": {
+    "owner": "cockroachdb",
+    "repo": "cockroach",
+    "ref": "master",
+    "relativePath": ".claude/skills/commit-helper",
+    "sourceUrl": "https://github.com/cockroachdb/cockroach/tree/master/.claude/skills/commit-helper"
+  }
+}

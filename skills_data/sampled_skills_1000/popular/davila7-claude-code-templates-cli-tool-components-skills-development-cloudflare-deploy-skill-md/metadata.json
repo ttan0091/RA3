@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 850,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 850,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-cloudflare-deploy-skill-md",
+    "name": "cloudflare-deploy",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cloudflare-deploy",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-cloudflare-deploy-skill-md",
+    "updatedAt": 1770514388,
+    "description": "Deploy applications and infrastructure to Cloudflare using Workers, Pages, and related platform services. Use when the user asks to deploy, host, publish, or set up a project on Cloudflare."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/cloudflare-deploy",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/cloudflare-deploy"
+  }
+}

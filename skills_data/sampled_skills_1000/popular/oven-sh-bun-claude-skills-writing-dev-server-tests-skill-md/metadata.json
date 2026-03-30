@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 117,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 117,
+    "id": "oven-sh-bun-claude-skills-writing-dev-server-tests-skill-md",
+    "name": "writing-dev-server-tests",
+    "author": "oven-sh",
+    "stars": 87226,
+    "githubUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/writing-dev-server-tests",
+    "skillUrl": "https://skillsmp.com/skills/oven-sh-bun-claude-skills-writing-dev-server-tests-skill-md",
+    "updatedAt": 1766648246,
+    "description": "Guides writing HMR/Dev Server tests in test/bake/. Use when creating or modifying dev server, hot reloading, or bundling tests."
+  },
+  "github": {
+    "owner": "oven-sh",
+    "repo": "bun",
+    "ref": "main",
+    "relativePath": ".claude/skills/writing-dev-server-tests",
+    "sourceUrl": "https://github.com/oven-sh/bun/tree/main/.claude/skills/writing-dev-server-tests"
+  }
+}

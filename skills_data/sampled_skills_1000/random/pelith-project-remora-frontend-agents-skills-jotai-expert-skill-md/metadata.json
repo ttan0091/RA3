@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 780,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 780,
+    "id": "pelith-project-remora-frontend-agents-skills-jotai-expert-skill-md",
+    "name": "jotai-expert",
+    "author": "pelith",
+    "stars": 0,
+    "githubUrl": "https://github.com/pelith/Project-Remora-Frontend/tree/main/.agents/skills/jotai-expert",
+    "skillUrl": "https://skillsmp.com/skills/pelith-project-remora-frontend-agents-skills-jotai-expert-skill-md",
+    "updatedAt": 1770027882,
+    "description": "Expert guidance for Jotai state management in React applications. Provides best practices, performance optimization, and architectural patterns. Use when designing atom structures, implementing state management, optimizing re-renders, handling async state, integrating with TypeScript, or reviewing Jotai code for performance issues. Triggers on tasks involving Jotai atoms, derived state, focusAtom, splitAtom, atomFamily, or state management architecture decisions."
+  },
+  "github": {
+    "owner": "pelith",
+    "repo": "Project-Remora-Frontend",
+    "ref": "main",
+    "relativePath": ".agents/skills/jotai-expert",
+    "sourceUrl": "https://github.com/pelith/Project-Remora-Frontend/tree/main/.agents/skills/jotai-expert"
+  }
+}

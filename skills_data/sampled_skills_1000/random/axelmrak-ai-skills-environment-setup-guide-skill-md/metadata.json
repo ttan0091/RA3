@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 390,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 390,
+    "id": "axelmrak-ai-skills-environment-setup-guide-skill-md",
+    "name": "environment-setup-guide",
+    "author": "AxelMrak",
+    "stars": 5,
+    "githubUrl": "https://github.com/AxelMrak/ai/tree/main/skills/environment-setup-guide",
+    "skillUrl": "https://skillsmp.com/skills/axelmrak-ai-skills-environment-setup-guide-skill-md",
+    "updatedAt": 1769375026,
+    "description": "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
+  },
+  "github": {
+    "owner": "AxelMrak",
+    "repo": "ai",
+    "ref": "main",
+    "relativePath": "skills/environment-setup-guide",
+    "sourceUrl": "https://github.com/AxelMrak/ai/tree/main/skills/environment-setup-guide"
+  }
+}

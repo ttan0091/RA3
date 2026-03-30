@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 391,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 391,
+    "id": "mbrock-filnix-claude-skills-gem-port-skill-md",
+    "name": "gem-port",
+    "author": "mbrock",
+    "stars": 79,
+    "githubUrl": "https://github.com/mbrock/filnix/tree/main/.claude/skills/gem-port",
+    "skillUrl": "https://skillsmp.com/skills/mbrock-filnix-claude-skills-gem-port-skill-md",
+    "updatedAt": 1764812717,
+    "description": "Port Ruby gems with native C extensions to Fil-C. Use when fixing gem compilation errors, VALUE/int type mismatches, rb_attr/rb_protect issues, or using ast-grep for Ruby C extensions."
+  },
+  "github": {
+    "owner": "mbrock",
+    "repo": "filnix",
+    "ref": "main",
+    "relativePath": ".claude/skills/gem-port",
+    "sourceUrl": "https://github.com/mbrock/filnix/tree/main/.claude/skills/gem-port"
+  }
+}

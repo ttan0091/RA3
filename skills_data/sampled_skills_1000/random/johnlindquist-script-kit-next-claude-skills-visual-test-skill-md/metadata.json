@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 150,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 150,
+    "id": "johnlindquist-script-kit-next-claude-skills-visual-test-skill-md",
+    "name": "visual-test",
+    "author": "johnlindquist",
+    "stars": 19,
+    "githubUrl": "https://github.com/johnlindquist/script-kit-next/tree/main/.claude/skills/visual-test",
+    "skillUrl": "https://skillsmp.com/skills/johnlindquist-script-kit-next-claude-skills-visual-test-skill-md",
+    "updatedAt": 1770415799,
+    "description": "Visual iteration workflow for Script Kit GPUI. Use when making UI changes that need visual verification — focus indicators, colors, layout, shadows, spacing. Covers the named-pipe test pattern, captureWindow screenshots, and the build-capture-verify loop."
+  },
+  "github": {
+    "owner": "johnlindquist",
+    "repo": "script-kit-next",
+    "ref": "main",
+    "relativePath": ".claude/skills/visual-test",
+    "sourceUrl": "https://github.com/johnlindquist/script-kit-next/tree/main/.claude/skills/visual-test"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 373,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 373,
+    "id": "aiyuekuang-llmproxy-windsurf-skills-docker-skill-md",
+    "name": "docker",
+    "author": "aiyuekuang",
+    "stars": 9,
+    "githubUrl": "https://github.com/aiyuekuang/LLMProxy/tree/main/.windsurf/skills/docker",
+    "skillUrl": "https://skillsmp.com/skills/aiyuekuang-llmproxy-windsurf-skills-docker-skill-md",
+    "updatedAt": 1769003417,
+    "description": "Docker and containerization best practices. Use for Dockerfile creation, docker-compose, multi-stage builds, and container optimization."
+  },
+  "github": {
+    "owner": "aiyuekuang",
+    "repo": "LLMProxy",
+    "ref": "main",
+    "relativePath": ".windsurf/skills/docker",
+    "sourceUrl": "https://github.com/aiyuekuang/LLMProxy/tree/main/.windsurf/skills/docker"
+  }
+}

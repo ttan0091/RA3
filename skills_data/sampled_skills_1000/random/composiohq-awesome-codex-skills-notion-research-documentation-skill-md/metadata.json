@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 884,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 884,
+    "id": "composiohq-awesome-codex-skills-notion-research-documentation-skill-md",
+    "name": "notion-research-documentation",
+    "author": "ComposioHQ",
+    "stars": 291,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-codex-skills/tree/master/notion-research-documentation",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-codex-skills-notion-research-documentation-skill-md",
+    "updatedAt": 1768454424,
+    "description": "Research across Notion and synthesize into structured documentation; use when gathering info from multiple Notion sources to produce briefs, comparisons, or reports with citations."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-codex-skills",
+    "ref": "master",
+    "relativePath": "notion-research-documentation",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-codex-skills/tree/master/notion-research-documentation"
+  }
+}

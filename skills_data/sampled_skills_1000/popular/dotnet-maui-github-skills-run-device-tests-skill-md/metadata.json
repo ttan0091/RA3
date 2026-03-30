@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 545,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 545,
+    "id": "dotnet-maui-github-skills-run-device-tests-skill-md",
+    "name": "run-device-tests",
+    "author": "dotnet",
+    "stars": 23166,
+    "githubUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/run-device-tests",
+    "skillUrl": "https://skillsmp.com/skills/dotnet-maui-github-skills-run-device-tests-skill-md",
+    "updatedAt": 1769600671,
+    "description": "Build and run .NET MAUI device tests locally with category filtering. Supports iOS, MacCatalyst, Android on macOS; Android, Windows on Windows. Use TestFilter to run specific test categories."
+  },
+  "github": {
+    "owner": "dotnet",
+    "repo": "maui",
+    "ref": "main",
+    "relativePath": ".github/skills/run-device-tests",
+    "sourceUrl": "https://github.com/dotnet/maui/tree/main/.github/skills/run-device-tests"
+  }
+}

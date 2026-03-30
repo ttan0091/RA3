@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 612,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 612,
+    "id": "github-awesome-copilot-skills-scoutqa-test-skill-md",
+    "name": "scoutqa-test",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/scoutqa-test",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-scoutqa-test-skill-md",
+    "updatedAt": 1769150941,
+    "description": "This skill should be used when the user asks to \"test this website\", \"run exploratory testing\", \"check for accessibility issues\", \"verify the login flow works\", \"find bugs on this page\", or requests automated QA testing. Triggers on web application testing scenarios including smoke tests, accessibility audits, e-commerce flows, and user flow validation using ScoutQA CLI. IMPORTANT: Use this skill proactively after implementing web application features to verify they work correctly - don't wait for the user to ask for testing."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/scoutqa-test",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/scoutqa-test"
+  }
+}

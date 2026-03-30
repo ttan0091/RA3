@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 957,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 957,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-document-processing-pdf-processing-skill-md",
+    "name": "pdf-processing",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-processing",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-document-processing-pdf-processing-skill-md",
+    "updatedAt": 1760736454,
+    "description": "Extract text and tables from PDF files, fill forms, merge documents. Use when working with PDF files or when the user mentions PDFs, forms, or document extraction."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/document-processing/pdf-processing",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/document-processing/pdf-processing"
+  }
+}

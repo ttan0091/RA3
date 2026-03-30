@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 842,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 842,
+    "id": "lojik-ng-qwen3-tts-openai-gradio-server-skills-qwen3-tts-skill-md",
+    "name": "qwen3-tts",
+    "author": "lojik-ng",
+    "stars": 2,
+    "githubUrl": "https://github.com/lojik-ng/qwen3-tts-openai-gradio-server/tree/main/skills/qwen3-tts",
+    "skillUrl": "https://skillsmp.com/skills/lojik-ng-qwen3-tts-openai-gradio-server-skills-qwen3-tts-skill-md",
+    "updatedAt": 1769772756,
+    "description": "High-quality text-to-speech generation using Qwen3-TTS with a fixed \"Lojik\" voice profile. Use this skill to convert text into natural-sounding speech for the user."
+  },
+  "github": {
+    "owner": "lojik-ng",
+    "repo": "qwen3-tts-openai-gradio-server",
+    "ref": "main",
+    "relativePath": "skills/qwen3-tts",
+    "sourceUrl": "https://github.com/lojik-ng/qwen3-tts-openai-gradio-server/tree/main/skills/qwen3-tts"
+  }
+}

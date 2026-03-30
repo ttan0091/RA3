@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 739,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 739,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-safety-alignment-llamaguard-skill-md",
+    "name": "llamaguard",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-llamaguard",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-safety-alignment-llamaguard-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - violence/hate, sexual content, weapons, substances, self-harm, criminal planning. 94-95% accuracy. Deploy with vLLM, HuggingFace, Sagemaker. Integrates with NeMo Guardrails."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/safety-alignment-llamaguard",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/safety-alignment-llamaguard"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 554,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 554,
+    "id": "bdambrosio-cognitive-workbench-src-saved-plans-test-calculate-skill-md",
+    "name": "test-calculate",
+    "author": "bdambrosio",
+    "stars": 9,
+    "githubUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-calculate",
+    "skillUrl": "https://skillsmp.com/skills/bdambrosio-cognitive-workbench-src-saved-plans-test-calculate-skill-md",
+    "updatedAt": 1768426603,
+    "description": "Tests calculate tool with arithmetic, trig, and variable substitution"
+  },
+  "github": {
+    "owner": "bdambrosio",
+    "repo": "Cognitive_workbench",
+    "ref": "main",
+    "relativePath": "src/saved_plans/test-calculate",
+    "sourceUrl": "https://github.com/bdambrosio/Cognitive_workbench/tree/main/src/saved_plans/test-calculate"
+  }
+}

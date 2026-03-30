@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 647,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 647,
+    "id": "reubenjohn-reeve-desk-claude-skills-schedule-followup-pulse-skill-md",
+    "name": "schedule-followup",
+    "author": "reubenjohn",
+    "stars": 0,
+    "githubUrl": "https://github.com/reubenjohn/reeve-desk/tree/master/.claude/skills/schedule-followup-pulse",
+    "skillUrl": "https://skillsmp.com/skills/reubenjohn-reeve-desk-claude-skills-schedule-followup-pulse-skill-md",
+    "updatedAt": 1769232226,
+    "description": "Schedule a follow-up pulse for later checking. Use when user says 'remind me', 'check back', 'follow up', something needs verification later, or waiting for a response/action. Handles both aperiodic pulses (non-hour times) and Diary entries (hour-aligned times)."
+  },
+  "github": {
+    "owner": "reubenjohn",
+    "repo": "reeve-desk",
+    "ref": "master",
+    "relativePath": ".claude/skills/schedule-followup-pulse",
+    "sourceUrl": "https://github.com/reubenjohn/reeve-desk/tree/master/.claude/skills/schedule-followup-pulse"
+  }
+}

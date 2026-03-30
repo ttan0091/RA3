@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 635,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 635,
+    "id": "resper1965-nrisk-context-skills-security-audit-skill-md",
+    "name": "security-audit",
+    "author": "resper1965",
+    "stars": 0,
+    "githubUrl": "https://github.com/resper1965/nRisk/tree/main/.context/skills/security-audit",
+    "skillUrl": "https://skillsmp.com/skills/resper1965-nrisk-context-skills-security-audit-skill-md",
+    "updatedAt": 1770242410,
+    "description": "Security review checklist for code and infrastructure"
+  },
+  "github": {
+    "owner": "resper1965",
+    "repo": "nRisk",
+    "ref": "main",
+    "relativePath": ".context/skills/security-audit",
+    "sourceUrl": "https://github.com/resper1965/nRisk/tree/main/.context/skills/security-audit"
+  }
+}

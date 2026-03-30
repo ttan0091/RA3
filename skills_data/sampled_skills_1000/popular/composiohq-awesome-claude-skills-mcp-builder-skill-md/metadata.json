@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 337,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 337,
+    "id": "composiohq-awesome-claude-skills-mcp-builder-skill-md",
+    "name": "mcp-builder",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-mcp-builder-skill-md",
+    "updatedAt": 1761135276,
+    "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "mcp-builder",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/mcp-builder"
+  }
+}

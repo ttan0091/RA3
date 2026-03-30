@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 22,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 22,
+    "id": "openclaw-openclaw-skills-coding-agent-skill-md",
+    "name": "coding-agent",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/coding-agent",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-coding-agent-skill-md",
+    "updatedAt": 1770657500,
+    "description": "Run Codex CLI, Claude Code, OpenCode, or Pi Coding Agent via background process for programmatic control."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/coding-agent",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/coding-agent"
+  }
+}

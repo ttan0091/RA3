@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 493,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 493,
+    "id": "wshobson-agents-plugins-startup-business-analyst-skills-startup-financial-modeling-skill-md",
+    "name": "startup-financial-modeling",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/startup-financial-modeling",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-startup-business-analyst-skills-startup-financial-modeling-skill-md",
+    "updatedAt": 1768860423,
+    "description": "This skill should be used when the user asks to \"create financial projections\", \"build a financial model\", \"forecast revenue\", \"calculate burn rate\", \"estimate runway\", \"model cash flow\", or requests 3-5 year financial planning for a startup."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/startup-business-analyst/skills/startup-financial-modeling",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/startup-business-analyst/skills/startup-financial-modeling"
+  }
+}

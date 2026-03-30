@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 990,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 990,
+    "id": "doanchienthangdev-omgkit-plugin-skills-frontend-shadcn-ui-skill-md",
+    "name": "building-with-shadcn",
+    "author": "doanchienthangdev",
+    "stars": 2,
+    "githubUrl": "https://github.com/doanchienthangdev/omgkit/tree/main/plugin/skills/frontend/shadcn-ui",
+    "skillUrl": "https://skillsmp.com/skills/doanchienthangdev-omgkit-plugin-skills-frontend-shadcn-ui-skill-md",
+    "updatedAt": 1767886962,
+    "description": "Claude builds accessible React UIs using shadcn/ui components with Radix primitives and React Hook Form integration. Use when creating forms, dialogs, or composable UI systems."
+  },
+  "github": {
+    "owner": "doanchienthangdev",
+    "repo": "omgkit",
+    "ref": "main",
+    "relativePath": "plugin/skills/frontend/shadcn-ui",
+    "sourceUrl": "https://github.com/doanchienthangdev/omgkit/tree/main/plugin/skills/frontend/shadcn-ui"
+  }
+}

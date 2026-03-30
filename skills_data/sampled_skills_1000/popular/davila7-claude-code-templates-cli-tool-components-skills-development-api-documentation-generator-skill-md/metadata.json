@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 828,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 828,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-api-documentation-generator-skill-md",
+    "name": "api-documentation-generator",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-documentation-generator",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-api-documentation-generator-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/api-documentation-generator",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/api-documentation-generator"
+  }
+}

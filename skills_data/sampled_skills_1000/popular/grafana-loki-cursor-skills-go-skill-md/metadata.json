@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 525,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 525,
+    "id": "grafana-loki-cursor-skills-go-skill-md",
+    "name": "go",
+    "author": "grafana",
+    "stars": 27586,
+    "githubUrl": "https://github.com/grafana/loki/tree/main/.cursor/skills/go",
+    "skillUrl": "https://skillsmp.com/skills/grafana-loki-cursor-skills-go-skill-md",
+    "updatedAt": 1769811704,
+    "description": "Best practices for working with Go codebases. Use when writing, debugging, or exploring Go code, including reading dependency sources and documentation."
+  },
+  "github": {
+    "owner": "grafana",
+    "repo": "loki",
+    "ref": "main",
+    "relativePath": ".cursor/skills/go",
+    "sourceUrl": "https://github.com/grafana/loki/tree/main/.cursor/skills/go"
+  }
+}

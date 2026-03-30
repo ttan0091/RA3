@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 517,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 517,
+    "id": "heroui-inc-heroui-skills-heroui-native-skill-md",
+    "name": "heroui-native",
+    "author": "heroui-inc",
+    "stars": 28124,
+    "githubUrl": "https://github.com/heroui-inc/heroui/tree/v3/skills/heroui-native",
+    "skillUrl": "https://skillsmp.com/skills/heroui-inc-heroui-skills-heroui-native-skill-md",
+    "updatedAt": 1769519434,
+    "description": "HeroUI Native component library for React Native (Tailwind v4 via Uniwind). Use when working with HeroUI Native components, installing HeroUI Native, customizing themes, or accessing component documentation. Keywords: HeroUI Native, heroui-native, React Native UI, Uniwind."
+  },
+  "github": {
+    "owner": "heroui-inc",
+    "repo": "heroui",
+    "ref": "v3",
+    "relativePath": "skills/heroui-native",
+    "sourceUrl": "https://github.com/heroui-inc/heroui/tree/v3/skills/heroui-native"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 768,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 768,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-business-marketing-marketing-strategy-pmm-skill-md",
+    "name": "marketing-strategy-pmm",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/marketing-strategy-pmm",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-business-marketing-marketing-strategy-pmm-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Product marketing, positioning, GTM strategy, and competitive intelligence. Includes ICP definition, April Dunford positioning methodology, launch playbooks, competitive battlecards, and international market entry guides. Use when developing positioning, planning product launches, creating messaging, analyzing competitors, entering new markets, enabling sales, or when user mentions product marketing, positioning, GTM, go-to-market, competitive analysis, market entry, or sales enablement."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/business-marketing/marketing-strategy-pmm",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/business-marketing/marketing-strategy-pmm"
+  }
+}

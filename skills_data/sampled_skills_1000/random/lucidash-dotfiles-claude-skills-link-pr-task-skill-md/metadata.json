@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 807,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 807,
+    "id": "lucidash-dotfiles-claude-skills-link-pr-task-skill-md",
+    "name": "link-pr-task",
+    "author": "lucidash",
+    "stars": 5,
+    "githubUrl": "https://github.com/lucidash/dotfiles/tree/master/claude/skills/link-pr-task",
+    "skillUrl": "https://skillsmp.com/skills/lucidash-dotfiles-claude-skills-link-pr-task-skill-md",
+    "updatedAt": 1769662790,
+    "description": "PR과 Notion 작업을 연결할 때, PR title에 LK-ID를 추가할 때, PR 생성 후 Notion 연결이 필요할 때 사용. PR이 생성된 후 Notion 개발 작업과 연결하고 싶을 때 자동으로 활성화됩니다."
+  },
+  "github": {
+    "owner": "lucidash",
+    "repo": "dotfiles",
+    "ref": "master",
+    "relativePath": "claude/skills/link-pr-task",
+    "sourceUrl": "https://github.com/lucidash/dotfiles/tree/master/claude/skills/link-pr-task"
+  }
+}

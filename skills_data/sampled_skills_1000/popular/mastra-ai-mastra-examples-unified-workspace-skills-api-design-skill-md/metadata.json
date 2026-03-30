@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 579,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 579,
+    "id": "mastra-ai-mastra-examples-unified-workspace-skills-api-design-skill-md",
+    "name": "api-design",
+    "author": "mastra-ai",
+    "stars": 20949,
+    "githubUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/skills/api-design",
+    "skillUrl": "https://skillsmp.com/skills/mastra-ai-mastra-examples-unified-workspace-skills-api-design-skill-md",
+    "updatedAt": 1769718852,
+    "description": "Guidelines for designing RESTful APIs and TypeScript interfaces. Use when designing new endpoints, reviewing API contracts, or structuring data models."
+  },
+  "github": {
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "ref": "main",
+    "relativePath": "examples/unified-workspace/skills/api-design",
+    "sourceUrl": "https://github.com/mastra-ai/mastra/tree/main/examples/unified-workspace/skills/api-design"
+  }
+}

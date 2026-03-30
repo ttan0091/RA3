@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 936,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 936,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-software-architecture-skill-md",
+    "name": "software-architecture",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/software-architecture",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-software-architecture-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software development."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/software-architecture",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/software-architecture"
+  }
+}

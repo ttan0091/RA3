@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 416,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 416,
+    "id": "zhiruifeng-localagentcrew-claude-skills-debug-skill-md",
+    "name": "debug",
+    "author": "ZhiruiFeng",
+    "stars": 1,
+    "githubUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/debug",
+    "skillUrl": "https://skillsmp.com/skills/zhiruifeng-localagentcrew-claude-skills-debug-skill-md",
+    "updatedAt": 1768522646,
+    "description": "Identifies bugs, analyzes errors, performs root cause analysis, and proposes fixes"
+  },
+  "github": {
+    "owner": "ZhiruiFeng",
+    "repo": "LocalAgentCrew",
+    "ref": "main",
+    "relativePath": ".claude/skills/debug",
+    "sourceUrl": "https://github.com/ZhiruiFeng/LocalAgentCrew/tree/main/.claude/skills/debug"
+  }
+}

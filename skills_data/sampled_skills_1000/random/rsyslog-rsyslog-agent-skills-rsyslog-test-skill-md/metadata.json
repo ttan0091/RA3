@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 615,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 615,
+    "id": "rsyslog-rsyslog-agent-skills-rsyslog-test-skill-md",
+    "name": "rsyslog-test",
+    "author": "rsyslog",
+    "stars": 2252,
+    "githubUrl": "https://github.com/rsyslog/rsyslog/tree/main/.agent/skills/rsyslog_test",
+    "skillUrl": "https://skillsmp.com/skills/rsyslog-rsyslog-agent-skills-rsyslog-test-skill-md",
+    "updatedAt": 1769271569,
+    "description": "Standardizes testing and validation for rsyslog using the diag.sh framework."
+  },
+  "github": {
+    "owner": "rsyslog",
+    "repo": "rsyslog",
+    "ref": "main",
+    "relativePath": ".agent/skills/rsyslog_test",
+    "sourceUrl": "https://github.com/rsyslog/rsyslog/tree/main/.agent/skills/rsyslog_test"
+  }
+}

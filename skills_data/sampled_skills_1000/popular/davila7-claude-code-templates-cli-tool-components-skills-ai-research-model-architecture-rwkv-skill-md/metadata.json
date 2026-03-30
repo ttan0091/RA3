@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 693,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 693,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-rwkv-skill-md",
+    "name": "rwkv-architecture",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-rwkv",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-model-architecture-rwkv-skill-md",
+    "updatedAt": 1767882269,
+    "description": "RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV cache. Train like GPT (parallel), infer like RNN (sequential). Linux Foundation AI project. Production at Windows, Office, NeMo. RWKV-7 (March 2025). Models up to 14B parameters."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/model-architecture-rwkv",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/model-architecture-rwkv"
+  }
+}

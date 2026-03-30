@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 65,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 65,
+    "id": "n8n-io-n8n-claude-skills-n8n-conventions-skill-md",
+    "name": "n8n-conventions",
+    "author": "n8n-io",
+    "stars": 173971,
+    "githubUrl": "https://github.com/n8n-io/n8n/tree/master/.claude/skills/n8n-conventions",
+    "skillUrl": "https://skillsmp.com/skills/n8n-io-n8n-claude-skills-n8n-conventions-skill-md",
+    "updatedAt": 1770374178,
+    "description": "Quick reference for n8n patterns. Full docs /AGENTS.md"
+  },
+  "github": {
+    "owner": "n8n-io",
+    "repo": "n8n",
+    "ref": "master",
+    "relativePath": ".claude/skills/n8n-conventions",
+    "sourceUrl": "https://github.com/n8n-io/n8n/tree/master/.claude/skills/n8n-conventions"
+  }
+}

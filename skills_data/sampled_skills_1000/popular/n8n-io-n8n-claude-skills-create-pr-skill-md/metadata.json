@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 64,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 64,
+    "id": "n8n-io-n8n-claude-skills-create-pr-skill-md",
+    "name": "create-pr",
+    "author": "n8n-io",
+    "stars": 173971,
+    "githubUrl": "https://github.com/n8n-io/n8n/tree/master/.claude/skills/create-pr",
+    "skillUrl": "https://skillsmp.com/skills/n8n-io-n8n-claude-skills-create-pr-skill-md",
+    "updatedAt": 1768403521,
+    "description": "Creates GitHub pull requests with properly formatted titles that pass the check-pr-title CI validation. Use when creating PRs, submitting changes for review, or when the user says /pr or asks to create a pull request."
+  },
+  "github": {
+    "owner": "n8n-io",
+    "repo": "n8n",
+    "ref": "master",
+    "relativePath": ".claude/skills/create-pr",
+    "sourceUrl": "https://github.com/n8n-io/n8n/tree/master/.claude/skills/create-pr"
+  }
+}

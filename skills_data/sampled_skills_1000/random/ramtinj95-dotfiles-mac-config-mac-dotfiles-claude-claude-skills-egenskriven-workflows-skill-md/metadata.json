@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 596,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 596,
+    "id": "ramtinj95-dotfiles-mac-config-mac-dotfiles-claude-claude-skills-egenskriven-workflows-skill-md",
+    "name": "egenskriven-workflows",
+    "author": "ramtinJ95",
+    "stars": 0,
+    "githubUrl": "https://github.com/ramtinJ95/dotfiles/tree/main/mac-config/mac-dotfiles/claude/.claude/skills/egenskriven-workflows",
+    "skillUrl": "https://skillsmp.com/skills/ramtinj95-dotfiles-mac-config-mac-dotfiles-claude-claude-skills-egenskriven-workflows-skill-md",
+    "updatedAt": 1770453961,
+    "description": "Workflow modes and agent behaviors for EgenSkriven task management. Use when configuring strict/light/minimal workflow modes, understanding autonomous/collaborative/supervised agent behaviors, or using the prime command."
+  },
+  "github": {
+    "owner": "ramtinJ95",
+    "repo": "dotfiles",
+    "ref": "main",
+    "relativePath": "mac-config/mac-dotfiles/claude/.claude/skills/egenskriven-workflows",
+    "sourceUrl": "https://github.com/ramtinJ95/dotfiles/tree/main/mac-config/mac-dotfiles/claude/.claude/skills/egenskriven-workflows"
+  }
+}

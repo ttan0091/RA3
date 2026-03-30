@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 856,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 856,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-command-creator-skill-md",
+    "name": "command-creator",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/command-creator",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-command-creator-skill-md",
+    "updatedAt": 1769302602,
+    "description": "This skill should be used when creating a Claude Code slash command. Use when users ask to \"create a command\", \"make a slash command\", \"add a command\", or want to document a workflow as a reusable command. Essential for creating optimized, agent-executable slash commands with proper structure and best practices."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/command-creator",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/command-creator"
+  }
+}

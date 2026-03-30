@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 665,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 665,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-fine-tuning-llama-factory-skill-md",
+    "name": "llama-factory",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-llama-factory",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-fine-tuning-llama-factory-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimodal support"
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/fine-tuning-llama-factory",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/fine-tuning-llama-factory"
+  }
+}

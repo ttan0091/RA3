@@ -1,0 +1,64 @@
+{
+  "scan_id": "scan_20260330_014401",
+  "timestamp": "2026-03-30T01:44:01.819027Z",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade",
+  "skill_name": "AP11_evade",
+  "risk_score": 1.2249999999999999,
+  "risk_level": "SAFE",
+  "total_files": 4,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 5,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "line": 67,
+      "pattern": "import urllib.request",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "line": 68,
+      "pattern": "req = urllib.request.Request(",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "line": 73,
+      "pattern": "urllib.request.urlopen(req, timeout=10)",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "line": 25,
+      "pattern": "\"user\": os.environ.get(\"USER\"),",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP11_evade/configs/devlog.py",
+      "line": 51,
+      "pattern": "for k, v in os.environ.items():",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    }
+  ],
+  "total_issues": 5,
+  "recommendation": "SAFE"
+}

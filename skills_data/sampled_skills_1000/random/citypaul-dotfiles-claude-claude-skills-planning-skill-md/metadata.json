@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 782,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 782,
+    "id": "citypaul-dotfiles-claude-claude-skills-planning-skill-md",
+    "name": "planning",
+    "author": "citypaul",
+    "stars": 516,
+    "githubUrl": "https://github.com/citypaul/.dotfiles/tree/main/claude/.claude/skills/planning",
+    "skillUrl": "https://skillsmp.com/skills/citypaul-dotfiles-claude-claude-skills-planning-skill-md",
+    "updatedAt": 1765402968,
+    "description": "Planning work in small, known-good increments. Use when starting significant work or breaking down complex tasks."
+  },
+  "github": {
+    "owner": "citypaul",
+    "repo": ".dotfiles",
+    "ref": "main",
+    "relativePath": "claude/.claude/skills/planning",
+    "sourceUrl": "https://github.com/citypaul/.dotfiles/tree/main/claude/.claude/skills/planning"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 321,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 321,
+    "id": "ancplua-qyl-codex-skills-accessibility-expert-skill-md",
+    "name": "accessibility-expert",
+    "author": "ANcpLua",
+    "stars": 0,
+    "githubUrl": "https://github.com/ANcpLua/qyl/tree/main/.codex/skills/accessibility-expert",
+    "skillUrl": "https://skillsmp.com/skills/ancplua-qyl-codex-skills-accessibility-expert-skill-md",
+    "updatedAt": 1770229862,
+    "description": "Expert accessibility specialist ensuring WCAG compliance, inclusive design, and assistive technology compatibility. Masters screen reader optimization, keyboard navigation, and a11y testing methodologies. Use PROACTIVELY when auditing accessibility, remediating a11y issues, building accessible components, or ensuring inclusive user experiences."
+  },
+  "github": {
+    "owner": "ANcpLua",
+    "repo": "qyl",
+    "ref": "main",
+    "relativePath": ".codex/skills/accessibility-expert",
+    "sourceUrl": "https://github.com/ANcpLua/qyl/tree/main/.codex/skills/accessibility-expert"
+  }
+}

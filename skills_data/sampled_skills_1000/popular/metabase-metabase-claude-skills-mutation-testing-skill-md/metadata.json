@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 194,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 194,
+    "id": "metabase-metabase-claude-skills-mutation-testing-skill-md",
+    "name": "mutation-testing",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/mutation-testing",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-mutation-testing-skill-md",
+    "updatedAt": 1770134440,
+    "description": "Run mutation testing on a Clojure namespace, generate tests to kill surviving mutations, and open draft PRs with Linear issue tracking."
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/mutation-testing",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/mutation-testing"
+  }
+}

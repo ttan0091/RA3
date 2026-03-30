@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 210,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 210,
+    "id": "tldraw-tldraw-claude-skills-write-tbp-skill-md",
+    "name": "write-tbp",
+    "author": "tldraw",
+    "stars": 45168,
+    "githubUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-tbp",
+    "skillUrl": "https://skillsmp.com/skills/tldraw-tldraw-claude-skills-write-tbp-skill-md",
+    "updatedAt": 1769884930,
+    "description": "Writing technical blog posts about tldraw features and implementation details. Use when creating blog content about how tldraw solves interesting problems."
+  },
+  "github": {
+    "owner": "tldraw",
+    "repo": "tldraw",
+    "ref": "main",
+    "relativePath": ".claude/skills/write-tbp",
+    "sourceUrl": "https://github.com/tldraw/tldraw/tree/main/.claude/skills/write-tbp"
+  }
+}

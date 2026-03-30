@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 310,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 310,
+    "id": "novuhq-novu-cursor-skills-run-api-e2e-tests-skill-md",
+    "name": "run-api-e2e-tests",
+    "author": "novuhq",
+    "stars": 38539,
+    "githubUrl": "https://github.com/novuhq/novu/tree/next/.cursor/skills/run-api-e2e-tests",
+    "skillUrl": "https://skillsmp.com/skills/novuhq-novu-cursor-skills-run-api-e2e-tests-skill-md",
+    "updatedAt": 1769421760,
+    "description": "Run e2e tests for the API service. Use when the user wants to run API E2E tests."
+  },
+  "github": {
+    "owner": "novuhq",
+    "repo": "novu",
+    "ref": "next",
+    "relativePath": ".cursor/skills/run-api-e2e-tests",
+    "sourceUrl": "https://github.com/novuhq/novu/tree/next/.cursor/skills/run-api-e2e-tests"
+  }
+}

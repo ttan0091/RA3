@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 636,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 636,
+    "id": "tjboudreaux-cc-plugin-unity-gamedev-skills-tools-unity-behavior-designer-skill-md",
+    "name": "tools-unity-behavior-designer",
+    "author": "tjboudreaux",
+    "stars": 0,
+    "githubUrl": "https://github.com/tjboudreaux/cc-plugin-unity-gamedev/tree/main/skills/tools-unity-behavior-designer",
+    "skillUrl": "https://skillsmp.com/skills/tjboudreaux-cc-plugin-unity-gamedev-skills-tools-unity-behavior-designer-skill-md",
+    "updatedAt": 1770350927,
+    "description": "Behavior Designer patterns for AI behavior trees including task creation, shared variables, conditionals, and debugging."
+  },
+  "github": {
+    "owner": "tjboudreaux",
+    "repo": "cc-plugin-unity-gamedev",
+    "ref": "main",
+    "relativePath": "skills/tools-unity-behavior-designer",
+    "sourceUrl": "https://github.com/tjboudreaux/cc-plugin-unity-gamedev/tree/main/skills/tools-unity-behavior-designer"
+  }
+}

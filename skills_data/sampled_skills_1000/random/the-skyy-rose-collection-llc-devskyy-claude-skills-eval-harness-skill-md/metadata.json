@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 879,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 879,
+    "id": "the-skyy-rose-collection-llc-devskyy-claude-skills-eval-harness-skill-md",
+    "name": "eval-harness",
+    "author": "The-Skyy-Rose-Collection-LLC",
+    "stars": 1,
+    "githubUrl": "https://github.com/The-Skyy-Rose-Collection-LLC/DevSkyy/tree/main/.claude/skills/eval-harness",
+    "skillUrl": "https://skillsmp.com/skills/the-skyy-rose-collection-llc-devskyy-claude-skills-eval-harness-skill-md",
+    "updatedAt": 1769636063,
+    "description": "Eval-driven development - define expected behavior before implementing."
+  },
+  "github": {
+    "owner": "The-Skyy-Rose-Collection-LLC",
+    "repo": "DevSkyy",
+    "ref": "main",
+    "relativePath": ".claude/skills/eval-harness",
+    "sourceUrl": "https://github.com/The-Skyy-Rose-Collection-LLC/DevSkyy/tree/main/.claude/skills/eval-harness"
+  }
+}

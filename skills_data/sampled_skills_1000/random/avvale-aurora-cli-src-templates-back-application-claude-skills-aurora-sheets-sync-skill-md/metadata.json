@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 988,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 988,
+    "id": "avvale-aurora-cli-src-templates-back-application-claude-skills-aurora-sheets-sync-skill-md",
+    "name": "aurora-sheets-sync",
+    "author": "avvale",
+    "stars": 2,
+    "githubUrl": "https://github.com/avvale/aurora-cli/tree/main/src/templates/back/application/.claude/skills/aurora-sheets-sync",
+    "skillUrl": "https://skillsmp.com/skills/avvale-aurora-cli-src-templates-back-application-claude-skills-aurora-sheets-sync-skill-md",
+    "updatedAt": 1770642725,
+    "description": "Bidirectional sync between Aurora YAML schemas and Google Sheets. Trigger: When syncing schemas to/from spreadsheets, push/pull commands, google sheets sync."
+  },
+  "github": {
+    "owner": "avvale",
+    "repo": "aurora-cli",
+    "ref": "main",
+    "relativePath": "src/templates/back/application/.claude/skills/aurora-sheets-sync",
+    "sourceUrl": "https://github.com/avvale/aurora-cli/tree/main/src/templates/back/application/.claude/skills/aurora-sheets-sync"
+  }
+}

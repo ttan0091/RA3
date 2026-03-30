@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 418,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 418,
+    "id": "dereknex-skills-ux-design-tips-skill-md",
+    "name": "ux-design-tips",
+    "author": "dereknex",
+    "stars": 1,
+    "githubUrl": "https://github.com/dereknex/skills/tree/main/ux-design-tips",
+    "skillUrl": "https://skillsmp.com/skills/dereknex-skills-ux-design-tips-skill-md",
+    "updatedAt": 1768441562,
+    "description": "Use when asked for UX strategy or behavior guidance on landing pages, onboarding, pricing, CTAs, social proof, personalization, login, permissions, or brand memorability."
+  },
+  "github": {
+    "owner": "dereknex",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "ux-design-tips",
+    "sourceUrl": "https://github.com/dereknex/skills/tree/main/ux-design-tips"
+  }
+}

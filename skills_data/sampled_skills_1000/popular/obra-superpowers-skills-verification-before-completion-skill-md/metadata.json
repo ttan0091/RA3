@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 185,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 185,
+    "id": "obra-superpowers-skills-verification-before-completion-skill-md",
+    "name": "verification-before-completion",
+    "author": "obra",
+    "stars": 49178,
+    "githubUrl": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion",
+    "skillUrl": "https://skillsmp.com/skills/obra-superpowers-skills-verification-before-completion-skill-md",
+    "updatedAt": 1760719236,
+    "description": "Use when about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claims; evidence before assertions always"
+  },
+  "github": {
+    "owner": "obra",
+    "repo": "superpowers",
+    "ref": "main",
+    "relativePath": "skills/verification-before-completion",
+    "sourceUrl": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion"
+  }
+}

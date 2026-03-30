@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 320,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 320,
+    "id": "tiandiyiqi-ai-skills-效率工具-发票整理器-skill-md",
+    "name": "invoice-organizer",
+    "author": "tiandiyiqi",
+    "stars": 0,
+    "githubUrl": "https://github.com/tiandiyiqi/ai-skills/tree/main/效率工具/发票整理器",
+    "skillUrl": "https://skillsmp.com/skills/tiandiyiqi-ai-skills-效率工具-发票整理器-skill-md",
+    "updatedAt": 1769394284,
+    "description": "通过读取杂乱的发票、提取关键信息、一致地重命名并将它们分类到逻辑文件夹中，自动为税务准备整理发票和收据。将数小时的手动记账工作转化为几分钟的自动化组织。"
+  },
+  "github": {
+    "owner": "tiandiyiqi",
+    "repo": "ai-skills",
+    "ref": "main",
+    "relativePath": "效率工具/发票整理器",
+    "sourceUrl": "https://github.com/tiandiyiqi/ai-skills/tree/main/效率工具/发票整理器"
+  }
+}

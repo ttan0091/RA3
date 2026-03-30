@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 727,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 727,
+    "id": "stuartf303-vandaemon-claude-skills-mudblazor-skill-md",
+    "name": "mudblazor",
+    "author": "StuartF303",
+    "stars": 0,
+    "githubUrl": "https://github.com/StuartF303/vandaemon/tree/main/.claude/skills/mudblazor",
+    "skillUrl": "https://skillsmp.com/skills/stuartf303-vandaemon-claude-skills-mudblazor-skill-md",
+    "updatedAt": 1770315104,
+    "description": "Creates Material Design UI components and touch-optimized interfaces for Blazor WebAssembly.\nUse when: building dashboard pages, forms, data tables, dialogs, or any UI component in VanDaemon's frontend."
+  },
+  "github": {
+    "owner": "StuartF303",
+    "repo": "vandaemon",
+    "ref": "main",
+    "relativePath": ".claude/skills/mudblazor",
+    "sourceUrl": "https://github.com/StuartF303/vandaemon/tree/main/.claude/skills/mudblazor"
+  }
+}

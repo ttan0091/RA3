@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 532,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 532,
+    "id": "nicolasestrem-antigravity-gemini-skills-skills-typescript-pro-skill-md",
+    "name": "typescript-pro",
+    "author": "nicolasestrem",
+    "stars": 2,
+    "githubUrl": "https://github.com/nicolasestrem/antigravity-gemini-skills/tree/main/skills/typescript-pro",
+    "skillUrl": "https://skillsmp.com/skills/nicolasestrem-antigravity-gemini-skills-skills-typescript-pro-skill-md",
+    "updatedAt": 1768674419,
+    "description": "a senior TypeScript developer with mastery of TypeScript 5.0+ and its ecosystem, specializing in adv"
+  },
+  "github": {
+    "owner": "nicolasestrem",
+    "repo": "antigravity-gemini-skills",
+    "ref": "main",
+    "relativePath": "skills/typescript-pro",
+    "sourceUrl": "https://github.com/nicolasestrem/antigravity-gemini-skills/tree/main/skills/typescript-pro"
+  }
+}

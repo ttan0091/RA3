@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 677,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 677,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-jira-skill-md",
+    "name": "jira",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/jira",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-jira-skill-md",
+    "updatedAt": 1769302602,
+    "description": "Use when the user mentions Jira issues (e.g., \"PROJ-123\"), asks about tickets, wants to create/view/update issues, check sprint status, or manage their Jira workflow. Triggers on keywords like \"jira\", \"issue\", \"ticket\", \"sprint\", \"backlog\", or issue key patterns."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/jira",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/jira"
+  }
+}

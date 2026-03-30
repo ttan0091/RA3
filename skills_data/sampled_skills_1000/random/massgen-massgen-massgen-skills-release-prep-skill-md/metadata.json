@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 442,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 442,
+    "id": "massgen-massgen-massgen-skills-release-prep-skill-md",
+    "name": "release-prep",
+    "author": "massgen",
+    "stars": 734,
+    "githubUrl": "https://github.com/massgen/MassGen/tree/main/massgen/skills/release-prep",
+    "skillUrl": "https://skillsmp.com/skills/massgen-massgen-massgen-skills-release-prep-skill-md",
+    "updatedAt": 1769621739,
+    "description": "Prepare release documentation including CHANGELOG entry, announcement text, and validation. Run before tagging a new release."
+  },
+  "github": {
+    "owner": "massgen",
+    "repo": "MassGen",
+    "ref": "main",
+    "relativePath": "massgen/skills/release-prep",
+    "sourceUrl": "https://github.com/massgen/MassGen/tree/main/massgen/skills/release-prep"
+  }
+}

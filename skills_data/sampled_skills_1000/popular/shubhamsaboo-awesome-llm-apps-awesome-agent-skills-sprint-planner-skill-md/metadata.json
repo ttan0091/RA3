@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 110,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 110,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-sprint-planner-skill-md",
+    "name": "sprint-planner",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/sprint-planner",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-sprint-planner-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Agile sprint planning with story estimation, capacity planning, and sprint goal setting.\nUse when: planning sprints, estimating stories, defining sprint goals, managing sprint backlogs,\nor when user mentions sprint planning, agile, scrum, story points, or sprint capacity."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/sprint-planner",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/sprint-planner"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 703,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 703,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-observability-phoenix-skill-md",
+    "name": "phoenix-observability",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/observability-phoenix",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-observability-phoenix-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Open-source AI observability platform for LLM tracing, evaluation, and monitoring. Use when debugging LLM applications with detailed traces, running evaluations on datasets, or monitoring production AI systems with real-time insights."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/observability-phoenix",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/observability-phoenix"
+  }
+}

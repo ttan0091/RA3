@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 876,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 876,
+    "id": "kivo360-quickhooks-claude-skills-moai-essentials-review-skill-md",
+    "name": "moai-essentials-review",
+    "author": "kivo360",
+    "stars": 1,
+    "githubUrl": "https://github.com/kivo360/quickhooks/tree/main/.claude/skills/moai-essentials-review",
+    "skillUrl": "https://skillsmp.com/skills/kivo360-quickhooks-claude-skills-moai-essentials-review-skill-md",
+    "updatedAt": 1766098645,
+    "description": "Automated code review with SOLID principles, code smells, and language-specific best practices."
+  },
+  "github": {
+    "owner": "kivo360",
+    "repo": "quickhooks",
+    "ref": "main",
+    "relativePath": ".claude/skills/moai-essentials-review",
+    "sourceUrl": "https://github.com/kivo360/quickhooks/tree/main/.claude/skills/moai-essentials-review"
+  }
+}

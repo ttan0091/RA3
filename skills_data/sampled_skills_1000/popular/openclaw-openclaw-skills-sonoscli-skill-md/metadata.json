@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 52,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 52,
+    "id": "openclaw-openclaw-skills-sonoscli-skill-md",
+    "name": "sonoscli",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/sonoscli",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-sonoscli-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Control Sonos speakers (discover/status/play/volume/group)."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/sonoscli",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/sonoscli"
+  }
+}

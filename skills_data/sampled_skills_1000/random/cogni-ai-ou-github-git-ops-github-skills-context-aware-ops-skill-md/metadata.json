@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 42,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 42,
+    "id": "cogni-ai-ou-github-git-ops-github-skills-context-aware-ops-skill-md",
+    "name": "context-aware-ops",
+    "author": "Cogni-AI-OU",
+    "stars": 0,
+    "githubUrl": "https://github.com/Cogni-AI-OU/github-git-ops/tree/main/.github/skills/context-aware-ops",
+    "skillUrl": "https://skillsmp.com/skills/cogni-ai-ou-github-git-ops-github-skills-context-aware-ops-skill-md",
+    "updatedAt": 1768609757,
+    "description": "Intelligent resource management with size checking and filtering to preserve context window"
+  },
+  "github": {
+    "owner": "Cogni-AI-OU",
+    "repo": "github-git-ops",
+    "ref": "main",
+    "relativePath": ".github/skills/context-aware-ops",
+    "sourceUrl": "https://github.com/Cogni-AI-OU/github-git-ops/tree/main/.github/skills/context-aware-ops"
+  }
+}

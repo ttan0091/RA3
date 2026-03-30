@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 381,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 381,
+    "id": "wshobson-agents-plugins-blockchain-web3-skills-nft-standards-skill-md",
+    "name": "nft-standards",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/nft-standards",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-blockchain-web3-skills-nft-standards-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementing digital asset systems."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/blockchain-web3/skills/nft-standards",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/nft-standards"
+  }
+}

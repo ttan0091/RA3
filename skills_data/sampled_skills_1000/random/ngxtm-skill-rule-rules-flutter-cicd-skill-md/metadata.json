@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 758,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 758,
+    "id": "ngxtm-skill-rule-rules-flutter-cicd-skill-md",
+    "name": "flutter-cicd",
+    "author": "ngxtm",
+    "stars": 0,
+    "githubUrl": "https://github.com/ngxtm/skill-rule/tree/main/rules/flutter/cicd",
+    "skillUrl": "https://skillsmp.com/skills/ngxtm-skill-rule-rules-flutter-cicd-skill-md",
+    "updatedAt": 1769068941,
+    "description": "Continuous Integration and Deployment standards for Flutter apps."
+  },
+  "github": {
+    "owner": "ngxtm",
+    "repo": "skill-rule",
+    "ref": "main",
+    "relativePath": "rules/flutter/cicd",
+    "sourceUrl": "https://github.com/ngxtm/skill-rule/tree/main/rules/flutter/cicd"
+  }
+}

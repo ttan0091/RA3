@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 873,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 873,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-development-gh-address-comments-skill-md",
+    "name": "gh-address-comments",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/gh-address-comments",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-development-gh-address-comments-skill-md",
+    "updatedAt": 1767919727,
+    "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/development/gh-address-comments",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/gh-address-comments"
+  }
+}

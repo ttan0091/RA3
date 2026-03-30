@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 339,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 339,
+    "id": "composiohq-awesome-claude-skills-raffle-winner-picker-skill-md",
+    "name": "raffle-winner-picker",
+    "author": "ComposioHQ",
+    "stars": 33583,
+    "githubUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker",
+    "skillUrl": "https://skillsmp.com/skills/composiohq-awesome-claude-skills-raffle-winner-picker-skill-md",
+    "updatedAt": 1760692175,
+    "description": "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency."
+  },
+  "github": {
+    "owner": "ComposioHQ",
+    "repo": "awesome-claude-skills",
+    "ref": "master",
+    "relativePath": "raffle-winner-picker",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/raffle-winner-picker"
+  }
+}

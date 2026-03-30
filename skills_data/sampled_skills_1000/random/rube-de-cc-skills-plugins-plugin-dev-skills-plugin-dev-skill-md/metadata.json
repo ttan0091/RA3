@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 725,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 725,
+    "id": "rube-de-cc-skills-plugins-plugin-dev-skills-plugin-dev-skill-md",
+    "name": "plugin-dev",
+    "author": "rube-de",
+    "stars": 1,
+    "githubUrl": "https://github.com/rube-de/cc-skills/tree/main/plugins/plugin-dev/skills/plugin-dev",
+    "skillUrl": "https://skillsmp.com/skills/rube-de-cc-skills-plugins-plugin-dev-skills-plugin-dev-skill-md",
+    "updatedAt": 1770482315,
+    "description": "Validate plugin SKILL.md frontmatter and audit hook scripts for silent failures. Run validation to check all plugins pass schema, source path, and frontmatter checks. Run hook audit to detect unhandled errors in shell and Python scripts."
+  },
+  "github": {
+    "owner": "rube-de",
+    "repo": "cc-skills",
+    "ref": "main",
+    "relativePath": "plugins/plugin-dev/skills/plugin-dev",
+    "sourceUrl": "https://github.com/rube-de/cc-skills/tree/main/plugins/plugin-dev/skills/plugin-dev"
+  }
+}

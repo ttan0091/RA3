@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 977,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 977,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-quality-documentation-manager-skill-md",
+    "name": "quality-documentation-manager",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-documentation-manager",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-enterprise-communication-quality-documentation-manager-skill-md",
+    "updatedAt": 1766196856,
+    "description": "Senior Quality Documentation Manager for comprehensive documentation control and regulatory document review. Provides document management system design, change control, configuration management, and regulatory documentation oversight. Use for document control system implementation, regulatory document review, change management, and documentation compliance verification."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/enterprise-communication/quality-documentation-manager",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/quality-documentation-manager"
+  }
+}

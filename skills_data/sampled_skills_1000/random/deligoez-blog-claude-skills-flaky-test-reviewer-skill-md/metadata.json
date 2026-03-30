@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 577,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 577,
+    "id": "deligoez-blog-claude-skills-flaky-test-reviewer-skill-md",
+    "name": "reviewing-flaky-tests",
+    "author": "deligoez",
+    "stars": 0,
+    "githubUrl": "https://github.com/deligoez/blog/tree/master/.claude/skills/flaky-test-reviewer",
+    "skillUrl": "https://skillsmp.com/skills/deligoez-blog-claude-skills-flaky-test-reviewer-skill-md",
+    "updatedAt": 1768818444,
+    "description": "Reviews PHP/Laravel tests for flakiness patterns. Use when writing tests, debugging CI failures, or reviewing test PRs."
+  },
+  "github": {
+    "owner": "deligoez",
+    "repo": "blog",
+    "ref": "master",
+    "relativePath": ".claude/skills/flaky-test-reviewer",
+    "sourceUrl": "https://github.com/deligoez/blog/tree/master/.claude/skills/flaky-test-reviewer"
+  }
+}

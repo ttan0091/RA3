@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 210,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 210,
+    "id": "92bilal26-taskpilotai-claude-skills-ai-collaborate-teaching-skill-md",
+    "name": "ai-collaborate-teaching",
+    "author": "92Bilal26",
+    "stars": 0,
+    "githubUrl": "https://github.com/92Bilal26/TaskPilotAI/tree/main/.claude/skills/ai-collaborate-teaching",
+    "skillUrl": "https://skillsmp.com/skills/92bilal26-taskpilotai-claude-skills-ai-collaborate-teaching-skill-md",
+    "updatedAt": 1766852286,
+    "description": "Design co-learning experiences using the Three Roles Framework (AI as Teacher/Student/Co-Worker).\nUse when teaching AI-driven development workflows, spec-first collaboration, or balancing AI assistance\nwith foundational learning. NOT for curriculum without AI integration."
+  },
+  "github": {
+    "owner": "92Bilal26",
+    "repo": "TaskPilotAI",
+    "ref": "main",
+    "relativePath": ".claude/skills/ai-collaborate-teaching",
+    "sourceUrl": "https://github.com/92Bilal26/TaskPilotAI/tree/main/.claude/skills/ai-collaborate-teaching"
+  }
+}

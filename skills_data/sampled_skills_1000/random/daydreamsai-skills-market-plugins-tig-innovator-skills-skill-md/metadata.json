@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 772,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 772,
+    "id": "daydreamsai-skills-market-plugins-tig-innovator-skills-skill-md",
+    "name": "tig-innovator",
+    "author": "daydreamsai",
+    "stars": 19,
+    "githubUrl": "https://github.com/daydreamsai/skills-market/tree/main/plugins/tig-innovator/skills",
+    "skillUrl": "https://skillsmp.com/skills/daydreamsai-skills-market-plugins-tig-innovator-skills-skill-md",
+    "updatedAt": 1770423362,
+    "description": "AI-powered algorithm optimization agent for The Innovation Game protocol. Earns\ncryptocurrency by optimizing Rust algorithms. Use when optimizing TIG challenge\nalgorithms or submitting solutions to the TIG network."
+  },
+  "github": {
+    "owner": "daydreamsai",
+    "repo": "skills-market",
+    "ref": "main",
+    "relativePath": "plugins/tig-innovator/skills",
+    "sourceUrl": "https://github.com/daydreamsai/skills-market/tree/main/plugins/tig-innovator/skills"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 389,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 389,
+    "id": "blakebauman-aem-camp-claude-skills-testing-blocks-skill-md",
+    "name": "testing-blocks",
+    "author": "blakebauman",
+    "stars": 0,
+    "githubUrl": "https://github.com/blakebauman/aem-camp/tree/main/.claude/skills/testing-blocks",
+    "skillUrl": "https://skillsmp.com/skills/blakebauman-aem-camp-claude-skills-testing-blocks-skill-md",
+    "updatedAt": 1762445806,
+    "description": "Guide for testing code changes in AEM Edge Delivery projects including blocks, scripts, and styles. Use this skill after making code changes and before opening a pull request to validate functionality. Covers unit testing for utilities and logic, browser testing with Playwright/Puppeteer, linting, performance validation, and guidance on which tests to maintain vs use as throwaway validation."
+  },
+  "github": {
+    "owner": "blakebauman",
+    "repo": "aem-camp",
+    "ref": "main",
+    "relativePath": ".claude/skills/testing-blocks",
+    "sourceUrl": "https://github.com/blakebauman/aem-camp/tree/main/.claude/skills/testing-blocks"
+  }
+}

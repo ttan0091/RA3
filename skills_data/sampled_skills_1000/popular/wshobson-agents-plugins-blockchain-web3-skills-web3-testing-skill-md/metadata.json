@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 383,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 383,
+    "id": "wshobson-agents-plugins-blockchain-web3-skills-web3-testing-skill-md",
+    "name": "web3-testing",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/web3-testing",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-blockchain-web3-skills-web3-testing-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or validating DeFi protocols."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/blockchain-web3/skills/web3-testing",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/blockchain-web3/skills/web3-testing"
+  }
+}

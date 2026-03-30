@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 52,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 52,
+    "id": "demerzels-lab-elsamultiskillagent-public-skills-natx223-testskillx-skill-md",
+    "name": "dailypost-test",
+    "author": "Demerzels-lab",
+    "stars": 2,
+    "githubUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/natx223/testskillx",
+    "skillUrl": "https://skillsmp.com/skills/demerzels-lab-elsamultiskillagent-public-skills-natx223-testskillx-skill-md",
+    "updatedAt": 1770445005,
+    "description": "Simple test skill that calls a GET endpoint to fetch a daily post. No authentication required."
+  },
+  "github": {
+    "owner": "Demerzels-lab",
+    "repo": "elsamultiskillagent",
+    "ref": "main",
+    "relativePath": "public/skills/natx223/testskillx",
+    "sourceUrl": "https://github.com/Demerzels-lab/elsamultiskillagent/tree/main/public/skills/natx223/testskillx"
+  }
+}

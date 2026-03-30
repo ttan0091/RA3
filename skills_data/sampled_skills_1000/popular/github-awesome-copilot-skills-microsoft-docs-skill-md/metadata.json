@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 604,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 604,
+    "id": "github-awesome-copilot-skills-microsoft-docs-skill-md",
+    "name": "microsoft-docs",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/microsoft-docs",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-microsoft-docs-skill-md",
+    "updatedAt": 1770604028,
+    "description": "Query official Microsoft documentation to find concepts, tutorials, and code examples across Azure, .NET, Agent Framework, Aspire, VS Code, GitHub, and more. Uses Microsoft Learn MCP as the default, with Context7 and Aspire MCP for content that lives outside learn.microsoft.com."
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/microsoft-docs",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/microsoft-docs"
+  }
+}

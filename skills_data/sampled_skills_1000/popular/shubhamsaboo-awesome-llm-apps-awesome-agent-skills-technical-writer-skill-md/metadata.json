@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 112,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 112,
+    "id": "shubhamsaboo-awesome-llm-apps-awesome-agent-skills-technical-writer-skill-md",
+    "name": "technical-writer",
+    "author": "Shubhamsaboo",
+    "stars": 93574,
+    "githubUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/technical-writer",
+    "skillUrl": "https://skillsmp.com/skills/shubhamsaboo-awesome-llm-apps-awesome-agent-skills-technical-writer-skill-md",
+    "updatedAt": 1770167437,
+    "description": "Creates clear documentation, API references, guides, and technical content for developers and users.\nUse when: writing documentation, creating README files, documenting APIs, writing tutorials,\ncreating user guides, or when user mentions documentation, technical writing, or needs help\nexplaining technical concepts clearly."
+  },
+  "github": {
+    "owner": "Shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "ref": "main",
+    "relativePath": "awesome_agent_skills/technical-writer",
+    "sourceUrl": "https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/awesome_agent_skills/technical-writer"
+  }
+}

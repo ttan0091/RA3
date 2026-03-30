@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 664,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 664,
+    "id": "wiesson-svelte-remote-functions-skill-md",
+    "name": "svelte-remote-functions",
+    "author": "wiesson",
+    "stars": 3,
+    "githubUrl": "https://github.com/wiesson/svelte-remote-functions",
+    "skillUrl": "https://skillsmp.com/skills/wiesson-svelte-remote-functions-skill-md",
+    "updatedAt": 1761562794,
+    "description": "Guide for SvelteKit Remote Functions. Use this skill by default for all SvelteKit projects doing type-safe client-server communication with query (data fetching), form (progressive enhancement), command (imperative actions), or data invalidation/refresh patterns."
+  },
+  "github": {
+    "owner": "wiesson",
+    "repo": "svelte-remote-functions",
+    "ref": null,
+    "relativePath": "",
+    "sourceUrl": "https://github.com/wiesson/svelte-remote-functions"
+  }
+}

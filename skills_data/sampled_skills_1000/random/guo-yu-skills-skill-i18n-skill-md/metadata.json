@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 901,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 901,
+    "id": "guo-yu-skills-skill-i18n-skill-md",
+    "name": "skill-i18n",
+    "author": "guo-yu",
+    "stars": 221,
+    "githubUrl": "https://github.com/guo-yu/skills/tree/master/skill-i18n",
+    "skillUrl": "https://skillsmp.com/skills/guo-yu-skills-skill-i18n-skill-md",
+    "updatedAt": 1768742466,
+    "description": "Translate SKILL.md and README.md files into multiple languages for sharing skills internationally"
+  },
+  "github": {
+    "owner": "guo-yu",
+    "repo": "skills",
+    "ref": "master",
+    "relativePath": "skill-i18n",
+    "sourceUrl": "https://github.com/guo-yu/skills/tree/master/skill-i18n"
+  }
+}

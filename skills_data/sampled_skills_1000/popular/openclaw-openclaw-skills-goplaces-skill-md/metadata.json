@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 29,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 29,
+    "id": "openclaw-openclaw-skills-goplaces-skill-md",
+    "name": "goplaces",
+    "author": "openclaw",
+    "stars": 182482,
+    "githubUrl": "https://github.com/openclaw/openclaw/tree/main/skills/goplaces",
+    "skillUrl": "https://skillsmp.com/skills/openclaw-openclaw-skills-goplaces-skill-md",
+    "updatedAt": 1769862085,
+    "description": "Query Google Places API (New) via the goplaces CLI for text search, place details, resolve, and reviews. Use for human-friendly place lookup or JSON output for scripts."
+  },
+  "github": {
+    "owner": "openclaw",
+    "repo": "openclaw",
+    "ref": "main",
+    "relativePath": "skills/goplaces",
+    "sourceUrl": "https://github.com/openclaw/openclaw/tree/main/skills/goplaces"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 489,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 489,
+    "id": "cityfish91159-maihouses-claude-skills-audit-logging-skill-md",
+    "name": "audit-logging",
+    "author": "cityfish91159",
+    "stars": 1,
+    "githubUrl": "https://github.com/cityfish91159/maihouses/tree/main/.claude/skills/audit_logging",
+    "skillUrl": "https://skillsmp.com/skills/cityfish91159-maihouses-claude-skills-audit-logging-skill-md",
+    "updatedAt": 1769681164,
+    "description": "Ensure every critical action is logged (vital for UAG/Trust Room)."
+  },
+  "github": {
+    "owner": "cityfish91159",
+    "repo": "maihouses",
+    "ref": "main",
+    "relativePath": ".claude/skills/audit_logging",
+    "sourceUrl": "https://github.com/cityfish91159/maihouses/tree/main/.claude/skills/audit_logging"
+  }
+}

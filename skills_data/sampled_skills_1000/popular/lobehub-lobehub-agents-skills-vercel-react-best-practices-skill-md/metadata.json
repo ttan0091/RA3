@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 137,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 137,
+    "id": "lobehub-lobehub-agents-skills-vercel-react-best-practices-skill-md",
+    "name": "vercel-react-best-practices",
+    "author": "lobehub",
+    "stars": 72172,
+    "githubUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/vercel-react-best-practices",
+    "skillUrl": "https://skillsmp.com/skills/lobehub-lobehub-agents-skills-vercel-react-best-practices-skill-md",
+    "updatedAt": 1769178618,
+    "description": "React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance patterns. Triggers on tasks involving React components, Next.js pages, data fetching, bundle optimization, or performance improvements."
+  },
+  "github": {
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "ref": "main",
+    "relativePath": ".agents/skills/vercel-react-best-practices",
+    "sourceUrl": "https://github.com/lobehub/lobehub/tree/main/.agents/skills/vercel-react-best-practices"
+  }
+}

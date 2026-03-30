@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 615,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 615,
+    "id": "github-awesome-copilot-skills-vscode-ext-commands-skill-md",
+    "name": "vscode-ext-commands",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/vscode-ext-commands",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-vscode-ext-commands-skill-md",
+    "updatedAt": 1768148316,
+    "description": "Guidelines for contributing commands in VS Code extensions. Indicates naming convention, visibility, localization and other relevant attributes, following VS Code extension development guidelines, libraries and good practices"
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/vscode-ext-commands",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/vscode-ext-commands"
+  }
+}

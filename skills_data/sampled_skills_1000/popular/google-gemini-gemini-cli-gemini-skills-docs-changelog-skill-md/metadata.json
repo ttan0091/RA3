@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 91,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 91,
+    "id": "google-gemini-gemini-cli-gemini-skills-docs-changelog-skill-md",
+    "name": "docs-changelog",
+    "author": "google-gemini",
+    "stars": 94166,
+    "githubUrl": "https://github.com/google-gemini/gemini-cli/tree/main/.gemini/skills/docs-changelog",
+    "skillUrl": "https://skillsmp.com/skills/google-gemini-gemini-cli-gemini-skills-docs-changelog-skill-md",
+    "updatedAt": 1770434009,
+    "description": "Provides a step-by-step procedure for generating Gemini CLI changelog files based on github release information."
+  },
+  "github": {
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "ref": "main",
+    "relativePath": ".gemini/skills/docs-changelog",
+    "sourceUrl": "https://github.com/google-gemini/gemini-cli/tree/main/.gemini/skills/docs-changelog"
+  }
+}

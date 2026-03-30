@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 465,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 465,
+    "id": "atilamedeiros-skills-ml-engineer-skill-md",
+    "name": "ml-engineer",
+    "author": "AtilaMedeiros",
+    "stars": 0,
+    "githubUrl": "https://github.com/AtilaMedeiros/skills/tree/main/ml-engineer",
+    "skillUrl": "https://skillsmp.com/skills/atilamedeiros-skills-ml-engineer-skill-md",
+    "updatedAt": 1770648740,
+    "description": "Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring. Use PROACTIVELY for ML model deployment, inference optimization, or production ML infrastructure."
+  },
+  "github": {
+    "owner": "AtilaMedeiros",
+    "repo": "skills",
+    "ref": "main",
+    "relativePath": "ml-engineer",
+    "sourceUrl": "https://github.com/AtilaMedeiros/skills/tree/main/ml-engineer"
+  }
+}

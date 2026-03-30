@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 630,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 630,
+    "id": "zpankz-mcp-skillset-goals-skill-md",
+    "name": "goals",
+    "author": "Zpankz",
+    "stars": 1,
+    "githubUrl": "https://github.com/Zpankz/mcp-skillset/tree/main/goals",
+    "skillUrl": "https://skillsmp.com/skills/zpankz-mcp-skillset-goals-skill-md",
+    "updatedAt": 1768459173,
+    "description": "Optimize prompts via process goals (controllable behavioral instructions) rather than outcome goals (sparse end-result demands). Grounded in sports psychology meta-analysis showing process goals (d=1.36) vastly outperform outcome goals (d=0.09). Use when designing prompts, optimizing LLM steering, implementing CoT/decomposition patterns, or building automatic prompt optimization pipelines. Instantiates surrogate loss paradigm for discrete prompt space."
+  },
+  "github": {
+    "owner": "Zpankz",
+    "repo": "mcp-skillset",
+    "ref": "main",
+    "relativePath": "goals",
+    "sourceUrl": "https://github.com/Zpankz/mcp-skillset/tree/main/goals"
+  }
+}

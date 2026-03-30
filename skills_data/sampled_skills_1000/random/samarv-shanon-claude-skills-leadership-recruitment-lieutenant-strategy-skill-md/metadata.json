@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 688,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 688,
+    "id": "samarv-shanon-claude-skills-leadership-recruitment-lieutenant-strategy-skill-md",
+    "name": "leadership-recruitment-lieutenant-strategy",
+    "author": "samarv",
+    "stars": 13,
+    "githubUrl": "https://github.com/samarv/Shanon/tree/main/.claude/skills/leadership-recruitment-lieutenant-strategy",
+    "skillUrl": "https://skillsmp.com/skills/samarv-shanon-claude-skills-leadership-recruitment-lieutenant-strategy-skill-md",
+    "updatedAt": 1769337738,
+    "description": "A methodology for identifying and recruiting top-tier functional leaders (Product, Sales, Legal, etc.) by targeting high-performing \"lieutenants of lieutenants\" at best-in-class companies. Use this when you need an expert leader but want to avoid the friction and potential mismatch of hiring a sitting VP from a giant corporation."
+  },
+  "github": {
+    "owner": "samarv",
+    "repo": "Shanon",
+    "ref": "main",
+    "relativePath": ".claude/skills/leadership-recruitment-lieutenant-strategy",
+    "sourceUrl": "https://github.com/samarv/Shanon/tree/main/.claude/skills/leadership-recruitment-lieutenant-strategy"
+  }
+}

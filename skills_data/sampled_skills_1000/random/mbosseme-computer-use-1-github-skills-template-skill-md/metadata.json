@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 633,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 633,
+    "id": "mbosseme-computer-use-1-github-skills-template-skill-md",
+    "name": "skill-name",
+    "author": "mbosseme",
+    "stars": 0,
+    "githubUrl": "https://github.com/mbosseme/computer-use-1/tree/main/.github/skills/_template",
+    "skillUrl": "https://skillsmp.com/skills/mbosseme-computer-use-1-github-skills-template-skill-md",
+    "updatedAt": 1766428648,
+    "description": "<ONE_SENTENCE_DESCRIPTION>"
+  },
+  "github": {
+    "owner": "mbosseme",
+    "repo": "computer-use-1",
+    "ref": "main",
+    "relativePath": ".github/skills/_template",
+    "sourceUrl": "https://github.com/mbosseme/computer-use-1/tree/main/.github/skills/_template"
+  }
+}

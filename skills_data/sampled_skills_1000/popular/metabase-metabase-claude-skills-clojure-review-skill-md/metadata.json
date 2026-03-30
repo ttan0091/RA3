@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 190,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 190,
+    "id": "metabase-metabase-claude-skills-clojure-review-skill-md",
+    "name": "clojure-review",
+    "author": "metabase",
+    "stars": 45914,
+    "githubUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/clojure-review",
+    "skillUrl": "https://skillsmp.com/skills/metabase-metabase-claude-skills-clojure-review-skill-md",
+    "updatedAt": 1769166810,
+    "description": "Review Clojure and ClojureScript code changes for compliance with Metabase coding standards, style violations, and code quality issues. Use when reviewing pull requests or diffs containing Clojure/ClojureScript code."
+  },
+  "github": {
+    "owner": "metabase",
+    "repo": "metabase",
+    "ref": "master",
+    "relativePath": ".claude/skills/clojure-review",
+    "sourceUrl": "https://github.com/metabase/metabase/tree/master/.claude/skills/clojure-review"
+  }
+}

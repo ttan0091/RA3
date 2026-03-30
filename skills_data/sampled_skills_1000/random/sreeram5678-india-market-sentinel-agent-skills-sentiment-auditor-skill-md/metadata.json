@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 318,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 318,
+    "id": "sreeram5678-india-market-sentinel-agent-skills-sentiment-auditor-skill-md",
+    "name": "sentiment-auditor",
+    "author": "Sreeram5678",
+    "stars": 0,
+    "githubUrl": "https://github.com/Sreeram5678/india-market-sentinel/tree/main/.agent/skills/sentiment_auditor",
+    "skillUrl": "https://skillsmp.com/skills/sreeram5678-india-market-sentinel-agent-skills-sentiment-auditor-skill-md",
+    "updatedAt": 1770143591,
+    "description": "Scans news headlines for Indian stocks and assigns a quantitative sentiment score (Mood Score)."
+  },
+  "github": {
+    "owner": "Sreeram5678",
+    "repo": "india-market-sentinel",
+    "ref": "main",
+    "relativePath": ".agent/skills/sentiment_auditor",
+    "sourceUrl": "https://github.com/Sreeram5678/india-market-sentinel/tree/main/.agent/skills/sentiment_auditor"
+  }
+}

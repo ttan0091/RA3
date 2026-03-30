@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 594,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 594,
+    "id": "github-awesome-copilot-skills-git-commit-skill-md",
+    "name": "git-commit",
+    "author": "github",
+    "stars": 20780,
+    "githubUrl": "https://github.com/github/awesome-copilot/tree/main/skills/git-commit",
+    "skillUrl": "https://skillsmp.com/skills/github-awesome-copilot-skills-git-commit-skill-md",
+    "updatedAt": 1769102332,
+    "description": "Execute git commit with conventional commit message analysis, intelligent staging, and message generation. Use when user asks to commit changes, create a git commit, or mentions \"/commit\". Supports: (1) Auto-detecting type and scope from changes, (2) Generating conventional commit messages from diff, (3) Interactive commit with optional type/scope/description overrides, (4) Intelligent file staging for logical grouping"
+  },
+  "github": {
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "ref": "main",
+    "relativePath": "skills/git-commit",
+    "sourceUrl": "https://github.com/github/awesome-copilot/tree/main/skills/git-commit"
+  }
+}

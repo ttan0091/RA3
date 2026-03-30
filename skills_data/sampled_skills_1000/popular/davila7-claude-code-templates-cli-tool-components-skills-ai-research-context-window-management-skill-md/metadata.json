@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 642,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 642,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-context-window-management-skill-md",
+    "name": "context-window-management",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/context-window-management",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-context-window-management-skill-md",
+    "updatedAt": 1769353274,
+    "description": "Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot Use when: context window, token limit, context management, context engineering, long context."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/context-window-management",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/context-window-management"
+  }
+}

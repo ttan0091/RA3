@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 991,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 991,
+    "id": "nblog-video2doc-github-skills-uv-cuda-setup-skill-md",
+    "name": "uv-cuda-setup",
+    "author": "nblog",
+    "stars": 0,
+    "githubUrl": "https://github.com/nblog/video2doc/tree/main/.github/skills/uv-cuda-setup",
+    "skillUrl": "https://skillsmp.com/skills/nblog-video2doc-github-skills-uv-cuda-setup-skill-md",
+    "updatedAt": 1769677819,
+    "description": "Configures Python projects with uv package manager to use CUDA-enabled PyTorch.\nHandles the common issue where uv installs CPU-only torch by default.\nUse when setting up GPU-accelerated machine learning projects, fixing CUDA not available errors,\nor configuring PyTorch with GPU support in uv-managed projects."
+  },
+  "github": {
+    "owner": "nblog",
+    "repo": "video2doc",
+    "ref": "main",
+    "relativePath": ".github/skills/uv-cuda-setup",
+    "sourceUrl": "https://github.com/nblog/video2doc/tree/main/.github/skills/uv-cuda-setup"
+  }
+}

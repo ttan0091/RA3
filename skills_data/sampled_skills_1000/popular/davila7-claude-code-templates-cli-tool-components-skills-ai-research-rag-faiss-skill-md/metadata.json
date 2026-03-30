@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 732,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 732,
+    "id": "davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-faiss-skill-md",
+    "name": "faiss",
+    "author": "davila7",
+    "stars": 20041,
+    "githubUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-faiss",
+    "skillUrl": "https://skillsmp.com/skills/davila7-claude-code-templates-cli-tool-components-skills-ai-research-rag-faiss-skill-md",
+    "updatedAt": 1767882269,
+    "description": "Facebook's library for efficient similarity search and clustering of dense vectors. Supports billions of vectors, GPU acceleration, and various index types (Flat, IVF, HNSW). Use for fast k-NN search, large-scale vector retrieval, or when you need pure similarity search without metadata. Best for high-performance applications."
+  },
+  "github": {
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "ref": "main",
+    "relativePath": "cli-tool/components/skills/ai-research/rag-faiss",
+    "sourceUrl": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/ai-research/rag-faiss"
+  }
+}

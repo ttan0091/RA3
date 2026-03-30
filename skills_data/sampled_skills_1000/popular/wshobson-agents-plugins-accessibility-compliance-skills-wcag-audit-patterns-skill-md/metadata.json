@@ -1,0 +1,23 @@
+{
+  "sampleType": "popular",
+  "sampleIndex": 363,
+  "skill": {
+    "sampleType": "popular",
+    "sampleIndex": 363,
+    "id": "wshobson-agents-plugins-accessibility-compliance-skills-wcag-audit-patterns-skill-md",
+    "name": "wcag-audit-patterns",
+    "author": "wshobson",
+    "stars": 28328,
+    "githubUrl": "https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/wcag-audit-patterns",
+    "skillUrl": "https://skillsmp.com/skills/wshobson-agents-plugins-accessibility-compliance-skills-wcag-audit-patterns-skill-md",
+    "updatedAt": 1768516701,
+    "description": "Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance. Use when auditing websites for accessibility, fixing WCAG violations, or implementing accessible design patterns."
+  },
+  "github": {
+    "owner": "wshobson",
+    "repo": "agents",
+    "ref": "main",
+    "relativePath": "plugins/accessibility-compliance/skills/wcag-audit-patterns",
+    "sourceUrl": "https://github.com/wshobson/agents/tree/main/plugins/accessibility-compliance/skills/wcag-audit-patterns"
+  }
+}

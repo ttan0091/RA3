@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 245,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 245,
+    "id": "forumone-f1-genai-starter-plugins-npm-package-updates-skills-npm-package-updates-skill-md",
+    "name": "npm-package-updates",
+    "author": "forumone",
+    "stars": 0,
+    "githubUrl": "https://github.com/forumone/f1-genai-starter/tree/main/plugins/npm-package-updates/skills/npm-package-updates",
+    "skillUrl": "https://skillsmp.com/skills/forumone-f1-genai-starter-plugins-npm-package-updates-skills-npm-package-updates-skill-md",
+    "updatedAt": 1770410830,
+    "description": "Guides through npm package updates including minor/patch updates and major version updates. Use when user wants to update npm dependencies, handle breaking changes, manage package versions, or run npm outdated/update commands."
+  },
+  "github": {
+    "owner": "forumone",
+    "repo": "f1-genai-starter",
+    "ref": "main",
+    "relativePath": "plugins/npm-package-updates/skills/npm-package-updates",
+    "sourceUrl": "https://github.com/forumone/f1-genai-starter/tree/main/plugins/npm-package-updates/skills/npm-package-updates"
+  }
+}

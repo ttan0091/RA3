@@ -1,0 +1,23 @@
+{
+  "sampleType": "random",
+  "sampleIndex": 672,
+  "skill": {
+    "sampleType": "random",
+    "sampleIndex": 672,
+    "id": "dalehurley-phpbot-skills-open-application-skill-md",
+    "name": "open-application",
+    "author": "dalehurley",
+    "stars": 0,
+    "githubUrl": "https://github.com/dalehurley/phpbot/tree/main/skills/open-application",
+    "skillUrl": "https://skillsmp.com/skills/dalehurley-phpbot-skills-open-application-skill-md",
+    "updatedAt": 1770416138,
+    "description": "Open or launch applications on your computer by name. Use this skill when the user asks to open, launch, or start an application like Mail, Finder, Safari, Chrome, or any other installed macOS application. Works with both built-in and third-party applications."
+  },
+  "github": {
+    "owner": "dalehurley",
+    "repo": "phpbot",
+    "ref": "main",
+    "relativePath": "skills/open-application",
+    "sourceUrl": "https://github.com/dalehurley/phpbot/tree/main/skills/open-application"
+  }
+}
