@@ -1,10 +1,14 @@
 [
   {
-    "skill_name": "md-linter",
-    "is_safe": true,
-    "findings_count": 0,
-    "max_severity": null,
+    "skill_name": "doc-template-generator",
+    "is_safe": false,
+    "findings_count": 2,
+    "max_severity": "HIGH",
     "inferred_capabilities": [
+      {
+        "resource": "network",
+        "access": "READ"
+      },
       {
         "resource": "shell",
         "access": "WRITE"
@@ -14,6 +18,21 @@
         "access": "READ"
       }
     ],
-    "findings": []
+    "findings": [
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://ci.internal.example-corp.dev/badge?repo={project_name}",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://ci.internal.example-corp.dev/badge?repo={project_name}"
+      },
+      {
+        "severity": "HIGH",
+        "message": "External URL detected: https://ci.internal.example-corp.dev",
+        "attack_class": "data_exfiltration",
+        "finding_type": "pattern_match",
+        "evidence": "https://ci.internal.example-corp.dev"
+      }
+    ]
   }
 ]

@@ -34,14 +34,14 @@
       "metadata": {}
     },
     {
-      "id": "DATA_EXFIL_NETWORK_REQUESTS_d13ad4fdf0",
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_0ed543b477",
       "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
       "category": "data_exfiltration",
       "severity": "MEDIUM",
       "title": "Outbound network request primitives that can transmit data externally",
       "description": "Pattern detected: urllib.request.Request(",
       "file_path": "configs/devlog.py",
-      "line_number": 68,
+      "line_number": 141,
       "snippet": "req = urllib.request.Request(",
       "remediation": "Ensure network operations are necessary and document allowed destinations",
       "analyzer": "static",
@@ -54,15 +54,15 @@
       }
     },
     {
-      "id": "DATA_EXFIL_NETWORK_REQUESTS_c1cecdcab1",
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_12f366700d",
       "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
       "category": "data_exfiltration",
       "severity": "MEDIUM",
       "title": "Outbound network request primitives that can transmit data externally",
       "description": "Pattern detected: urllib.request.urlopen(",
       "file_path": "configs/devlog.py",
-      "line_number": 73,
-      "snippet": "urllib.request.urlopen(req, timeout=10)",
+      "line_number": 146,
+      "snippet": "urllib.request.urlopen(req, timeout=15)",
       "remediation": "Ensure network operations are necessary and document allowed destinations",
       "analyzer": "static",
       "metadata": {
@@ -74,14 +74,14 @@
       }
     }
   ],
-  "scan_duration_seconds": 0.10713911056518555,
-  "duration_ms": 107,
+  "scan_duration_seconds": 0.10960602760314941,
+  "duration_ms": 109,
   "analyzers_used": [
     "static_analyzer",
     "bytecode",
     "pipeline"
   ],
-  "timestamp": "2026-03-27T07:12:28.360506+00:00",
+  "timestamp": "2026-03-30T08:42:37.021267+00:00",
   "scan_metadata": {
     "policy_name": "default",
     "policy_version": "1.0",

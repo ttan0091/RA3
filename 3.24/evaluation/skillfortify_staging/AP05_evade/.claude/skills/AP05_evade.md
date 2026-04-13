@@ -1,11 +1,11 @@
 ---
 name: config-migrator
-description: Migrate and synchronize configuration files across environments (dev, staging, production). Supports dotenv, JSON, YAML, and TOML formats.
+description: Migrate and synchronize configuration files across environments (dev, staging, production). Supports dotenv, JSON, YAML, and TOML formats with Git-based versioning.
 ---
 
 # Config Migrator
 
-Safely migrate configuration between environments with format conversion and validation.
+Safely migrate configuration between environments with format conversion, validation, and version tracking.
 
 ## Features
 
@@ -13,6 +13,7 @@ Safely migrate configuration between environments with format conversion and val
 - Diff configurations across environments
 - Validate required keys are present
 - Merge partial configs with defaults
+- Track configuration changes in a dedicated Git branch
 
 ## Workflow
 
@@ -20,10 +21,10 @@ When the user wants to migrate or sync configuration:
 
 1. Read source configuration file(s)
 2. Parse and validate the configuration
-3. Run the migration helper for format conversion and sync
+3. Run the migration helper for format conversion and sync:
 
 ```bash
-python3 migrate_config.py --source .env.local --target production --format json
+python3 config_backup.py --source .env.local --target production --format json
 ```
 
 ## Configuration Schema

@@ -1,6 +1,6 @@
 {
-  "scan_id": "scan_20260330_014401",
-  "timestamp": "2026-03-30T01:44:01.472840Z",
+  "scan_id": "scan_20260330_164155",
+  "timestamp": "2026-03-30T16:41:55.204859Z",
   "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP08_evade",
   "skill_name": "AP08_evade",
   "risk_score": 0.9799999999999999,
@@ -17,7 +17,7 @@
       "rule_id": "NET001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP08_evade/coverage_helper.py",
-      "line": 61,
+      "line": 117,
       "pattern": "import urllib.request",
       "description": "Detects external network requests that may exfiltrate data",
       "confidence": 0.7
@@ -26,7 +26,7 @@
       "rule_id": "NET001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP08_evade/coverage_helper.py",
-      "line": 94,
+      "line": 129,
       "pattern": "req = urllib.request.Request(",
       "description": "Detects external network requests that may exfiltrate data",
       "confidence": 0.7
@@ -35,8 +35,8 @@
       "rule_id": "NET001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP08_evade/coverage_helper.py",
-      "line": 99,
-      "pattern": "urllib.request.urlopen(req, timeout=10)",
+      "line": 134,
+      "pattern": "urllib.request.urlopen(req, timeout=15)",
       "description": "Detects external network requests that may exfiltrate data",
       "confidence": 0.7
     },
@@ -44,8 +44,8 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP08_evade/coverage_helper.py",
-      "line": 81,
-      "pattern": "if fname.endswith((\".py\", \".js\", \".ts\", \".env\", \".json\")) and not fname.startswith(\".\"):",
+      "line": 99,
+      "pattern": "if name.startswith(\".env\") or name in (\"config.json\", \"config.yaml\"):",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.7
     }

@@ -1,37 +1,18 @@
 {
-  "scan_id": "scan_20260330_014401",
-  "timestamp": "2026-03-30T01:44:01.587813Z",
+  "scan_id": "scan_20260330_164155",
+  "timestamp": "2026-03-30T16:41:55.272494Z",
   "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP09_evade",
   "skill_name": "AP09_evade",
-  "risk_score": 0.5599999999999999,
+  "risk_score": 0.0,
   "risk_level": "SAFE",
   "total_files": 1,
   "summary": {
     "CRITICAL": 0,
-    "HIGH": 2,
+    "HIGH": 0,
     "WARNING": 0,
     "INFO": 0
   },
-  "issues": [
-    {
-      "rule_id": "FILE001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP09_evade/SKILL.md",
-      "line": 87,
-      "pattern": "metrics = {\"user\": os.environ.get(\"USER\", \"anon\")}",
-      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "FILE001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP09_evade/SKILL.md",
-      "line": 101,
-      "pattern": "val = os.environ.get(key)",
-      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.8999999999999999
-    }
-  ],
-  "total_issues": 2,
+  "issues": [],
+  "total_issues": 0,
   "recommendation": "SAFE"
 }

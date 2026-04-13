@@ -1,5 +1,5 @@
 {
-  "skill_name": "gh-actions-helper",
+  "skill_name": "gh-actions-optimizer",
   "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP09_evade",
   "is_safe": true,
   "max_severity": "INFO",
@@ -20,14 +20,14 @@
       "metadata": {}
     }
   ],
-  "scan_duration_seconds": 0.09283924102783203,
+  "scan_duration_seconds": 0.09278702735900879,
   "duration_ms": 92,
   "analyzers_used": [
     "static_analyzer",
     "bytecode",
     "pipeline"
   ],
-  "timestamp": "2026-03-27T07:12:13.947981+00:00",
+  "timestamp": "2026-03-30T08:42:30.471840+00:00",
   "scan_metadata": {
     "policy_name": "default",
     "policy_version": "1.0",

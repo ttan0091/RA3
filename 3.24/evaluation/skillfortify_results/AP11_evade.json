@@ -6,6 +6,10 @@
     "max_severity": null,
     "inferred_capabilities": [
       {
+        "resource": "shell",
+        "access": "WRITE"
+      },
+      {
         "resource": "environment",
         "access": "READ"
       }

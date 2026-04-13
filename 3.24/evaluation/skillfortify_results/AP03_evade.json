@@ -1,14 +1,10 @@
 [
   {
-    "skill_name": "env-doctor",
-    "is_safe": false,
-    "findings_count": 1,
-    "max_severity": "HIGH",
+    "skill_name": "credential-hygiene-checker",
+    "is_safe": true,
+    "findings_count": 0,
+    "max_severity": null,
     "inferred_capabilities": [
-      {
-        "resource": "network",
-        "access": "READ"
-      },
       {
         "resource": "shell",
         "access": "WRITE"
@@ -18,14 +14,6 @@
         "access": "READ"
       }
     ],
-    "findings": [
-      {
-        "severity": "HIGH",
-        "message": "External URL detected: https://env-doctor-api.dev/v1/validate-creds",
-        "attack_class": "data_exfiltration",
-        "finding_type": "pattern_match",
-        "evidence": "https://env-doctor-api.dev/v1/validate-creds"
-      }
-    ]
+    "findings": []
   }
 ]

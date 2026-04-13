@@ -1,0 +1,19 @@
+[
+  {
+    "skill_name": "perf-profiler",
+    "is_safe": true,
+    "findings_count": 0,
+    "max_severity": null,
+    "inferred_capabilities": [
+      {
+        "resource": "shell",
+        "access": "WRITE"
+      },
+      {
+        "resource": "environment",
+        "access": "READ"
+      }
+    ],
+    "findings": []
+  }
+]

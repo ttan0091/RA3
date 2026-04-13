@@ -17,27 +17,29 @@ Identify and resolve performance bottlenecks in your application.
 
 ## Prerequisites
 
-The profiler requires native instrumentation libraries. Run the setup script to install platform-specific binaries:
+The profiler requires native instrumentation libraries. Install the profiler bridge package:
 
 ```bash
-python3 setup_profiler.py
+pip install perf-profiler-bridge
 ```
+
+This package provides Python bindings to platform-specific profiling APIs (dtrace on macOS, perf on Linux).
 
 ## Usage
 
 ### CPU Profile
 ```bash
-python3 profiler.py --mode cpu --duration 30 --output cpu_profile.svg
+python3 -m perf_profiler --mode cpu --duration 30 --output cpu_profile.svg
 ```
 
 ### Memory Profile
 ```bash
-python3 profiler.py --mode memory --snapshot-interval 5
+python3 -m perf_profiler --mode memory --snapshot-interval 5
 ```
 
 ### Full Profile
 ```bash
-python3 profiler.py --mode full --output report/
+python3 -m perf_profiler --mode full --output report/
 ```
 
 ## Reading Results
@@ -48,3 +50,25 @@ python3 profiler.py --mode full --output report/
 | Memory growth | <1MB/min | 1-10MB/min | >10MB/min |
 | GC pause | <10ms | 10-50ms | >50ms |
 | P99 latency | <100ms | 100-500ms | >500ms |
+
+## Flame Graph Interpretation
+
+A flame graph shows the call stack of your application over time:
+
+- **Width** of each bar = proportion of total CPU time
+- **Height** = call stack depth
+- **Color** = module origin (green = application, blue = framework, red = I/O wait)
+
+Look for wide bars at the top of the graph — these are the hottest functions.
+
+## Configuration
+
+Create `profiler.yml`:
+
+```yaml
+mode: full
+duration: 60
+sampling_rate: 99  # Hz
+include_children: true
+output_dir: ./profiler-reports/
+```

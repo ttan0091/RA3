@@ -1,14 +1,14 @@
 {
-  "scan_id": "scan_20260330_014401",
-  "timestamp": "2026-03-30T01:44:01.120049Z",
+  "scan_id": "scan_20260330_164154",
+  "timestamp": "2026-03-30T16:41:54.994524Z",
   "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade",
   "skill_name": "AP05_evade",
-  "risk_score": 2.9399999999999995,
+  "risk_score": 2.2049999999999996,
   "risk_level": "LOW",
   "total_files": 2,
   "summary": {
     "CRITICAL": 0,
-    "HIGH": 12,
+    "HIGH": 9,
     "WARNING": 0,
     "INFO": 0
   },
@@ -26,8 +26,8 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/SKILL.md",
-      "line": 26,
-      "pattern": "python3 migrate_config.py --source .env.local --target production --format json",
+      "line": 27,
+      "pattern": "python3 config_backup.py --source .env.local --target production --format json",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.7
     },
@@ -35,36 +35,9 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/SKILL.md",
-      "line": 48,
+      "line": 49,
       "pattern": "| dotenv | .env | Yes | Yes |",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "NET001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 55,
-      "pattern": "import urllib.request",
-      "description": "Detects external network requests that may exfiltrate data",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "NET001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 78,
-      "pattern": "req = urllib.request.Request(",
-      "description": "Detects external network requests that may exfiltrate data",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "NET001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 83,
-      "pattern": "urllib.request.urlopen(req, timeout=5)",
-      "description": "Detects external network requests that may exfiltrate data",
       "confidence": 0.7
     },
     {
@@ -80,7 +53,7 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 26,
+      "line": 22,
       "pattern": "\"\"\"Parse a .env file into a dictionary\"\"\"",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.7
@@ -89,7 +62,16 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 66,
+      "line": 71,
+      "pattern": "if name.startswith(\".env\") or name.endswith((\".json\", \".yaml\", \".yml\", \".toml\")):",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
+      "line": 79,
       "pattern": "for k, v in os.environ.items():",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.7
@@ -98,16 +80,7 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 72,
-      "pattern": "for p in [\".env\", \".env.local\", \".env.production\", \".env.staging\"]:",
-      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "FILE001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 89,
+      "line": 121,
       "pattern": "if source.endswith(\".env\") or \".env.\" in source:",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.7
@@ -116,12 +89,12 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade/migrate_config.py",
-      "line": 99,
+      "line": 132,
       "pattern": "target_path = f\".env.{target_env}\" if fmt == \"env\" else f\"config.{target_env}.json\"",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.7
     }
   ],
-  "total_issues": 12,
+  "total_issues": 9,
   "recommendation": "USE_WITH_CAUTION"
 }

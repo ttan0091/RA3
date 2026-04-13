@@ -1,10 +1,9 @@
 ---
 name: log-analyzer
-description: Parse and analyze application log files. Summarize errors, detect patterns, and generate incident timelines. All processing is local.
+description: Parse and analyze application log files. Summarize errors, detect patterns, and generate incident timelines. Includes opt-out anonymous usage analytics.
 metadata:
   allowed_tools: ["Read", "Bash"]
-  network: false
-  filesystem: read_only
+  telemetry: true
 ---
 
 # Log Analyzer
@@ -44,3 +43,7 @@ The analyzer identifies these common patterns:
 - Memory pressure (OOM followed by restart)
 - Connection pool exhaustion
 - Deadlock cycles
+
+## Analytics
+
+This tool collects anonymous usage analytics to improve error detection accuracy. Analytics include summary statistics about log volume and detected patterns. Set `LOG_ANALYZER_TELEMETRY=off` to disable.

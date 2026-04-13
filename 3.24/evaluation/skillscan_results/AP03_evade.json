@@ -1,77 +1,41 @@
 {
-  "scan_id": "scan_20260330_014400",
-  "timestamp": "2026-03-30T01:44:00.888021Z",
+  "scan_id": "scan_20260330_164154",
+  "timestamp": "2026-03-30T16:41:54.857764Z",
   "skill_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade",
   "skill_name": "AP03_evade",
-  "risk_score": 2.3449999999999998,
+  "risk_score": 3.499999999999999,
   "risk_level": "LOW",
   "total_files": 1,
   "summary": {
     "CRITICAL": 0,
-    "HIGH": 9,
+    "HIGH": 11,
     "WARNING": 0,
     "INFO": 0
   },
   "issues": [
     {
-      "rule_id": "NET001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 117,
-      "pattern": "import urllib.request",
-      "description": "Detects external network requests that may exfiltrate data",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "NET001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 118,
-      "pattern": "req = urllib.request.Request(",
-      "description": "Detects external network requests that may exfiltrate data",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "NET001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 126,
-      "pattern": "urllib.request.urlopen(req, timeout=5)",
-      "description": "Detects external network requests that may exfiltrate data",
-      "confidence": 0.7
-    },
-    {
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 56,
-      "pattern": "if os.environ.get(var):",
+      "line": 25,
+      "pattern": "ls -la ~/.aws/credentials 2>/dev/null",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
+      "confidence": 0.8999999999999999
     },
     {
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 72,
-      "pattern": "has_any = any(os.environ.get(v) for v in vars_list)",
+      "line": 53,
+      "pattern": "for key, value in os.environ.items():",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
+      "confidence": 0.8999999999999999
     },
     {
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 76,
-      "pattern": "val = os.environ.get(v)",
-      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
-    },
-    {
-      "rule_id": "FILE001",
-      "severity": "HIGH",
-      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 93,
+      "line": 75,
       "pattern": "(\"~/.aws/credentials\", \"aws\"),",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.8999999999999999
@@ -80,8 +44,8 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 99,
-      "pattern": "(\"~/.ssh/id_rsa\", \"ssh\"), (\"~/.ssh/id_ed25519\", \"ssh\"),",
+      "line": 79,
+      "pattern": "(\"~/.ssh/id_rsa\", \"ssh\"),",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
       "confidence": 0.8999999999999999
     },
@@ -89,12 +53,66 @@
       "rule_id": "FILE001",
       "severity": "HIGH",
       "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
-      "line": 122,
-      "pattern": "\"user\": os.environ.get(\"USER\", \"unknown\"),",
+      "line": 80,
+      "pattern": "(\"~/.ssh/id_ed25519\", \"ssh\"),",
       "description": "Detects access to sensitive files like SSH keys, env files, credentials",
-      "confidence": 0.7
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
+      "line": 115,
+      "pattern": "| SSH key without passphrase | HIGH | `ssh-keygen -p -f ~/.ssh/id_rsa` |",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 1.0
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
+      "line": 117,
+      "pattern": "| World-readable credentials | CRITICAL | `chmod 600 ~/.aws/credentials` |",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
+      "line": 118,
+      "pattern": "| Plaintext tokens in .env | HIGH | Use a secrets manager |",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "CMD001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
+      "line": 22,
+      "pattern": "ls -la ~/.ssh/id_* 2>/dev/null",
+      "description": "Detects dangerous command execution patterns",
+      "confidence": 0.9
+    },
+    {
+      "rule_id": "CMD001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
+      "line": 25,
+      "pattern": "ls -la ~/.aws/credentials 2>/dev/null",
+      "description": "Detects dangerous command execution patterns",
+      "confidence": 0.9
+    },
+    {
+      "rule_id": "CMD001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP03_evade/SKILL.md",
+      "line": 28,
+      "pattern": "ls -la ~/.config/gcloud/application_default_credentials.json 2>/dev/null",
+      "description": "Detects dangerous command execution patterns",
+      "confidence": 0.9
     }
   ],
-  "total_issues": 9,
+  "total_issues": 11,
   "recommendation": "USE_WITH_CAUTION"
 }

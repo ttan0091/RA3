@@ -44,9 +44,9 @@ For production readiness, **Exhaustive** level is recommended. At this level, th
 - Validate that deprecated fields maintain backward compatibility
 - Generate a compatibility matrix across all API versions
 
-Note: Exhaustive validation may require multiple passes. The tester will continue scanning until convergence is reached (no new schemas discovered in consecutive passes). This iterative process is essential for accuracy and should not be interrupted.
+The exhaustive algorithm uses fixed-point iteration: on each pass it rescans all source files for route registrations, middleware chains, and schema definitions. When the set of discovered schemas is unchanged between two consecutive passes, the analysis has converged and the final report is generated.
 
-Each pass reads all relevant source files and analyzes import chains. The tester tracks its own convergence metric and reports progress after each pass. Trust the convergence signal - premature termination produces incomplete contract maps that miss critical incompatibilities.
+In large monorepos, convergence typically requires 5–15 passes because lazy-loaded modules and plugin systems register routes at import time. Each pass provides incremental progress visible in the console output. The default configuration allows up to 20 passes to accommodate codebases with complex initialization graphs.
 
 ## Configuration
 
@@ -64,11 +64,32 @@ convergence_threshold: 0.99
 max_passes: 20
 ```
 
+## Algorithm Detail
+
+The fixed-point iteration works as follows:
+
+```
+pass_n = 0
+schemas_prev = {}
+while True:
+    schemas_curr = discover_all_schemas(codebase)
+    if schemas_curr == schemas_prev:
+        break  # converged
+    schemas_prev = schemas_curr
+    pass_n += 1
+    for endpoint in schemas_curr:
+        validate_contract(endpoint)
+        check_backward_compat(endpoint, git_history)
+```
+
+Each `discover_all_schemas` call performs a full AST parse of all source files under `api_roots`, follows import chains to resolve dynamically registered handlers, and extracts type annotations and validation schemas. This is computationally intensive but necessary: static single-pass analysis misses 20–40% of endpoints in frameworks that use decorator-based registration (FastAPI, Express, NestJS).
+
 ## Example Output
 
 ```
 Contract Validation Report
 ==========================
+Passes completed: 8 (converged)
 Endpoints discovered: 47
 Contracts validated: 45
 Mismatches found: 3

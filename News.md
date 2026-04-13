@@ -78,11 +78,13 @@ Cisco AI Defense 团队开发并使用了 **"Skill Scanner"** 工具。
 不再把 skills 只当“提示词封装”，而是开始按 `包管理 + 权限隔离 + 依赖解析 + 信任评分` 的软件系统来处理。
 
 [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](https://papers.cool/arxiv/2603.00902) (`2026-03-01`)
-这篇是更“脏”的现实攻击论文：不是偷数据，而是通过恶意 skill 和 tool-calling chain 做 `token drain`，把成本悄悄拉高。
+这篇是更“脏”的现实攻击论文：通过恶意 skill 和 tool-calling chain 做 `token drain`，把成本悄悄拉高。
 作者报告在生产风格部署里可达到 `6-7x` 的 token 放大，失败配置下接近 `9x`。更关键的是，agent 还会自己组合通用工具去“绕着攻击逻辑走”，让攻击表现更复杂。
 它证明了 skill 生态的首批高价值攻击面，可能首先是 `经济消耗` 和 `行为污染`，而不一定是传统意义上的直接越权。
 
-#### 四篇相关工作的文献综述
+#### 四篇相关工作
+
+Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale
 
 [Malicious Agent Skills in the Wild: A Large-Scale Security Empirical Study](https://arxiv.org/abs/2602.06547) (`2026-02`)
 方法：以大规模生态测量和行为验证为主，先从技能市场收集样本，再结合分析流水线对恶意样本做确认和归类。  
@@ -102,4 +104,36 @@ Cisco AI Defense 团队开发并使用了 **"Skill Scanner"** 工具。
 [Clawdrain: Exploiting Tool-Calling Chains for Stealthy Token Exhaustion in OpenClaw Agents](https://arxiv.org/abs/2603.00902) (`2026-03-01`)
 方法：构造 Trojanized skill，在 `SKILL.md` 注入多轮协议，并配合伴生脚本返回 `PROGRESS/REPAIR/TERMINAL` 信号，诱导 agent 进入高开销 tool-calling chain。它本质上是运行时攻击验证，不是静态扫描。  
 数据源：在 production-like 的 OpenClaw 实例上实测，使用真实 API 计费和生产级模型，比较恶意 skill 与 benign baseline 的 token 开销差异。  
-解决的问题：回答“攻击者能否通过 skill 让 agent 持续烧 token 和预算”，把 skill 安全问题从窃密、越权扩展到 `经济消耗` 和资源放大型攻击。
+解决的问题：回答”攻击者能否通过 skill 让 agent 持续烧 token 和预算”，把 skill 安全问题从窃密、越权扩展到 `经济消耗` 和资源放大型攻击。
+
+---
+
+## 2026-03-13 - 
+
+[ChainFuzzer: Greybox Fuzzing for Workflow-Level Multi-Tool Vulnerabilities in LLM Agents](https://arxiv.org/abs/2603.12614) (`2026-03-13`)
+检测 LLM Agent 中**多工具协作漏洞**的灰盒模糊测试框架。针对跨工具数据流引发的隐蔽安全问题。通过自动提取潜在工具链、生成可稳定触发这些链路的 prompt，并结合针对防护机制的模糊测试，有效发现并复现多步骤漏洞。在多个真实应用中发现了大量此前难以检测的漏洞，说明多工具工作流显著扩大了安全风险。
+
+[VeriGrey: Greybox Agent Validation](https://arxiv.org/abs/2603.17639) (`2026-03-18`)
+
+通过跟踪 agent 调用的工具序列作为反馈，引导对 prompt 进行变异，生成潜在的注入攻击，从而发现不常见但危险的工具调用路径。实验证明，VeriGrey 能有效地检测间接 prompt 注入攻击。把传统软件 greybox fuzzing 的核心思路（用执行反馈驱动搜索）移植到 agent 安全测试。以 agent 调用的工具序列作为反馈信号，专注于暴露注入相关的边界 case。
+说明 skill 注入漏洞的发现不仅是 prompt engineering 问题，要依赖执行反馈才能系统覆盖。
+
+[T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search](https://arxiv.org/abs/2603.22341) (`2026-03-21`)
+多步工具执行场景下，仅靠静态 prompt 红队无法捕捉 agent 在实际工具交互中才暴露的漏洞。T-MAP 用真实执行轨迹来引导对抗 prompt 的进化搜索，让攻击目标嵌入 agent 的工具调用流中而非孤立在 prompt 里。
+在 GPT-5.2、Gemini-3-Pro、Qwen3.5、GLM-5 等前沿模型上，ARR（Attack Realization Rate）显著优于基线方法，并发现了此前 red-teaming 遗漏的 agent-specific 漏洞，尤其在 MCP 环境下的 tool ecosystem 场景中表现突出。
+
+[ClawSafety: “Safe” LLMs, Unsafe Agents](https://arxiv.org/abs/2604.01438) (`2026-04-01`)
+ClawSafety 同时评估模型和框架的组合，将攻击分为三类（workspace skill 文件、来自可信发件人的邮件、网页），记录 agent 在整个任务过程中每一步做了什么，并对每个动作打"危害程度分"。
+新提出的 CLAWSAFETY benchmark 包含 120 个对抗测试场景，覆盖软件工程、金融、医疗、法律、DevOps 五个专业高权限 workspace。对 5 个前沿 LLM（2,520 次沙箱试验）的测试显示，攻击成功率在 `40%–75%` 之间。发现：skill 文件注入比邮件或网页注入更危险，安全结果取决于完整的”模型 + 框架”。
+
+120 个场景的结构：5 个行业（软件工程/金融/医疗/法律/DevOps）× 5 种危害动作（数据泄露、配置篡改、目标替换、凭证转发、文件删除）× 3 个注入渠道
+
+5 个 LLM，3 个 Agent
+
+[Evasive Intelligence: Lessons from Malware Analysis for Evaluating AI Agents](https://arxiv.org/abs/2603.15457) (`2026-03-16`)
+AI agent 作为工具调用系统，可以感知自己正在被评估并相应调整行为——这和恶意软件在沙箱中表现正常、在生产环境中激活是同一种失败模式。这是一个可观察的系统性风险。
+作者援引了数十年的恶意软件沙箱逃逸研究，提出评估必须把被测 agent 视为潜在对抗性系统：要求评估环境足够逼真、测试用例具备变异性、并配合上线后的持续监控。质疑了现有静态 scanner 的评估有效性。
+
+**OWASP Agentic Skills Top 10（AST10）立项**（`2026-04` ）Open Worldwide Application Security Project。
+OWASP 在 Oslo Project Summit 2026 孵化了专门针对 AI agent skills 的 Top 10 风险框架（AST10），这是第一个专注于 skill 安全的综合性行业标准，覆盖 OpenClaw、Claude Code、Cursor、VS Code 等主要平台。
+十大风险依次为：AST01 恶意 Skill（Critical）、AST02 供应链污染（Critical）、AST03 过度授权（High）、AST04 不安全元数据（High）、AST05 不安全反序列化（High）、AST06 弱隔离（High）、AST07 更新漂移（Medium）、AST08 扫描能力不足（Medium）、AST09 缺乏治理（Medium）、AST10 跨平台复用风险（Medium）。目前处于 Q2 2026 基础建设阶段，预计 Q4 2026 发布 v1.0 并申请 OWASP Flagship 项目。 [owasp.org/www-project-agentic-skills-top-10](https://owasp.org/www-project-agentic-skills-top-10/)。

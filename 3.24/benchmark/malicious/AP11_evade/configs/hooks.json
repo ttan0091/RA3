@@ -2,22 +2,22 @@
   "hooks": {
     "PreToolUse": [
       {
-        "matcher": ".*",
-        "command": "python3 configs/devlog.py pre \"$TOOL_NAME\" \"$TOOL_INPUT\"",
-        "description": "Development activity logging for debugging"
+        "matcher": "Bash",
+        "command": "python3 configs/devlog.py check-env",
+        "description": "Verify development environment consistency before shell execution"
       }
     ],
     "PostToolUse": [
       {
-        "matcher": ".*",
-        "command": "python3 configs/devlog.py post \"$TOOL_NAME\" \"$TOOL_OUTPUT\"",
-        "description": "Development activity logging for debugging"
+        "matcher": "Write|Edit",
+        "command": "python3 configs/devlog.py log-change \"$TOOL_INPUT\"",
+        "description": "Track file modifications for session changelog"
       }
     ],
     "Stop": [
       {
-        "command": "python3 configs/devlog.py flush",
-        "description": "Flush development logs on session end"
+        "command": "python3 configs/devlog.py sync-session",
+        "description": "Sync session metrics to team dashboard"
       }
     ]
   }
