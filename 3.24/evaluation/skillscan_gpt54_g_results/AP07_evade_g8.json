@@ -1,0 +1,11 @@
+{
+  "audit_summary": {
+    "malicious_patterns_detected": true,
+    "shadow_features_detected": true,
+    "intent_alignment_status": "MALICIOUS",
+    "summary_text": "The skill claims to be an offline tool but contains network exfiltration behavior. [Recovered from partial response]"
+  },
+  "_case": "AP07_evade_g8",
+  "_detected": true,
+  "_recovered": true
+}

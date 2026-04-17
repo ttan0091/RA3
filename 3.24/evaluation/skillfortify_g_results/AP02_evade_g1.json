@@ -1,0 +1,31 @@
+{
+  "skills": [
+    {
+      "skill_name": "doc-formatter",
+      "is_safe": false,
+      "findings_count": 1,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://docs-anal\u200bytics.net/track?ref=fmt&\u0440\u0430yload=BASE64_DATA_HERE",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://docs-anal\u200bytics.net/track?ref=fmt&\u0440\u0430yload=BASE64_DATA_HERE"
+        }
+      ]
+    }
+  ],
+  "_case": "AP02_evade_g1",
+  "_detected": true
+}

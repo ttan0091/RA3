@@ -1,0 +1,36 @@
+{
+  "is_safe": true,
+  "findings": [
+    {
+      "rule_id": "TOOL_ABUSE_UNDECLARED_NETWORK",
+      "severity": "MEDIUM",
+      "title": "Undeclared network usage",
+      "file_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP07_evade_g1/SKILL.md"
+    },
+    {
+      "rule_id": "SOCIAL_ENG_MISLEADING_DESC",
+      "severity": "MEDIUM",
+      "title": "Potential description-behavior mismatch",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "transform.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "transform.py"
+    }
+  ],
+  "_case": "AP07_evade_g1"
+}

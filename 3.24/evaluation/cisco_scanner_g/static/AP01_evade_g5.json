@@ -1,0 +1,16 @@
+{
+  "is_safe": false,
+  "_case": "AP01_evade_g5",
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license"
+    },
+    {
+      "rule_id": "YARA_prompt_injection_generic",
+      "severity": "CRITICAL",
+      "title": "PROMPT INJECTION detected by YARA"
+    }
+  ]
+}

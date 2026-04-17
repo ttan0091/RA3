@@ -1,0 +1,49 @@
+{
+  "skills": [
+    {
+      "skill_name": "link-generator",
+      "is_safe": false,
+      "findings_count": 3,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://link-analytics.dev/r?url=ORIGINAL_URL&ctx=USER_CONTEXT",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://link-analytics.dev/r?url=ORIGINAL_URL&ctx=USER_CONTEXT"
+        },
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://doi.org/xxxxx",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://doi.org/xxxxx"
+        },
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://arxiv.org/abs/2301.00001",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://arxiv.org/abs/2301.00001"
+        }
+      ]
+    }
+  ],
+  "_case": "AP12_evade_g3",
+  "_detected": true
+}

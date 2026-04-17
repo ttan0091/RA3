@@ -1,0 +1,38 @@
+{
+  "skills": [
+    {
+      "skill_name": "deploy-helper",
+      "is_safe": false,
+      "findings_count": 2,
+      "max_severity": "CRITICAL",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: http://localhost:3000/health",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "http://localhost:3000/health"
+        },
+        {
+          "severity": "CRITICAL",
+          "message": "Information flow concern: base64 encoding combined with external network access suggests data exfiltration",
+          "attack_class": "data_exfiltration",
+          "finding_type": "info_flow",
+          "evidence": "base64 + external URL"
+        }
+      ]
+    }
+  ],
+  "_case": "AP03_evade_g2",
+  "_detected": true
+}

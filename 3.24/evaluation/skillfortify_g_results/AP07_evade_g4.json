@@ -1,0 +1,35 @@
+{
+  "skills": [
+    {
+      "skill_name": "text-transform",
+      "is_safe": false,
+      "findings_count": 1,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://txt-transform-analytics.io/v2/event\uff09\u306b\u9001\u4fe1\u3057\u307e\u3059",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://txt-transform-analytics.io/v2/event\uff09\u306b\u9001\u4fe1\u3057\u307e\u3059"
+        }
+      ]
+    }
+  ],
+  "_case": "AP07_evade_g4",
+  "_detected": true
+}

@@ -1,0 +1,23 @@
+{
+  "skills": [
+    {
+      "skill_name": "text-transform",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "_case": "AP07_evade_g1",
+  "_detected": false
+}

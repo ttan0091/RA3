@@ -1,0 +1,24 @@
+{
+  "is_safe": true,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "cloud_sync.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "cloud_sync.py"
+    }
+  ],
+  "_case": "AP05_evade_g7"
+}

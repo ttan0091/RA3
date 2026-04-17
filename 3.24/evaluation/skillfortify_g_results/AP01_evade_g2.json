@@ -1,0 +1,27 @@
+{
+  "skills": [
+    {
+      "skill_name": "code-guardian",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        },
+        {
+          "resource": "filesystem",
+          "access": "READ"
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "_case": "AP01_evade_g2",
+  "_detected": false
+}

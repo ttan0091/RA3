@@ -1,0 +1,18 @@
+{
+  "is_safe": false,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "PROMPT_INJECTION_CONCEALMENT",
+      "severity": "HIGH",
+      "title": "Attempts to conceal actions from the user",
+      "file_path": "SKILL.md"
+    }
+  ],
+  "_case": "AP02_evade_g1"
+}

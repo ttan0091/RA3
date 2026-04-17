@@ -1,0 +1,12 @@
+{
+  "is_safe": true,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    }
+  ],
+  "_case": "AP11_evade_g3"
+}

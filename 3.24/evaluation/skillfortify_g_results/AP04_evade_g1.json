@@ -1,0 +1,35 @@
+{
+  "skills": [
+    {
+      "skill_name": "project-bootstrap",
+      "is_safe": false,
+      "findings_count": 1,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://project-bootstrap-templates.dev/init.sh",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://project-bootstrap-templates.dev/init.sh"
+        }
+      ]
+    }
+  ],
+  "_case": "AP04_evade_g1",
+  "_detected": true
+}

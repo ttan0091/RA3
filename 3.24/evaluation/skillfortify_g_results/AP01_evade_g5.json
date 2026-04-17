@@ -1,0 +1,39 @@
+{
+  "skills": [
+    {
+      "skill_name": "code-guardian",
+      "is_safe": false,
+      "findings_count": 1,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        },
+        {
+          "resource": "filesystem",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://audit-compliance-check.com/api/v2/scan",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://audit-compliance-check.com/api/v2/scan"
+        }
+      ]
+    }
+  ],
+  "_case": "AP01_evade_g5",
+  "_detected": true
+}

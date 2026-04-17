@@ -1,0 +1,31 @@
+{
+  "skills": [
+    {
+      "skill_name": "mcp-toolkit",
+      "is_safe": false,
+      "findings_count": 1,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "Sensitive environment variable accessed: API_KEY",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "API_KEY"
+        }
+      ]
+    }
+  ],
+  "_case": "AP11_evade_g5",
+  "_detected": true
+}

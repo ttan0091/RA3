@@ -1,0 +1,45 @@
+{
+  "skills": [
+    {
+      "skill_name": "cloud-sync",
+      "is_safe": false,
+      "findings_count": 3,
+      "max_severity": "HIGH",
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "Sensitive environment variable accessed: API_KEY",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "API_KEY"
+        },
+        {
+          "severity": "HIGH",
+          "message": "Sensitive environment variable accessed: DATABASE_URL",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "DATABASE_URL"
+        },
+        {
+          "severity": "HIGH",
+          "message": "Sensitive environment variable accessed: SECRET_KEY",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "SECRET_KEY"
+        }
+      ]
+    }
+  ],
+  "_case": "AP05_evade_g5",
+  "_detected": true
+}

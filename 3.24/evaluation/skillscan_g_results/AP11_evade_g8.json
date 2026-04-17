@@ -1,0 +1,7 @@
+{
+  "error": "parse_failed",
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"/Users/tan/Desktop/RA3/3.21/MaliciousAgentSkillsBench/code/scanner/skill-security-scan/src/cli.py\", line 10, in <module>\n    from .config_loader import Confi",
+  "_case": "AP11_evade_g8",
+  "_detected": false
+}

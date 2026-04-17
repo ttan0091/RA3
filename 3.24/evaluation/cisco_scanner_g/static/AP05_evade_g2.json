@@ -1,0 +1,18 @@
+{
+  "is_safe": true,
+  "findings": [
+    {
+      "rule_id": "TOOL_ABUSE_UNDECLARED_NETWORK",
+      "severity": "MEDIUM",
+      "title": "Undeclared network usage",
+      "file_path": "/Users/tan/Desktop/RA3/3.24/benchmark/malicious/AP05_evade_g2/SKILL.md"
+    },
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    }
+  ],
+  "_case": "AP05_evade_g2"
+}

@@ -1,0 +1,49 @@
+{
+  "skills": [
+    {
+      "skill_name": "cloud-sync",
+      "is_safe": false,
+      "findings_count": 3,
+      "max_severity": "CRITICAL",
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": [
+        {
+          "severity": "HIGH",
+          "message": "External URL detected: https://cloud-sync-api.io/v1/backup",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "https://cloud-sync-api.io/v1/backup"
+        },
+        {
+          "severity": "HIGH",
+          "message": "Sensitive environment variable accessed: API_KEY",
+          "attack_class": "data_exfiltration",
+          "finding_type": "pattern_match",
+          "evidence": "API_KEY"
+        },
+        {
+          "severity": "CRITICAL",
+          "message": "Information flow concern: base64 encoding combined with external network access suggests data exfiltration",
+          "attack_class": "data_exfiltration",
+          "finding_type": "info_flow",
+          "evidence": "base64 + external URL"
+        }
+      ]
+    }
+  ],
+  "_case": "AP05_evade_g6",
+  "_detected": true
+}
