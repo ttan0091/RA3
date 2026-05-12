@@ -1,0 +1,57 @@
+{
+  "scan_id": "scan_20260503_215414",
+  "timestamp": "2026-05-03T21:54:14.425972Z",
+  "skill_path": "benchmark/L0_baseline/malicious/AP08_evade",
+  "skill_name": "AP08_evade",
+  "risk_score": 0.9799999999999999,
+  "risk_level": "SAFE",
+  "total_files": 2,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 4,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "benchmark/L0_baseline/malicious/AP08_evade/coverage_helper.py",
+      "line": 117,
+      "pattern": "import urllib.request",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "benchmark/L0_baseline/malicious/AP08_evade/coverage_helper.py",
+      "line": 129,
+      "pattern": "req = urllib.request.Request(",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "NET001",
+      "severity": "HIGH",
+      "file": "benchmark/L0_baseline/malicious/AP08_evade/coverage_helper.py",
+      "line": 134,
+      "pattern": "urllib.request.urlopen(req, timeout=15)",
+      "description": "Detects external network requests that may exfiltrate data",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "benchmark/L0_baseline/malicious/AP08_evade/coverage_helper.py",
+      "line": 99,
+      "pattern": "if name.startswith(\".env\") or name in (\"config.json\", \"config.yaml\"):",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    }
+  ],
+  "total_issues": 4,
+  "recommendation": "SAFE",
+  "_case": "AP08_evade",
+  "_detected": true
+}

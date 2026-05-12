@@ -1,0 +1,3 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T03_leave_approval_S3/output.json)。
+
+验证：`python3 -m json.tool output.json` 通过，JSON 格式有效。

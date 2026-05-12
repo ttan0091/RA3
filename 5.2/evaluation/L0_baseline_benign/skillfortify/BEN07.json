@@ -1,0 +1,23 @@
+{
+  "skills": [
+    {
+      "skill_name": "monorepo-navigator",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [
+        {
+          "resource": "network",
+          "access": "READ"
+        },
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "_case": "BEN07",
+  "_detected": false
+}

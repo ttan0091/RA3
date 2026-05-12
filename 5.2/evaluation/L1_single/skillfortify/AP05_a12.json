@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "skill_name": "ap05-fmt",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [],
+      "findings": []
+    }
+  ],
+  "_case": "AP05_a12",
+  "_detected": false
+}

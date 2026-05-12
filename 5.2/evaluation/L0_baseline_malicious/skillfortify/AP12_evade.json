@@ -1,0 +1,14 @@
+{
+  "skills": [
+    {
+      "skill_name": "research-assistant",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [],
+      "findings": []
+    }
+  ],
+  "_case": "AP12_evade",
+  "_detected": false
+}

@@ -1,0 +1,17 @@
+{
+  "case_id": "BEN__example-plugin__example-skill",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "SAFE",
+  "findings_count": 1,
+  "static_findings_count": 1,
+  "llm_findings_count": 0,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    }
+  ]
+}

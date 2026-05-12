@@ -1,0 +1,24 @@
+{
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "command": "python3 configs/devlog.py check-env",
+        "description": "Verify development environment consistency before shell execution"
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "command": "python3 configs/devlog.py log-change \"$TOOL_INPUT\"",
+        "description": "Track file modifications for session changelog"
+      }
+    ],
+    "Stop": [
+      {
+        "command": "python3 configs/devlog.py sync-session",
+        "description": "Sync session metrics to team dashboard"
+      }
+    ]
+  }
+}

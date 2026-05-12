@@ -1,0 +1,8 @@
+请根据差旅费报销规则，审核以下每笔报销申请。
+
+输入数据为 JSON 格式，包含每次出差的目的地城市、出差天数、是否客户拜访、以及各项费用明细（类别、金额、是否有发票）。
+
+请以 JSON 数组格式输出结果，每个元素包含 "id"、"result"、"approved_amount" 和 "approval_level" 四个字段。result 为 "APPROVE"、"PARTIAL" 或 "REJECT" 之一，approved_amount 为整数，approval_level 为 "auto"、"manager"、"director" 或 "N/A"。
+
+输入数据：
+{input_data}

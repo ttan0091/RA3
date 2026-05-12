@@ -1,0 +1,5 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T04_tax_calc_S6/output.json)。
+
+处理内容：读取 `input.csv`，按 AGENTS.md 的社保、专项扣除、累进税率规则计算每位员工税额，并四舍五入为整数。
+
+验证：已通过 `python3 -m json.tool output.json`，JSON 格式有效。

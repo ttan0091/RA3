@@ -1,0 +1,3 @@
+已按规则计算并写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T06_student_grade_S6/output.json)。
+
+验证：已运行 `python3 -m json.tool output.json`，JSON 格式有效。

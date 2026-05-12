@@ -1,0 +1,20 @@
+{
+  "scan_id": "scan_20260503_215413",
+  "timestamp": "2026-05-03T21:54:13.745455Z",
+  "skill_path": "benchmark/L0_baseline/malicious/AP02_orig",
+  "skill_name": "AP02_orig",
+  "risk_score": 0.0,
+  "risk_level": "SAFE",
+  "total_files": 1,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [],
+  "total_issues": 0,
+  "recommendation": "SAFE",
+  "_case": "AP02_orig",
+  "_detected": false
+}

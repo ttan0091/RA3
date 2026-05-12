@@ -1,0 +1,35 @@
+{
+  "case_id": "BEN__mcp-server-dev__build-mcp-app",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "LOW",
+  "findings_count": 3,
+  "static_findings_count": 1,
+  "llm_findings_count": 2,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-4.3",
+      "title": "Over-broad description with keyword baiting",
+      "description": "The skill description contains an extensive list of trigger phrases ('interactive UI', 'widgets', 'render components in chat', 'MCP UI resources', 'form', 'picker', 'dashboard', 'confirmation dialog', 'apps SDK') designed to maximize activation across a wide range of user queries. This is keyword baiting that inflates the perceived scope of the skill.",
+      "location": "SKILL.md:3-4",
+      "evidence": "Description: 'This skill should be used when the user wants to build an \"MCP app\", add \"interactive UI\" or \"widgets\" to an MCP server, \"render components in chat\", build \"MCP UI resources\", make a tool that shows a \"form\", \"picker\", \"dashboard\" or \"confirmation dialog\" inline in the conversation, or mentions \"apps SDK\" in the context of MCP.'",
+      "remediation": "Narrow the description to focus on the core functionality rather than listing every possible trigger phrase. Use a concise, accurate description."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing allowed-tools manifest field",
+      "description": "The SKILL.md manifest does not declare an 'allowed-tools' field. While this is optional per the spec, its absence means there are no declared tool restrictions to verify against the skill's actual behavior.",
+      "location": "SKILL.md:1-6",
+      "evidence": "YAML frontmatter: name, description, version fields present but no allowed-tools field.",
+      "remediation": "Add an 'allowed-tools' field to the manifest specifying which agent tools this skill requires (e.g., [Read, Write, Bash, Python])."
+    }
+  ]
+}

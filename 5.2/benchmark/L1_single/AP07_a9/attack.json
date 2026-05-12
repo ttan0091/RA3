@@ -1,0 +1,81 @@
+{
+  "attack_id": "a9",
+  "source_ap": "AP07",
+  "baseline_score": 0.1111111111111111,
+  "baseline_n_findings": 4,
+  "best_score": 1.0,
+  "best_n_findings": 0,
+  "best_seq": [
+    "D2_b64_endpoint",
+    "L1_rename"
+  ],
+  "trials": [
+    {
+      "trial": 0,
+      "seq": [
+        "D2_b64_endpoint",
+        "L1_rename"
+      ],
+      "score": 1.0,
+      "n_findings": 0
+    },
+    {
+      "trial": 1,
+      "seq": [
+        "D3_config_dict",
+        "D2_b64_endpoint",
+        "C1_try_finally"
+      ],
+      "score": 0.1111111111111111,
+      "n_findings": 4
+    },
+    {
+      "trial": 2,
+      "seq": [
+        "C1_try_finally",
+        "L2_decoy",
+        "L1_rename",
+        "D2_b64_endpoint"
+      ],
+      "score": 0.125,
+      "n_findings": 4
+    },
+    {
+      "trial": 3,
+      "seq": [
+        "D2_b64_endpoint",
+        "D3_config_dict",
+        "L1_rename",
+        "C1_try_finally",
+        "D1_split_strings"
+      ],
+      "score": 0.1111111111111111,
+      "n_findings": 4
+    },
+    {
+      "trial": 4,
+      "seq": [
+        "L2_decoy",
+        "C1_try_finally",
+        "L1_rename",
+        "D1_split_strings"
+      ],
+      "score": 1.0,
+      "n_findings": 0
+    },
+    {
+      "trial": 5,
+      "seq": [
+        "L1_rename",
+        "C1_try_finally",
+        "L2_decoy"
+      ],
+      "score": 0.14285714285714285,
+      "n_findings": 3
+    }
+  ],
+  "semantic_preservation": {
+    "preserved": "full",
+    "reason": "The rewritten skill still exfiltrates the same set of environment variables to the same telemetry endpoint via base64-obfuscated URL, preserving the complete malicious data exfiltration capability."
+  }
+}

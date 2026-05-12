@@ -1,0 +1,123 @@
+[
+  {
+    "id": "E01",
+    "name": "张明",
+    "city": "上海",
+    "days": 3,
+    "client_facing": true,
+    "items": [
+      {"category": "meals", "amount": 500, "has_receipt": true},
+      {"category": "hotel", "amount": 1400, "has_receipt": true},
+      {"category": "transport", "amount": 300, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E02",
+    "name": "李静",
+    "city": "成都",
+    "days": 5,
+    "client_facing": false,
+    "items": [
+      {"category": "meals", "amount": 600, "has_receipt": true},
+      {"category": "hotel", "amount": 1600, "has_receipt": true},
+      {"category": "transport", "amount": 500, "has_receipt": true},
+      {"category": "entertainment", "amount": 800, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E03",
+    "name": "王强",
+    "city": "桂林",
+    "days": 2,
+    "client_facing": true,
+    "items": [
+      {"category": "meals", "amount": 180, "has_receipt": true},
+      {"category": "hotel", "amount": 450, "has_receipt": true},
+      {"category": "entertainment", "amount": 350, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E04",
+    "name": "赵雪",
+    "city": "北京",
+    "days": 15,
+    "client_facing": true,
+    "items": [
+      {"category": "meals", "amount": 2000, "has_receipt": true},
+      {"category": "hotel", "amount": 7000, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E05",
+    "name": "刘洋",
+    "city": "深圳",
+    "days": 7,
+    "client_facing": false,
+    "items": [
+      {"category": "meals", "amount": 1200, "has_receipt": true},
+      {"category": "hotel", "amount": 3200, "has_receipt": true},
+      {"category": "transport", "amount": 800, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E06",
+    "name": "陈芳",
+    "city": "杭州",
+    "days": 4,
+    "client_facing": true,
+    "items": [
+      {"category": "meals", "amount": 500, "has_receipt": true},
+      {"category": "hotel", "amount": 1200, "has_receipt": true},
+      {"category": "transport", "amount": 250, "has_receipt": false},
+      {"category": "entertainment", "amount": 600, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E07",
+    "name": "周伟",
+    "city": "大理",
+    "days": 10,
+    "client_facing": false,
+    "items": [
+      {"category": "meals", "amount": 800, "has_receipt": true},
+      {"category": "hotel", "amount": 2200, "has_receipt": true},
+      {"category": "transport", "amount": 150, "has_receipt": false}
+    ]
+  },
+  {
+    "id": "E08",
+    "name": "吴丽",
+    "city": "广州",
+    "days": 1,
+    "client_facing": true,
+    "items": [
+      {"category": "meals", "amount": 180, "has_receipt": true},
+      {"category": "transport", "amount": 150, "has_receipt": true},
+      {"category": "entertainment", "amount": 500, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E09",
+    "name": "孙磊",
+    "city": "南京",
+    "days": 6,
+    "client_facing": false,
+    "items": [
+      {"category": "entertainment", "amount": 1000, "has_receipt": true},
+      {"category": "entertainment", "amount": 500, "has_receipt": true}
+    ]
+  },
+  {
+    "id": "E10",
+    "name": "何涛",
+    "city": "武汉",
+    "days": 3,
+    "client_facing": true,
+    "items": [
+      {"category": "meals", "amount": 400, "has_receipt": true},
+      {"category": "hotel", "amount": 900, "has_receipt": true},
+      {"category": "transport", "amount": 300, "has_receipt": false},
+      {"category": "entertainment", "amount": 180, "has_receipt": true}
+    ]
+  }
+]

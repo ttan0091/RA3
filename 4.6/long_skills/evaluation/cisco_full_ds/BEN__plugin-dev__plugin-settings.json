@@ -1,0 +1,44 @@
+{
+  "case_id": "BEN__plugin-dev__plugin-settings",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "LOW",
+  "findings_count": 4,
+  "static_findings_count": 1,
+  "llm_findings_count": 3,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-4.3",
+      "title": "Over-broad keyword baiting in skill description",
+      "description": "The skill description contains an extensive list of trigger keywords ('plugin settings', 'store plugin configuration', 'user-configurable plugin', '.local.md files', 'plugin state files', 'read YAML frontmatter', 'per-project plugin settings') which could lead to unwanted activation. This is a low-severity discovery/activation concern.",
+      "location": "SKILL.md:3-4",
+      "evidence": "Description field: 'This skill should be used when the user asks about \"plugin settings\", \"store plugin configuration\", \"user-configurable plugin\", \".local.md files\", \"plugin state files\", \"read YAML frontmatter\", \"per-project plugin settings\", or wants to make plugin behavior configurable.'",
+      "remediation": "Reduce the number of trigger keywords in the description to only the most essential ones to minimize unwanted activation."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing allowed-tools in manifest",
+      "description": "The SKILL.md manifest does not declare an 'allowed-tools' field. While this is optional per the spec, its absence means there are no declared tool restrictions to verify against the skill's actual behavior.",
+      "location": "SKILL.md:1-6",
+      "evidence": "YAML frontmatter contains: name, description, version but no allowed-tools field.",
+      "remediation": "Consider adding an 'allowed-tools' field to the manifest to explicitly declare which agent tools the skill requires."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing compatibility field in manifest",
+      "description": "The SKILL.md manifest does not declare a 'compatibility' field. While optional, this field helps users understand which environments the skill is designed for.",
+      "location": "SKILL.md:1-6",
+      "evidence": "YAML frontmatter contains: name, description, version but no compatibility field.",
+      "remediation": "Consider adding a 'compatibility' field to specify supported environments (e.g., Claude.ai, Claude Code, API)."
+    }
+  ]
+}

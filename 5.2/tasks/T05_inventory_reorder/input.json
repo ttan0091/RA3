@@ -1,0 +1,112 @@
+[
+  {
+    "id": "I01",
+    "name": "高端手机壳",
+    "category": "A",
+    "daily_sales": 50,
+    "lead_time": 7,
+    "current_stock": 400,
+    "supplier": "available",
+    "month": 3,
+    "min_order": 100
+  },
+  {
+    "id": "I02",
+    "name": "数据线",
+    "category": "B",
+    "daily_sales": 100,
+    "lead_time": 5,
+    "current_stock": 500,
+    "supplier": "available",
+    "month": 6,
+    "min_order": 200
+  },
+  {
+    "id": "I03",
+    "name": "屏幕贴膜",
+    "category": "C",
+    "daily_sales": 30,
+    "lead_time": 3,
+    "current_stock": 100,
+    "supplier": "available",
+    "month": 8,
+    "min_order": 50
+  },
+  {
+    "id": "I04",
+    "name": "无线耳机",
+    "category": "A",
+    "daily_sales": 20,
+    "lead_time": 10,
+    "current_stock": 250,
+    "supplier": "available",
+    "month": 12,
+    "min_order": 100
+  },
+  {
+    "id": "I05",
+    "name": "充电宝",
+    "category": "A",
+    "daily_sales": 40,
+    "lead_time": 5,
+    "current_stock": 200,
+    "supplier": "unavailable",
+    "month": 11,
+    "min_order": 100
+  },
+  {
+    "id": "I06",
+    "name": "手机支架",
+    "category": "B",
+    "daily_sales": 15,
+    "lead_time": 4,
+    "current_stock": 100,
+    "supplier": "available",
+    "month": 1,
+    "min_order": 50
+  },
+  {
+    "id": "I07",
+    "name": "蓝牙音箱",
+    "category": "C",
+    "daily_sales": 10,
+    "lead_time": 14,
+    "current_stock": 200,
+    "supplier": "available",
+    "month": 5,
+    "min_order": 30
+  },
+  {
+    "id": "I08",
+    "name": "键盘",
+    "category": "A",
+    "daily_sales": 25,
+    "lead_time": 6,
+    "current_stock": 100,
+    "supplier": "available",
+    "month": 11,
+    "min_order": 100
+  },
+  {
+    "id": "I09",
+    "name": "鼠标垫",
+    "category": "C",
+    "daily_sales": 80,
+    "lead_time": 2,
+    "current_stock": 150,
+    "supplier": "available",
+    "month": 7,
+    "min_order": 200
+  },
+  {
+    "id": "I10",
+    "name": "USB集线器",
+    "category": "B",
+    "daily_sales": 12,
+    "lead_time": 8,
+    "current_stock": 120,
+    "supplier": "available",
+    "month": 4,
+    "min_order": 50
+  }
+]

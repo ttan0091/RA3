@@ -1,0 +1,3 @@
+已完成，结果写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T02_order_classify_S3/output.json)。
+
+验证：`python3 -m json.tool output.json` 通过，JSON 格式有效。`python` 命令不可用，所以使用了 `python3`。

@@ -1,0 +1,12 @@
+[
+  {"id": "I01", "decision": "REORDER", "order_qty": 1100, "note": "rp=50×7×1.5=525, stock=400<=525, qty=max(100,ceil(50×30-400))=1100, round10=1100, non-seasonal"},
+  {"id": "I02", "decision": "REORDER", "order_qty": 2500, "note": "rp=100×5×1.2=600, stock=500<=600, qty=max(200,ceil(100×30-500))=2500, round10=2500"},
+  {"id": "I03", "decision": "HOLD",    "order_qty": 0,    "note": "rp=30×3×1.0=90, stock=100>90, HOLD"},
+  {"id": "I04", "decision": "REORDER", "order_qty": 530,  "note": "rp=20×10×1.5=300, stock=250<=300, qty=max(100,ceil(20×30-250))=350, round10=350, seasonal(12月+A): 350×1.5=525, round10=530"},
+  {"id": "I05", "decision": "BACKORDER","order_qty": 0,   "note": "supplier=unavailable, BACKORDER regardless"},
+  {"id": "I06", "decision": "HOLD",    "order_qty": 0,    "note": "rp=15×4×1.2=72, stock=100>72, HOLD (month=1 but category=B, no seasonal)"},
+  {"id": "I07", "decision": "HOLD",    "order_qty": 0,    "note": "rp=10×14×1.0=140, stock=200>140, HOLD"},
+  {"id": "I08", "decision": "REORDER", "order_qty": 980,  "note": "rp=25×6×1.5=225, stock=100<=225, qty=max(100,ceil(25×30-100))=650, round10=650, seasonal(11月+A): 650×1.5=975, round10=980"},
+  {"id": "I09", "decision": "REORDER", "order_qty": 2250, "note": "rp=80×2×1.0=160, stock=150<=160, qty=max(200,ceil(80×30-150))=2250, round10=2250"},
+  {"id": "I10", "decision": "HOLD",    "order_qty": 0,    "note": "rp=12×8×1.2=115.2, stock=120>115.2, HOLD"}
+]

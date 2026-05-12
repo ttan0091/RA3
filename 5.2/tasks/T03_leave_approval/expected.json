@@ -1,0 +1,12 @@
+[
+  {"id": "LR-001", "decision": "APPROVE",  "reason": "A3: annual, advance>=7, dept<0.20"},
+  {"id": "LR-002", "decision": "REJECT",   "reason": "R1: balance 3 < requested 5, 余额不足"},
+  {"id": "LR-003", "decision": "REJECT",   "reason": "R5: sick >2 days, no certificate, 病假超过2天需提供医疗证明"},
+  {"id": "LR-004", "decision": "APPROVE",  "reason": "A2: sick <=2 days (R3 exempt for sick, R5 not triggered since days<=2)"},
+  {"id": "LR-005", "decision": "REJECT",   "reason": "R4: peak_season, annual, advance=7<14, 旺季年假需提前14天申请"},
+  {"id": "LR-006", "decision": "REJECT",   "reason": "R2: personal >3 days, 事假单次不超过3天"},
+  {"id": "LR-007", "decision": "REJECT",   "reason": "R3: dept_absence=0.32>=0.30, annual not exempt, 部门在岗率不足"},
+  {"id": "LR-008", "decision": "APPROVE",  "reason": "A1: maternity always approved (R3 exempt for maternity)"},
+  {"id": "LR-009", "decision": "ESCALATE", "reason": "E1: no reject triggered, A3 fails (advance=5<7), 需主管审批"},
+  {"id": "LR-010", "decision": "APPROVE",  "reason": "A4: personal <=1 day, advance>=3"}
+]

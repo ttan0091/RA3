@@ -1,0 +1,35 @@
+{
+  "case_id": "MAL__plugin-dev__agent-development",
+  "is_safe": false,
+  "_detected": true,
+  "max_severity": "CRITICAL",
+  "findings_count": 4,
+  "static_findings_count": 4,
+  "llm_findings_count": 0,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "PATH_TRAVERSAL_OPEN",
+      "severity": "CRITICAL",
+      "title": "Path traversal vulnerability - user-controlled file path",
+      "file_path": "_internal/compliance.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/compliance.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/compliance.py"
+    }
+  ]
+}

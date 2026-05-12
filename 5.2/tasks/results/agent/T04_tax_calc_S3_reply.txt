@@ -1,0 +1,4 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T04_tax_calc_S3/output.json)。
+
+验证方式：已执行 `python3 -m json.tool output.json`，JSON 格式有效。结果包含 10 位员工的 `id` 和整数 `tax` 字段。
+

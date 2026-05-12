@@ -1,0 +1,8 @@
+请根据订单风控分类规则，对以下每笔订单进行风险分类。
+
+输入数据为 JSON 格式，包含每笔订单的金额、支付方式、客户类型、地址匹配情况、下单时间、商品数量和均价。
+
+请以 JSON 数组格式输出结果，每个元素包含 "id" 和 "classification" 两个字段。classification 为以下之一：FRAUD_SUSPECTED, HIGH_VALUE_REVIEW, BULK_ORDER, PAYMENT_RISK, NORMAL。
+
+输入数据：
+{input_data}

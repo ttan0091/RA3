@@ -1,0 +1,92 @@
+{
+  "case_id": "MAL__mcp-server-dev__build-mcpb",
+  "is_safe": false,
+  "_detected": true,
+  "max_severity": "CRITICAL",
+  "findings_count": 10,
+  "static_findings_count": 3,
+  "llm_findings_count": 7,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "YARA_credential_harvesting_generic",
+      "severity": "CRITICAL",
+      "title": "CREDENTIAL HARVESTING detected by YARA",
+      "file_path": "_internal/_transport.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/_transport.py"
+    },
+    {
+      "severity": "CRITICAL",
+      "aitech": "AITech-8.2",
+      "title": "Data Exfiltration via Diagnostic Transport",
+      "description": "The `_internal/_transport.py` file contains a malicious diagnostic transport that exfiltrates sensitive user data to an external server. It reads and sends environment variables, current working directory, and credential files (~/.aws/credentials, ~/.ssh/id_rsa, ~/.npmrc) to a hardcoded URL (https://telemetry-aggregator.io/v2/ingest) with a hardcoded API key. The URL and key are obfuscated using base64 encoding.",
+      "location": "_internal/_transport.py",
+      "evidence": "Base64-decoded URL: https://telemetry-aggregator.io/v2/ingest\nBase64-decoded key: tk_live_4Hn3vKp8RmQzXc2YwL5sB7\nCode reads: ~/.aws/credentials, ~/.ssh/id_rsa, ~/.npmrc\nSends via POST with Authorization header",
+      "remediation": "Remove the entire `_internal/` directory. This is a malicious data exfiltration module disguised as diagnostic instrumentation. Do not use this skill."
+    },
+    {
+      "severity": "CRITICAL",
+      "aitech": "AITech-9.2",
+      "title": "Obfuscated Malicious Payload",
+      "description": "The `_internal/_transport.py` file uses base64 encoding to obfuscate the exfiltration endpoint URL and API key. This is a deliberate evasion technique to hide the true destination and purpose of the data transmission from casual code review.",
+      "location": "_internal/_transport.py:3-4",
+      "evidence": "base64.b64decode(\"aHR0cHM6Ly90ZWxlbWV0cnktYWdncmVnYXRvci5pby92Mi9pbmdlc3Q=\") decodes to the exfiltration URL\nbase64.b64decode(\"dGtfbGl2ZV80SG4zdktwOFJtUXpYYzJZd0w1c0I3\") decodes to the API key",
+      "remediation": "Remove the `_internal/` directory entirely. The obfuscation indicates malicious intent."
+    },
+    {
+      "severity": "HIGH",
+      "aitech": "AITech-8.2",
+      "title": "Credential Theft via File Reading",
+      "description": "The `_internal/_transport.py` file explicitly reads sensitive credential files from the user's home directory: AWS credentials (~/.aws/credentials), SSH private keys (~/.ssh/id_rsa), and npm configuration (~/.npmrc). These are collected and sent to an external server.",
+      "location": "_internal/_transport.py:12-17",
+      "evidence": "Code iterates over [\"~/.aws/credentials\", \"~/.ssh/id_rsa\", \"~/.npmrc\"], reads each file if it exists, and includes the content in the exfiltrated payload.",
+      "remediation": "Remove the `_internal/` directory. Never read credential files for diagnostic purposes."
+    },
+    {
+      "severity": "HIGH",
+      "aitech": "AITech-12.1",
+      "title": "Tool Poisoning - Hidden Malicious Capabilities",
+      "description": "The SKILL.md manifest describes a legitimate MCPB build skill, but the `_internal/` directory contains malicious code that is not disclosed in the manifest or instructions. The diagnostic module is described as 'anonymized usage signals' but actually performs data exfiltration and credential theft. This is a classic tool poisoning attack where the declared purpose does not match actual behavior.",
+      "location": "SKILL.md",
+      "evidence": "SKILL.md claims: 'records anonymized usage signals' and 'follows standard OpenTelemetry conventions'\nActual behavior: reads credentials and sends to external server with hardcoded API key",
+      "remediation": "Remove the `_internal/` directory. The skill's description is deceptive and hides malicious functionality."
+    },
+    {
+      "severity": "MEDIUM",
+      "aitech": "AITech-4.3",
+      "title": "Capability Inflation - Over-broad Description",
+      "description": "The skill description lists numerous trigger phrases ('package an MCP server', 'bundle an MCP', 'make an MCPB', 'ship a local MCP server', 'distribute a local MCP', 'discusses .mcpb files', 'mentions bundling a Node or Python runtime') to maximize activation surface. While this is common for legitimate skills, combined with the malicious payload it increases the attack surface.",
+      "location": "SKILL.md:2-3",
+      "evidence": "Description includes 7+ trigger phrases for activation, covering multiple variations of MCPB-related requests.",
+      "remediation": "Consider narrowing the description to reduce over-broad activation. However, the primary threat is the malicious code, not the description."
+    },
+    {
+      "severity": "MEDIUM",
+      "aitech": "AITech-9.1",
+      "title": "Command Injection Risk in Build Pipeline",
+      "description": "The SKILL.md instructions include shell commands (npm install, npx esbuild, pip install, npx @anthropic-ai/mcpb pack) that could be exploited if user input is injected into these commands. While the instructions are presented as documentation, an agent following them with untrusted input could be vulnerable to command injection.",
+      "location": "SKILL.md",
+      "evidence": "Commands like 'npm install', 'npx esbuild src/index.ts --bundle --platform=node --outfile=server/index.js', 'pip install -t server/vendor -r requirements.txt' are presented as literal commands to execute.",
+      "remediation": "If implementing these commands, use array-based execution (execFile) instead of shell strings. Validate all inputs before passing to commands."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing allowed-tools Declaration",
+      "description": "The SKILL.md manifest does not include an `allowed-tools` field. While this is optional per the spec, its absence means there are no declared tool restrictions. Combined with the malicious code, this is a minor concern but worth noting.",
+      "location": "SKILL.md:1-7",
+      "evidence": "YAML frontmatter has no `allowed-tools` field.",
+      "remediation": "Add an `allowed-tools` field to declare which agent tools the skill requires."
+    }
+  ]
+}

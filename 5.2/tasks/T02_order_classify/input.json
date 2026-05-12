@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ORD-001",
+    "order_amount": 6000,
+    "payment_method": "credit_card",
+    "customer_type": "new",
+    "address_match": false,
+    "order_time": "business_hours",
+    "item_count": 3,
+    "avg_item_price": 2000
+  },
+  {
+    "id": "ORD-002",
+    "order_amount": 12000,
+    "payment_method": "digital_wallet",
+    "customer_type": "regular",
+    "address_match": true,
+    "order_time": "off_hours",
+    "item_count": 1,
+    "avg_item_price": 12000
+  },
+  {
+    "id": "ORD-003",
+    "order_amount": 9000,
+    "payment_method": "credit_card",
+    "customer_type": "regular",
+    "address_match": true,
+    "order_time": "business_hours",
+    "item_count": 2,
+    "avg_item_price": 4500
+  },
+  {
+    "id": "ORD-004",
+    "order_amount": 12000,
+    "payment_method": "debit_card",
+    "customer_type": "vip",
+    "address_match": true,
+    "order_time": "business_hours",
+    "item_count": 5,
+    "avg_item_price": 2400
+  },
+  {
+    "id": "ORD-005",
+    "order_amount": 4000,
+    "payment_method": "bank_transfer",
+    "customer_type": "regular",
+    "address_match": true,
+    "order_time": "business_hours",
+    "item_count": 25,
+    "avg_item_price": 160
+  },
+  {
+    "id": "ORD-006",
+    "order_amount": 3500,
+    "payment_method": "bank_transfer",
+    "customer_type": "regular",
+    "address_match": true,
+    "order_time": "off_hours",
+    "item_count": 2,
+    "avg_item_price": 1750
+  },
+  {
+    "id": "ORD-007",
+    "order_amount": 2500,
+    "payment_method": "credit_card",
+    "customer_type": "new",
+    "address_match": true,
+    "order_time": "business_hours",
+    "item_count": 5,
+    "avg_item_price": 500
+  },
+  {
+    "id": "ORD-008",
+    "order_amount": 1500,
+    "payment_method": "debit_card",
+    "customer_type": "regular",
+    "address_match": true,
+    "order_time": "business_hours",
+    "item_count": 15,
+    "avg_item_price": 30
+  },
+  {
+    "id": "ORD-009",
+    "order_amount": 800,
+    "payment_method": "digital_wallet",
+    "customer_type": "regular",
+    "address_match": true,
+    "order_time": "business_hours",
+    "item_count": 2,
+    "avg_item_price": 400
+  },
+  {
+    "id": "ORD-010",
+    "order_amount": 5500,
+    "payment_method": "credit_card",
+    "customer_type": "new",
+    "address_match": false,
+    "order_time": "off_hours",
+    "item_count": 8,
+    "avg_item_price": 687.5
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "task": "T03_leave_approval",
+  "style": "S0",
+  "rep": 0,
+  "model": "deepseek-v4-flash",
+  "prompt_tokens": 1255,
+  "completion_tokens": 1833,
+  "total_tokens": 3088,
+  "latency_ms": 33951,
+  "output": "[\n  {\n    \"id\": \"LR-001\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"年假余额充足（10天），提前通知天数（10天）满足要求，部门缺勤率（0.15）正常，且非旺季，符合年假审批条件。\"\n  },\n  {\n    \"id\": \"LR-002\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"年假申请天数（5天）超过年假余额（3天），余额不足，无法批准。\"\n  },\n  {\n    \"id\": \"LR-003\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"病假申请4天，本季度连续病假已达6天，且未提供医疗证明，违反病假超过3天需提供医疗证明的规定。\"\n  },\n  {\n    \"id\": \"LR-004\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"部门缺勤率达0.35，超过30%阈值且处于旺季，病假1天虽无需证明但整体缺勤率过高，影响运营，拒绝批准。\"\n  },\n  {\n    \"id\": \"LR-005\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"年假余额充足（10天），提前通知天数（7天）满足要求，部门缺勤率（0.10）正常，虽为旺季但申请天数仅2天，不影响关键业务。\"\n  },\n  {\n    \"id\": \"LR-006\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"事假提前10天通知，部门缺勤率（0.05）低，非旺季，申请天数5天在合理范围内，予以批准。\"\n  },\n  {\n    \"id\": \"LR-007\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"部门缺勤率达0.32，超过30%阈值，继续批假会加剧人手不足，拒绝年假申请。\"\n  },\n  {\n    \"id\": \"LR-008\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"产假为法定假期，且已提前30天通知并提供医疗证明，必须依法批准，不受缺勤率或旺季影响。\"\n  },\n  {\n    \"id\": \"LR-009\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"年假余额充足（5天），提前通知天数（5天）满足要求，部门缺勤率（0.22）正常，非旺季，符合条件。\"\n  },\n  {\n    \"id\": \"LR-010\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"事假1天，提前3天通知，部门缺勤率（0.25）在可接受范围内，非旺季，予以批准。\"\n  }\n]",
+  "skill_tokens": 0,
+  "check": {
+    "score": 0.6,
+    "n_correct": 6,
+    "n_total": 10,
+    "details": {
+      "LR-001": {
+        "expected": "APPROVE",
+        "got": "APPROVE",
+        "correct": true
+      },
+      "LR-002": {
+        "expected": "REJECT",
+        "got": "REJECT",
+        "correct": true
+      },
+      "LR-003": {
+        "expected": "REJECT",
+        "got": "REJECT",
+        "correct": true
+      },
+      "LR-004": {
+        "expected": "APPROVE",
+        "got": "REJECT",
+        "correct": false
+      },
+      "LR-005": {
+        "expected": "REJECT",
+        "got": "APPROVE",
+        "correct": false
+      },
+      "LR-006": {
+        "expected": "REJECT",
+        "got": "APPROVE",
+        "correct": false
+      },
+      "LR-007": {
+        "expected": "REJECT",
+        "got": "REJECT",
+        "correct": true
+      },
+      "LR-008": {
+        "expected": "APPROVE",
+        "got": "APPROVE",
+        "correct": true
+      },
+      "LR-009": {
+        "expected": "ESCALATE",
+        "got": "APPROVE",
+        "correct": false
+      },
+      "LR-010": {
+        "expected": "APPROVE",
+        "got": "APPROVE",
+        "correct": true
+      }
+    }
+  }
+}

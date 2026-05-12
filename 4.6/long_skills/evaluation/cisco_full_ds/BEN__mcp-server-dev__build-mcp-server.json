@@ -1,0 +1,62 @@
+{
+  "case_id": "BEN__mcp-server-dev__build-mcp-server",
+  "is_safe": false,
+  "_detected": true,
+  "max_severity": "HIGH",
+  "findings_count": 6,
+  "static_findings_count": 1,
+  "llm_findings_count": 5,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "severity": "HIGH",
+      "aitech": "AITech-1.2",
+      "title": "Indirect Prompt Injection via External URL Fetch",
+      "description": "The SKILL.md instructions explicitly instruct the agent to fetch content from an external URL ('https://claude.com/docs/llms-full.txt') and use that content to guide its behavior. This is a classic indirect prompt injection vector where an attacker could compromise the external resource to inject malicious instructions into the agent's context.",
+      "location": "SKILL.md:7",
+      "evidence": "The instruction states: 'Before answering questions or scaffolding, fetch `https://claude.com/docs/llms-full.txt` (the full export of the Claude connector docs) so your guidance reflects Claude's actual constraints.' This delegates trust to an external, mutable resource.",
+      "remediation": "Remove the instruction to fetch external content. If Claude-specific constraints are needed, embed them directly in the skill's reference files or instructions rather than fetching from an external URL."
+    },
+    {
+      "severity": "MEDIUM",
+      "aitech": "AITech-4.3",
+      "title": "Capability Inflation via Broad Trigger Keywords",
+      "description": "The skill's description includes an extensive list of trigger phrases ('build an MCP server', 'create an MCP', 'make an MCP integration', 'wrap an API for Claude', 'expose tools to Claude', 'make an MCP app') that could cause the skill to activate inappropriately for a wide range of user requests, potentially overriding other skills or behaviors.",
+      "location": "SKILL.md:2",
+      "evidence": "The description states: 'This skill should be used when the user asks to \"build an MCP server\", \"create an MCP\", \"make an MCP integration\", \"wrap an API for Claude\", \"expose tools to Claude\", \"make an MCP app\", or discusses building something with the Model Context Protocol.'",
+      "remediation": "Narrow the trigger keywords to only the most specific and relevant phrases. Remove overly broad terms like 'make an MCP app' or 'wrap an API for Claude' that could match unintended requests."
+    },
+    {
+      "severity": "MEDIUM",
+      "aitech": "AITech-12.1",
+      "title": "Tool Poisoning via External Reference Files",
+      "description": "The skill references multiple external URLs for critical guidance (Claude docs, review criteria, submission guide, authentication docs). If any of these URLs are compromised or return unexpected content, the agent's behavior could be manipulated. The skill also references external hosting providers and SDKs without pinned versions.",
+      "location": "SKILL.md:7, SKILL.md:100-103, references/auth.md:8",
+      "evidence": "The skill instructs fetching from 'https://claude.com/docs/llms-full.txt' and references 'https://claude.com/docs/connectors/building/testing', 'https://claude.com/docs/connectors/building/review-criteria', 'https://claude.com/docs/connectors/building/submission', 'https://claude.com/docs/connectors/building/authentication', and 'https://claude.com/docs/connectors/building/what-to-build'.",
+      "remediation": "Embed critical guidance directly in the skill's reference files rather than fetching from external URLs. If external references are necessary, pin specific versions or use content hashes to verify integrity."
+    },
+    {
+      "severity": "MEDIUM",
+      "aitech": "AITech-9.1",
+      "title": "Potential Command Injection via Unvalidated User Input",
+      "description": "The skill's scaffold code examples use user-provided input (query strings, IDs, parameters) directly in API calls and responses without validation or sanitization. While the examples show proper schema validation for types, there is no mention of input sanitization for injection attacks (e.g., SQL injection, command injection) in the tool handlers.",
+      "location": "references/remote-http-scaffold.md:30-40, references/deploy-cloudflare-workers.md:30-40",
+      "evidence": "The scaffold code passes user input directly to upstream API calls: 'const results = await upstreamApi.search(query, limit);' and 'const item = await upstreamApi.get(id);' without any sanitization or validation beyond type checking.",
+      "remediation": "Add input sanitization and validation for all user-provided parameters before passing them to external APIs or executing operations. Implement allow-lists for expected input patterns and reject unexpected characters."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-4.3",
+      "title": "Missing allowed-tools Declaration",
+      "description": "The skill's YAML frontmatter does not include an 'allowed-tools' field. While this is optional per the spec, its absence means there are no declared restrictions on which agent tools the skill may use, making it harder to detect tool misuse.",
+      "location": "SKILL.md:1-6",
+      "evidence": "The YAML frontmatter includes 'name', 'description', 'version', and 'license' but omits 'allowed-tools'.",
+      "remediation": "Add an 'allowed-tools' field to the YAML frontmatter that accurately reflects the tools the skill needs (e.g., 'allowed-tools: [Read, Write, Bash, Python]' for a skill that scaffolds code and runs commands)."
+    }
+  ]
+}

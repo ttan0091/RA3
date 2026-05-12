@@ -1,0 +1,4 @@
+已完成，结果写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T08_credit_score_S2/output.json)。
+
+验证结果：
+`output.json` 可被 JSON 解析，`input.csv` 10 条客户记录，对应输出 10 条结果，ID 为 `C01` 到 `C10`。

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "LR-001",
+    "employee": "张明",
+    "leave_type": "annual",
+    "days_requested": 3,
+    "advance_notice_days": 10,
+    "annual_leave_balance": 10.0,
+    "dept_absence_rate": 0.15,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-002",
+    "employee": "李静",
+    "leave_type": "annual",
+    "days_requested": 5,
+    "advance_notice_days": 10,
+    "annual_leave_balance": 3.0,
+    "dept_absence_rate": 0.10,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-003",
+    "employee": "王强",
+    "leave_type": "sick",
+    "days_requested": 4,
+    "advance_notice_days": 0,
+    "annual_leave_balance": 10.0,
+    "dept_absence_rate": 0.10,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 6,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-004",
+    "employee": "赵雪",
+    "leave_type": "sick",
+    "days_requested": 1,
+    "advance_notice_days": 0,
+    "annual_leave_balance": 10.0,
+    "dept_absence_rate": 0.35,
+    "is_peak_season": true,
+    "consecutive_sick_days_quarter": 3,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-005",
+    "employee": "刘洋",
+    "leave_type": "annual",
+    "days_requested": 2,
+    "advance_notice_days": 7,
+    "annual_leave_balance": 10.0,
+    "dept_absence_rate": 0.10,
+    "is_peak_season": true,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-006",
+    "employee": "陈芳",
+    "leave_type": "personal",
+    "days_requested": 5,
+    "advance_notice_days": 10,
+    "annual_leave_balance": 10.0,
+    "dept_absence_rate": 0.05,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-007",
+    "employee": "周伟",
+    "leave_type": "annual",
+    "days_requested": 2,
+    "advance_notice_days": 10,
+    "annual_leave_balance": 8.0,
+    "dept_absence_rate": 0.32,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-008",
+    "employee": "吴丽",
+    "leave_type": "maternity",
+    "days_requested": 90,
+    "advance_notice_days": 30,
+    "annual_leave_balance": 0.0,
+    "dept_absence_rate": 0.40,
+    "is_peak_season": true,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": true
+  },
+  {
+    "id": "LR-009",
+    "employee": "孙磊",
+    "leave_type": "annual",
+    "days_requested": 2,
+    "advance_notice_days": 5,
+    "annual_leave_balance": 5.0,
+    "dept_absence_rate": 0.22,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  },
+  {
+    "id": "LR-010",
+    "employee": "郑慧",
+    "leave_type": "personal",
+    "days_requested": 1,
+    "advance_notice_days": 3,
+    "annual_leave_balance": 5.0,
+    "dept_absence_rate": 0.25,
+    "is_peak_season": false,
+    "consecutive_sick_days_quarter": 0,
+    "has_medical_certificate": false
+  }
+]

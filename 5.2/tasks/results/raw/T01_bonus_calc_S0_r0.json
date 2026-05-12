@@ -1,0 +1,59 @@
+{
+  "task": "T01_bonus_calc",
+  "style": "S0",
+  "rep": 0,
+  "model": "deepseek-v4-flash",
+  "prompt_tokens": 663,
+  "completion_tokens": 2490,
+  "total_tokens": 3153,
+  "latency_ms": 45450,
+  "output": "[\n  {\"id\":\"E01\",\"bonus\":29641},\n  {\"id\":\"E02\",\"bonus\":27600},\n  {\"id\":\"E03\",\"bonus\":19040},\n  {\"id\":\"E04\",\"bonus\":15750},\n  {\"id\":\"E05\",\"bonus\":20083},\n  {\"id\":\"E06\",\"bonus\":4669},\n  {\"id\":\"E07\",\"bonus\":44940},\n  {\"id\":\"E08\",\"bonus\":28325}\n]",
+  "skill_tokens": 0,
+  "check": {
+    "score": 0.0,
+    "n_correct": 0,
+    "n_total": 8,
+    "details": {
+      "E01": {
+        "expected": 36000,
+        "got": 29641,
+        "correct": false
+      },
+      "E02": {
+        "expected": 40000,
+        "got": 27600,
+        "correct": false
+      },
+      "E03": {
+        "expected": 21333,
+        "got": 19040,
+        "correct": false
+      },
+      "E04": {
+        "expected": 0,
+        "got": 15750,
+        "correct": false
+      },
+      "E05": {
+        "expected": 0,
+        "got": 20083,
+        "correct": false
+      },
+      "E06": {
+        "expected": 3840,
+        "got": 4669,
+        "correct": false
+      },
+      "E07": {
+        "expected": 86400,
+        "got": 44940,
+        "correct": false
+      },
+      "E08": {
+        "expected": 36667,
+        "got": 28325,
+        "correct": false
+      }
+    }
+  }
+}

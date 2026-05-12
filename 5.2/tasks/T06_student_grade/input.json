@@ -1,0 +1,92 @@
+[
+  {
+    "id": "S01",
+    "name": "张明",
+    "homework": 92,
+    "midterm": 88,
+    "final": 95,
+    "project": 90,
+    "attendance": 95
+  },
+  {
+    "id": "S02",
+    "name": "李静",
+    "homework": 85,
+    "midterm": 78,
+    "final": 82,
+    "project": 88,
+    "attendance": 92
+  },
+  {
+    "id": "S03",
+    "name": "王强",
+    "homework": 70,
+    "midterm": 65,
+    "final": 60,
+    "project": 72,
+    "attendance": 55
+  },
+  {
+    "id": "S04",
+    "name": "赵雪",
+    "homework": 88,
+    "midterm": 92,
+    "final": 86,
+    "project": 90,
+    "attendance": 75
+  },
+  {
+    "id": "S05",
+    "name": "刘洋",
+    "homework": 45,
+    "midterm": 52,
+    "final": 48,
+    "project": 55,
+    "attendance": 85
+  },
+  {
+    "id": "S06",
+    "name": "陈芳",
+    "homework": 95,
+    "midterm": 90,
+    "final": 92,
+    "project": 88,
+    "attendance": 98
+  },
+  {
+    "id": "S07",
+    "name": "周伟",
+    "homework": 60,
+    "midterm": 55,
+    "final": 50,
+    "project": 65,
+    "attendance": 70
+  },
+  {
+    "id": "S08",
+    "name": "吴丽",
+    "homework": 78,
+    "midterm": 82,
+    "final": 75,
+    "project": 80,
+    "attendance": 88
+  },
+  {
+    "id": "S09",
+    "name": "孙磊",
+    "homework": 90,
+    "midterm": 85,
+    "final": 88,
+    "project": 84,
+    "attendance": 90
+  },
+  {
+    "id": "S10",
+    "name": "何涛",
+    "homework": 40,
+    "midterm": 35,
+    "final": 42,
+    "project": 48,
+    "attendance": 45
+  }
+]

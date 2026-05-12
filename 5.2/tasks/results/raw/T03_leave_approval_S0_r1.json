@@ -1,0 +1,69 @@
+{
+  "task": "T03_leave_approval",
+  "style": "S0",
+  "rep": 1,
+  "model": "deepseek-v4-flash",
+  "prompt_tokens": 1255,
+  "completion_tokens": 1476,
+  "total_tokens": 2731,
+  "latency_ms": 25015,
+  "output": "[\n  {\n    \"id\": \"LR-001\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"年假申请，余额充足（10天），提前10天通知，部门缺勤率0.15正常，非旺季，符合审批规则。\"\n  },\n  {\n    \"id\": \"LR-002\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"年假申请5天，年假余额仅3天，余额不足，予以拒绝。\"\n  },\n  {\n    \"id\": \"LR-003\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"病假4天且本季度连续病假已达6天（超过5天），无医疗证明，不符合病假审批条件。\"\n  },\n  {\n    \"id\": \"LR-004\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"病假1天，但部门缺勤率0.35超过阈值（0.3），且处于旺季，拒绝以控制缺勤。\"\n  },\n  {\n    \"id\": \"LR-005\",\n    \"decision\": \"REJECT\",\n    \"reason\": \"年假申请2天，但处于旺季，根据规则旺季期间年假不予批准。\"\n  },\n  {\n    \"id\": \"LR-006\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"事假5天，提前10天通知，部门缺勤率0.05低，非旺季，符合事假审批规则。\"\n  },\n  {\n    \"id\": \"LR-007\",\n    \"decision\": \"ESCALATE\",\n    \"reason\": \"年假申请2天，余额充足，但部门缺勤率0.32超过0.3阈值，需上级审批。\"\n  },\n  {\n    \"id\": \"LR-008\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"产假90天，提前30天通知，有医疗证明，法定假期，应予以批准。\"\n  },\n  {\n    \"id\": \"LR-009\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"年假申请2天，余额5天足够，提前5天通知，部门缺勤率0.22正常，非旺季，符合规则。\"\n  },\n  {\n    \"id\": \"LR-010\",\n    \"decision\": \"APPROVE\",\n    \"reason\": \"事假1天，提前3天通知，部门缺勤率0.25正常，非旺季，符合事假审批规则。\"\n  }\n]",
+  "skill_tokens": 0,
+  "check": {
+    "score": 0.6,
+    "n_correct": 6,
+    "n_total": 10,
+    "details": {
+      "LR-001": {
+        "expected": "APPROVE",
+        "got": "APPROVE",
+        "correct": true
+      },
+      "LR-002": {
+        "expected": "REJECT",
+        "got": "REJECT",
+        "correct": true
+      },
+      "LR-003": {
+        "expected": "REJECT",
+        "got": "REJECT",
+        "correct": true
+      },
+      "LR-004": {
+        "expected": "APPROVE",
+        "got": "REJECT",
+        "correct": false
+      },
+      "LR-005": {
+        "expected": "REJECT",
+        "got": "REJECT",
+        "correct": true
+      },
+      "LR-006": {
+        "expected": "REJECT",
+        "got": "APPROVE",
+        "correct": false
+      },
+      "LR-007": {
+        "expected": "REJECT",
+        "got": "ESCALATE",
+        "correct": false
+      },
+      "LR-008": {
+        "expected": "APPROVE",
+        "got": "APPROVE",
+        "correct": true
+      },
+      "LR-009": {
+        "expected": "ESCALATE",
+        "got": "APPROVE",
+        "correct": false
+      },
+      "LR-010": {
+        "expected": "APPROVE",
+        "got": "APPROVE",
+        "correct": true
+      }
+    }
+  }
+}

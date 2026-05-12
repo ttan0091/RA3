@@ -1,0 +1,12 @@
+[
+  {"id": "ORD-001", "classification": "FRAUD_SUSPECTED",    "note": "amount>5000 AND new AND !addr_match → P1 condA"},
+  {"id": "ORD-002", "classification": "FRAUD_SUSPECTED",    "note": "amount>10000 AND off_hours AND digital_wallet → P1 condB"},
+  {"id": "ORD-003", "classification": "HIGH_VALUE_REVIEW",  "note": "regular, threshold=8000, 9000>8000 → P2"},
+  {"id": "ORD-004", "classification": "NORMAL",             "note": "vip threshold=15000, 12000<15000; no other rule triggers"},
+  {"id": "ORD-005", "classification": "BULK_ORDER",         "note": "item_count=25>20 → P3 condA (also triggers P4 condA but P3 wins)"},
+  {"id": "ORD-006", "classification": "PAYMENT_RISK",       "note": "bank_transfer AND amount>3000 → P4 condA"},
+  {"id": "ORD-007", "classification": "PAYMENT_RISK",       "note": "credit_card AND new AND amount>2000 → P4 condB"},
+  {"id": "ORD-008", "classification": "BULK_ORDER",         "note": "item_count=15>10 AND avg_price=30<50 → P3 condB"},
+  {"id": "ORD-009", "classification": "NORMAL",             "note": "no rule triggers"},
+  {"id": "ORD-010", "classification": "FRAUD_SUSPECTED",    "note": "amount>5000 AND new AND !addr_match → P1 condA"}
+]

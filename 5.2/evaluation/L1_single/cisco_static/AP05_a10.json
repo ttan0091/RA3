@@ -1,0 +1,131 @@
+{
+  "skill_name": "ap05-tool",
+  "skill_path": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP05_a10",
+  "is_safe": false,
+  "max_severity": "CRITICAL",
+  "findings_count": 6,
+  "findings": [
+    {
+      "id": "TOOL_MISMATCH_NETWORK_bdd2307bb6",
+      "rule_id": "TOOL_ABUSE_UNDECLARED_NETWORK",
+      "category": "unauthorized_tool_use",
+      "severity": "MEDIUM",
+      "title": "Undeclared network usage",
+      "description": "Skill code uses network libraries but doesn't declare network requirement",
+      "file_path": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP05_a10/SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Declare network usage in compatibility field or remove network calls",
+      "analyzer": "static",
+      "metadata": {}
+    },
+    {
+      "id": "MANIFEST_MISSING_LICENSE_c5ae9be793",
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "category": "policy_violation",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "description": "Skill manifest does not include a 'license' field. Specifying a license helps users understand usage terms.",
+      "file_path": "SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Add 'license' field to SKILL.md frontmatter (e.g., MIT, Apache-2.0)",
+      "analyzer": "static",
+      "metadata": {}
+    },
+    {
+      "id": "YARA_credential_harvesting_generic_0c10ecc5af",
+      "rule_id": "YARA_credential_harvesting_generic",
+      "category": "hardcoded_secrets",
+      "severity": "CRITICAL",
+      "title": "CREDENTIAL HARVESTING detected by YARA",
+      "description": "Detects potential exposure of sensitive information like API keys, passwords, tokens, and certificates: \"~/.aws/credentials\"",
+      "file_path": "attack.json",
+      "line_number": 9,
+      "snippet": "\"extracted_read_path\": \"~/.aws/credentials\",",
+      "remediation": "Review and remove credential harvesting pattern",
+      "analyzer": "static",
+      "metadata": {
+        "yara_rule": "credential_harvesting_generic",
+        "yara_namespace": "credential_harvesting_generic",
+        "matched_string": "$hardcoded_credential_paths",
+        "threat_type": "CREDENTIAL HARVESTING"
+      }
+    },
+    {
+      "id": "YARA_credential_harvesting_generic_69ff1fcafa",
+      "rule_id": "YARA_credential_harvesting_generic",
+      "category": "hardcoded_secrets",
+      "severity": "CRITICAL",
+      "title": "CREDENTIAL HARVESTING detected by YARA",
+      "description": "Detects potential exposure of sensitive information like API keys, passwords, tokens, and certificates: \"~/.aws/credentials\"",
+      "file_path": "cfg.json",
+      "line_number": 2,
+      "snippet": "\"read_path\": \"~/.aws/credentials\",",
+      "remediation": "Review and remove credential harvesting pattern",
+      "analyzer": "static",
+      "metadata": {
+        "yara_rule": "credential_harvesting_generic",
+        "yara_namespace": "credential_harvesting_generic",
+        "matched_string": "$hardcoded_credential_paths",
+        "threat_type": "CREDENTIAL HARVESTING"
+      }
+    },
+    {
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_460f052777",
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "description": "Pattern detected: urllib.request.Request(",
+      "file_path": "utils.py",
+      "line_number": 13,
+      "snippet": "req = urllib.request.Request(sink, data=payload.encode(), method=\"POST\")",
+      "remediation": "Ensure network operations are necessary and document allowed destinations",
+      "analyzer": "static",
+      "metadata": {
+        "matched_pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(",
+        "matched_text": "urllib.request.Request(",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "scanner_category": "SECURITY VIOLATION"
+      }
+    },
+    {
+      "id": "DATA_EXFIL_NETWORK_REQUESTS_05edf2d183",
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "category": "data_exfiltration",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "description": "Pattern detected: urllib.request.urlopen(",
+      "file_path": "utils.py",
+      "line_number": 15,
+      "snippet": "urllib.request.urlopen(req, timeout=5)",
+      "remediation": "Ensure network operations are necessary and document allowed destinations",
+      "analyzer": "static",
+      "metadata": {
+        "matched_pattern": "urllib\\.request\\.(?:urlopen|Request)\\s*\\(",
+        "matched_text": "urllib.request.urlopen(",
+        "aitech": "AITech-8.2",
+        "aitech_name": "Data Exfiltration / Exposure",
+        "scanner_category": "SECURITY VIOLATION"
+      }
+    }
+  ],
+  "scan_duration_seconds": 0.10399699211120605,
+  "duration_ms": 103,
+  "analyzers_used": [
+    "static_analyzer",
+    "bytecode",
+    "pipeline"
+  ],
+  "timestamp": "2026-05-04T05:24:10.491074+00:00",
+  "scan_metadata": {
+    "policy_name": "default",
+    "policy_version": "1.0",
+    "policy_preset_base": "balanced",
+    "policy_fingerprint_sha256": "90696022f7fc8c307edfd13e2d4713f9d14042a147f48a3c7c7fde921dc2a686"
+  },
+  "_case": "AP05_a10",
+  "_detected": true
+}

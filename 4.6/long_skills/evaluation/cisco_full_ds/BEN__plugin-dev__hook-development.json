@@ -1,0 +1,44 @@
+{
+  "case_id": "BEN__plugin-dev__hook-development",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "LOW",
+  "findings_count": 4,
+  "static_findings_count": 1,
+  "llm_findings_count": 3,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-4.3",
+      "title": "Over-broad description and keyword baiting",
+      "description": "The skill description contains an extensive list of trigger keywords and phrases designed to maximize activation across a wide range of user requests. This is a form of keyword baiting that could lead to unwanted or excessive activation of the skill.",
+      "location": "SKILL.md:description",
+      "evidence": "Description includes: 'create a hook', 'add a PreToolUse/PostToolUse/Stop hook', 'validate tool use', 'implement prompt-based hooks', 'use ${CLAUDE_PLUGIN_ROOT}', 'set up event-driven automation', 'block dangerous commands', 'hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification)'",
+      "remediation": "Narrow the description to focus on the core functionality rather than listing every possible trigger phrase."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing allowed-tools field in manifest",
+      "description": "The YAML frontmatter does not specify an 'allowed-tools' field. While this is optional per the spec, its absence means there is no declared restriction on which agent tools this skill may use.",
+      "location": "SKILL.md:frontmatter",
+      "evidence": "YAML frontmatter: name: hook-development, description: ..., version: 0.1.0. No allowed-tools field present.",
+      "remediation": "Consider adding an 'allowed-tools' field to the manifest to declare which agent tools the skill is intended to use."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-15.1",
+      "title": "External resource link without version pinning",
+      "description": "The skill references external documentation at 'https://docs.claude.com/en/docs/claude-code/hooks' and suggests using 'jq' for validation. While not malicious, external dependencies should be version-pinned or have clear provenance.",
+      "location": "SKILL.md",
+      "evidence": "External Resources section: 'Official Docs: https://docs.claude.com/en/docs/claude-code/hooks' and 'Validation: Use jq to validate hook JSON output'",
+      "remediation": "Pin external tool versions where possible and document the specific versions tested."
+    }
+  ]
+}

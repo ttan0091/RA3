@@ -1,0 +1,11 @@
+id,name,category,daily_sales,lead_time,current_stock,supplier,month,min_order
+I01,高端手机壳,A,50,7,400,available,3,100
+I02,数据线,B,100,5,500,available,6,200
+I03,屏幕贴膜,C,30,3,100,available,8,50
+I04,无线耳机,A,20,10,250,available,12,100
+I05,充电宝,A,40,5,200,unavailable,11,100
+I06,手机支架,B,15,4,100,available,1,50
+I07,蓝牙音箱,C,10,14,200,available,5,30
+I08,键盘,A,25,6,100,available,11,100
+I09,鼠标垫,C,80,2,150,available,7,200
+I10,USB集线器,B,12,8,120,available,4,50

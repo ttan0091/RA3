@@ -1,0 +1,52 @@
+[
+  {
+    "id": "B01",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B02",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B03",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B04",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B05",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B06",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B07",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B08",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B09",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  },
+  {
+    "id": "B10",
+    "result": "rejected",
+    "reason": "AGENTS.md does not define meeting room booking approval rules, so this request cannot be approved."
+  }
+]

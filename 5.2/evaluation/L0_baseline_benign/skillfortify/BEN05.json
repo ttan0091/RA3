@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "skill_name": "retry-helper",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [
+        {
+          "resource": "environment",
+          "access": "READ"
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "_case": "BEN05",
+  "_detected": false
+}

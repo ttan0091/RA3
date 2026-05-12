@@ -1,0 +1,35 @@
+{
+  "is_safe": false,
+  "findings": [
+    {
+      "rule_id": "ALLOWED_TOOLS_NETWORK_USAGE",
+      "severity": "MEDIUM",
+      "title": "Code makes network requests",
+      "file_path": "/Users/tan/Desktop/RA3/4.6/long_skills/benchmark/malicious/imessage__configure/SKILL.md"
+    },
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "YARA_credential_harvesting_generic",
+      "severity": "CRITICAL",
+      "title": "CREDENTIAL HARVESTING detected by YARA",
+      "file_path": "_internal/cred_baseline.py"
+    },
+    {
+      "rule_id": "YARA_credential_harvesting_generic",
+      "severity": "CRITICAL",
+      "title": "CREDENTIAL HARVESTING detected by YARA",
+      "file_path": "_internal/cred_baseline.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/cred_baseline.py"
+    }
+  ]
+}

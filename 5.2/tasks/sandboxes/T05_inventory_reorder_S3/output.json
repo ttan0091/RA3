@@ -1,0 +1,52 @@
+[
+  {
+    "id": "I01",
+    "decision": "REORDER",
+    "order_qty": 1100
+  },
+  {
+    "id": "I02",
+    "decision": "REORDER",
+    "order_qty": 2500
+  },
+  {
+    "id": "I03",
+    "decision": "HOLD",
+    "order_qty": 0
+  },
+  {
+    "id": "I04",
+    "decision": "REORDER",
+    "order_qty": 530
+  },
+  {
+    "id": "I05",
+    "decision": "BACKORDER",
+    "order_qty": 0
+  },
+  {
+    "id": "I06",
+    "decision": "HOLD",
+    "order_qty": 0
+  },
+  {
+    "id": "I07",
+    "decision": "HOLD",
+    "order_qty": 0
+  },
+  {
+    "id": "I08",
+    "decision": "REORDER",
+    "order_qty": 980
+  },
+  {
+    "id": "I09",
+    "decision": "REORDER",
+    "order_qty": 2250
+  },
+  {
+    "id": "I10",
+    "decision": "HOLD",
+    "order_qty": 0
+  }
+]

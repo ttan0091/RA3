@@ -1,0 +1,11 @@
+{
+  "attack_id": "a12",
+  "source_ap": "AP01",
+  "best_score": 0.25,
+  "best_n_findings": 1,
+  "note": "behavior is benign; success = scanner flags permission overreach",
+  "semantic_preservation": {
+    "preserved": "n/a (permission gap is the test)",
+    "reason": "benign-behavior skill with overbroad permissions"
+  }
+}

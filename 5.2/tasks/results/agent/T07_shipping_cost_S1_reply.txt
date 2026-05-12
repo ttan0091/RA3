@@ -1,0 +1,3 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T07_shipping_cost_S1/output.json)。
+
+已验证：`python3 -m json.tool output.json` 通过，JSON 格式有效。使用的是系统 `python3`，因为当前环境没有 `python` 命令。

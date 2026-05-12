@@ -1,0 +1,3 @@
+已完成：[output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T07_shipping_cost_S4/output.json:1)。
+
+按 `AGENTS.md` 规则计算了 10 个包裹运费，写入 JSON 数组，每项包含 `id` 和 `cost`，`cost` 保留一位小数。已用 `python3 -m json.tool output.json` 校验 JSON 格式有效。

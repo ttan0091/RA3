@@ -1,0 +1,11 @@
+id,name,monthly_income,employment_years,debt_ratio,has_mortgage,has_car_loan,age,past_defaults
+C01,张明,35000,8,15,True,False,42,0
+C02,李静,8000,2,45,False,True,28,0
+C03,王强,60000,12,10,True,False,48,0
+C04,赵雪,4000,0.5,70,False,False,22,3
+C05,刘洋,15000,4,35,True,True,35,1
+C06,陈芳,25000,6,25,False,False,38,0
+C07,周伟,12000,3,55,False,True,30,2
+C08,吴丽,50000,10,18,True,True,52,0
+C09,孙磊,5000,1,20,False,False,25,0
+C10,何涛,18000,5,40,True,False,36,1

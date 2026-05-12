@@ -1,0 +1,29 @@
+{
+  "is_safe": false,
+  "findings": [
+    {
+      "rule_id": "LOW_ANALYZABILITY",
+      "severity": "HIGH",
+      "title": "Critically low analyzability score",
+      "file_path": "None"
+    },
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "DATA_EXFIL_JS_FS_ACCESS",
+      "severity": "HIGH",
+      "title": "Node.js filesystem access that could read or write sensitive data",
+      "file_path": "analyze-sessions.mjs"
+    },
+    {
+      "rule_id": "DATA_EXFIL_JS_FS_ACCESS",
+      "severity": "HIGH",
+      "title": "Node.js filesystem access that could read or write sensitive data",
+      "file_path": "analyze-sessions.mjs"
+    }
+  ]
+}

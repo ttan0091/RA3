@@ -1,0 +1,12 @@
+[
+  {"id": "C01", "score": 160, "tier": "Excellent", "max_loan": 500000, "rate": "3.5%", "note": "income50+emp35+debt30+mortgage10+age15+default20=160"},
+  {"id": "C02", "score": 70,  "tier": "Fair",      "max_loan": 100000, "rate": "7.5%", "note": "income20+emp15+debt10+car-5+age10+default20=70"},
+  {"id": "C03", "score": 175, "tier": "Excellent", "max_loan": 500000, "rate": "3.5%", "note": "income60+emp40+debt30+mortgage10+age15+default20=175"},
+  {"id": "C04", "score": 0,   "tier": "Poor",      "max_loan": 0,      "rate": "N/A",  "note": "income10+emp5+debt0+age-5+default-10=0"},
+  {"id": "C05", "score": 100, "tier": "Good",      "max_loan": 300000, "rate": "5.0%", "note": "income35+emp25+debt20+mortgage10+car-5+age10+default5=100"},
+  {"id": "C06", "score": 140, "tier": "Excellent", "max_loan": 500000, "rate": "3.5%", "note": "income50+emp35+debt20+age15+default20=140"},
+  {"id": "C07", "score": 65,  "tier": "Fair",      "max_loan": 100000, "rate": "7.5%", "note": "income35+emp25+debt10+car-5+age10+default-10=65"},
+  {"id": "C08", "score": 160, "tier": "Excellent", "max_loan": 500000, "rate": "3.5%", "note": "income60+emp40+debt30+mortgage10+car-5+age5+default20=160"},
+  {"id": "C09", "score": 85,  "tier": "Fair",      "max_loan": 100000, "rate": "7.5%", "note": "income20+emp15+debt20+age10+default20=85"},
+  {"id": "C10", "score": 120, "tier": "Excellent", "max_loan": 500000, "rate": "3.5%", "note": "income35+emp35+debt20+mortgage10+age15+default5=120"}
+]

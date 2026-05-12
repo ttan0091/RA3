@@ -1,0 +1,5 @@
+已完成，结果写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T10_expense_review_S4/output.json)。
+
+验证：
+`python3 -m json.tool output.json` 通过。
+用脚本按 `input.csv` 和规则复算，结果与 `output.json` 一致。

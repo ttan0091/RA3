@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ORD-001",
+    "classification": "high_risk"
+  },
+  {
+    "id": "ORD-002",
+    "classification": "high_risk"
+  },
+  {
+    "id": "ORD-003",
+    "classification": "medium_risk"
+  },
+  {
+    "id": "ORD-004",
+    "classification": "high_risk"
+  },
+  {
+    "id": "ORD-005",
+    "classification": "medium_risk"
+  },
+  {
+    "id": "ORD-006",
+    "classification": "medium_risk"
+  },
+  {
+    "id": "ORD-007",
+    "classification": "medium_risk"
+  },
+  {
+    "id": "ORD-008",
+    "classification": "high_risk"
+  },
+  {
+    "id": "ORD-009",
+    "classification": "low_risk"
+  },
+  {
+    "id": "ORD-010",
+    "classification": "high_risk"
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "task": "T02_order_classify",
+  "style": "S6",
+  "rep": 2,
+  "model": "deepseek-v4-flash",
+  "prompt_tokens": 1379,
+  "completion_tokens": 2046,
+  "total_tokens": 3425,
+  "latency_ms": 37946,
+  "output": "```json\n[\n  { \"id\": \"ORD-001\", \"classification\": \"FRAUD_SUSPECTED\" },\n  { \"id\": \"ORD-002\", \"classification\": \"FRAUD_SUSPECTED\" },\n  { \"id\": \"ORD-003\", \"classification\": \"HIGH_VALUE_REVIEW\" },\n  { \"id\": \"ORD-004\", \"classification\": \"NORMAL\" },\n  { \"id\": \"ORD-005\", \"classification\": \"BULK_ORDER\" },\n  { \"id\": \"ORD-006\", \"classification\": \"PAYMENT_RISK\" },\n  { \"id\": \"ORD-007\", \"classification\": \"PAYMENT_RISK\" },\n  { \"id\": \"ORD-008\", \"classification\": \"BULK_ORDER\" },\n  { \"id\": \"ORD-009\", \"classification\": \"NORMAL\" },\n  { \"id\": \"ORD-010\", \"classification\": \"FRAUD_SUSPECTED\" }\n]\n```",
+  "skill_tokens": 176,
+  "check": {
+    "score": 1.0,
+    "n_correct": 10,
+    "n_total": 10,
+    "details": {
+      "ORD-001": {
+        "expected": "FRAUD_SUSPECTED",
+        "got": "FRAUD_SUSPECTED",
+        "correct": true
+      },
+      "ORD-002": {
+        "expected": "FRAUD_SUSPECTED",
+        "got": "FRAUD_SUSPECTED",
+        "correct": true
+      },
+      "ORD-003": {
+        "expected": "HIGH_VALUE_REVIEW",
+        "got": "HIGH_VALUE_REVIEW",
+        "correct": true
+      },
+      "ORD-004": {
+        "expected": "NORMAL",
+        "got": "NORMAL",
+        "correct": true
+      },
+      "ORD-005": {
+        "expected": "BULK_ORDER",
+        "got": "BULK_ORDER",
+        "correct": true
+      },
+      "ORD-006": {
+        "expected": "PAYMENT_RISK",
+        "got": "PAYMENT_RISK",
+        "correct": true
+      },
+      "ORD-007": {
+        "expected": "PAYMENT_RISK",
+        "got": "PAYMENT_RISK",
+        "correct": true
+      },
+      "ORD-008": {
+        "expected": "BULK_ORDER",
+        "got": "BULK_ORDER",
+        "correct": true
+      },
+      "ORD-009": {
+        "expected": "NORMAL",
+        "got": "NORMAL",
+        "correct": true
+      },
+      "ORD-010": {
+        "expected": "FRAUD_SUSPECTED",
+        "got": "FRAUD_SUSPECTED",
+        "correct": true
+      }
+    }
+  }
+}

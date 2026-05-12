@@ -1,0 +1,17 @@
+请根据会议室预订规则，审批以下每个预订请求。
+
+会议室信息：
+- R01：容量 10 人，设备 [projector, whiteboard]
+- R02：容量 20 人，设备 [projector, whiteboard, video_conf]
+- R03：容量 6 人，设备 [whiteboard]
+
+已有预订：
+- R01，2024-03-15，09:00-11:00，manager 级别，非周期性，existing_meeting_A
+- R02，2024-03-16，13:00-15:00，staff 级别，周期性，weekly_standup
+
+输入数据为 JSON 格式，包含每个预订请求的会议室、参会人数、日期时间、所需设备、申请人级别和是否周期性。
+
+请以 JSON 数组格式输出结果，每个元素包含 "id"、"result" 和 "reason" 三个字段。result 为 "APPROVED" 或 "REJECTED"，reason 在 APPROVED 时为空字符串，REJECTED 时为具体原因（capacity_exceeded / time_invalid / equipment_missing / conflict）。
+
+输入数据：
+{input_data}

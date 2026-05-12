@@ -1,0 +1,72 @@
+[
+  {
+    "id": "C01",
+    "score": 160,
+    "tier": "Excellent",
+    "max_loan": 500000,
+    "rate": "3.5%"
+  },
+  {
+    "id": "C02",
+    "score": 70,
+    "tier": "Fair",
+    "max_loan": 100000,
+    "rate": "7.5%"
+  },
+  {
+    "id": "C03",
+    "score": 175,
+    "tier": "Excellent",
+    "max_loan": 500000,
+    "rate": "3.5%"
+  },
+  {
+    "id": "C04",
+    "score": 0,
+    "tier": "Poor",
+    "max_loan": 0,
+    "rate": "N/A"
+  },
+  {
+    "id": "C05",
+    "score": 100,
+    "tier": "Good",
+    "max_loan": 300000,
+    "rate": "5.0%"
+  },
+  {
+    "id": "C06",
+    "score": 140,
+    "tier": "Excellent",
+    "max_loan": 500000,
+    "rate": "3.5%"
+  },
+  {
+    "id": "C07",
+    "score": 65,
+    "tier": "Fair",
+    "max_loan": 100000,
+    "rate": "7.5%"
+  },
+  {
+    "id": "C08",
+    "score": 160,
+    "tier": "Excellent",
+    "max_loan": 500000,
+    "rate": "3.5%"
+  },
+  {
+    "id": "C09",
+    "score": 85,
+    "tier": "Fair",
+    "max_loan": 100000,
+    "rate": "7.5%"
+  },
+  {
+    "id": "C10",
+    "score": 120,
+    "tier": "Excellent",
+    "max_loan": 500000,
+    "rate": "3.5%"
+  }
+]

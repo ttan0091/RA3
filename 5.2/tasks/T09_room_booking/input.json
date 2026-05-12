@@ -1,0 +1,112 @@
+[
+  {
+    "id": "B01",
+    "room": "R02",
+    "attendees": 15,
+    "date": "2024-03-15",
+    "start": "09:00",
+    "end": "11:00",
+    "required_equipment": ["projector", "video_conf"],
+    "role": "dept_head",
+    "recurring": false
+  },
+  {
+    "id": "B02",
+    "room": "R03",
+    "attendees": 8,
+    "date": "2024-03-15",
+    "start": "14:00",
+    "end": "16:00",
+    "required_equipment": ["whiteboard"],
+    "role": "manager",
+    "recurring": false
+  },
+  {
+    "id": "B03",
+    "room": "R03",
+    "attendees": 5,
+    "date": "2024-03-15",
+    "start": "10:00",
+    "end": "11:00",
+    "required_equipment": ["projector"],
+    "role": "staff",
+    "recurring": false
+  },
+  {
+    "id": "B04",
+    "room": "R01",
+    "attendees": 6,
+    "date": "2024-03-16",
+    "start": "07:30",
+    "end": "09:00",
+    "required_equipment": ["whiteboard"],
+    "role": "manager",
+    "recurring": false
+  },
+  {
+    "id": "B05",
+    "room": "R01",
+    "attendees": 5,
+    "date": "2024-03-16",
+    "start": "10:00",
+    "end": "10:20",
+    "required_equipment": [],
+    "role": "staff",
+    "recurring": false
+  },
+  {
+    "id": "B06",
+    "room": "R02",
+    "attendees": 10,
+    "date": "2024-03-17",
+    "start": "09:00",
+    "end": "14:00",
+    "required_equipment": ["projector"],
+    "role": "manager",
+    "recurring": false
+  },
+  {
+    "id": "B07",
+    "room": "R01",
+    "attendees": 8,
+    "date": "2024-03-15",
+    "start": "10:00",
+    "end": "12:00",
+    "required_equipment": ["projector"],
+    "role": "board",
+    "recurring": false
+  },
+  {
+    "id": "B08",
+    "room": "R01",
+    "attendees": 6,
+    "date": "2024-03-15",
+    "start": "09:30",
+    "end": "10:30",
+    "required_equipment": ["whiteboard"],
+    "role": "staff",
+    "recurring": false
+  },
+  {
+    "id": "B09",
+    "room": "R02",
+    "attendees": 12,
+    "date": "2024-03-16",
+    "start": "13:00",
+    "end": "15:00",
+    "required_equipment": ["projector"],
+    "role": "staff",
+    "recurring": false
+  },
+  {
+    "id": "B10",
+    "room": "R02",
+    "attendees": 10,
+    "date": "2024-03-16",
+    "start": "14:00",
+    "end": "16:00",
+    "required_equipment": ["video_conf"],
+    "role": "manager",
+    "recurring": false
+  }
+]

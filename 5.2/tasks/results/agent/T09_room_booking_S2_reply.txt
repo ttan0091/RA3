@@ -1,0 +1,4 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T09_room_booking_S2/output.json)。
+
+验证：已用 `python3 -m json.tool output.json` 检查，JSON 格式有效。  
+备注：环境中 `python` 命令不存在，所以改用 `python3`。

@@ -1,0 +1,11 @@
+{
+  "is_safe": true,
+  "findings": [
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/tracker.py"
+    }
+  ]
+}

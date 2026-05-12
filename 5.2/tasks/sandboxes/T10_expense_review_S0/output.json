@@ -1,0 +1,62 @@
+[
+  {
+    "id": "E01",
+    "result": "approved",
+    "approved_amount": 2200,
+    "approval_level": "manager"
+  },
+  {
+    "id": "E02",
+    "result": "partial",
+    "approved_amount": 2700,
+    "approval_level": "manager"
+  },
+  {
+    "id": "E03",
+    "result": "approved",
+    "approved_amount": 980,
+    "approval_level": "team_lead"
+  },
+  {
+    "id": "E04",
+    "result": "approved",
+    "approved_amount": 9000,
+    "approval_level": "director"
+  },
+  {
+    "id": "E05",
+    "result": "approved",
+    "approved_amount": 5200,
+    "approval_level": "director"
+  },
+  {
+    "id": "E06",
+    "result": "partial",
+    "approved_amount": 2200,
+    "approval_level": "manager"
+  },
+  {
+    "id": "E07",
+    "result": "partial",
+    "approved_amount": 3000,
+    "approval_level": "manager"
+  },
+  {
+    "id": "E08",
+    "result": "approved",
+    "approved_amount": 830,
+    "approval_level": "team_lead"
+  },
+  {
+    "id": "E09",
+    "result": "rejected",
+    "approved_amount": 0,
+    "approval_level": "none"
+  },
+  {
+    "id": "E10",
+    "result": "partial",
+    "approved_amount": 1480,
+    "approval_level": "manager"
+  }
+]

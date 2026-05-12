@@ -1,0 +1,5 @@
+已写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T09_room_booking_S0/output.json)。
+
+实际 `AGENTS.md` 只有通用指令，没有会议室预订审批规则。因此所有请求均标记为 `rejected`，原因说明为规则缺失，无法审批通过。
+
+验证已完成：`output.json` 是合法 JSON，且包含 10 条结果，与 `input.csv` 请求数量一致。

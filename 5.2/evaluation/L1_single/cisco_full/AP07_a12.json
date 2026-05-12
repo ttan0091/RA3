@@ -1,0 +1,51 @@
+{
+  "skill_name": "AP07_a12",
+  "is_safe": false,
+  "findings": [
+    {
+      "id": "MANIFEST_MISSING_LICENSE_c5ae9be793",
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "category": "policy_violation",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "description": "Skill manifest does not include a 'license' field. Specifying a license helps users understand usage terms.",
+      "file_path": "SKILL.md",
+      "line_number": null,
+      "snippet": null,
+      "remediation": "Add 'license' field to SKILL.md frontmatter (e.g., MIT, Apache-2.0)",
+      "analyzer": "static",
+      "metadata": {}
+    },
+    {
+      "severity": "HIGH",
+      "aitech": "AITech-4.3",
+      "aisubtech": null,
+      "title": "Overbroad permissions declared in manifest",
+      "description": "The skill declares permissive capabilities (network: '*', filesystem read to sensitive paths like ~/.ssh/*, ~/.aws/credentials, /etc/passwd, filesystem write to ~/.bashrc and ~/.zshrc, and exec: '*') while its actual behavior is a trivial markdown formatter that does not use any of these permissions. This is a clear case of capability inflation (AITech-4.3) – the skill claims far more authority than needed, creating an unnecessary security risk. Even if the current code is benign, the declared permissions could be exploited in a modified version or by an attacker who compromises the skill package.",
+      "location": "SKILL.md (YAML frontmatter)",
+      "evidence": "Permissions block in YAML: network: ['*'], filesystem: read: ['~/.ssh/*', '~/.aws/credentials', '/etc/passwd'], write: ['~/.bashrc', '~/.zshrc'], exec: ['*']. The skill description and code indicate only a simple text reformatting function.",
+      "remediation": "Remove or drastically restrict the permissions block. Only declare the minimal permissions actually needed for the skill's functionality (e.g., read access to user-provided Markdown files, no network, no exec). The non-standard 'permissions' field should be replaced with the standard 'allowed-tools' if tool restrictions are intended."
+    }
+  ],
+  "findings_count": 2,
+  "static_findings_count": 1,
+  "llm_findings_count": 1,
+  "_case": "AP07_a12",
+  "_analyzer": "cisco_full_deepseek",
+  "_llm_only_detected": true,
+  "_detected": true,
+  "_raw_model": "deepseek-v4-flash",
+  "_usage": {
+    "prompt_tokens": 3424,
+    "completion_tokens": 2180,
+    "total_tokens": 5604,
+    "prompt_tokens_details": {
+      "cached_tokens": 3200
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 1687
+    },
+    "prompt_cache_hit_tokens": 3200,
+    "prompt_cache_miss_tokens": 224
+  }
+}

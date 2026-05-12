@@ -1,0 +1,42 @@
+# Scanner matrix: `/Users/tan/Desktop/RA3/5.2/evaluation/L0_baseline_malicious`
+
+## Per-case matrix
+
+| case | Cisco-S | Cisco-F | SF | SS-S | SS-LLM |
+|---|---|---|---|---|---|
+| AP01_evade | E | M | M | M | D |
+| AP01_orig | E | D | D | D | D |
+| AP02_evade | E | M | D | M | D |
+| AP02_orig | E | D | D | M | D |
+| AP03_evade | E | M | M | D | D |
+| AP03_orig | E | D | D | D | D |
+| AP04_evade | E | D | M | M | D |
+| AP04_orig | E | D | D | D | D |
+| AP05_evade | E | D | D | D | D |
+| AP05_orig | E | D | D | D | D |
+| AP06_evade | E | M | M | M | D |
+| AP06_orig | E | D | D | D | D |
+| AP07_evade | E | D | M | D | D |
+| AP07_orig | E | D | M | D | D |
+| AP08_evade | E | D | M | D | D |
+| AP08_orig | E | D | M | D | D |
+| AP09_evade | E | M | M | M | D |
+| AP09_orig | E | D | D | D | D |
+| AP10_evade | E | M | M | M | M |
+| AP10_orig | E | D | M | M | D |
+| AP11_evade | E | D | M | D | D |
+| AP11_orig | E | D | M | D | D |
+| AP12_evade | E | D | M | M | D |
+| AP12_orig | E | D | D | M | D |
+
+## Per-scanner detection rate
+
+| scanner | detected | missed | errors | detect rate | miss rate |
+|---|---:|---:|---:|---:|---:|
+| Cisco-S | 0 | 0 | 24 | 0.0% | 0.0% |
+| Cisco-F | 18 | 6 | 0 | 75.0% | 25.0% |
+| SF | 10 | 14 | 0 | 41.7% | 58.3% |
+| SS-S | 14 | 10 | 0 | 58.3% | 41.7% |
+| SS-LLM | 23 | 1 | 0 | 95.8% | 4.2% |
+
+**Legend**: `D` = detected (HIGH/CRITICAL finding or MALICIOUS verdict); `M` = missed; `E` = scanner error; `?` = no result.

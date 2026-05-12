@@ -1,0 +1,11 @@
+{
+  "audit_summary": {
+    "malicious_patterns_detected": false,
+    "shadow_features_detected": false,
+    "intent_alignment_status": "SAFE",
+    "summary_text": "The SKILL.md file is a benign example/template demonstrating the skill format. No implementation code exists to audit. No malicious patterns, shadow features, or intent misalignment were detected."
+  },
+  "vulnerabilities": [],
+  "case_id": "BEN__example-plugin__example-command",
+  "_detected": false
+}

@@ -1,0 +1,4 @@
+已完成，结果写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T05_inventory_reorder_S0/output.json)。
+
+验证：
+`python3 -m json.tool output.json` 通过，且已按补货规则复算确认决策和数量一致。

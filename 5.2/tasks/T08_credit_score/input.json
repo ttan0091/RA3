@@ -1,0 +1,112 @@
+[
+  {
+    "id": "C01",
+    "name": "张明",
+    "monthly_income": 35000,
+    "employment_years": 8,
+    "debt_ratio": 15,
+    "has_mortgage": true,
+    "has_car_loan": false,
+    "age": 42,
+    "past_defaults": 0
+  },
+  {
+    "id": "C02",
+    "name": "李静",
+    "monthly_income": 8000,
+    "employment_years": 2,
+    "debt_ratio": 45,
+    "has_mortgage": false,
+    "has_car_loan": true,
+    "age": 28,
+    "past_defaults": 0
+  },
+  {
+    "id": "C03",
+    "name": "王强",
+    "monthly_income": 60000,
+    "employment_years": 12,
+    "debt_ratio": 10,
+    "has_mortgage": true,
+    "has_car_loan": false,
+    "age": 48,
+    "past_defaults": 0
+  },
+  {
+    "id": "C04",
+    "name": "赵雪",
+    "monthly_income": 4000,
+    "employment_years": 0.5,
+    "debt_ratio": 70,
+    "has_mortgage": false,
+    "has_car_loan": false,
+    "age": 22,
+    "past_defaults": 3
+  },
+  {
+    "id": "C05",
+    "name": "刘洋",
+    "monthly_income": 15000,
+    "employment_years": 4,
+    "debt_ratio": 35,
+    "has_mortgage": true,
+    "has_car_loan": true,
+    "age": 35,
+    "past_defaults": 1
+  },
+  {
+    "id": "C06",
+    "name": "陈芳",
+    "monthly_income": 25000,
+    "employment_years": 6,
+    "debt_ratio": 25,
+    "has_mortgage": false,
+    "has_car_loan": false,
+    "age": 38,
+    "past_defaults": 0
+  },
+  {
+    "id": "C07",
+    "name": "周伟",
+    "monthly_income": 12000,
+    "employment_years": 3,
+    "debt_ratio": 55,
+    "has_mortgage": false,
+    "has_car_loan": true,
+    "age": 30,
+    "past_defaults": 2
+  },
+  {
+    "id": "C08",
+    "name": "吴丽",
+    "monthly_income": 50000,
+    "employment_years": 10,
+    "debt_ratio": 18,
+    "has_mortgage": true,
+    "has_car_loan": true,
+    "age": 52,
+    "past_defaults": 0
+  },
+  {
+    "id": "C09",
+    "name": "孙磊",
+    "monthly_income": 5000,
+    "employment_years": 1,
+    "debt_ratio": 20,
+    "has_mortgage": false,
+    "has_car_loan": false,
+    "age": 25,
+    "past_defaults": 0
+  },
+  {
+    "id": "C10",
+    "name": "何涛",
+    "monthly_income": 18000,
+    "employment_years": 5,
+    "debt_ratio": 40,
+    "has_mortgage": true,
+    "has_car_loan": false,
+    "age": 36,
+    "past_defaults": 1
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "task": "T01_bonus_calc",
+  "style": "S0",
+  "rep": 1,
+  "model": "deepseek-v4-flash",
+  "prompt_tokens": 663,
+  "completion_tokens": 3564,
+  "total_tokens": 4227,
+  "latency_ms": 64862,
+  "output": "根据公司奖金计算规则（假设：绩效系数 S=2.0, A=1.5, B=1.0, C=0.5；工龄调整系数 = 1 + 工龄×0.01；团队绩效系数 = 团队平均分/5；在职时间比例 = 工作月数/12），计算每位员工的年终奖金并四舍五入取整，结果如下：\n\n```json\n[\n  {\"id\":\"E01\",\"bonus\":17784},\n  {\"id\":\"E02\",\"bonus\":16560},\n  {\"id\":\"E03\",\"bonus\":11424},\n  {\"id\":\"E04\",\"bonus\":9450},\n  {\"id\":\"E05\",\"bonus\":12045},\n  {\"id\":\"E06\",\"bonus\":2801},\n  {\"id\":\"E07\",\"bonus\":26964},\n  {\"id\":\"E08\",\"bonus\":16995}\n]\n```",
+  "skill_tokens": 0,
+  "check": {
+    "score": 0.0,
+    "n_correct": 0,
+    "n_total": 8,
+    "details": {
+      "E01": {
+        "expected": 36000,
+        "got": 17784,
+        "correct": false
+      },
+      "E02": {
+        "expected": 40000,
+        "got": 16560,
+        "correct": false
+      },
+      "E03": {
+        "expected": 21333,
+        "got": 11424,
+        "correct": false
+      },
+      "E04": {
+        "expected": 0,
+        "got": 9450,
+        "correct": false
+      },
+      "E05": {
+        "expected": 0,
+        "got": 12045,
+        "correct": false
+      },
+      "E06": {
+        "expected": 3840,
+        "got": 2801,
+        "correct": false
+      },
+      "E07": {
+        "expected": 86400,
+        "got": 26964,
+        "correct": false
+      },
+      "E08": {
+        "expected": 36667,
+        "got": 16995,
+        "correct": false
+      }
+    }
+  }
+}

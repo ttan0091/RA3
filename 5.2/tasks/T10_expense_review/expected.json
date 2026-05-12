@@ -1,0 +1,12 @@
+[
+  {"id": "E01", "result": "APPROVE",  "approved_amount": 2200, "approval_level": "auto",    "note": "T1上海, meals500≤600+hotel1400≤1500+transport300≤600=2200"},
+  {"id": "E02", "result": "PARTIAL",  "approved_amount": 2700, "approval_level": "auto",    "note": "T2成都, meals600≤750+hotel1600≤1750+transport500≤750=2700, entertainment rejected(not client_facing)"},
+  {"id": "E03", "result": "APPROVE",  "approved_amount": 980,  "approval_level": "auto",    "note": "T3桂林, meals180≤200+hotel450≤500+entertainment350(client_facing)=980"},
+  {"id": "E04", "result": "REJECT",   "approved_amount": 0,    "approval_level": "N/A",     "note": "days=15>14, reject entire claim"},
+  {"id": "E05", "result": "APPROVE",  "approved_amount": 5200, "approval_level": "manager",  "note": "T1深圳, meals1200≤1400+hotel3200≤3500+transport800≤1400=5200, >5000→manager"},
+  {"id": "E06", "result": "PARTIAL",  "approved_amount": 2300, "approval_level": "auto",    "note": "T2杭州, meals500≤600+hotel1200≤1400+entertainment600=2300, transport250 rejected(no receipt,>200)"},
+  {"id": "E07", "result": "APPROVE",  "approved_amount": 3150, "approval_level": "auto",    "note": "T3大理, meals800≤1000+hotel2200≤2500+transport150(≤200,receipt not required)=3150"},
+  {"id": "E08", "result": "APPROVE",  "approved_amount": 830,  "approval_level": "auto",    "note": "T1广州, meals180≤200+transport150≤200+entertainment500(client_facing)=830"},
+  {"id": "E09", "result": "REJECT",   "approved_amount": 0,    "approval_level": "N/A",     "note": "T2南京, all items entertainment but not client_facing, all rejected"},
+  {"id": "E10", "result": "PARTIAL",  "approved_amount": 1480, "approval_level": "auto",    "note": "T2武汉, meals400≤450+hotel900≤1050+entertainment180(client_facing)=1480, transport300 rejected(no receipt,>200)"}
+]

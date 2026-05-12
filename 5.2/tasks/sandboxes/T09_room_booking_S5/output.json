@@ -1,0 +1,52 @@
+[
+  {
+    "id": "B01",
+    "result": "APPROVED",
+    "reason": ""
+  },
+  {
+    "id": "B02",
+    "result": "REJECTED",
+    "reason": "capacity_exceeded"
+  },
+  {
+    "id": "B03",
+    "result": "REJECTED",
+    "reason": "equipment_missing"
+  },
+  {
+    "id": "B04",
+    "result": "REJECTED",
+    "reason": "time_invalid"
+  },
+  {
+    "id": "B05",
+    "result": "REJECTED",
+    "reason": "time_invalid"
+  },
+  {
+    "id": "B06",
+    "result": "REJECTED",
+    "reason": "time_invalid"
+  },
+  {
+    "id": "B07",
+    "result": "APPROVED",
+    "reason": ""
+  },
+  {
+    "id": "B08",
+    "result": "REJECTED",
+    "reason": "conflict"
+  },
+  {
+    "id": "B09",
+    "result": "REJECTED",
+    "reason": "conflict"
+  },
+  {
+    "id": "B10",
+    "result": "APPROVED",
+    "reason": ""
+  }
+]

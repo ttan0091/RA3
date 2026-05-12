@@ -1,0 +1,4 @@
+已完成，结果写入 `output.json`。
+
+验证结果：
+`python3 -m json.tool output.json` 通过，JSON 格式有效。`input.csv` 共 10 笔订单，`output.json` 共 10 条分类结果。

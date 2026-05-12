@@ -1,0 +1,11 @@
+id,order_amount,payment_method,customer_type,address_match,order_time,item_count,avg_item_price
+ORD-001,6000,credit_card,new,False,business_hours,3,2000
+ORD-002,12000,digital_wallet,regular,True,off_hours,1,12000
+ORD-003,9000,credit_card,regular,True,business_hours,2,4500
+ORD-004,12000,debit_card,vip,True,business_hours,5,2400
+ORD-005,4000,bank_transfer,regular,True,business_hours,25,160
+ORD-006,3500,bank_transfer,regular,True,off_hours,2,1750
+ORD-007,2500,credit_card,new,True,business_hours,5,500
+ORD-008,1500,debit_card,regular,True,business_hours,15,30
+ORD-009,800,digital_wallet,regular,True,business_hours,2,400
+ORD-010,5500,credit_card,new,False,off_hours,8,687.5

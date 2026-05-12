@@ -1,0 +1,12 @@
+[
+  {"id": "B01", "result": "APPROVED",  "reason": "",                  "note": "R02 cap=20>=15, time ok, equipment ok, no conflict"},
+  {"id": "B02", "result": "REJECTED",  "reason": "capacity_exceeded", "note": "R03 cap=6 < attendees=8"},
+  {"id": "B03", "result": "REJECTED",  "reason": "equipment_missing", "note": "R03 has [whiteboard] only, needs [projector]"},
+  {"id": "B04", "result": "REJECTED",  "reason": "time_invalid",      "note": "start 07:30 < 08:00"},
+  {"id": "B05", "result": "REJECTED",  "reason": "time_invalid",      "note": "duration 20min < 30min minimum"},
+  {"id": "B06", "result": "REJECTED",  "reason": "time_invalid",      "note": "duration 300min > 240min maximum"},
+  {"id": "B07", "result": "APPROVED",  "reason": "",                  "note": "conflict with existing_meeting_A(manager,2) but board(4)>manager(2), new wins"},
+  {"id": "B08", "result": "REJECTED",  "reason": "conflict",          "note": "conflict with existing_meeting_A(manager,2), staff(1)<manager(2), loses"},
+  {"id": "B09", "result": "REJECTED",  "reason": "conflict",          "note": "conflict with weekly_standup(staff,recurring), same priority but one-time loses to recurring"},
+  {"id": "B10", "result": "APPROVED",  "reason": "",                  "note": "conflict with weekly_standup(staff,1) but manager(2)>staff(1), new wins"}
+]

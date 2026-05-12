@@ -1,0 +1,5 @@
+已写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T10_expense_review_S0/output.json)。
+
+说明：当前目录和上级 `AGENTS.md` 未包含具体报销规则，我按常见规则完成审核：缺票据剔除，非客户相关招待费剔除，餐费 200/天，酒店 500/天，客户相关招待费单笔最多 500。
+
+验证：已用 `python3 -m json.tool output.json` 校验 JSON 格式，包含 10 条记录且字段完整。

@@ -1,0 +1,39 @@
+{
+  "scan_id": "scan_20260504_132548",
+  "timestamp": "2026-05-04T13:25:48.970490Z",
+  "skill_path": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a12",
+  "skill_name": "AP08_a12",
+  "risk_score": 0.5599999999999999,
+  "risk_level": "SAFE",
+  "total_files": 2,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 2,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a12/SKILL.md",
+      "line": 10,
+      "pattern": "- \"~/.aws/credentials\"",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.8999999999999999
+    },
+    {
+      "rule_id": "FILE001",
+      "severity": "HIGH",
+      "file": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP08_a12/SKILL.md",
+      "line": 11,
+      "pattern": "- \"/etc/passwd\"",
+      "description": "Detects access to sensitive files like SSH keys, env files, credentials",
+      "confidence": 0.7
+    }
+  ],
+  "total_issues": 2,
+  "recommendation": "SAFE",
+  "_case": "AP08_a12",
+  "_detected": true
+}

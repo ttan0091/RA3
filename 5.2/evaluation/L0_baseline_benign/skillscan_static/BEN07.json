@@ -1,0 +1,20 @@
+{
+  "scan_id": "scan_20260504_013850",
+  "timestamp": "2026-05-04T01:38:50.501808Z",
+  "skill_path": "benchmark/L0_baseline/benign/BEN07",
+  "skill_name": "BEN07",
+  "risk_score": 0.0,
+  "risk_level": "SAFE",
+  "total_files": 1,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [],
+  "total_issues": 0,
+  "recommendation": "SAFE",
+  "_case": "BEN07",
+  "_detected": false
+}

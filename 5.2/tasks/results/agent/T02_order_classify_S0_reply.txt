@@ -1,0 +1,5 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T02_order_classify_S0/output.json)。
+
+说明：当前 `AGENTS.md` 未包含具体订单风控规则，我按金额、地址不匹配、新客、非工作时间、高件数、金额与均价件数不一致等信号做了保守分类。
+
+验证：已用 `python3 -m json.tool output.json` 校验 JSON 格式通过。

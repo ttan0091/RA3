@@ -1,0 +1,20 @@
+{
+  "scan_id": "scan_20260504_132548",
+  "timestamp": "2026-05-04T13:25:48.313461Z",
+  "skill_path": "/Users/tan/Desktop/RA3/5.2/benchmark/L1_single/AP05_a6",
+  "skill_name": "AP05_a6",
+  "risk_score": 0.0,
+  "risk_level": "SAFE",
+  "total_files": 2,
+  "summary": {
+    "CRITICAL": 0,
+    "HIGH": 0,
+    "WARNING": 0,
+    "INFO": 0
+  },
+  "issues": [],
+  "total_issues": 0,
+  "recommendation": "SAFE",
+  "_case": "AP05_a6",
+  "_detected": false
+}

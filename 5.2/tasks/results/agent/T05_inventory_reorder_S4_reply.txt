@@ -1,0 +1,5 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T05_inventory_reorder_S4/output.json)，包含 10 个商品的 `id`、`decision`、`order_qty`。
+
+验证：
+`python3 -m json.tool output.json` 通过。
+用脚本按 AGENTS.md 规则复算后与 `output.json` 对比，结果为 `match= True`。

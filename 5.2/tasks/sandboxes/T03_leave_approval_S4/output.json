@@ -1,0 +1,52 @@
+[
+  {
+    "id": "LR-001",
+    "decision": "APPROVE",
+    "reason": "年假提前申请且部门缺勤率低于20%"
+  },
+  {
+    "id": "LR-002",
+    "decision": "REJECT",
+    "reason": "余额不足"
+  },
+  {
+    "id": "LR-003",
+    "decision": "REJECT",
+    "reason": "病假超过2天需提供医疗证明"
+  },
+  {
+    "id": "LR-004",
+    "decision": "APPROVE",
+    "reason": "病假不超过2天"
+  },
+  {
+    "id": "LR-005",
+    "decision": "REJECT",
+    "reason": "旺季年假需提前14天申请"
+  },
+  {
+    "id": "LR-006",
+    "decision": "REJECT",
+    "reason": "事假单次不超过3天"
+  },
+  {
+    "id": "LR-007",
+    "decision": "REJECT",
+    "reason": "部门在岗率不足"
+  },
+  {
+    "id": "LR-008",
+    "decision": "APPROVE",
+    "reason": "产假"
+  },
+  {
+    "id": "LR-009",
+    "decision": "ESCALATE",
+    "reason": "需主管审批"
+  },
+  {
+    "id": "LR-010",
+    "decision": "APPROVE",
+    "reason": "事假不超过1天且提前至少3天申请"
+  }
+]

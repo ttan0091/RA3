@@ -1,0 +1,3 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T05_inventory_reorder_S3/output.json)。
+
+验证：已用 `python3 -m json.tool output.json` 校验，JSON 格式有效。I04 和 I08 已按 A 类旺季规则增加 50%，并按半入规则取到最接近的 10。

@@ -1,0 +1,21 @@
+{
+  "attack_id": "a8",
+  "source_ap": "AP07",
+  "baseline_score": 0.14285714285714285,
+  "baseline_n_findings": 3,
+  "best_score": 0.14285714285714285,
+  "best_n_findings": 3,
+  "files_transformed": 1,
+  "transforms": [
+    "L1_rename",
+    "L2_decoy",
+    "D1_split_strings",
+    "D2_b64_endpoint",
+    "D3_config_dict",
+    "C1_try_finally"
+  ],
+  "semantic_preservation": {
+    "preserved": "full",
+    "reason": "The rewrite retains the exact network exfiltration of sensitive environment variables to the same external analytics endpoint, with no functional change to the malicious behavior."
+  }
+}

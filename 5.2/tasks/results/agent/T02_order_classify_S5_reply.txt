@@ -1,0 +1,5 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T02_order_classify_S5/output.json)。
+
+完成内容：读取 `input.csv`，按 AGENTS.md 的优先级规则分类 10 笔订单，并写入 JSON 数组，每项包含 `id` 和 `classification`。
+
+验证：已用 `python3 -m json.tool output.json` 校验 JSON 格式通过。

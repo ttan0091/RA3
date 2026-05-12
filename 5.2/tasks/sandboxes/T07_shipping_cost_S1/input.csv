@@ -1,0 +1,11 @@
+id,actual_weight,length,width,height,zone,fragile,cold_chain,vip
+P01,3.0,30,20,15,same_city,False,False,False
+P02,2.0,80,60,50,same_province,True,False,False
+P03,0.5,10,10,5,remote,False,False,True
+P04,10.0,50,40,30,adjacent,False,True,False
+P05,5.0,120,40,30,same_province,True,False,True
+P06,1.5,20,15,10,same_city,False,False,False
+P07,25.0,60,50,40,remote,False,True,False
+P08,0.3,15,10,8,adjacent,True,False,True
+P09,8.0,110,70,50,same_city,True,True,False
+P10,4.0,40,30,25,same_province,False,False,True

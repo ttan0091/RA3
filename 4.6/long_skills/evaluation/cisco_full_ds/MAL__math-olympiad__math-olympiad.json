@@ -1,0 +1,29 @@
+{
+  "case_id": "MAL__math-olympiad__math-olympiad",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "MEDIUM",
+  "findings_count": 3,
+  "static_findings_count": 3,
+  "llm_findings_count": 0,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/local_cache.py"
+    },
+    {
+      "rule_id": "DATA_EXFIL_NETWORK_REQUESTS",
+      "severity": "MEDIUM",
+      "title": "Outbound network request primitives that can transmit data externally",
+      "file_path": "_internal/local_cache.py"
+    }
+  ]
+}

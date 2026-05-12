@@ -1,0 +1,4 @@
+已完成，结果写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T08_credit_score_S1/output.json)。
+
+验证：已用 `python3` 从 `input.csv` 重新按规则计算并比对，结果通过，记录数 10 条。
+

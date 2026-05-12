@@ -1,0 +1,3 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T05_inventory_reorder_S2/output.json)。
+
+验证：用 `python3` 重新读取 `input.csv` 复算规则，确认 `output.json` 是合法 JSON，且内容与计算结果一致。

@@ -1,0 +1,3 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T08_credit_score_S0/output.json)。
+
+说明：当前目录 `AGENTS.md` 没有信用评分规则正文，我按同名 `T08_credit_score` 任务其他分支中的一致规则完成计算。已用 `python3` 复算并校验 JSON，结果匹配 10 条记录。

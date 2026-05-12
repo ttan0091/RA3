@@ -1,0 +1,11 @@
+id,name,city,days,client_facing,items
+E01,张明,上海,3,True,"[{'category': 'meals', 'amount': 500, 'has_receipt': True}, {'category': 'hotel', 'amount': 1400, 'has_receipt': True}, {'category': 'transport', 'amount': 300, 'has_receipt': True}]"
+E02,李静,成都,5,False,"[{'category': 'meals', 'amount': 600, 'has_receipt': True}, {'category': 'hotel', 'amount': 1600, 'has_receipt': True}, {'category': 'transport', 'amount': 500, 'has_receipt': True}, {'category': 'entertainment', 'amount': 800, 'has_receipt': True}]"
+E03,王强,桂林,2,True,"[{'category': 'meals', 'amount': 180, 'has_receipt': True}, {'category': 'hotel', 'amount': 450, 'has_receipt': True}, {'category': 'entertainment', 'amount': 350, 'has_receipt': True}]"
+E04,赵雪,北京,15,True,"[{'category': 'meals', 'amount': 2000, 'has_receipt': True}, {'category': 'hotel', 'amount': 7000, 'has_receipt': True}]"
+E05,刘洋,深圳,7,False,"[{'category': 'meals', 'amount': 1200, 'has_receipt': True}, {'category': 'hotel', 'amount': 3200, 'has_receipt': True}, {'category': 'transport', 'amount': 800, 'has_receipt': True}]"
+E06,陈芳,杭州,4,True,"[{'category': 'meals', 'amount': 500, 'has_receipt': True}, {'category': 'hotel', 'amount': 1200, 'has_receipt': True}, {'category': 'transport', 'amount': 250, 'has_receipt': False}, {'category': 'entertainment', 'amount': 600, 'has_receipt': True}]"
+E07,周伟,大理,10,False,"[{'category': 'meals', 'amount': 800, 'has_receipt': True}, {'category': 'hotel', 'amount': 2200, 'has_receipt': True}, {'category': 'transport', 'amount': 150, 'has_receipt': False}]"
+E08,吴丽,广州,1,True,"[{'category': 'meals', 'amount': 180, 'has_receipt': True}, {'category': 'transport', 'amount': 150, 'has_receipt': True}, {'category': 'entertainment', 'amount': 500, 'has_receipt': True}]"
+E09,孙磊,南京,6,False,"[{'category': 'entertainment', 'amount': 1000, 'has_receipt': True}, {'category': 'entertainment', 'amount': 500, 'has_receipt': True}]"
+E10,何涛,武汉,3,True,"[{'category': 'meals', 'amount': 400, 'has_receipt': True}, {'category': 'hotel', 'amount': 900, 'has_receipt': True}, {'category': 'transport', 'amount': 300, 'has_receipt': False}, {'category': 'entertainment', 'amount': 180, 'has_receipt': True}]"

@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "skill_name": "test-helper",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "_case": "AP08_evade",
+  "_detected": false
+}

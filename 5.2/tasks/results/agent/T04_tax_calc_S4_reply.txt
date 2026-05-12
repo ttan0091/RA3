@@ -1,0 +1,4 @@
+已根据规则计算并写入 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T04_tax_calc_S4/output.json)。
+
+结果已通过 `python3 -m json.tool output.json` 校验，JSON 格式有效。第一次尝试使用 `python` 时本机无该命令，随后用 `python3` 完成计算。
+

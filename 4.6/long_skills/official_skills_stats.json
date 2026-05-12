@@ -1,0 +1,262 @@
+[
+  {
+    "skill": "claude-code-setup__claude-automation-recommender",
+    "n_files": 6,
+    "skill_md_lines": 289,
+    "skill_md_chars": 10837,
+    "skill_md_tokens": 2468,
+    "total_lines": 1469,
+    "total_chars": 42022,
+    "total_tokens": 9603
+  },
+  {
+    "skill": "claude-md-management__claude-md-improver",
+    "n_files": 4,
+    "skill_md_lines": 180,
+    "skill_md_chars": 6028,
+    "skill_md_tokens": 1473,
+    "total_lines": 695,
+    "total_chars": 15529,
+    "total_tokens": 3731
+  },
+  {
+    "skill": "discord__access",
+    "n_files": 1,
+    "skill_md_lines": 138,
+    "skill_md_chars": 4341,
+    "skill_md_tokens": 1178,
+    "total_lines": 138,
+    "total_chars": 4341,
+    "total_tokens": 1178
+  },
+  {
+    "skill": "discord__configure",
+    "n_files": 1,
+    "skill_md_lines": 100,
+    "skill_md_chars": 4272,
+    "skill_md_tokens": 1096,
+    "total_lines": 100,
+    "total_chars": 4272,
+    "total_tokens": 1096
+  },
+  {
+    "skill": "example-plugin__example-command",
+    "n_files": 1,
+    "skill_md_lines": 40,
+    "skill_md_chars": 1224,
+    "skill_md_tokens": 280,
+    "total_lines": 40,
+    "total_chars": 1224,
+    "total_tokens": 280
+  },
+  {
+    "skill": "example-plugin__example-skill",
+    "n_files": 1,
+    "skill_md_lines": 85,
+    "skill_md_chars": 2655,
+    "skill_md_tokens": 551,
+    "total_lines": 85,
+    "total_chars": 2655,
+    "total_tokens": 551
+  },
+  {
+    "skill": "frontend-design__frontend-design",
+    "n_files": 1,
+    "skill_md_lines": 42,
+    "skill_md_chars": 4274,
+    "skill_md_tokens": 823,
+    "total_lines": 42,
+    "total_chars": 4274,
+    "total_tokens": 823
+  },
+  {
+    "skill": "hookify__writing-rules",
+    "n_files": 1,
+    "skill_md_lines": 375,
+    "skill_md_chars": 8413,
+    "skill_md_tokens": 2253,
+    "total_lines": 375,
+    "total_chars": 8413,
+    "total_tokens": 2253
+  },
+  {
+    "skill": "imessage__access",
+    "n_files": 1,
+    "skill_md_lines": 141,
+    "skill_md_chars": 4728,
+    "skill_md_tokens": 1261,
+    "total_lines": 141,
+    "total_chars": 4728,
+    "total_tokens": 1261
+  },
+  {
+    "skill": "imessage__configure",
+    "n_files": 1,
+    "skill_md_lines": 83,
+    "skill_md_chars": 3506,
+    "skill_md_tokens": 890,
+    "total_lines": 83,
+    "total_chars": 3506,
+    "total_tokens": 890
+  },
+  {
+    "skill": "math-olympiad__math-olympiad",
+    "n_files": 11,
+    "skill_md_lines": 412,
+    "skill_md_chars": 19808,
+    "skill_md_tokens": 4551,
+    "total_lines": 1465,
+    "total_chars": 63079,
+    "total_tokens": 15447
+  },
+  {
+    "skill": "mcp-server-dev__build-mcp-app",
+    "n_files": 4,
+    "skill_md_lines": 362,
+    "skill_md_chars": 16925,
+    "skill_md_tokens": 4216,
+    "total_lines": 923,
+    "total_chars": 36387,
+    "total_tokens": 9271
+  },
+  {
+    "skill": "mcp-server-dev__build-mcp-server",
+    "n_files": 9,
+    "skill_md_lines": 222,
+    "skill_md_chars": 11942,
+    "skill_md_tokens": 2810,
+    "total_lines": 1284,
+    "total_chars": 49554,
+    "total_tokens": 12085
+  },
+  {
+    "skill": "mcp-server-dev__build-mcpb",
+    "n_files": 3,
+    "skill_md_lines": 200,
+    "skill_md_chars": 7793,
+    "skill_md_tokens": 1914,
+    "total_lines": 507,
+    "total_chars": 18470,
+    "total_tokens": 4736
+  },
+  {
+    "skill": "playground__playground",
+    "n_files": 7,
+    "skill_md_lines": 77,
+    "skill_md_chars": 3796,
+    "skill_md_tokens": 830,
+    "total_lines": 798,
+    "total_chars": 29959,
+    "total_tokens": 6930
+  },
+  {
+    "skill": "plugin-dev__agent-development",
+    "n_files": 7,
+    "skill_md_lines": 416,
+    "skill_md_chars": 10374,
+    "skill_md_tokens": 2490,
+    "total_lines": 2413,
+    "total_chars": 69929,
+    "total_tokens": 16111
+  },
+  {
+    "skill": "plugin-dev__command-development",
+    "n_files": 11,
+    "skill_md_lines": 885,
+    "skill_md_chars": 19061,
+    "skill_md_tokens": 4334,
+    "total_lines": 7287,
+    "total_chars": 153710,
+    "total_tokens": 36505
+  },
+  {
+    "skill": "plugin-dev__hook-development",
+    "n_files": 11,
+    "skill_md_lines": 713,
+    "skill_md_chars": 16220,
+    "skill_md_tokens": 3997,
+    "total_lines": 2781,
+    "total_chars": 63636,
+    "total_tokens": 17251
+  },
+  {
+    "skill": "plugin-dev__mcp-integration",
+    "n_files": 7,
+    "skill_md_lines": 555,
+    "skill_md_chars": 12475,
+    "skill_md_tokens": 3041,
+    "total_lines": 2249,
+    "total_chars": 46529,
+    "total_tokens": 11677
+  },
+  {
+    "skill": "plugin-dev__plugin-settings",
+    "n_files": 8,
+    "skill_md_lines": 545,
+    "skill_md_chars": 12073,
+    "skill_md_tokens": 3107,
+    "total_lines": 1978,
+    "total_chars": 44223,
+    "total_tokens": 12509
+  },
+  {
+    "skill": "plugin-dev__plugin-structure",
+    "n_files": 7,
+    "skill_md_lines": 477,
+    "skill_md_chars": 13444,
+    "skill_md_tokens": 3173,
+    "total_lines": 3146,
+    "total_chars": 72398,
+    "total_tokens": 17714
+  },
+  {
+    "skill": "plugin-dev__skill-development",
+    "n_files": 2,
+    "skill_md_lines": 638,
+    "skill_md_chars": 22535,
+    "skill_md_tokens": 4998,
+    "total_lines": 848,
+    "total_chars": 34012,
+    "total_tokens": 7353
+  },
+  {
+    "skill": "session-report__session-report",
+    "n_files": 1,
+    "skill_md_lines": 43,
+    "skill_md_chars": 3136,
+    "skill_md_tokens": 796,
+    "total_lines": 43,
+    "total_chars": 3136,
+    "total_tokens": 796
+  },
+  {
+    "skill": "skill-creator__skill-creator",
+    "n_files": 16,
+    "skill_md_lines": 486,
+    "skill_md_chars": 32987,
+    "skill_md_tokens": 7322,
+    "total_lines": 4199,
+    "total_chars": 172528,
+    "total_tokens": 39381
+  },
+  {
+    "skill": "telegram__access",
+    "n_files": 1,
+    "skill_md_lines": 137,
+    "skill_md_chars": 4266,
+    "skill_md_tokens": 1148,
+    "total_lines": 137,
+    "total_chars": 4266,
+    "total_tokens": 1148
+  },
+  {
+    "skill": "telegram__configure",
+    "n_files": 1,
+    "skill_md_lines": 97,
+    "skill_md_chars": 3978,
+    "skill_md_tokens": 1038,
+    "total_lines": 97,
+    "total_chars": 3978,
+    "total_tokens": 1038
+  }
+]

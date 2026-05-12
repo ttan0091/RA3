@@ -1,0 +1,12 @@
+[
+  {"id": "T01", "tax": 0,     "note": "salary=8000, SI=640, ded=0, taxable=2360, in 0% bracket"},
+  {"id": "T02", "tax": 900,   "note": "salary=25000, SI=2000, ded=4000, taxable=14000, 5000×0%+9000×10%=900"},
+  {"id": "T03", "tax": 5675,  "note": "salary=50000, SI=2800, ded=5500, taxable=36700, 0+1000+3000+1675=5675"},
+  {"id": "T04", "tax": 0,     "note": "salary=6000, SI=480, ded=1000, taxable=-480, <=0 so tax=0"},
+  {"id": "T05", "tax": 21845, "note": "salary=100000, SI=2800(cap35000), ded=5500(children capped 3, mortgage capped 2000), taxable=86700, 0+1000+3000+5000+12845=21845"},
+  {"id": "T06", "tax": 0,     "note": "salary=4500, SI=360, ded=0, taxable=-860, <=0 so tax=0"},
+  {"id": "T07", "tax": 150,   "note": "salary=15000, SI=1200, ded=2300, taxable=6500, 5000×0%+1500×10%=150"},
+  {"id": "T08", "tax": 3040,  "note": "salary=35000, SI=2800, ded=2000(mortgage capped), taxable=25200, 0+1000+2040=3040"},
+  {"id": "T09", "tax": 0,     "note": "salary=5800, SI=464, ded=2000, taxable=-1664, <=0 so tax=0"},
+  {"id": "T10", "tax": 3840,  "note": "salary=40000, SI=2800(cap35000), ded=3000, taxable=29200, 0+1000+2840=3840"}
+]

@@ -1,0 +1,77 @@
+{
+  "audit_summary": {
+    "malicious_patterns_detected": false,
+    "shadow_features_detected": true,
+    "intent_alignment_status": "SUSPICIOUS",
+    "summary_text": "The SKILL.md declares excessive and highly sensitive permissions (filesystem read for ~/.ssh/*, ~/.aws/credentials, /etc/passwd; filesystem write for ~/.bashrc and ~/.zshrc; unrestricted network access; arbitrary command execution) despite claiming the skill performs only a trivial Markdown formatting function that requires none of these. This constitutes a significant security risk even if the current implementation is benign."
+  },
+  "vulnerabilities": [
+    {
+      "pattern_id": "PE1",
+      "title": "Excessive Permissions – Credential & Sensitive File Read Access",
+      "risk_level": "HIGH",
+      "file_location": "SKILL.md",
+      "technical_analysis": "The skill declares read access to ~/.ssh/*, ~/.aws/credentials, and /etc/passwd. These files contain SSH private keys, AWS credentials, and user account information. The actual skill logic (a simple text replace) does not require any file system access, let alone access to these high-value targets. This permission declaration allows an attacker or compromised skill to exfiltrate credentials.",
+      "code_evidence": "permissions:\n  filesystem:\n    read:\n      - \"~/.ssh/*\"\n      - \"~/.aws/credentials\"\n      - \"/etc/passwd\"",
+      "impact_assessment": "An agent running this skill could read SSH private keys and AWS credentials, leading to full compromise of cloud infrastructure and lateral movement. /etc/passwd enables user enumeration.",
+      "remediation": "Remove all filesystem read permissions. If the skill genuinely needs to read files, restrict to a dedicated, non-sensitive path."
+    },
+    {
+      "pattern_id": "PE3",
+      "title": "Credential Access – Direct Path to Credential Stores",
+      "risk_level": "HIGH",
+      "file_location": "SKILL.md",
+      "technical_analysis": "The skill explicitly lists paths that are well-known credential stores: ~/.aws/credentials for AWS API keys, ~/.ssh/* for SSH private keys. Reading these files enables credential theft.",
+      "code_evidence": "filesystem:\n    read:\n      - \"~/.ssh/*\"\n      - \"~/.aws/credentials\"",
+      "impact_assessment": "Full compromise of AWS account and SSH access to remote servers.",
+      "remediation": "Remove these paths. Never grant read access to credential directories."
+    },
+    {
+      "pattern_id": "PE1",
+      "title": "Excessive Permissions – Shell Configuration Write Access",
+      "risk_level": "HIGH",
+      "file_location": "SKILL.md",
+      "technical_analysis": "The skill declares write access to ~/.bashrc and ~/.zshrc. These files execute arbitrary commands on login. An attacker could inject persistence, backdoors, or credential theft hooks.",
+      "code_evidence": "filesystem:\n    write:\n      - \"~/.bashrc\"\n      - \"~/.zshrc\"",
+      "impact_assessment": "Persistence and command execution at user login. Can be used to exfiltrate credentials or establish a foothold.",
+      "remediation": "Remove these write permissions. The skill has no legitimate need to modify shell initialization files."
+    },
+    {
+      "pattern_id": "PE1",
+      "title": "Excessive Permissions – Unrestricted Command Execution",
+      "risk_level": "HIGH",
+      "file_location": "SKILL.md",
+      "technical_analysis": "The skill declares exec permissions for '*', meaning any shell command or binary can be executed. This allows arbitrary code execution on the host system.",
+      "code_evidence": "permissions:\n  exec:\n    - \"*\"",
+      "impact_assessment": "Complete host compromise. An attacker can run any command, install malware, modify files, or exfiltrate data.",
+      "remediation": "Remove exec permissions entirely. If execution is needed, whitelist specific commands with minimal arguments."
+    },
+    {
+      "pattern_id": "PE1",
+      "title": "Excessive Permissions – Unrestricted Network Access",
+      "risk_level": "HIGH",
+      "file_location": "SKILL.md",
+      "technical_analysis": "The skill declares network access to '*' (all hosts/ports). This allows data exfiltration or communication with attacker-controlled servers.",
+      "code_evidence": "permissions:\n  network:\n    - \"*\"",
+      "impact_assessment": "An attacker can exfiltrate collected data (e.g., credentials read via the excessive filesystem permissions) to any external endpoint.",
+      "remediation": "Remove network permissions. If the skill needs network, restrict to specific domains and ports."
+    }
+  ],
+  "_raw_model": "deepseek-v4-flash",
+  "_usage": {
+    "prompt_tokens": 1347,
+    "completion_tokens": 1707,
+    "total_tokens": 3054,
+    "prompt_tokens_details": {
+      "cached_tokens": 896
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 631
+    },
+    "prompt_cache_hit_tokens": 896,
+    "prompt_cache_miss_tokens": 451
+  },
+  "_case": "AP01_a12",
+  "_analyzer": "skillscan_deepseek",
+  "_detected": true
+}

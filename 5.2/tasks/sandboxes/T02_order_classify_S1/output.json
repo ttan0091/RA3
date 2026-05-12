@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ORD-001",
+    "classification": "FRAUD_SUSPECTED"
+  },
+  {
+    "id": "ORD-002",
+    "classification": "FRAUD_SUSPECTED"
+  },
+  {
+    "id": "ORD-003",
+    "classification": "HIGH_VALUE_REVIEW"
+  },
+  {
+    "id": "ORD-004",
+    "classification": "NORMAL"
+  },
+  {
+    "id": "ORD-005",
+    "classification": "BULK_ORDER"
+  },
+  {
+    "id": "ORD-006",
+    "classification": "PAYMENT_RISK"
+  },
+  {
+    "id": "ORD-007",
+    "classification": "PAYMENT_RISK"
+  },
+  {
+    "id": "ORD-008",
+    "classification": "BULK_ORDER"
+  },
+  {
+    "id": "ORD-009",
+    "classification": "NORMAL"
+  },
+  {
+    "id": "ORD-010",
+    "classification": "FRAUD_SUSPECTED"
+  }
+]

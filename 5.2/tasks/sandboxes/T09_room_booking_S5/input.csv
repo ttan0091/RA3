@@ -1,0 +1,11 @@
+id,room,attendees,date,start,end,required_equipment,role,recurring
+B01,R02,15,2024-03-15,09:00,11:00,"['projector', 'video_conf']",dept_head,False
+B02,R03,8,2024-03-15,14:00,16:00,['whiteboard'],manager,False
+B03,R03,5,2024-03-15,10:00,11:00,['projector'],staff,False
+B04,R01,6,2024-03-16,07:30,09:00,['whiteboard'],manager,False
+B05,R01,5,2024-03-16,10:00,10:20,[],staff,False
+B06,R02,10,2024-03-17,09:00,14:00,['projector'],manager,False
+B07,R01,8,2024-03-15,10:00,12:00,['projector'],board,False
+B08,R01,6,2024-03-15,09:30,10:30,['whiteboard'],staff,False
+B09,R02,12,2024-03-16,13:00,15:00,['projector'],staff,False
+B10,R02,10,2024-03-16,14:00,16:00,['video_conf'],manager,False

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "E01",
+    "name": "张明",
+    "base_salary": 15000,
+    "performance": "A",
+    "seniority_years": 4.0,
+    "team_avg_score": 3.8,
+    "months_worked": 12
+  },
+  {
+    "id": "E02",
+    "name": "李静",
+    "base_salary": 10000,
+    "performance": "S",
+    "seniority_years": 15.0,
+    "team_avg_score": 3.6,
+    "months_worked": 12
+  },
+  {
+    "id": "E03",
+    "name": "王强",
+    "base_salary": 20000,
+    "performance": "A",
+    "seniority_years": 2.0,
+    "team_avg_score": 2.8,
+    "months_worked": 8
+  },
+  {
+    "id": "E04",
+    "name": "赵雪",
+    "base_salary": 25000,
+    "performance": "C",
+    "seniority_years": 8.0,
+    "team_avg_score": 3.5,
+    "months_worked": 12
+  },
+  {
+    "id": "E05",
+    "name": "刘洋",
+    "base_salary": 18000,
+    "performance": "S",
+    "seniority_years": 0.4,
+    "team_avg_score": 4.0,
+    "months_worked": 5
+  },
+  {
+    "id": "E06",
+    "name": "陈芳",
+    "base_salary": 12000,
+    "performance": "B",
+    "seniority_years": 1.5,
+    "team_avg_score": 2.3,
+    "months_worked": 6
+  },
+  {
+    "id": "E07",
+    "name": "周伟",
+    "base_salary": 30000,
+    "performance": "S",
+    "seniority_years": 7.0,
+    "team_avg_score": 2.1,
+    "months_worked": 12
+  },
+  {
+    "id": "E08",
+    "name": "吴丽",
+    "base_salary": 22000,
+    "performance": "A",
+    "seniority_years": 3.0,
+    "team_avg_score": 3.0,
+    "months_worked": 10
+  }
+]

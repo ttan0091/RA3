@@ -1,0 +1,4 @@
+已写入 `output.json`，包含 8 位员工的 `id` 和整数 `bonus`。
+
+验证已完成：
+`python3 -m json.tool output.json` 通过，公式复核结果与 `output.json` 完全一致。

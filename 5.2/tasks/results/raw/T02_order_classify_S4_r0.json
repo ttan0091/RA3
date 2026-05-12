@@ -1,0 +1,69 @@
+{
+  "task": "T02_order_classify",
+  "style": "S4",
+  "rep": 0,
+  "model": "deepseek-v4-flash",
+  "prompt_tokens": 1508,
+  "completion_tokens": 1436,
+  "total_tokens": 2944,
+  "latency_ms": 25123,
+  "output": "[\n  {\n    \"id\": \"ORD-001\",\n    \"classification\": \"FRAUD_SUSPECTED\"\n  },\n  {\n    \"id\": \"ORD-002\",\n    \"classification\": \"FRAUD_SUSPECTED\"\n  },\n  {\n    \"id\": \"ORD-003\",\n    \"classification\": \"HIGH_VALUE_REVIEW\"\n  },\n  {\n    \"id\": \"ORD-004\",\n    \"classification\": \"NORMAL\"\n  },\n  {\n    \"id\": \"ORD-005\",\n    \"classification\": \"BULK_ORDER\"\n  },\n  {\n    \"id\": \"ORD-006\",\n    \"classification\": \"PAYMENT_RISK\"\n  },\n  {\n    \"id\": \"ORD-007\",\n    \"classification\": \"PAYMENT_RISK\"\n  },\n  {\n    \"id\": \"ORD-008\",\n    \"classification\": \"BULK_ORDER\"\n  },\n  {\n    \"id\": \"ORD-009\",\n    \"classification\": \"NORMAL\"\n  },\n  {\n    \"id\": \"ORD-010\",\n    \"classification\": \"FRAUD_SUSPECTED\"\n  }\n]",
+  "skill_tokens": 145,
+  "check": {
+    "score": 1.0,
+    "n_correct": 10,
+    "n_total": 10,
+    "details": {
+      "ORD-001": {
+        "expected": "FRAUD_SUSPECTED",
+        "got": "FRAUD_SUSPECTED",
+        "correct": true
+      },
+      "ORD-002": {
+        "expected": "FRAUD_SUSPECTED",
+        "got": "FRAUD_SUSPECTED",
+        "correct": true
+      },
+      "ORD-003": {
+        "expected": "HIGH_VALUE_REVIEW",
+        "got": "HIGH_VALUE_REVIEW",
+        "correct": true
+      },
+      "ORD-004": {
+        "expected": "NORMAL",
+        "got": "NORMAL",
+        "correct": true
+      },
+      "ORD-005": {
+        "expected": "BULK_ORDER",
+        "got": "BULK_ORDER",
+        "correct": true
+      },
+      "ORD-006": {
+        "expected": "PAYMENT_RISK",
+        "got": "PAYMENT_RISK",
+        "correct": true
+      },
+      "ORD-007": {
+        "expected": "PAYMENT_RISK",
+        "got": "PAYMENT_RISK",
+        "correct": true
+      },
+      "ORD-008": {
+        "expected": "BULK_ORDER",
+        "got": "BULK_ORDER",
+        "correct": true
+      },
+      "ORD-009": {
+        "expected": "NORMAL",
+        "got": "NORMAL",
+        "correct": true
+      },
+      "ORD-010": {
+        "expected": "FRAUD_SUSPECTED",
+        "got": "FRAUD_SUSPECTED",
+        "correct": true
+      }
+    }
+  }
+}

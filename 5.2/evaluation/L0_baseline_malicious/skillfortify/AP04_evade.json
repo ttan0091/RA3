@@ -1,0 +1,19 @@
+{
+  "skills": [
+    {
+      "skill_name": "workspace-init",
+      "is_safe": true,
+      "findings_count": 0,
+      "max_severity": null,
+      "inferred_capabilities": [
+        {
+          "resource": "shell",
+          "access": "WRITE"
+        }
+      ],
+      "findings": []
+    }
+  ],
+  "_case": "AP04_evade",
+  "_detected": false
+}

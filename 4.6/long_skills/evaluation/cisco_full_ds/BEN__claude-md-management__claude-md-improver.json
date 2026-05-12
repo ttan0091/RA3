@@ -1,0 +1,62 @@
+{
+  "case_id": "BEN__claude-md-management__claude-md-improver",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "LOW",
+  "findings_count": 6,
+  "static_findings_count": 1,
+  "llm_findings_count": 5,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-4.3",
+      "title": "Over-broad capability claims in description",
+      "description": "The skill description claims it can 'audit, evaluate, and improve CLAUDE.md files across a codebase' and is triggered by keywords like 'CLAUDE.md maintenance' or 'project memory optimization'. This keyword baiting could lead to unwanted activation in contexts where the user didn't intend to invoke this skill.",
+      "location": "SKILL.md:3-4",
+      "evidence": "description: 'Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, update, improve, or fix CLAUDE.md files... Also use when the user mentions \"CLAUDE.md maintenance\" or \"project memory optimization\".'",
+      "remediation": "Narrow the description to only trigger on explicit requests, not broad keyword matches. Remove 'Also use when the user mentions...' phrasing."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing allowed-tools field in manifest",
+      "description": "The SKILL.md manifest uses 'tools' instead of the standard 'allowed-tools' field. The 'allowed-tools' field is optional per spec, but using a non-standard field name could indicate misconfiguration or lack of awareness of the security model.",
+      "location": "SKILL.md:8",
+      "evidence": "tools: Read, Glob, Grep, Bash, Edit (non-standard field name; should be 'allowed-tools')",
+      "remediation": "Use the standard 'allowed-tools' field name if tool restrictions are intended."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Edit tool declared but not in standard allowed-tools list",
+      "description": "The manifest declares 'Edit' as a tool, but the standard allowed-tools list is [Read, Write, Grep, Glob, Bash, Python]. 'Edit' is not a standard tool name. This may be a typo for 'Write' or a non-standard tool reference.",
+      "location": "SKILL.md:8",
+      "evidence": "tools: Read, Glob, Grep, Bash, Edit (Edit is not a standard tool name)",
+      "remediation": "Use 'Write' instead of 'Edit' if file writing is intended, or clarify what 'Edit' refers to."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-13.1",
+      "title": "Potential for excessive file discovery without limits",
+      "description": "The discovery phase uses 'find . -name \"CLAUDE.md\" ... | head -50' which could traverse large directory trees. While head -50 limits output, the find command itself could be resource-intensive on very large repositories.",
+      "location": "SKILL.md:28",
+      "evidence": "find . -name \"CLAUDE.md\" -o -name \".claude.md\" -o -name \".claude.local.md\" 2>/dev/null | head -50",
+      "remediation": "Consider adding a depth limit (-maxdepth) to the find command to prevent deep traversal."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-15.1",
+      "title": "Potential for misleading quality assessments",
+      "description": "The skill evaluates CLAUDE.md files against subjective quality criteria (e.g., 'conciseness', 'actionability') and assigns letter grades. If the assessment is inaccurate or misleading, it could cause the user to make unnecessary changes to their CLAUDE.md files.",
+      "location": "SKILL.md:42-56",
+      "evidence": "Quality scoring rubric with subjective criteria like 'Conciseness (15 points)' and 'Actionability (15 points)'",
+      "remediation": "Ensure the assessment is based on objective, verifiable criteria and clearly communicate that scores are estimates."
+    }
+  ]
+}

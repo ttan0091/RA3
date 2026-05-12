@@ -1,0 +1,112 @@
+[
+  {
+    "id": "P01",
+    "actual_weight": 3.0,
+    "length": 30,
+    "width": 20,
+    "height": 15,
+    "zone": "same_city",
+    "fragile": false,
+    "cold_chain": false,
+    "vip": false
+  },
+  {
+    "id": "P02",
+    "actual_weight": 2.0,
+    "length": 80,
+    "width": 60,
+    "height": 50,
+    "zone": "same_province",
+    "fragile": true,
+    "cold_chain": false,
+    "vip": false
+  },
+  {
+    "id": "P03",
+    "actual_weight": 0.5,
+    "length": 10,
+    "width": 10,
+    "height": 5,
+    "zone": "remote",
+    "fragile": false,
+    "cold_chain": false,
+    "vip": true
+  },
+  {
+    "id": "P04",
+    "actual_weight": 10.0,
+    "length": 50,
+    "width": 40,
+    "height": 30,
+    "zone": "adjacent",
+    "fragile": false,
+    "cold_chain": true,
+    "vip": false
+  },
+  {
+    "id": "P05",
+    "actual_weight": 5.0,
+    "length": 120,
+    "width": 40,
+    "height": 30,
+    "zone": "same_province",
+    "fragile": true,
+    "cold_chain": false,
+    "vip": true
+  },
+  {
+    "id": "P06",
+    "actual_weight": 1.5,
+    "length": 20,
+    "width": 15,
+    "height": 10,
+    "zone": "same_city",
+    "fragile": false,
+    "cold_chain": false,
+    "vip": false
+  },
+  {
+    "id": "P07",
+    "actual_weight": 25.0,
+    "length": 60,
+    "width": 50,
+    "height": 40,
+    "zone": "remote",
+    "fragile": false,
+    "cold_chain": true,
+    "vip": false
+  },
+  {
+    "id": "P08",
+    "actual_weight": 0.3,
+    "length": 15,
+    "width": 10,
+    "height": 8,
+    "zone": "adjacent",
+    "fragile": true,
+    "cold_chain": false,
+    "vip": true
+  },
+  {
+    "id": "P09",
+    "actual_weight": 8.0,
+    "length": 110,
+    "width": 70,
+    "height": 50,
+    "zone": "same_city",
+    "fragile": true,
+    "cold_chain": true,
+    "vip": false
+  },
+  {
+    "id": "P10",
+    "actual_weight": 4.0,
+    "length": 40,
+    "width": 30,
+    "height": 25,
+    "zone": "same_province",
+    "fragile": false,
+    "cold_chain": false,
+    "vip": true
+  }
+]

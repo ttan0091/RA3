@@ -1,0 +1,34 @@
+{
+  "case_id": "BEN__plugin-dev__command-development",
+  "is_safe": true,
+  "_detected": false,
+  "max_severity": "LOW",
+  "findings_count": 3,
+  "static_findings_count": 1,
+  "llm_findings_count": 2,
+  "findings": [
+    {
+      "rule_id": "MANIFEST_MISSING_LICENSE",
+      "severity": "INFO",
+      "title": "Skill does not specify a license",
+      "file_path": "SKILL.md"
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-4.3",
+      "title": "Over-broad activation keywords in SKILL.md description",
+      "description": "The SKILL.md description contains an extensive list of activation keywords that could cause the skill to trigger on a wide range of unrelated queries. The description lists 20+ specific phrases and patterns, which may lead to unwanted activation.",
+      "location": "SKILL.md:2-3",
+      "evidence": "description: This skill should be used when the user asks to \"create a slash command\", \"add a command\", \"write a custom command\", \"define command arguments\", \"use command frontmatter\", \"organize commands\", \"create command with file references\", \"interactive command\", \"use AskUserQuestion in command\", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code.",
+      "remediation": "Reduce the description to a concise statement of the skill's core purpose. Avoid listing every possible trigger phrase. Use a brief, focused description that accurately reflects the skill's scope."
+    },
+    {
+      "severity": "LOW",
+      "aitech": "AITech-12.1",
+      "title": "Missing allowed-tools in SKILL.md manifest",
+      "location": "SKILL.md:1-5",
+      "evidence": "The SKILL.md YAML frontmatter does not include an 'allowed-tools' field.",
+      "remediation": "Consider adding an 'allowed-tools' field to the manifest to explicitly declare which tools the skill requires, following the principle of least privilege."
+    }
+  ]
+}

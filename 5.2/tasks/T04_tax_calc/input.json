@@ -1,0 +1,82 @@
+[
+  {
+    "id": "T01",
+    "name": "张明",
+    "salary": 8000,
+    "children": 0,
+    "mortgage": 0,
+    "education": false
+  },
+  {
+    "id": "T02",
+    "name": "李静",
+    "salary": 25000,
+    "children": 2,
+    "mortgage": 1500,
+    "education": true
+  },
+  {
+    "id": "T03",
+    "name": "王强",
+    "salary": 50000,
+    "children": 3,
+    "mortgage": 2000,
+    "education": true
+  },
+  {
+    "id": "T04",
+    "name": "赵雪",
+    "salary": 6000,
+    "children": 1,
+    "mortgage": 0,
+    "education": false
+  },
+  {
+    "id": "T05",
+    "name": "刘洋",
+    "salary": 100000,
+    "children": 4,
+    "mortgage": 3000,
+    "education": true
+  },
+  {
+    "id": "T06",
+    "name": "陈芳",
+    "salary": 4500,
+    "children": 0,
+    "mortgage": 0,
+    "education": false
+  },
+  {
+    "id": "T07",
+    "name": "周伟",
+    "salary": 15000,
+    "children": 1,
+    "mortgage": 800,
+    "education": true
+  },
+  {
+    "id": "T08",
+    "name": "吴丽",
+    "salary": 35000,
+    "children": 0,
+    "mortgage": 2500,
+    "education": false
+  },
+  {
+    "id": "T09",
+    "name": "孙磊",
+    "salary": 5800,
+    "children": 2,
+    "mortgage": 0,
+    "education": false
+  },
+  {
+    "id": "T10",
+    "name": "何涛",
+    "salary": 40000,
+    "children": 1,
+    "mortgage": 2000,
+    "education": false
+  }
+]

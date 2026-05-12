@@ -1,0 +1,3 @@
+已生成 [output.json](/Users/tan/Desktop/RA3/5.2/tasks/sandboxes/T05_inventory_reorder_S6/output.json)。
+
+处理结果包含 `id`、`decision`、`order_qty` 三个字段。已用 `python3 -m json.tool output.json` 校验 JSON 格式有效。

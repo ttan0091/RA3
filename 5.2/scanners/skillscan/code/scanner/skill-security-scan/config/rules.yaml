@@ -1,0 +1,148 @@
+network:
+  - id: NET001
+    name: External Network Request
+    severity: HIGH
+    description: Detects external network requests that may exfiltrate data
+    patterns:
+      - "curl\\s+.*https?://"
+      - "wget\\s+.*https?://"
+      - "requests\\.get\\s*\\("
+      - "requests\\.post\\s*\\("
+      - "urllib\\.request"
+      - "http\\.client"
+    allowed_domains:
+      - github.com
+      - pypi.org
+      - npmjs.com
+      - raw.githubusercontent.com
+
+  - id: NET002
+    name: Data Exfiltration
+    severity: CRITICAL
+    description: Detects data exfiltration patterns (curl/wget with POST data containing sensitive files)
+    patterns:
+      - "curl.*-d.*@.*\\.ssh"
+      - "curl.*-d.*\\.env"
+      - "wget.*--post-data"
+      - "curl.*--data.*credential"
+
+fileops:
+  - id: FILE001
+    name: Sensitive File Access
+    severity: HIGH
+    description: Detects access to sensitive files like SSH keys, env files, credentials
+    patterns:
+      - "\\.ssh/id_rsa"
+      - "\\.ssh/id_ed25519"
+      - "\\.aws/credentials"
+      - "\\.env"
+      - "id_rsa"
+      - "private_key"
+      - "/etc/passwd"
+      - "/etc/shadow"
+
+  - id: FILE002
+    name: Dangerous File Modification
+    severity: HIGH
+    description: Detects dangerous file modification operations
+    patterns:
+      - "rm\\s+-rf\\s+/"
+      - "chmod\\s+777"
+      - "chmod\\s+a\\+rwx"
+      - ">\\s*/etc/"
+      - ">\\s*/usr/"
+
+commands:
+  - id: CMD001
+    name: Dangerous Command Execution
+    severity: HIGH
+    description: Detects dangerous command execution patterns
+    patterns:
+      - "\\bsudo\\b"
+      - "rm\\s+-rf\\s+/"
+      - ">\\s*/dev/(tcp|udp)"
+      - "\\bdd\\s+.*of=/"
+
+  - id: CMD002
+    name: System Command Execution
+    severity: WARNING
+    description: Detects system command execution patterns
+    patterns:
+      - "os\\.system\\s*\\("
+      - "subprocess\\.call\\s*\\("
+      - "subprocess\\.run\\s*\\("
+      - "subprocess\\.Popen\\s*\\("
+      - "shell=True"
+
+injection:
+  - id: INJ001
+    name: Code Injection
+    severity: HIGH
+    description: Detects code injection patterns like eval/exec
+    patterns:
+      - "\\beval\\s*\\("
+      - "\\bexec\\s*\\("
+      - "__import__\\s*\\("
+      - "\\bcompile\\s*\\("
+
+  - id: INJ002
+    name: Prompt Injection
+    severity: HIGH
+    description: Detects prompt injection patterns in skill descriptions
+    patterns:
+      - "ignore previous instructions"
+      - "ignore all previous"
+      - "disregard.*instructions"
+      - "override.*instructions"
+      - "you are now"
+      - "act as"
+      - "jailbreak"
+      - "DAN mode"
+
+  - id: INJ003
+    name: Backdoor Detection
+    severity: CRITICAL
+    description: Detects backdoor installation patterns
+    patterns:
+      - "bash\\s+-i\\s+>&\\s*/dev/tcp/"
+      - "nc\\s+-.*-e\\s+/"
+      - "netcat.*-e\\s+/"
+
+obfuscation:
+  - id: OBF001
+    name: Base64 Obfuscation
+    severity: WARNING
+    description: Detects base64 encoded payload execution
+    patterns:
+      - "base64\\s*-d\\s*\\|"
+      - "base64\\s+--decode.*\\|"
+      - "echo.*base64.*\\|.*bash"
+      - "base64\\.b64decode"
+
+  - id: OBF002
+    name: Dynamic Code Execution
+    severity: WARNING
+    description: Detects dynamic code evaluation via encoding/obfuscation
+    patterns:
+      - "exec\\(base64"
+      - "eval\\(base64"
+      - "__import__.*base64"
+
+dependencies:
+  - id: DEP001
+    name: Global Package Installation
+    severity: WARNING
+    description: Detects global package installation which may affect system Python
+    patterns:
+      - "pip\\s+install.*--global"
+      - "npm\\s+install.*-g"
+      - "yarn\\s+global"
+
+  - id: DEP002
+    name: Force Package Reinstall
+    severity: WARNING
+    description: Detects forced package reinstallation which may override safe versions
+    patterns:
+      - "pip\\s+install.*--force-reinstall"
+      - "pip\\s+install.*--upgrade"
+      - "install.*==.*force"

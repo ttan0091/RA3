@@ -1,0 +1,62 @@
+[
+  {
+    "id": "E01",
+    "result": "APPROVE",
+    "approved_amount": 2200,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E02",
+    "result": "PARTIAL",
+    "approved_amount": 2700,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E03",
+    "result": "APPROVE",
+    "approved_amount": 980,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E04",
+    "result": "REJECT",
+    "approved_amount": 0,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E05",
+    "result": "APPROVE",
+    "approved_amount": 5200,
+    "approval_level": "manager"
+  },
+  {
+    "id": "E06",
+    "result": "PARTIAL",
+    "approved_amount": 2300,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E07",
+    "result": "APPROVE",
+    "approved_amount": 3150,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E08",
+    "result": "APPROVE",
+    "approved_amount": 830,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E09",
+    "result": "REJECT",
+    "approved_amount": 0,
+    "approval_level": "auto"
+  },
+  {
+    "id": "E10",
+    "result": "PARTIAL",
+    "approved_amount": 1480,
+    "approval_level": "auto"
+  }
+]

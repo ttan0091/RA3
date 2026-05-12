@@ -1,0 +1,52 @@
+[
+  {
+    "id": "LR-001",
+    "decision": "APPROVE",
+    "reason": "年假提前通知达到7天且部门缺勤率低于20%，自动批准"
+  },
+  {
+    "id": "LR-002",
+    "decision": "REJECT",
+    "reason": "余额不足"
+  },
+  {
+    "id": "LR-003",
+    "decision": "REJECT",
+    "reason": "病假超过2天且未提供医疗证明"
+  },
+  {
+    "id": "LR-004",
+    "decision": "APPROVE",
+    "reason": "短期病假2天及以内，自动批准"
+  },
+  {
+    "id": "LR-005",
+    "decision": "REJECT",
+    "reason": "旺季年假必须提前至少14天提交"
+  },
+  {
+    "id": "LR-006",
+    "decision": "REJECT",
+    "reason": "事假单次超过3天"
+  },
+  {
+    "id": "LR-007",
+    "decision": "REJECT",
+    "reason": "部门当前缺勤率达到或超过30%，且该假期类型不属于病假或产假"
+  },
+  {
+    "id": "LR-008",
+    "decision": "APPROVE",
+    "reason": "产假无条件批准"
+  },
+  {
+    "id": "LR-009",
+    "decision": "ESCALATE",
+    "reason": "未触发拒绝规则，且不符合自动批准条件，需主管审批"
+  },
+  {
+    "id": "LR-010",
+    "decision": "APPROVE",
+    "reason": "短期事假1天及以内且提前3天通知，自动批准"
+  }
+]

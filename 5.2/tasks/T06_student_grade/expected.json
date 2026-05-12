@@ -1,0 +1,12 @@
+[
+  {"id": "S01", "grade": "A", "honor": true,  "warning": false, "note": "weighted=91.65, att>=80 no penalty, A, all>=85→honor"},
+  {"id": "S02", "grade": "B", "honor": false, "warning": false, "note": "weighted=82.8, att>=80 no penalty, B, not A→no honor"},
+  {"id": "S03", "grade": "F", "honor": false, "warning": false, "note": "att=55%<60%→automatic F, but all scores>=50→no warning"},
+  {"id": "S04", "grade": "C", "honor": false, "warning": false, "note": "weighted=88.7, att=75%<80%→×0.9=79.83, grade C"},
+  {"id": "S05", "grade": "F", "honor": false, "warning": true,  "note": "weighted=49.8, att>=80 no penalty, F, homework=45<50→warning"},
+  {"id": "S06", "grade": "A", "honor": true,  "warning": false, "note": "weighted=91.3, att>=80 no penalty, A, all>=85→honor"},
+  {"id": "S07", "grade": "F", "honor": false, "warning": false, "note": "weighted=56.25, att=70%<80%→×0.9=50.625, F, no score<50(50 is not <50)→no warning"},
+  {"id": "S08", "grade": "C", "honor": false, "warning": false, "note": "weighted=78.35, att>=80 no penalty, C"},
+  {"id": "S09", "grade": "B", "honor": false, "warning": false, "note": "weighted=86.85, att>=80 no penalty, B, project=84<85→no honor even if A"},
+  {"id": "S10", "grade": "F", "honor": false, "warning": true,  "note": "att=45%<60%→automatic F, all scores<50→warning"}
+]
